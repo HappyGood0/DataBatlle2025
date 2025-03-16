@@ -1,7 +1,7 @@
 # DataBatlle2025
 
 On doit créer une IA génératrice capable de créer un QCM et des questions ouvertes sur des textes liés aux droits des breuvet (texte sur le [drive](https://drive.google.com/drive/folders/18caF5q7qvD-QneV2odItUuTmoXOVOauv?usp=sharing)).<br>
-Le format demandé pour le questionnaire est le suivant :
+Les fonctionnalités attentendus les plus basiques sont :
 - Génération du questionaire 
 - Envoies des réponses de l'utillisateur
 - correction de l'IA avec référence précise au texte de loi
