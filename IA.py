@@ -1,39 +1,63 @@
 import os
 import asyncio
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
-from llama_index.llms.openai import OpenAI
-from llama_index.embeddings.openai import OpenAIEmbedding
+import PyPDF2
+from llama_index.core import VectorStoreIndex, Settings
+from llama_index.llms.huggingface import HuggingFaceInferenceAPI
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.core import Document
 
-# Récupération de la clé API OpenAI depuis les variables d'environnement
-openai_api_key = os.getenv("OPENAI_API_KEY")
-if not openai_api_key:
-    raise ValueError("La clé API OpenAI n'est pas définie dans l'environnement.")
+# === Configuration des tokens API ===
+hf_token = os.getenv("HF_TOKEN")# CA NE SERT A RIEN
 
-# Configuration des paramètres globaux avec OpenAI
-Settings.embed_model = OpenAIEmbedding(api_key=openai_api_key)
-Settings.llm = OpenAI(api_key=openai_api_key, model="text-davinci-003", request_timeout=360.0)
+# === Configuration des modèles via Hugging Face ===
+Settings.embed_model = HuggingFaceEmbedding(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
 
-# Chargement des documents depuis le répertoire "documents"
-documents = SimpleDirectoryReader("documents").load_data()
+# Utilisation de Mistral AI pour la génération via Hugging Face Inference API
+Settings.llm = HuggingFaceInferenceAPI(
+    model_name="mistralai/Mistral-7B-Instruct-v0.1",
+    api_key=hf_token,  # Correction : remplacer 'token' par 'api_key'
+    request_timeout=360.0
+)
+
+# === Lecture du fichier PDF contenant le texte de loi ===
+pdf_path = "data/case_law_of_the_boards_of_appeal_2022_en.pdf"
+law_text = ""
+
+with open(pdf_path, "rb") as f:
+    reader = PyPDF2.PdfReader(f)
+    for page in reader.pages:
+        law_text += page.extract_text() or ""
+
+print("Extracted text:", law_text[:500])  # Affiche les 500 premiers caractères du texte extrait
+
+
+# === Création du prompt pour générer le quiz ===
+prompt = f"""You are an expert legal quiz generator.
+Based on the following law text, generate a quiz consisting of 5 multiple-choice questions.
+For each question, provide:
+- The question text.
+- Four answer options labeled A, B, C, D.
+- The correct answer (one of A, B, C, or D).
+- A brief explanation for the correct answer.
+"""
+
+# Création d'un document à partir du texte complet
+doc = Document(text=law_text)
+documents = [doc]
 
 # Création de l'index et du moteur de requêtes
 index = VectorStoreIndex.from_documents(documents)
 query_engine = index.as_query_engine()
 
-async def generate_questions() -> str:
-    """
-    Génère 5 questions logiques à partir du texte de loi.
-    """
-    prompt = (
-        "Based on the provided law text, generate 5 logical and thought-provoking questions "
-        "that a legal expert might ask."
-    )
+async def generate_quiz() -> str:
     response = await query_engine.aquery(prompt)
     return str(response)
 
 async def main():
-    questions = await generate_questions()
-    print("Generated Questions:")
-    print(questions)
+    quiz = await generate_quiz()
+    print("Generated Quiz:")
+    print(quiz)
 
 asyncio.run(main())
