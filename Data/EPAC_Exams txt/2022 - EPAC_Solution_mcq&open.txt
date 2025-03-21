@@ -1,0 +1,432 @@
+ 
+ 
+1
+Part 1 
+ 
+Question 1: C 
+The question was which of the following statements is not correct. Statements A, B, D are 
+correct. 
+Statement C is not correct because further processing can be requested later than 
+19 June 2023, namely within two months of a loss-of-right communication. 
+ 
+Legal basis 
+ 
+Rule 126(2) EPC 
+Where notification is effected by registered letter, the letter shall be deemed to be delivered to the 
+addressee on the tenth day following its handover to the postal service provider unless it has failed to 
+reach the addressee or has reached him at a later date. 
+    
+Rule 135(1) EPC 
+Further processing under Article 121, paragraph 1, shall be requested by payment of the prescribed fee 
+within two months of the communication concerning either the failure to observe a time limit or a loss of 
+rights. The omitted act shall be completed within the period for making the request. 
+  
+Rule 132(2) EPC 
+In special cases, the period may be extended upon request, presented before the expiry of such period. 
+  
+____________________________________________________________  
+Question 2: A 
+  
+Legal basis 
+  
+Rule 30(3) EPC 
+Where the applicant has not filed a sequence listing complying with the requirements under paragraph 1 at 
+the date of filing, the European Patent Office shall invite the applicant to furnish such a sequence listing 
+and pay the late furnishing fee. If the applicant does not furnish the required sequence listing and pay the 
+required late furnishing fee within a period of two months after such an invitation, the application shall be 
+refused. 
+  
+Decision of the President of the EPO dated 9 December 2021 on the filing of sequence listings, Article 1(1) 
+If nucleotide or amino acid sequences are disclosed in a European patent application, the description must 
+contain a sequence listing in XML format complying with WIPO Standard ST.26. 
+  
+_______________________________________________________________________________________  
+  
+Question 3: A 
+  
+Legal basis 
+  
+Board of Appeal decision G12/91 
+Guidelines for Examination in the EPO, H-VI, 2.1: 
+The decision-making process is terminated on the date of handing over of the decision to grant to the EPO's 
+postal service. 
+ 
+ 
+2
+  
+____________________________________________________________  
+  
+Question 4: C 
+  
+Legal basis 
+  
+States party to the PCT and the Paris Convention and members of the World Trade Organization 
+(wipo.int):  
+Argentina is not a PCT contracting state 
+  
+Article 58 EPC 
+A European patent application may be filed by any natural or legal person, or anybody equivalent to a legal 
+person by virtue of the law governing it.  
+  
+_______________________________________________________________________________________  
+  
+Question 5: A 
+  
+Legal basis 
+  
+Rule 51(1) EPC 
+A renewal fee for the coming year is due on the last day of the month containing the anniversary of the 
+date of filing, i.e. on 31 August 2022. 
+  
+Rule 51(2) EPC 
+If a renewal fee is not paid on the due date under paragraph 1, the fee may still be paid within six months 
+of the said date, i.e. on 28 February 2023, provided that an additional fee is also paid within that period. 
+ 
+Rule 51(3) EPC 
+Renewal fees already due for an earlier application at the date of filing a divisional application are due on 
+its filing, i.e. on 26 September 2022. These fees and any renewal fee due within four months of filing the 
+divisional application may be paid within that period without an additional fee, i.e. until 26 January 2023. 
+  
+_______________________________________________________________________________________  
+  
+Question 6: D 
+The invitation was received ten days after the mailing date, i.e. three days later than the seven days 
+stipulated in Rule 80.6 PCT, so the period expires three days later than two months from the mailing date, 
+that is, on 5 February 2023, which is a Sunday. The final date for responding is therefore 6 February 2023 
+(Monday). 
+ 
+Legal basis 
+  
+Rule 80.6 PCT 
+[…] Irrespective of the date on which such a document or letter was mailed, if the applicant offers to the 
+national Office or intergovernmental organization evidence which satisfies the national Office or 
+intergovernmental organization that the document or letter was received more than seven days after the 
+date it bears, the national Office or intergovernmental organization shall treat the period starting from the 
+date of the document or letter as expiring later by an additional number of days which is equal to the 
+number of days which the document or letter was received later than seven days after the date it bears.  
+  
+ 
+ 
+3
+Rule 80.5(i) PCT 
+If the expiration of any period during which any document or fee must reach a national Office or 
+intergovernmental organization falls on a day […] on which such Office or organization is not open to the 
+public for the purposes of the transaction of official business […] the period shall expire on the next 
+subsequent day on which [no such circumstance] exists. 
+ 
+  
+_______________________________________________________________________________________  
+Question 7: B 
+  
+Legal basis 
+  
+Rule 54bis(a) PCT 
+A demand may be made at any time prior to the expiration of whichever of the following periods expires 
+later: 
+(i) three months from the date of transmittal to the applicant of the international search report or the 
+declaration referred to in Article 17(2)(a), and of the written opinion established under Rule 43bis.1 [i.e. 
+10 September 2022 (Sunday), extended to 12 September 2022]; or 
+(ii) 22 months from the priority date [i.e. 17 December 2022 (Saturday), extended to 19 December 2022]. 
+  
+Rule 80.5(i) PCT 
+If the expiration of any period during which any document or fee must reach a national Office or 
+intergovernmental organization falls on a day […] on which such Office or organization is not open to the 
+public for the purposes of the transaction of official business[, the time limit is extended to next open day]. 
+_______________________________________________________________________________________  
+  
+Question 8: B 
+  
+Legal basis 
+  
+Rule 90.4(b) PCT 
+[A] separate power of attorney shall be submitted to either the receiving Office or the International Bureau, 
+provided that, where a power of attorney appoints an agent under Rule 90.1(b), (b-bis),  (c) or (d)(ii), it shall 
+be submitted to the International Searching Authority, the Authority specified for supplementary search or 
+the International Preliminary Examining Authority, as the case may be. 
+  
+Rule 90.4(d) PCT 
+[Any] receiving Office, any International Searching Authority, any Authority competent to carry out 
+supplementary searches, any International Preliminary Examining Authority and the International Bureau 
+may waive the requirement under paragraph (b) that a separate power of attorney be submitted to it […]. 
+  
+Rule 90.4(e) PCT 
+Where the agent or the common representative submits any notice of withdrawal […], the requirement 
+under paragraph (b) for a separate power of attorney shall not be waived under paragraph (d). 
+  
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+  
+Question 9: C 
+The designation of inventor is not listed in Rule 159(1) EPC. 
+ 
+Legal basis 
+  
+ 
+ 
+4
+Rule 159(1) EPC 
+In respect of an international application under Article 153, the applicant shall perform the following acts 
+within thirty-one months from the date of filing of the application or, if priority has been claimed, from the 
+priority date:  
+(a) supply, where applicable, the translation of the international application required under Article 153, 
+paragraph 4;  
+(b) specify the application documents, as originally filed or as amended, on which the European grant 
+procedure is to be based;   
+(c) pay the filing fee provided for in Article 78, paragraph 2;  
+(d) pay the designation fee if the period under Rule 39 has expired earlier;  
+(e) pay the search fee, where a supplementary European search report has to be drawn up;    
+(f) file the request for examination provided for in Article 94, if the period under Rule 70, paragraph 1, has 
+expired earlier;  
+(g) pay the renewal fee in respect of the third year provided for in Article 86, paragraph 1, if the fee has 
+fallen due earlier under Rule 51, paragraph 1;  
+(h) file, where applicable, the certificate of exhibition referred to in Article 55, paragraph 2, and Rule 25.  
+  
+_______________________________________________________________________________________  
+  
+  
+Question 10: D 
+  
+Legal basis 
+  
+G 4/08 of the Enlarged Board of Appeal 
+If an international patent application has been filed and published under the PCT in an official language of 
+the EPO, it is not possible, on entry into the European phase, to file a translation of the application into 
+another EPO official language. 
+  
+Article 14(1) EPC, Article 14(3) EPC (language of proceedings) 
+ 
+Rule 36(2) EPC: A divisional application shall be filed in the language of the proceedings of the earlier 
+application. 
+  
+Euro-PCT Guide, Chapter 5, points 5.1.013 and 5.1.014  
+_______________________________________________________________________________________  
+  
+Question 11: C 
+  
+Legal basis 
+  
+PCT contracting states for which a regional patent can be obtained via the PCT (wipo.int): 
+A national patent can be obtained for Italy in respect of international applications filed on or after 1 July 
+2020. Only a European patent can be obtained for France and Lithuania. 
+_____________________________________________________________________
+  
+  
+Question 12: A 
+  
+Legal basis 
+ 
+ 
+5
+  
+Notice from the EPO dated 21 February 2013 concerning the request for early processing, OJ EPO 3/2013, 
+156 ff 
+  
+It depends on the date on which early processing is requested which further requirements stipulated in 
+Rule 159(1) EPC must be complied with, since the (regular) time limits for paying the designation fee 
+(Rule 39(1) EPC) and the renewal fee (Rule 51(1) EPC) and for filing the request for examination and paying 
+the examination fee (Rule 70(1) EPC) may not have expired on the date the request for early processing is 
+filed. Therefore, if any of these time limits is still running on that date, the request will be effective without 
+the requirements concerned having been complied with (Article 153(2) EPC, Article 11(3) PCT). 
+  
+Claims fees can be paid up to expiry of the period under Rule 162(2) EPC. 
+  
+In the present case, the (regular) time limits for paying the designation, examination and renewal fees are 
+still running. 
+____________________________________________________________________ 
+  
+  
+Question 13: D 
+  
+Legal basis 
+  
+Guidelines for Examination in the EPO, E-VIII, 8.1, A-IV, 1.1.1 
+Applicants may withdraw their application at any time as long as the application is pending. 
+An application is pending up to (but not including) the date that the European Patent Bulletin mentions the 
+grant of the patent (OJ EPO 2002, 112). 
+  
+_______________________________________________________________________________________  
+  
+Question 14: B 
+  
+Legal basis 
+  
+Guidelines for Examination in the EPO, H-VI, 6, C-V, 10 
+Errors in publication occur where the content of the printed specification differs from the documents 
+(Druckexemplar) transmitted to the applicant with the communication under Rule 71(3) (Form 2004), if 
+these documents form the basis of the decision to grant. The above errors in publication can be corrected 
+at any time. 
+  
+_______________________________________________________________________________________  
+  
+Question 15: B 
+  
+Statement A is not correct because Rule 56 does not apply to missing claims (the application was filed in 
+2021, i.e. before the entry into force of the new Rule 56a EPC). 
+Statement B is correct (Rule 56(3) EPC). 
+Statement C is not correct because it is not possible to amend the claims before search (Rule 137(1) EPC). 
+Statement D is not a good solution because the date of a priority claim would precede the date of filing of 
+the European patent application by more than twelve months. 
+ 
+Legal basis 
+ 
+ 
+6
+  
+Rule 56(1) EPC 
+If the examination under Article 90, paragraph 1, reveals that parts of the description, or drawings 
+referred to in the description or in the claims, appear to be missing, the European Patent Office 
+shall invite the applicant to file the missing parts within two months. 
+ 
+ 
+Rule 56(3) EPC 
+If the missing parts of the description or missing drawings are filed […] and the application claims priority of 
+an earlier application, the date of filing shall, provided that the missing parts of the description or the 
+missing drawings are completely contained in the earlier application, remain the date on which the 
+requirements laid down in Rule 40, paragraph 1, were fulfilled, where the applicant so requests and files, 
+[…].  
+  
+   
+Rule 137(1) EPC 
+Before receiving the European search report, the applicant may not amend the description, claims or 
+drawings of a European patent application unless otherwise provided. 
+ 
+  
+  
+ 
+ 
+ 
+ 
+7
+Part 2 
+Note: the legal basis and the information in parenthesis were not needed to get full marks. 
+ 
+Question 1 
+ 
+(a) The application EP-F3 to be transferred has to be pending at the time of transfer 
+(see steps under (b)).  
+File a request for a transfer of rights (EPO Form 5050 can be used) and submit 
+written evidence suitable for proving the transfer (with the signature of both the 
+assignor and assignee). Pay the transfer fee.  
+ 
+(b) The filing in Italian is valid only if the previous applications were also filed in Italian. 
+Request further processing by paying the fee for further processing (50% of the 
+relevant fees) by 14 December 2022 and pay the search fee, filing fee (without 
+reduction) according to Rule 6(4) EPC including page fee (for eight pages) and 
+additional fee for divisional second generation. 
+ 
+(c) After the transfer of rights (at the latest by the time of payment of the reduced 
+examination fee) the representative of the joint applicants should send a letter to the 
+EPO stating that both applicants A and C are entities or natural persons covered by 
+Rule 6(4) EPC (Form 1011 can be used).  
+Request examination in Italian, a translation of the request for examination in the 
+language of the proceedings must be refiled (Guidelines A-X, 9.2.3). 
+ 
+ 
+Question 2 
+ 
+(a) The request for restoration had to be filed within two months of the date on which 
+the priority period expired, which is 26 July 2021. 
+(The priority period expired on 22 May 2021 extended to 24 May 2021.  
+24 May 2021 + 2 months => 24 July 2021, extended to 26 July 2021). 
+ 
+(b) (The restoration granted by the USPTO as receiving Office will not automatically be 
+effective before the EPO because the EPO is not bound by the decision of any 
+receiving Office under the "unintentional criterion".)  
+To ensure that priority is restored during the European phase, the applicant should 
+request restoration of priority within one month of the date on which the time limit for 
+entry into EPO regional phase expires (Article 22 PCT) 
+(Rule 49ter.2(b)(i) PCT; Rule 159(1)) EPC sets a 31-month deadline) 
+22.05.2020 + 31 months = 22.12.2022  
+22.12.2022 + 1 month = 22.01.2023 (Sunday) extended to 23.01.2023 
+(Monday).  
+ 
+ 
+ 
+8
+The fee for restoration of priority must be paid within the same time limit 
+(Rule 49ter.2(b)(iii), (d) PCT).  
+The request for restoration of priority must be accompanied by a statement of reasons 
+for the failure, despite meeting the due-care requirement, to file the international 
+application within the priority period (Rule 49ter.2(b)(ii) PCT). 
+ 
+Question 3 
+ 
+(a) Confirm to the receiving Office (International Bureau) that the drawings of the 
+priority application are included in the international patent application through 
+incorporation by reference (Rule 20(6) PCT). 
+Send a copy of these drawings to the receiving Office (International Bureau) 
+together with the confirmation.  
+Within two months of the original filing date  
+5 December 2022 + 2 months => 5 February 2023 (Sunday) => extended to 
+6 February. 
+ 
+(b) Same as (a) / (Confirm to the International Bureau that the drawings of the priority 
+application are included in the international patent application through incorporation 
+by reference, send a copy of these drawings to the International Bureau together 
+with the confirmation).  
+ 
+RO/107 notification bears a two-month time limit, 
+4 January 2023 + 2 months => 4 March 2023 (Saturday) => extended to 6 March 
+2023 
+ 
+(c) The requirement for incorporation by reference is that the priority of the earlier 
+application must also have been claimed on filing (Rule 20(6) PCT). 
+Thus, no remedy is possible in this case. 
+ 
+(d) Yes, you can withdraw the application and prevent publication before completion of 
+technical preparations for the publication. 
+Publication is due promptly after the expiration of 18 months from the priority date, 
+which is after 20 June 2023 (in practice Thursday, 22 June). 
+The technical preparations for publication are completed by the 15th day prior to the 
+date of publication (see paragraph AG 9.014; in practice, withdrawal at the latest on 
+Tuesday, 6 June). 
+ 
+Question 4 
+ 
+(a) The filing fee and the search fee shall be paid within one month of filing, i.e. by 
+12 January 2023, (Article 78(2) EPC and Rule 38(1) EPC). 
+ 
+ 
+9
+The filing fee includes the additional fee for two pages (36 pages plus one page of 
+abstract (even if abstract is two pages) minus 35 pages = 2 pages, Rule 38(2), (3) 
+EPC, Article 2(1), item 1a, RFees and Guidelines A-III, 13.2). 
+ 
+(b) The payment is deemed to have been made on the date on which the account was 
+duly replenished (point 8 AAD).  
+Since this is after the due date for paying the fees, the application is deemed to be 
+withdrawn (Article 78(2) EPC). 
+No action is required as long as there are sufficient funds in the deposit account 
+(the EPO will automatically debit the further processing fee, the search fee and the 
+filing fee (which includes the page fee)).  
+ 
+(c) A translation must be filed within two months of the filing of the application 
+12 Dec 2022 + 2 months = 12 Feb 2023 (Sun) = 13 Feb 2023; 
+or within two months of notification of a communication under Rule 58 EPC.  
+ 
+If documents to be filed by one of the means of electronic communication permitted 
+by the President of the European Patent Office (under Rule 2(1) EPC) cannot be 
+received on the day on which a period for performing procedural acts expires, the 
+period shall extend to the first working day on which all means of electronic filing are 
+available (Rule 134(1) EPC and OJ EPO 2020, A120). 
+ 
+Question 5 
+ 
+A divisional application can only be filed if the parent application is still pending. 
+Currently, EP-A1 is deemed to be withdrawn because no response to the 
+communication under Article 94(3) EPC was filed. The time limit for filing a response 
+expired on 28 November 2022 (26 Saturday > Monday 28). 
+In order to revert application EP-A1 to pending status, the applicant must request 
+further processing by paying the further processing fee and file a response to the 
+communication under Article 94(3) EPC. 
+ 
+The filing fee and search fee for EP-A2 are due on filing. They may be paid within one 
+month of the date of filing of the divisional application (Rule 36(3) EPC). 
+The third renewal fee and the fourth renewal fee for the divisional become due on filing. 
+They can be validly paid without surcharge within four months of the date of filing of the 
+divisional application (Rule 51(3) EPC) (otherwise with surcharge within six months of 
+the same date). 
+ 
+The applicant should file claims directed to invention Y (Rule 40(1) EPC) in response to 
+a communication from the EPO (under Rule 58 EPC setting a time limit of two months 
+from the date of receipt to supply claims) at the latest. 
+ 

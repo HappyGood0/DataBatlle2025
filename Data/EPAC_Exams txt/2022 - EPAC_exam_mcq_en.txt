@@ -1,0 +1,349 @@
+ 
+ 
+1
+1. 
+A communication pursuant to Article 94(3) EPC is dated 7 December 2022. In the 
+communication a time limit of four months is set for replying to objections raised by the 
+examining division.  
+  
+Which of the following statements is not correct?  
+  
+A.  
+The communication is deemed to be delivered on 17 December 2022  
+B. 
+The time limit for replying to the communication expires on 17 April 2023  
+C.  
+Further processing for replying to the communication can be validly requested on 
+19 June 2023 at the latest  
+D.  
+An extension of the time limit for filing the reply can be validly requested on 14 April 
+2023      
+   
+ 
+2. 
+You filed a European patent application which discloses a new amino acid sequence. This 
+ 
+sequence is however only used in a single example and is not part of the claims. No  
+ 
+sequence listing was filed.  
+  
+Which of the following statements is correct?  
+  
+A. 
+If you are invited by the EPO to file a sequence listing, you need to file it and pay a 
+ 
+ 
+late furnishing fee to the EPO  
+B. 
+If you are invited by the EPO to file a sequence listing and do not react to this  
+ 
+ 
+invitation in due time, the application is deemed to be withdrawn  
+C. 
+If you are invited by the EPO to file a sequence listing, you need to file it in PDF  
+ 
+ 
+format  
+D. 
+You do not need to file any sequence listing because the amino acid sequence is 
+ 
+ 
+not claimed  
+   
+ 
+3. 
+During the examination proceedings the applicant notes that claim 1 contains a 
+typographical error. What is the last point in time for requesting correction of the error under 
+Rule 139 EPC?  
+  
+A. 
+One day before the decision to grant a European patent is handed over to the EPO 
+ 
+postal service  
+B. 
+Date of publication of the mention of the grant of the European patent  
+C. 
+Date of notification of the decision to grant  
+D. 
+Date of the communication under Rule 71(3) EPC  
+  
+ 
+  4. 
+Antonia, an applicant living in Argentina and having Argentinian nationality, intends to file a 
+ 
+European patent application EP-A and an international patent application PCT-A.  
+  
+Which of the following statements is correct?  
+  
+A. 
+Antonia can validly file PCT-A with the International Bureau of WIPO  
+B. 
+Antonia can validly file PCT-A with the EPO  
+C. 
+Antonia can validly file EP-A with the EPO  
+D. 
+None of the above  
+   
+   
+5. 
+Applicant X filed European patent application EP-X on 23 August 2019 as a first filing. The 
+applicant filed application EP-Y as a divisional application of EP-X on 26 September 2022. 
+Please consider the following statements:  
+  
+ 
+ 
+2
+I. 
+The renewal fee for the fourth year for EP-X was due on 31 August 2022; the  
+ 
+renewal fees for the third and fourth years for EP-Y were due on 26 September  
+ 
+2022  
+II. 
+The renewal fee for the fourth year for EP-X can be validly paid on 28 February  
+ 
+2023 together with the necessary additional fee; the renewal fees for the third and 
+ 
+fourth years for EP-Y can be validly paid without additional fee up to 31 January  
+ 
+2023  
+  
+Which of the following items applies?  
+  
+A. 
+Only statement I is correct  
+B. 
+Only statement II is correct  
+C. 
+Both statements I and II are correct  
+D. 
+Both statements I and II are incorrect  
+     
+ 
+6. 
+The European Patent Office as receiving Office for an international patent application  
+ 
+invites the applicant to provide a missing abstract within a period of two months. The  
+ 
+invitation is dated 2 December 2022 and is received by the applicant on 12 December  
+ 
+2022. The date of receipt stamped on the communication by the mail service provides  
+ 
+evidence of the receipt date. What is the final date for responding to the invitation?  
+  
+A. 
+2 February 2023  
+B. 
+13 February 2023  
+C. 
+5 February 2023  
+D. 
+6 February 2023  
+    
+ 
+7. 
+An international patent application was filed on 17 February 2022 claiming priority from a 
+European patent application filed on 17 February 2021. The international search report 
+together with the written opinion was transmitted to the applicant on 10 June 2022.  
+  
+What is the last day for filing a demand for international preliminary examination?  
+  
+A. 
+17 December 2022  
+B. 
+19 December 2022  
+C. 
+10 September 2022  
+D. 
+12 September 2022  
+  
+   
+8. 
+A professional representative acts as agent for the following actions:  
+  
+I.  
+Withdrawing an international patent application at the European Patent Office as 
+receiving Office  
+  
+II.  
+Filing a demand for international preliminary examination for an international patent 
+application at the European Patent Office as International Preliminary Examining 
+Authority  
+  
+Which of the following statements is correct?  
+  
+A.  
+For both I and II a power of attorney signed by each applicant is always required  
+B.  
+For I a power of attorney signed by each applicant is always required  
+C.  
+For II a power of attorney signed by each applicant is always required  
+D.  
+For both I and II the requirement to submit a power of attorney signed by each 
+applicant may be waived  
+  
+ 
+ 
+3
+  
+   
+9. 
+Which of the following steps is not a minimum requirement for entry into the European 
+phase?  
+  
+A.  
+Supplying a translation if the Euro-PCT application was not published in one of the 
+EPO's official languages  
+B.  
+Specifying the application documents on which the European grant procedure is to 
+be based  
+C.  
+Filing the designation of the inventor  
+D.  
+Paying the search fee if a supplementary European search report is to be drawn up  
+   
+   
+10. 
+A British company buys a French firm with an IP portfolio which includes an international 
+application that claims priority of a British national application. The international application 
+is in French. The British company wants to pursue the invention as a European patent 
+application. However, they would prefer that the language of the European proceedings be 
+English.  
+  
+Which of the following statements is correct?  
+   
+A.  
+Upon entry into the European phase before the EPO, the applicant can file a 
+translation into English and English will become the language of the proceedings  
+B.  
+The applicant can enter the European phase with the application in French and then 
+validly file a European divisional application in English  
+C.  
+The applicant can select English as the language of the proceedings in the request 
+form for entry into the European phase (EPO Form 1200) and English will become 
+the language of the proceedings  
+D.  
+None of the above  
+  
+   
+11. 
+Your client filed an international patent application in 2021. In which of the following countries 
+can they (directly) enter the national phase?  
+  
+A. 
+Lithuania  
+B. 
+France  
+C. 
+Italy  
+D. 
+None of the above  
+  
+   
+12. 
+International patent application PCT-1 was filed on 6 May 2021 without claiming priority. 
+The application consists of 21 pages, including 17 claims. The international search was 
+carried out by the EPO acting as ISA, and the international application was published 
+together with the international search report after 18 months. On 12 December 2022, early 
+entry into the European phase is requested. Which minimum requirement(s) must be 
+fulfilled to validly effect early entry into the European phase according to Article 23(2) 
+PCT?  
+  
+A. 
+Payment of the filing fee  
+B. 
+Payment of the filing fee and claims fees  
+C. 
+Payment of the filing fee, the claims fees, the examination fee, the  
+ 
+  
+designation fee and the renewal fee for the third year  
+D. 
+Payment of the filing fee, the designation fee and the examination fee  
+  
+    
+13. 
+What is the last point in time for an effective withdrawal of a European patent application?  
+  
+ 
+ 
+4
+A.  
+Date of receipt of the communication under Rule 71(3) EPC  
+B.  
+The latest of the date of payment of the fee for grant and publishing and the date of 
+ 
+ 
+filing of the translations of the claims in the two other official languages of the EPO  
+C.  
+Date of publication of the mention of the grant in the European Patent Bulletin   
+D.  
+One day before the date of publication of the mention of the grant in the European 
+ 
+ 
+Patent Bulletin  
+    
+14. 
+A communication pursuant to Rule 71(3) EPC was issued for a European patent   
+ 
+application. The applicant fulfilled all the necessary requirements. The related decision to 
+ 
+grant a European patent was dispatched based on the text intended for grant transmitted to 
+ 
+the applicant with the communication under Rule 71(3) EPC. The mention of the grant of 
+ 
+the European patent was published in the European Patent Bulletin. During the preparation 
+ 
+of the publication of the patent specification an error occurred in that page 2 of the  
+ 
+description was omitted from the published specification of this European patent.  
+  
+Which of the following statements is correct?  
+  
+A. 
+This error in the published specification of this European patent may never be  
+ 
+ 
+corrected  
+B. 
+This error in the published specification of this European patent may be corrected at 
+any time  
+C. 
+This error in the published specification of this European patent may not be 
+corrected during the opposition period or if opposition proceedings are pending  
+D. 
+The error may only be corrected if opposition proceedings are pending  
+  
+  
+   
+15. 
+On 27 October 2022 you filed European patent application EP-A claiming priority from FR-A 
+ 
+filed on 29 October 2021. Your intention was that both applications would have the same 
+ 
+content. On 3 November 2022, however, you noticed that page 3 of the description and 
+ 
+claims 7-12 are missing in EP-A. The fees have not been paid yet.  
+  
+Which statement is correct?  
+  
+A. 
+If the EPO notes that page 3 of the description and claims 7-12 are missing, it will 
+ 
+ 
+invite you to file these missing parts within a time limit of two months  
+B. 
+You may of your own volition file page 3 of the description at any time up to  
+ 
+ 
+2 January 2023 without the application being re-dated   
+C. 
+If the subject-matter of claims 7-12 is also present in the description, you may add 
+ 
+ 
+claims 7-12 at any time  
+D. 
+The best solution is to withdraw EP-A and refile it, claiming priority from FR-A  
+  
+  
+ 

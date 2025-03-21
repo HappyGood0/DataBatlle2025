@@ -1,0 +1,143 @@
+ 
+ 
+1
+1. (6 points)  
+    
+On 12 August 2022, a divisional European patent application EP-F3 is filed in Italian per fax by 
+three joint applicants: A, B and C. On 12 September 2022, a translation of EP-F3 in the language 
+of the proceedings of its parent application is filed.   
+EP-F3's parent application is EP-F2, which is a divisional application of EP-F1.   
+EP-F3 comprises 1 page abstract, 40 pages description and 2 pages with 13 claims.    
+A is an Italian university.     
+B is an Italian enterprise which employs 500 persons, and which has an annual turnover of EUR 40 
+million and an annual balance sheet total of EUR 40 million.    
+C is an Italian national resident in the USA.   
+On 4 October 2022, a noting of loss of rights is sent because no fees have been paid.   
+   
+A transfer of rights is planned for 19 December 2022: Applicant B will transfer its rights in respect 
+of EP-F3 to applicant C.    
+   
+a. 
+What procedural steps must be taken for the transfer of rights to be recorded?   
+  
+b. 
+Under what circumstances is the filing in Italian valid? What steps need to be taken 
+and what fees need to be paid to ensure that EP-F3 remains pending?   
+  
+c. 
+What needs to be done if the applicants want to pay the examination fee at the 
+reduced rate provided for in Article 14(1) of the Rules relating to Fees?   
+  
+  
+2. (5 points)  
+    
+On 22 May 2020, applicant B filed US application US-B in English. Despite all due care being taken 
+by applicant B, international application PCT-B claiming priority from US-B was only filed on 7 June 
+2021. The USPTO, acting as receiving Office, granted the applicant’s request for restoration of the 
+right of priority on the basis that the failure to file PCT-B within the priority period was 
+unintentional.     
+   
+On 9 December 2022, applicant B took all the steps required under Rule 159 EPC for PCT-B to 
+enter the European phase before the EPO.     
+   
+When did the time limit for filing the request for restoration of the right of priority at the USPTO 
+acting as receiving Office expire?  
+  
+What must be done before the EPO as designated Office, and by when, to ensure that the 
+restoration of the right of priority is effective in the European phase?    
+  
+  
+3. (7 points)  
+  
+    
+Your client CoffeeBreak filed a European patent application claiming a new type of coffee maker 
+on 20 December 2021 but withdrew it before search. CoffeeBreak then asked you to file an 
+international patent application claiming priority of the European patent application and with no 
+amendments compared to that application. The priority application contains drawings that are 
+essential for understanding the invention.   
+    
+On 5 December 2022, you filed an international patent application claiming priority of the European 
+patent application at the International Bureau, using PCT/RO/101. Your colleague handling a 
+patent application for shoe soles left by mistake his drawings in your filing folder. Therefore, you 
+filed the wrong drawings with the international patent application claiming the coffee maker instead 
+of the correct drawings.    
+ 
+ 
+2
+  
+a. 
+You discover your mistake today, 12 December 2022. Assuming that the 
+International Bureau does not detect the wrong drawings, what actions can you take of your 
+own volition to ensure that the correct drawings are included in the international patent 
+application while maintaining the original filing date? What is the applicable time limit for 
+performing these actions? Please give reasons for your answer.   
+  
+b. 
+You do not discover your mistake until receiving a PCT/RO/107 notification dated 
+4 January 2023from the International Bureau. What actions can you take to ensure that the 
+correct drawings are included in the international patent application while maintaining the 
+original filing date? What is the applicable time limit for performing these actions? Please 
+give reasons for your answer  
+  
+c. 
+What would be your answer to previous questions (a) and (b) if, at your client's 
+request, you had not claimed priority of the European patent application? Please give 
+reasons for your answer.  
+   
+  
+You do not discover your mistake on filing the wrong drawings, and completely miss the notification 
+dated 4 January 2023 from the International Bureau. You only find out about the mistake on 
+27 April 2023 after receiving the written opinion. The invention has not been and will not be made 
+public by any means other than publication by the International Bureau. You intend to withdraw the 
+international patent application before publication and file a new international patent application 
+with the correct drawings.   
+  
+d. 
+Will you still be in time to prevent publication of the first international patent 
+application? Please give reasons for your answer.    
+  
+ 4. (6 points)  
+  
+On 10 December 2021, your client, a large Romanian company, filed a Romanian national patent 
+application RO-H. RO-H is drafted in Romanian and comprises 32 pages of description and 
+drawings, and four pages with 15 claims. Your client has informed you that they will prepare and 
+forward an English translation of RO-H in due course. This will comprise 29 pages of description 
+and drawings, four pages with 15 claims and an abstract comprising two pages.   
+Your client wants you to file today, 12 December 2022, a European patent application EP-H 
+drafted in Romanian and claiming priority of RO-H.   
+  
+a. 
+What fees have to be paid and what would be the last date for paying them?   
+  
+b. 
+You filed an automatic debit order for EP-H. On the decisive payment date, you 
+receive an email from the EPO informing you that there are insufficient funds in your 
+deposit account to cover any of the fees to be paid (as identified in your answer to question 
+(a)). You replenish the account two days after receiving the email. Do you have to take any 
+further action to ensure these fees are paid?   
+  
+c. 
+What is the time limit for filing an English translation of the application via the EPO's 
+online services? What is the consequence for the time limit if, on the last day of the period 
+for filing the translation, there is an unplanned outage of the EPO's online services which 
+prevents you from filing it? The outage lasts for the whole of that day.    
+   
+   
+5. (6 points)  
+  
+Applicant A filed European patent application EP-A1 in English in May 2019. It describes two 
+different inventions, X and Y, and claims invention X only. The European search report was drawn 
+up for invention X only.     
+ 
+ 
+3
+A communication pursuant to Article 94(3) EPC setting a time limit of four months for response was 
+issued by the EPO on 16 May 2022. A two-month extension of this time limit was granted on 
+26 September 2022. As of today’s date, no response has been filed.     
+Applicant A is now interested in invention Y.     
+Today, 12 December 2022, he files a European divisional application EP-A2 based on EP-A1 and 
+describing invention Y. No fees were paid, and no claims were submitted at the time of filing.   
+  
+What does applicant A have to do to have invention Y searched by the EPO?    
+  
+ 

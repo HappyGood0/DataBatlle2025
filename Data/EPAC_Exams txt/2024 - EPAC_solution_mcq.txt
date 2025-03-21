@@ -1,0 +1,155 @@
+1 
+ 
+Model solution for part 1 
+ 
+Question 1: D 
+ 
+Legal basis 
+Rule 159(1) EPC 
+The examination fee and designation fee must also be paid (six months after 
+publication of search report; payment cannot be postponed to 31 months if there is a 
+wish to enter into the European phase at 25 months).  
+Question 2: B 
+ 
+Legal basis 
+Guidelines for Examination in the EPO, A-X, 5.2.2 
+“The designation fee falls due upon publication of the mention of the European 
+search report. It may be paid within six months of the mentioned date of publication 
+(Rules 39(1), 17(3) and 36(4)). Where paid before the due date, e.g. upon filing of the 
+application, the designation fee will however be retained by the EPO. These 
+payments will only be considered valid as from the due date, provided that the 
+amount paid corresponds to the amount payable on the due date (…)” 
+Question 3: B 
+ 
+Legal basis 
+OJ EPO 2024, Supplementary Publication 2,  Arrangements for deposit accounts 
+(ADA), 13.2 
+“13.2: A debit order with a deferred payment date (…) may be revoked in whole or in 
+part in Central Fee Payment until one day before the date specified as the execution 
+date at the latest.” 
+Question 4: B 
+ 
+Legal basis 
+Articles 106 and 108 EPC; Article 121(1) EPC; Guidelines for Examination in the 
+EPO, E-VIII, 2 
+A notice of appeal could also be filed within two months of notification of the decision; 
+re-establishment of rights is excluded because further processing is available. 
+Question 5: D 
+ 
+Legal basis 
+Article 115 EPC, Rule 114 EPC; Guidelines for Examination in the EPO, E-VI.3 
+  
+2 
+ 
+A. Incorrect: a third party filing observations concerning the patentability of an 
+application or patent is not a party to the proceedings; the applicant may 
+respond to third-party observations but is not obliged to do so 
+B. Incorrect: third-party observations may be filed anonymously 
+C. Incorrect: there is no official fee when filing third-party observations 
+D. Correct 
+ 
+Question 6: B 
+ 
+Legal basis 
+Rule 40 PCT  
+ 
+A. Incorrect: may be paid but not must be paid 
+B. Correct 
+C. Incorrect: only one protest fee is due (Rule 40.2(e) PCT) 
+D. Incorrect: if the applicant does not pay any additional search fees, the 
+information appearing in the invitation to pay additional fees will be considered 
+to be the result of the international search and will be included as such in the 
+international search report 
+ 
+Question 7: D 
+ 
+Legal basis 
+PCT Applicant's Guide 5.070.; Guidelines for Examination in the EPO A-III, 6.7; 
+PCT Applicant’s Guide LU-Luxembourg 
+ 
+ 
+A. Only available if the priority application and the PCT application are filed with 
+the same patent office  
+B. Incorrect: the LPTO does not use the DAS access code  
+C. Incorrect: the LPTO does not issue electronic priority documents 
+D. Correct  
+ 
+Question 8: B 
+ 
+Legal basis 
+Article 107 EPC 
+ 
+A. Incorrect: B is not adversely affected 
+B. Correct: both parties A and B are adversely affected 
+C. Incorrect: third parties are not parties to the proceedings 
+D. Incorrect: withdrew its opposition; no longer a party to the proceedings 
+ 
+Question 9: D 
+ 
+Legal basis 
+3 
+ 
+Guidelines for Examination in the EPO, A-X, 5.2.4 
+ 
+The renewal fee that would have been due on 31 October had to be paid for the 
+decision to grant to be issued (this is one of the warnings in the communication under 
+Rule 71(3) EPC). 
+ 
+Question 10: D 
+ 
+Legal basis 
+Rule 126(2) EPC  
+ 
+The document was delivered to the addressee nine days after the date it bears, so 
+the period expires later by the number of days by which the seven days were 
+exceeded, i.e. 12 January 2025 + two days. Evidence of late receipt needs to be filed 
+with the response. 
+ 
+Question 11: B 
+ 
+Legal basis 
+https://www.epo.org/en/applying/myepo-services/interact  
+ 
+A. Incorrect: it is neither possible to access the European Patent Register nor to 
+file using the EPO’s legacy Online Filing software (eOLF) via MyEPO Portfolio 
+B. Correct 
+C. Incorrect: it is not possible to access the European Publication Server via 
+MyEPO Portfolio 
+D. Incorrect: it is neither possible to access the European Publication Server nor 
+to file using the EPO’s Online Filing 2.0 via MyEPO Portfolio 
+ 
+Question 12: C 
+ 
+Legal basis 
+OJ EPO 2023, A50, point 20; Contingency Upload Service | epo.org 
+ 
+Question 13: C 
+ 
+Legal basis 
+Guidelines for Examination in the EPO, A-VII, 3.2; Rule 3(2) EPC 
+ 
+Since the response with the amendments has to be filed within a time limit, the 
+Finnish applicant is entitled to file the amended claims in Finnish. 
+A translation of a document filed in an admissible non-EPO language into an official 
+language of the EPO must be filed within a non-extendable period of one month 
+(Rule 6(2) EPC). This means that a translation of the amended claims must be filed 
+in the language of proceedings, English in this case (Rule 3(2) EPC). 
+ 
+4 
+ 
+Question 14: D 
+ 
+Legal basis 
+PCT-EPO Guidelines, B-IV, 1.2.  
+ 
+Comments are required but not amendments. 
+ 
+Question 15: D 
+ 
+Legal basis 
+Article 6(1) Regulation (EU) No 1260/2012; Rule 6(2)(d) UPR; Unitary Patent Guide, 
+para. 65  
+ 
+The translation may be in any of the 24 official languages of the EU, except English, 
+irrespective of the language in which the application was filed or the geographical 
+extent of the unitary effect.  

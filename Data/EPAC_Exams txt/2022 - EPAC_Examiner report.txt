@@ -1,0 +1,101 @@
+ 
+ 
+1
+Examiner report 
+ 
+General comments on EPAC 2022 
+ 
+From the results of this first edition of the EPAC examination it would appear that candidates were 
+not able to prepare properly for the rigours of the exam on the basis of the training resources in 
+place. 
+ 
+We hope that with more training and preparation time, the pass rate will rise, especially for the first 
+– multiple choice – part of the exam. We are of the opinion that with enough training and time to 
+prepare for the exam a candidate should be able to correctly answer at least 8 of the 15 questions. 
+ 
+This year, 55% of candidates passed the first part of the exam, and 60% of those candidates also 
+passed the second part, meaning that in total, 35% of the candidates enrolled passed the EPIC 
+2022 exam.  
+ 
+ 
+General comments on EPAC 2022, part 1 
+ 
+For the multiple-choice part of EPAC 22, the average mark was 7.8. 
+The best-answered questions were 8 and 9, and the worst-answered question was 15. 
+The lowest-rated candidates got 1 point and the best candidates got 15. 
+We tried to cover all parts of the syllabus in this part to distribute the questions among the five 
+modules as defined on the syllabus. 
+ 
+General comments on EPAC 2022, part 2 
+ 
+In this part of the exam, the candidates are not required to provide the legal basis relied on for their 
+answers. Nor are they required to enter strategic considerations. They are only required to reply to 
+the examination question asked.  
+ 
+No extra points are awarded for a correct statement not related to the question asked. Likewise, 
+candidates are not penalised for an incorrect statement in the sense that no negative points are 
+given. 
+ 
+If the question is "which steps are necessary", the candidate is required to list the steps needed to 
+perform the specified action, not solely to cite a legal basis or make a general statement. 
+ 
+When a time limit is specified, a starting date for the period should be indicated; when sufficient 
+information is provided to compute a time limit, it should be computed. 
+ 
+Candidates should indicate the exact fees to be paid in the context of the question asked, including 
+the number of pages or claims (where possible), or the year(s) for which annuities have to be paid. 
+An answer just stating that any applicable fees have to be paid will not be awarded any points. 
+ 
+ 
+ 
+ 
+ 
+2
+Question 1 
+Few candidates mentioned the divisional of second generation. 
+In question (c), most of the candidates identified applicants A and C as being entitled to the 
+reduction of the examination fee but many did not state what had to be done in practice, thereby 
+not answering the question. 
+Few candidates mentioned that the request for examination had to be refiled in the language of the 
+proceedings. 
+ 
+Question 2 
+Most of the candidates stated correctly that the request for restoration before the USPTO had to be 
+filed within two months of the date on which priority expired but few calculated the time limit 
+correctly. 
+Candidates generally recognised the EPO as not being bound by the decision of the receiving 
+Office under the "unintentional criterion". However, many candidates did not correctly indicate what 
+had to be done on entry into the EP phase and by when, thereby not answering the question. 
+ 
+Question 3 
+Quite a few candidates explained, correctly, that filing a new set of drawings would change the 
+date of filing but were not awarded any points for their observation because it didn't answer the 
+question.  
+The majority of the candidates realised that incorporation by reference was made at filing because 
+Form PCT/RO/101 was used, and therefore it was possible to save the date of filing. However, the 
+steps to be carried out and by when were often not well explained. 
+The question specified that the original filing date had to be maintained, so refiling the application 
+was not a remedy in question 3(c).  
+The part of the question on preventing publication was generally well answered. 
+ 
+Question 4 
+Candidates correctly answered that the filing fee and the search fee were due, and the applicable 
+time limit was generally calculated correctly. However, few candidates correctly calculated that the 
+additional fee was due for two pages.  
+The part of the question on the deposit account was not well answered; candidates do not seem 
+familiar with this procedure. 
+To the question on the unplanned outage of the EPO's online services, many candidates proposed 
+filing using different filing means (e.g. fax) or requesting further processing. However, the question 
+was: "What is the consequence for the time limit …". 
+ 
+Question 5 
+Some candidates incorrectly thought that because the noting of loss of rights had not been issued 
+yet, the parent application was still pending. Others proposed to wait for the noting of loss of rights 
+before requesting further processing. However, further processing can be requested before the 
+noting of loss of rights is issued.  
+Some of the candidates thought that EP-A2 had not been validly filed because it had been filed 
+while the parent application was deemed withdrawn. However, if further processing for the parent 
+application is granted, the legal consequences of the failure to reply to the communication on time 
+(deemed withdrawal) are deemed not to have ensued (Article 121(3) EPC). Therefore, it was not 
+necessary to file a new divisional application. This alternative was not awarded full marks. 
+ 
