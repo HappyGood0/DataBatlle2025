@@ -1,6 +1,7 @@
 [
     {
-        "context": "1. (4 points)  International application WO-X was filed at the EPO on 27 August 2024. No fees have  been paid.",
+        "question_number": 1,
+        "context": "(4 points)  International application WO-X was filed at the EPO on 27 August 2024. No fees have  been paid.",
         "questions": [
             {
                 "question_number": 1,
@@ -18,7 +19,8 @@
         "type": "open"
     },
     {
-        "context": "2. (6 points)  On 25 October 2019, the Spanish University Isabel II and the company Tomato Matters  filed a European patent application in Spanish, accompanied by a translation into English.  Tomato Matters employs more than 260 employees.     The University Isabel II has filed two patent applications with the EPO over the past five  years.    On 10 October 2024, Tomato Matters transfers its rights to Naranjas Navel, a company  which employs 9 members of staff and whose annual turnover is EUR 1 million.    Naranjas Navel has never filed any patent applications with the EPO.    In a communication from the EPO under Rule 71(3) EPC dated 10 October 2024, the  name of the applicants is given as: Isabe III (clerical error) and Tomato Matters.",
+        "question_number": 2,
+        "context": "(6 points)  On 25 October 2019, the Spanish University Isabel II and the company Tomato Matters  filed a European patent application in Spanish, accompanied by a translation into English.  Tomato Matters employs more than 260 employees.     The University Isabel II has filed two patent applications with the EPO over the past five  years.    On 10 October 2024, Tomato Matters transfers its rights to Naranjas Navel, a company  which employs 9 members of staff and whose annual turnover is EUR 1 million.    Naranjas Navel has never filed any patent applications with the EPO.    In a communication from the EPO under Rule 71(3) EPC dated 10 October 2024, the  name of the applicants is given as: Isabe III (clerical error) and Tomato Matters.",
         "questions": [
             {
                 "question_number": 1,
@@ -32,7 +34,8 @@
         "type": "open"
     },
     {
-        "context": "3. (4 points)  In March 2018, a European patent application was filed in French. A European patent  was granted in June 2023. Unitary effect has been registered and the proprietor has filed  a statement concerning licences of right. The patent has also been validated in Spain and  in Croatia; the European patent is still in force in these states.      The proprietor filed a request for limitation of the patent. The examining division has  issued an interlocutory decision, indicating that the patent with amended claims and an  amended description meets the requirements of the EPC. The mention of the limitation  will be published in the last European Patent Bulletin of 2024.",
+        "question_number": 3,
+        "context": "(4 points)  In March 2018, a European patent application was filed in French. A European patent  was granted in June 2023. Unitary effect has been registered and the proprietor has filed  a statement concerning licences of right. The patent has also been validated in Spain and  in Croatia; the European patent is still in force in these states.      The proprietor filed a request for limitation of the patent. The examining division has  issued an interlocutory decision, indicating that the patent with amended claims and an  amended description meets the requirements of the EPC. The mention of the limitation  will be published in the last European Patent Bulletin of 2024.",
         "questions": [
             {
                 "question_number": 1,
@@ -46,7 +49,8 @@
         "type": "open"
     },
     {
-        "context": "4. (7 points)  European application EP1 was filed online on 2 September 2024 without claiming priority.   You realise today, 10 October 2024, that priority from CN1 filed in Chinese on 31 August  2023 was not claimed.",
+        "question_number": 4,
+        "context": "(7 points)  European application EP1 was filed online on 2 September 2024 without claiming priority.   You realise today, 10 October 2024, that priority from CN1 filed in Chinese on 31 August  2023 was not claimed.",
         "questions": [
             {
                 "question_number": 1,
@@ -64,6 +68,7 @@
         "type": "open"
     },
     {
+        "question_number": 5,
         "context": "5 . (6 points)  Inventor Mr Tulip, a Dutch national, filed Dutch national patent application NL-1, which  comprises 50 pages and includes 20 claims, all in the Dutch language . The EPO  established a search report at the request of the Netherlands Patent Office . Mr Tulip then filed an international patent application WO-1, claiming the priority of, and  with the same content (description and claims in Dutch) as, NL-1 . The international publication of WO-1, with the international search report, comprises 45  pages, including 1 page of bibliographic data . The EPO acted as International Searching  Authority . International preliminary examination was requested in time; however, no  amendments were made in the international phase . 30 months have elapsed since the  date of filing of NL-1 . Mr Tulip now asks for an indication of the cost of entry into the European phase, i.e . how  much he will have to pay in official fees over the next 8 months, if all formal requirements  are met but expenses kept to a minimum . This will be his first application with the EPO . Mr Tulip expressly requests that no amendments be made before substantive  examination .",
         "questions": [
             {
@@ -74,6 +79,7 @@
         "type": "open"
     },
     {
+        "question_number": 6,
         "context": "6. (3 points)  Third-party observations were filed regarding a patent application. They were sent to the  applicant with a communication (Form 2022) dated 22 November 2023.",
         "questions": [
             {

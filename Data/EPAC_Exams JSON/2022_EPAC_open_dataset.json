@@ -1,6 +1,7 @@
 [
     {
-        "context": "1. (6 points)        On 12 August 2022, a divisional European patent application EP-F3 is filed in Italian per fax by  three joint applicants: A, B and C. On 12 September 2022, a translation of EP-F3 in the language  of the proceedings of its parent application is filed.    EP-F3's parent application is EP-F2, which is a divisional application of EP-F1.    EP-F3 comprises 1 page abstract, 40 pages description and 2 pages with 13 claims.     A is an Italian university.      B is an Italian enterprise which employs 500 persons, and which has an annual turnover of EUR 40  million and an annual balance sheet total of EUR 40 million.     C is an Italian national resident in the USA.    On 4 October 2022, a noting of loss of rights is sent because no fees have been paid.        A transfer of rights is planned for 19 December 2022: Applicant B will transfer its rights in respect  of EP-F3 to applicant C.",
+        "question_number": 1,
+        "context": "(6 points)        On 12 August 2022, a divisional European patent application EP-F3 is filed in Italian per fax by  three joint applicants: A, B and C. On 12 September 2022, a translation of EP-F3 in the language  of the proceedings of its parent application is filed.    EP-F3's parent application is EP-F2, which is a divisional application of EP-F1.    EP-F3 comprises 1 page abstract, 40 pages description and 2 pages with 13 claims.     A is an Italian university.      B is an Italian enterprise which employs 500 persons, and which has an annual turnover of EUR 40  million and an annual balance sheet total of EUR 40 million.     C is an Italian national resident in the USA.    On 4 October 2022, a noting of loss of rights is sent because no fees have been paid.        A transfer of rights is planned for 19 December 2022: Applicant B will transfer its rights in respect  of EP-F3 to applicant C.",
         "questions": [
             {
                 "question_number": 1,
@@ -18,7 +19,8 @@
         "type": "open"
     },
     {
-        "context": "2 . (5 points)        On 22 May 2020, applicant B filed US application US-B in English . Despite all due care being taken  by applicant B, international application PCT-B claiming priority from US-B was only filed on 7 June  2021 . The USPTO, acting as receiving Office, granted the applicant’s request for restoration of the  right of priority on the basis that the failure to file PCT-B within the priority period was  unintentional . On 9 December 2022, applicant B took all the steps required under Rule 159 EPC for PCT-B to  enter the European phase before the EPO . When did the time limit for filing the request for restoration of the right of priority at the USPTO  acting as receiving Office expire?",
+        "question_number": 2,
+        "context": "(5 points)        On 22 May 2020, applicant B filed US application US-B in English . Despite all due care being taken  by applicant B, international application PCT-B claiming priority from US-B was only filed on 7 June  2021 . The USPTO, acting as receiving Office, granted the applicant’s request for restoration of the  right of priority on the basis that the failure to file PCT-B within the priority period was  unintentional . On 9 December 2022, applicant B took all the steps required under Rule 159 EPC for PCT-B to  enter the European phase before the EPO . When did the time limit for filing the request for restoration of the right of priority at the USPTO  acting as receiving Office expire?",
         "questions": [
             {
                 "question_number": 1,
@@ -28,7 +30,8 @@
         "type": "open"
     },
     {
-        "context": "3. (7 points)           Your client CoffeeBreak filed a European patent application claiming a new type of coffee maker  on 20 December 2021 but withdrew it before search. CoffeeBreak then asked you to file an  international patent application claiming priority of the European patent application and with no  amendments compared to that application. The priority application contains drawings that are  essential for understanding the invention.         On 5 December 2022, you filed an international patent application claiming priority of the European  patent application at the International Bureau, using PCT/RO/101. Your colleague handling a  patent application for shoe soles left by mistake his drawings in your filing folder. Therefore, you  filed the wrong drawings with the international patent application claiming the coffee maker instead  of the correct drawings.         2",
+        "question_number": 3,
+        "context": "(7 points)           Your client CoffeeBreak filed a European patent application claiming a new type of coffee maker  on 20 December 2021 but withdrew it before search. CoffeeBreak then asked you to file an  international patent application claiming priority of the European patent application and with no  amendments compared to that application. The priority application contains drawings that are  essential for understanding the invention.         On 5 December 2022, you filed an international patent application claiming priority of the European  patent application at the International Bureau, using PCT/RO/101. Your colleague handling a  patent application for shoe soles left by mistake his drawings in your filing folder. Therefore, you  filed the wrong drawings with the international patent application claiming the coffee maker instead  of the correct drawings.         2",
         "questions": [
             {
                 "question_number": 1,
@@ -50,7 +53,8 @@
         "type": "open"
     },
     {
-        "context": "4. (6 points)      On 10 December 2021, your client, a large Romanian company, filed a Romanian national patent  application RO-H. RO-H is drafted in Romanian and comprises 32 pages of description and  drawings, and four pages with 15 claims. Your client has informed you that they will prepare and  forward an English translation of RO-H in due course. This will comprise 29 pages of description  and drawings, four pages with 15 claims and an abstract comprising two pages.    Your client wants you to file today, 12 December 2022, a European patent application EP-H  drafted in Romanian and claiming priority of RO-H.",
+        "question_number": 4,
+        "context": "(6 points)      On 10 December 2021, your client, a large Romanian company, filed a Romanian national patent  application RO-H. RO-H is drafted in Romanian and comprises 32 pages of description and  drawings, and four pages with 15 claims. Your client has informed you that they will prepare and  forward an English translation of RO-H in due course. This will comprise 29 pages of description  and drawings, four pages with 15 claims and an abstract comprising two pages.    Your client wants you to file today, 12 December 2022, a European patent application EP-H  drafted in Romanian and claiming priority of RO-H.",
         "questions": [
             {
                 "question_number": 1,
@@ -68,7 +72,8 @@
         "type": "open"
     },
     {
-        "context": "5 . (6 points)      Applicant A filed European patent application EP-A1 in English in May 2019 . It describes two  different inventions, X and Y, and claims invention X only . The European search report was drawn  up for invention X only . 3 A communication pursuant to Article 94(3) EPC setting a time limit of four months for response was  issued by the EPO on 16 May 2022 . A two-month extension of this time limit was granted on  26 September 2022 . As of today’s date, no response has been filed . Applicant A is now interested in invention Y . Today, 12 December 2022, he files a European divisional application EP-A2 based on EP-A1 and  describing invention Y . No fees were paid, and no claims were submitted at the time of filing.",
+        "question_number": 5,
+        "context": "(6 points)      Applicant A filed European patent application EP-A1 in English in May 2019 . It describes two  different inventions, X and Y, and claims invention X only . The European search report was drawn  up for invention X only . 3 A communication pursuant to Article 94(3) EPC setting a time limit of four months for response was  issued by the EPO on 16 May 2022 . A two-month extension of this time limit was granted on  26 September 2022 . As of today’s date, no response has been filed . Applicant A is now interested in invention Y . Today, 12 December 2022, he files a European divisional application EP-A2 based on EP-A1 and  describing invention Y . No fees were paid, and no claims were submitted at the time of filing.",
         "questions": [
             {
                 "question_number": 1,
