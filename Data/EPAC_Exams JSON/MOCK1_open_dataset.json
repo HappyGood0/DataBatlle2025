@@ -1,0 +1,101 @@
+[
+    {
+        "question_number": 1,
+        "context": "5 points question       In June 2021, applicant C filed an international patent application PCT-C.     PCT-C was filed in Chinese with the Chinese Patent Office as the Receiving Office and searched by  that Office as International Searching Authority (ISA).    PCT-C validly claims priority from an earlier application filed by same applicant C in July 2020.     Applicant C wishes to obtain a patent for PCT-C in all the members states of the EPC as soon as  possible.     The international patent application and the international search report were published in January  2022.  The PCT pamphlet comprises 15 pages of description, 5 claims and no drawings.    In the frame of PCT Chapter II, applicant C filed under Art. 34 PCT a new set of claims comprising  19 claims.    Based on this new set of claims, a positive International Preliminary Report on Patentability (IPRP)  has then been issued by the Chinese patent office acting as International Preliminary Examining  Authority (IPEA) in October 2022.    In a letter received by your firm today (21 November 2022), the applicant asks you to start  immediately the procedure for the grant of a European Patent in respect of PCT-C on the basis of  the documents on which the IPER was based.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What needs to be done and which fees need to be paid to ensure that the EPO starts the  examination under Article 94 EPC as soon as possible?"
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "question_number": 2,
+        "context": "5 points question        On 4 October 2022, applicant E, an inventor having his residence in Argentina, filed a request for  grant of a European patent (EPO Form 1001) together with claims and drawings in Spanish. No  priority was claimed. Applicant E filed only claims and drawings.      On 14 October 2022, applicant E filed the missing description in Spanish at the EPO.      On 27 October 2022, applicant E filed at the EPO a translation of the description, claims and  drawings into English with an accompanying letter and paid the filing and search fees.      Applicant E received from the EPO an invitation dated 4 November 2022 to appoint a  representative.      Today, 21 November 2022, applicant E asks a European patent firm to represent him in  proceedings before the EPO.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which date of filing will be accorded? Why?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Which actions does the representative need to undertake so that the search of the  application can start?"
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "question_number": 3,
+        "context": "5 points question        On 21 November 2022, you receive an e-mail from a lawyer in Spain. He asks you to prepare a  European patent application to be filed by one of the patent attorneys working in your company  claiming the priority of a Spanish patent application ES, containing a description, claims and  drawings, filed in Spanish at the Spanish Patent Office (OEPM) on 19 November 2021.         2 In the text of the e-mail it is only written that the applicant is a university that wants to obtain a  European patent at minimum cost and that the application to be filed is exactly the same as ES.  However, the examination fee should be paid immediately. The e-mail includes two attachments:  one attachment with a copy of ES as filed, and one attachment with the applicant’s name and  contact details. However, the attachments are corrupted and cannot be opened.     In the e-mail the lawyer in Spain informs you that he cannot be contacted today.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "How and by when should the application be filed?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Can you still file the application today if no professional representative is available for  signing?        You are informed that in two days you will get an e-mail from the Spanish lawyer with a new  attachment, and you are also informed that ES has 18 claims and 40 pages."
+            },
+            {
+                "question_number": 3,
+                "question_text": "If a filing date has been accorded, which formal requirements must be fulfilled, and which  fees must be paid for the European patent application to be published? Please also mention the  time limits."
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "question_number": 4,
+        "context": "10 points question       Your client, the company Happycook GmbH is a manufacturer of kitchen appliances with  headquarters in Germany. On 7 October 2021 your client filed a European patent application for  which they validly paid the filing fee and search fee. The Extended European Search Report was  received on 10 May 2022 containing 4 X citations, 2 Y citations and 2 A citations. The report was  analyzed by a patent attorney in your firm who prepared amended description and claims and a  letter with arguments and explanation of the amendments.     Your client approaches you on 1 June 2022 and asks you to file an international patent application  before 15 June 2022.     Your client asks you to include in the filing package for the international patent application not  only the amended description and claims, but also the letter with arguments and explanation of  the amendments.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which procedure makes it possible to include such a letter with arguments and explanation  of the amendments in the filing package of the international patent application?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Which receiving Office(s) and which International Searching Authority(ies) can be selected  when you want to apply this procedure? Please give reasons for your answer."
+            },
+            {
+                "question_number": 3,
+                "question_text": "How can you obtain a patent in Taiwan for this invention?          You file the international patent application on 3 June 2022. The next day it is noted that the filing  date of the priority application was erroneously entered as 10 July 2021. The correct filing date of  the priority application is 7 October 2021."
+            },
+            {
+                "question_number": 4,
+                "question_text": "What is the time limit for correcting this mistake? Please give reasons for your answer.           On 1 September 2022 the International Search Report is received including the Written Opinion.  Unfortunately, the report still cites prior art, and the claims are not yet found novel and inventive.      3 Your client is very eager to get a positive International Preliminary Examination Report (IPER)  before entering the national phase to speed up the process and requests you to file a Demand."
+            },
+            {
+                "question_number": 5,
+                "question_text": "Until when can a Demand be filed? Please give reasons for your answer."
+            },
+            {
+                "question_number": 6,
+                "question_text": "Which office(s) are competent International Preliminary Examining Authorities for that  Demand? Please give reasons for your answer."
+            },
+            {
+                "question_number": 7,
+                "question_text": "Do you need to wait until the application has been published before entry into the  national/regional phase? Please give reasons for your answer."
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "question_number": 5,
+        "context": "5 points question     During oral proceedings on 1 February 2022 the examining division decided to refuse European  patent application EP-A. On 17 March 2022, applicant A received a notification of this decision  dated 14 March 2022.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "When did the time limit for filing a notice of appeal expire?          On 16 May 2022 applicant A filed a notice of appeal and paid the appeal fee.        Consider the following situation:"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Applicant A withdrew the appeal on 5 July 2022 without filing a statement of grounds of  appeal. Will the appeal fee be reimbursed?        On 5 July 2022 applicant A filed a statement of grounds of appeal. In October 2022, applicant A  received a communication under Rule 100(2) EPC from the Board of Appeal. Consider the  following situation:"
+            },
+            {
+                "question_number": 3,
+                "question_text": "In response to the communication, applicant A immediately withdrew the appeal. Will the  appeal fee be reimbursed?"
+            }
+        ],
+        "type": "open"
+    }
+]

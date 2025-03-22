@@ -1,0 +1,94 @@
+[
+    {
+        "context": "1. (4 points)  International application WO-X was filed at the EPO on 27 August 2024. No fees have  been paid.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What fees are due on filing for WO-X? Fee amounts need not be mentioned."
+            },
+            {
+                "question_number": 2,
+                "question_text": "What is the time limit for paying these fees?"
+            },
+            {
+                "question_number": 3,
+                "question_text": "What happens if these fees are not paid within the time limit, and what can you do  about it?"
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "context": "2. (6 points)  On 25 October 2019, the Spanish University Isabel II and the company Tomato Matters  filed a European patent application in Spanish, accompanied by a translation into English.  Tomato Matters employs more than 260 employees.     The University Isabel II has filed two patent applications with the EPO over the past five  years.    On 10 October 2024, Tomato Matters transfers its rights to Naranjas Navel, a company  which employs 9 members of staff and whose annual turnover is EUR 1 million.    Naranjas Navel has never filed any patent applications with the EPO.    In a communication from the EPO under Rule 71(3) EPC dated 10 October 2024, the  name of the applicants is given as: Isabe III (clerical error) and Tomato Matters.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What has to be done to obtain a Unitary Patent as soon as possible for Isabel II and  Naranjas Navel? Is it possible to benefit from the compensation scheme?     Please list the necessary steps at minimum cost. You should identify the fees that have  to be paid, but you do not need to specify their amounts."
+            },
+            {
+                "question_number": 2,
+                "question_text": "Let us now suppose that the request for unitary effect has been refused. What is the  time limit for lodging an application to reverse this decision, and to whom should the  application be addressed?"
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "context": "3. (4 points)  In March 2018, a European patent application was filed in French. A European patent  was granted in June 2023. Unitary effect has been registered and the proprietor has filed  a statement concerning licences of right. The patent has also been validated in Spain and  in Croatia; the European patent is still in force in these states.      The proprietor filed a request for limitation of the patent. The examining division has  issued an interlocutory decision, indicating that the patent with amended claims and an  amended description meets the requirements of the EPC. The mention of the limitation  will be published in the last European Patent Bulletin of 2024.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "To maintain the existing patents, what translations must be filed, at which offices?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Do any fees have to be paid? Fee amounts need not be mentioned."
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "context": "4. (7 points)  European application EP1 was filed online on 2 September 2024 without claiming priority.   You realise today, 10 October 2024, that priority from CN1 filed in Chinese on 31 August  2023 was not claimed.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Explain why it is still possible to claim priority from CN1 and what steps must be taken."
+            },
+            {
+                "question_number": 2,
+                "question_text": "On the same day, you realise that, despite all due care, you filed the description of  another application, instead of the priority application translated into English. It was  intended that EP1 should have the same content as CN1.    How can you correct this? What will be the effect on the filing date?"
+            },
+            {
+                "question_number": 3,
+                "question_text": "What is the consequence with regard to claiming priority from CN1? What action could  be taken?"
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "context": "5 . (6 points)  Inventor Mr Tulip, a Dutch national, filed Dutch national patent application NL-1, which  comprises 50 pages and includes 20 claims, all in the Dutch language . The EPO  established a search report at the request of the Netherlands Patent Office . Mr Tulip then filed an international patent application WO-1, claiming the priority of, and  with the same content (description and claims in Dutch) as, NL-1 . The international publication of WO-1, with the international search report, comprises 45  pages, including 1 page of bibliographic data . The EPO acted as International Searching  Authority . International preliminary examination was requested in time; however, no  amendments were made in the international phase . 30 months have elapsed since the  date of filing of NL-1 . Mr Tulip now asks for an indication of the cost of entry into the European phase, i.e . how  much he will have to pay in official fees over the next 8 months, if all formal requirements  are met but expenses kept to a minimum . This will be his first application with the EPO . Mr Tulip expressly requests that no amendments be made before substantive  examination .",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Please name the fees that need to be paid and state which reductions are available. It is \nsufficient to indicate how to calculate, but it is not necessary to indicate the amounts nor \nto provide full calculations."
+            }
+        ],
+        "type": "open"
+    },
+    {
+        "context": "6. (3 points)  Third-party observations were filed regarding a patent application. They were sent to the  applicant with a communication (Form 2022) dated 22 November 2023.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What did the applicant have to do and by what date?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "The EPO then sent a communication under Art. 94(3) dated 21 December 2023, setting  a period of 4 months to respond. It was received by the applicant on 28 December 2023.  The applicant requested a first extension of 2 months in time, and this was granted by a  communication dated 19 April 2024 and received on 26 April 2024. The applicant wished  to request a second time extension.    What did the applicant then have to do and by what date?"
+            },
+            {
+                "question_number": 3,
+                "question_text": "The second request for extension of time was filed on the last possible date but was  refused. The applicant was then informed by a noting of loss of rights that the application  had been deemed to be withdrawn for failure to file a response in time. Both  communications are dated 12 August 2024 and were received on 19 August 2024.    How can this be remedied and by what date?"
+            }
+        ],
+        "type": "open"
+    }
+]

@@ -1,7 +1,7 @@
  
  
 1
-Q1  
+1.  
 5 points question  
    
 In June 2021, applicant C filed an international patent application PCT-C.    
@@ -21,10 +21,10 @@ In a letter received by your firm today (21 November 2022), the applicant asks y
 immediately the procedure for the grant of a European Patent in respect of PCT-C on the basis of 
 the documents on which the IPER was based. 
  
-Q1 What needs to be done and which fees need to be paid to ensure that the EPO starts the 
+Q1-1 What needs to be done and which fees need to be paid to ensure that the EPO starts the 
 examination under Article 94 EPC as soon as possible?   
     
-Q2  
+2.  
 5 points question   
    
 On 4 October 2022, applicant E, an inventor having his residence in Argentina, filed a request for 
@@ -42,7 +42,7 @@ Q2-1 Which date of filing will be accorded? Why?
 Q2-2 Which actions does the representative need to undertake so that the search of the 
 application can start?    
      
-Q3  
+3.  
 5 points question   
    
 On 21 November 2022, you receive an e-mail from a lawyer in Spain. He asks you to prepare a 
@@ -70,7 +70,7 @@ Q3-3 If a filing date has been accorded, which formal requirements must be fulfi
 fees must be paid for the European patent application to be published? Please also mention the 
 time limits.   
      
-Q4  
+4.
 10 points question  
    
 Your client, the company Happycook GmbH is a manufacturer of kitchen appliances with 
@@ -112,10 +112,10 @@ Q4-5 Until when can a Demand be filed? Please give reasons for your answer.
 Q4-6 Which office(s) are competent International Preliminary Examining Authorities for that 
 Demand? Please give reasons for your answer.    
     
- Q4-7 Do you need to wait until the application has been published before entry into the 
+Q4-7 Do you need to wait until the application has been published before entry into the 
 national/regional phase? Please give reasons for your answer.    
    
-Q5 
+5. 
 5 points question  
  
 During oral proceedings on 1 February 2022 the examining division decided to refuse European 
