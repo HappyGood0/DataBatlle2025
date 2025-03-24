@@ -3,11 +3,13 @@ import os
 
 files = []
 
-json_dir = "Data/EPAC_Exams JSON"
+json_dirs = ["Data/EPAC_Exams JSON"]
 
-for filename in os.listdir(json_dir):
-    if filename.lower().endswith(".json"):
-        files.append(json_dir+"/"+filename)
+
+for json_dir in json_dirs:
+    for filename in os.listdir(json_dir):
+        if filename.lower().endswith(".json"):
+            files.append(json_dir+"/"+filename)
 
 liste = []
 
