@@ -47,21 +47,8 @@
         "questions": [
             {
                 "subquestion_label": "1",
-                "answer": "EP1 was filed within 12 months of CN1 (31 August 2024, extended to 2 September  2024), so priority can be added. The declaration of priority can be made up to 16  months from earliest priority date: 31 December 2024, extended to 2 January 2025.    An applicant wishing to claim priority must file a declaration of priority indicating:",
-                "sub_subquestions": [
-                    {
-                        "sub_sub_label": "i",
-                        "answer": "the date of the previous application"
-                    },
-                    {
-                        "sub_sub_label": "ii",
-                        "answer": "the state or WTO member in or for which it was filed"
-                    },
-                    {
-                        "sub_sub_label": "iii",
-                        "answer": "the application number"
-                    }
-                ]
+                "answer": "EP1 was filed within 12 months of CN1 (31 August 2024, extended to 2 September  2024), so priority can be added. The declaration of priority can be made up to 16  months from earliest priority date: 31 December 2024, extended to 2 January 2025.    An applicant wishing to claim priority must file a declaration of priority indicating: i the date of the previous application ii the state or WTO member in or for which it was filed iii the application number"
+                  
             },
             {
                 "subquestion_label": "2",
