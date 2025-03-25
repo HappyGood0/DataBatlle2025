@@ -1,7 +1,7 @@
  
  
 1
-Legal bases are not necessary to get full points but are indicated in the answers for teaching purposes.  
+
   
 Q1 The applicant has to request entry into the regional phase before the EPO either by using Form 1200 or 
 in a separate letter giving all the information required by Form 1200.    
@@ -63,10 +63,7 @@ EPC) and a translation of this application within the same period (Article 14(
 Submit the designation of inventor; you can use EPO Form 1002 for this.     
 Submit an abstract (Article 78 EPC).     
 Pay the examination fee  (reduced under Rule 6 EPC).  
-  
- 
- 
-2
+
 Within one month of the date of filing:      
 Pay the filing fee, which includes the page fee (5 pages) (reduced under Rule 6 EPC for online filing). 
 Pay the search fee     
@@ -110,7 +107,7 @@ month time limit has expired. An exception applies if the applicant lifts the pr
 this, the applicant has to file a request for early processing (under Article 23(2) or 40(2) PCT) with the 
 designated/elected Office and comply with the requirements for the request to be effective.     
     
- Q5-1 The deadline for filing notice of appeal is 2 months from the date of notification of the decision to 
+Q5-1 The deadline for filing notice of appeal is 2 months from the date of notification of the decision to 
 refuse.    
 Therefore: 
 14 March 2022 + 10 days = 24 March 2022    
@@ -123,9 +120,6 @@ Therefore:
 14 March 2022 + 10 days = 24 March 2022    
 24 March 2022+ 4 months = 24 July 2022 (Sunday)    
 Deadline for filing grounds of appeal = 25 July 2022    
- 
- 
-3
 (Under Rule 103(1)(b)) If the appeal is withdrawn before the grounds of appeal are filed and before the 
 period for filing them has expired, the appeal fee will be reimbursed in full.    
 In this case, the appeal was withdrawn on 5 July 2022. Therefore, the appeal fee will be refunded in full 
