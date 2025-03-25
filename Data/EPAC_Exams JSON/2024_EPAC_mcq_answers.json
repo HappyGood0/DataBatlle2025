@@ -1,0 +1,207 @@
+[
+    {
+        "question_number": 1,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Rule 159(1) EPC The examination fee and designation fee must also be paid (six months after \npublication of search report; payment cannot be postponed to 31 months if there is a \nwish to enter into the European phase at 25 months)."
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "Guidelines for Examination in the EPO, A-X, 5.2.2 \n“The designation fee falls due upon publication of the mention of the European \nsearch report. It may be paid within six months of the mentioned date of publication \n(Rules 39(1), 17(3) and 36(4)). Where paid before the due date, e.g. upon filing of the \napplication, the designation fee will however be retained by the EPO. These \npayments will only be considered valid as from the due date, provided that the \namount paid corresponds to the amount payable on the due date (…)”"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "OJ EPO 2024, Supplementary Publication 2,  Arrangements for deposit accounts \n(ADA), 13.2 \n“13.2: A debit order with a deferred payment date (…) may be revoked in whole or in \npart in Central Fee Payment until one day before the date specified as the execution \ndate at the latest.”"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "Articles 106 and 108 EPC; Article 121(1) EPC; Guidelines for Examination in the \nEPO, E-VIII, 2 \nA notice of appeal could also be filed within two months of notification of the decision; \nre-establishment of rights is excluded because further processing is available."
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Article 115 EPC, Rule 114 EPC; Guidelines for Examination in the EPO, E-VI.3"
+            },
+            {
+                "type": "other",
+                "text": "A. Incorrect: a third party filing observations concerning the patentability of an \napplication or patent is not a party to the proceedings; the applicant may \nrespond to third-party observations but is not obliged to do so \nB. Incorrect: third-party observations may be filed anonymously \nC. Incorrect: there is no official fee when filing third-party observations \nD. Correct"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Rule 40 PCT"
+            },
+            {
+                "type": "other",
+                "text": "A. Incorrect: may be paid but not must be paid \nB. Correct \nC. Incorrect: only one protest fee is due (Rule 40.2(e) PCT) \nD. Incorrect: if the applicant does not pay any additional search fees, the \ninformation appearing in the invitation to pay additional fees will be considered \nto be the result of the international search and will be included as such in the \ninternational search report"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "PCT Applicant's Guide 5.070.; Guidelines for Examination in the EPO A-III, 6.7; \nPCT Applicant’s Guide LU-Luxembourg"
+            },
+            {
+                "type": "other",
+                "text": "A. Only available if the priority application and the PCT application are filed with \nthe same patent office  \nB. Incorrect: the LPTO does not use the DAS access code  \nC. Incorrect: the LPTO does not issue electronic priority documents \nD. Correct"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Article 107 EPC"
+            },
+            {
+                "type": "other",
+                "text": "A. Incorrect: B is not adversely affected \nB. Correct: both parties A and B are adversely affected \nC. Incorrect: third parties are not parties to the proceedings \nD. Incorrect: withdrew its opposition; no longer a party to the proceedings"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "Guidelines for Examination in the EPO, A-X, 5.2.4"
+            },
+            {
+                "type": "other",
+                "text": "The renewal fee that would have been due on 31 October had to be paid for the \ndecision to grant to be issued (this is one of the warnings in the communication under \nRule 71(3) EPC)."
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Rule 126(2) EPC"
+            },
+            {
+                "type": "other",
+                "text": "The document was delivered to the addressee nine days after the date it bears, so \nthe period expires later by the number of days by which the seven days were \nexceeded, i.e. 12 January 2025 + two days. Evidence of late receipt needs to be filed \nwith the response."
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "answer": "B",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "https://www.epo.org/en/applying/myepo-services/interact"
+            },
+            {
+                "type": "other",
+                "text": "A. Incorrect: it is neither possible to access the European Patent Register nor to \nfile using the EPO’s legacy Online Filing software (eOLF) via MyEPO Portfolio \nB. Correct \nC. Incorrect: it is not possible to access the European Publication Server via \nMyEPO Portfolio \nD. Incorrect: it is neither possible to access the European Publication Server nor \nto file using the EPO’s Online Filing 2.0 via MyEPO Portfolio"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "answer": "C",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "OJ EPO 2023, A50, point 20; Contingency Upload Service | epo.org"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "answer": "C",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "Guidelines for Examination in the EPO, A-VII, 3.2; Rule 3(2) EPC"
+            },
+            {
+                "type": "other",
+                "text": "Since the response with the amendments has to be filed within a time limit, the \nFinnish applicant is entitled to file the amended claims in Finnish. \nA translation of a document filed in an admissible non-EPO language into an official \nlanguage of the EPO must be filed within a non-extendable period of one month \n(Rule 6(2) EPC). This means that a translation of the amended claims must be filed \nin the language of proceedings, English in this case (Rule 3(2) EPC)."
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "other",
+                "text": "PCT-EPO Guidelines, B-IV, 1.2."
+            },
+            {
+                "type": "other",
+                "text": "Comments are required but not amendments."
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "answer": "D",
+        "explanation": null,
+        "legal_basis": [
+            {
+                "type": "rule",
+                "text": "Article 6(1) Regulation (EU) No 1260/2012; Rule 6(2)(d) UPR; Unitary Patent Guide, \npara. 65"
+            },
+            {
+                "type": "other",
+                "text": "The translation may be in any of the 24 official languages of the EU, except English, \nirrespective of the language in which the application was filed or the geographical \nextent of the unitary effect."
+            }
+        ]
+    }
+]
