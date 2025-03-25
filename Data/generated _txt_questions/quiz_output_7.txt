@@ -1,0 +1,502 @@
+--- Question 1 (Chunk 230) ---
+1
+
+Question 1: Which of the following is the main purpose of the discretion given to the examining division under Rule 137(3) EPC?
+
+    A) To ensure that the examination procedure is brought to a conclusion in as few actions as possible.
+    B) To ensure that the applicant's interest in obtaining a patent which is legally valid is prioritized over the EPO's interest in bringing the examination procedure to a close.
+    C) To ensure that the EPO's interest in bringing the examination procedure to a close is prioritized over the applicant's interest in obtaining a patent which is legally valid.
+    D) To ensure that the examination procedure is brought to a conclusion in as many actions as possible.
+
+Correct answer: A
+
+Explanation: According to the text, the discretion given to the examining division under Rule 137(3) EPC is intended to ensure that the examination procedure is brought to a conclusion in as few actions as possible. Therefore, option A is the correct answer.
+
+Source: Article 123(1) EPC, Rule 137(1), (2
+
+--- Question 2 (Chunk 231) ---
+1
+
+Question 1: Which of the following is a requirement for the exercise of discretionary power by the examining division under Rule 137(3) EPC?
+
+    A) The examining division must consider all the relevant factors of the specific case.
+    B) The examining division must balance the applicant's interest in obtaining adequate protection for his invention and the EPO's interest in bringing the examination to a close in an effective and speedy way.
+    C) The examining division must give adequate reasons in support of its exercise of discretion in the contested decision.
+    D) The examining division must refuse consent to amend made in advance of any amendment being submitted.
+
+Correct answer: A
+
+Explanation: According to the text, the power of the examining division to consent to amendments under Rule 137(3) EPC is a discretionary power that must be exercised after considering all the relevant factors of the specific case. Therefore, option A is a requirement for the exercise of discretionary power by the examining division under Rule 137(3) EPC.
+
+Source: Article 
+
+--- Question 3 (Chunk 232) ---
+1
+
+Question 1: Which of the following is a requirement for a decision of the EPO to comply with the mandatory requirements of Article 113(1) EPC 1973?
+
+    A) The decision must include several grounds supported by respective arguments and evidence.
+    B) The decision must not include several grounds supported by respective arguments and evidence.
+    C) The decision must not include essential legal and factual reasoning to support a finding that a requirement of the EPC has not been met.
+    D) The decision must include essential legal and factual reasoning to support a finding that a requirement of the EPC has not been met.
+
+Correct answer: D
+
+Explanation: According to the text, a decision of the EPO must include essential legal and factual reasoning to support a finding that a requirement of the EPC has not been met in order to comply with the mandatory requirements of Article 113(1) EPC 1973.
+
+Source: Article 113(1) EPC 1973.
+
+--- Question 4 (Chunk 233) ---
+ Question 1 : Which of the following is the correct statement about the changes to the text intended for grant suggested by the examining divisions?
+
+    A) The new text of R. 71(3) EPC reinstates the pre -2002 practice concerning changes to the text intended for grant suggested by the examining divisions.
+    B) The new text of R. 71(3) EPC was amended in the meantime.
+    C) The new text of R. 71(3) EPC was deleted in the meantime.
+    D) The new text of R. 71(3) EPC was replaced by R. 71a EPC.
+
+Correct answer: A
+
+Explanation: According to the text, the new text of R. 71(3) EPC reinstates the pre -2002 practice concerning changes to the text intended for grant suggested by the examining divisions.
+
+Source : Article 71 EPC.
+
+--- Question 5 (Chunk 234) ---
+1
+
+Question 1: In the case of T 1003/19, which of the following statements is true?
+
+    A) The appellant requested the grant of a patent with any other than the seven drawing sheets as initially submitted and published.
+    B) The communication under R. 71(3) EPC referred to the text intended for grant.
+    C) The appellant expressis verbis approved the amended application documents as referred to in the communication.
+    D) The granted version of the patent corresponded to a text agreed by the appellant.
+
+Correct answer: D
+
+Explanation: According to the text, the granted version of the patent corresponded neither to a text submitted by the appellant nor to a text agreed by it, nor to a text deemed to have been approved by it. Therefore, option D is false.
+
+Source: T 1003/19.
+
+--- Question 6 (Chunk 235) ---
+1
+
+Question 1: Which of the following is the underlying object of the R. 51(6) EPC 1973 communication?
+
+    A) To re-open the examination procedure
+    B) To conclude the granting procedure on the basis of the previously notified and approved text of the application
+    C) To allow amendments at this stage of the pre-grant procedure
+    D) To call into question the outcome of the earlier procedure
+
+Correct answer: B
+
+Explanation: According to the text, the underlying object of the R. 51(6) EPC 1973 communication was to conclude the granting procedure on the basis of the previously notified and approved text of the application.
+
+Source: IV.B.3. The grant stage in examination, 1153, EPC 1973.
+
+--- Question 7 (Chunk 236) ---
+1
+
+Question 1: Which of the following is true about the department of first instance when a case is remitted from the boards of appeal for further prosecution?
+
+    A) The department of first instance is not bound by the ratio decidendi of the board of appeal.
+    B) The department of first instance is bound by the ratio decidendi of the board of appeal only if the facts are not the same.
+    C) The department of first instance is bound by the ratio decidendi of the board of appeal only if the subject-matter of the patent and the relevant state of the art are the same.
+    D) The department of first instance is not bound by the ratio decidendi of the board of appeal in any case.
+
+Correct answer: C
+
+Explanation: According to the text, if a department has to give a decision in a case which has already been remitted by the board of appeal for further prosecution to that department, it is bound by the ratio decidendi of the board of appeal, insofar as the facts, e.g. the subject-matter of the patent and the relevant state of the art, are the same.
+
+
+--- Question 8 (Chunk 237) ---
+ Question 1 : What is the general rule for retraction of a withdrawal of a European patent application?
+
+    A) The retraction of a withdrawal can be allowed if there is a good reason to suspect that the withdrawal was made in error.
+    B) The retraction of a withdrawal can be allowed if the prospects of the application are promising.
+    C) The retraction of a withdrawal can be allowed if the withdrawal was made due to financial considerations.
+    D) The retraction of a withdrawal can be allowed if the withdrawal was made due to business strategy or investor preference.
+
+Correct answer: A
+
+Explanation: According to the text, a third party upon file inspection must have had good reason to suspect that the withdrawal was made in error in order to allow its retraction. Therefore, the general rule for retraction of a withdrawal of a European patent application is that the retraction can be allowed if there is a good reason to suspect that the withdrawal was made in error.
+
+Source: Article 139 EPC and J 6/13, J 12/03, J 18/10.
+
+--- Question 9 (Chunk 238) ---
+ Question 1 : What is the purpose of publishing the specification of the European patent as soon as possible after the mention of the grant of the European patent has been published in the European Patent Bulletin, according to Article 98 EPC?
+
+    A) To provide legal effects with respect to the patent specification
+    B) To facilitate public access to the content of the granted patent, particularly the nature and scope of the invention
+    C) To ensure that the patent specification is published on the same day as the mention of the grant
+    D) To transfer the contents of the specification to the Implementing Regulations
+
+Correct answer: B
+
+Explanation: According to Article 98 EPC, the purpose of publishing the specification of the European patent as soon as possible after the mention of the grant of the European patent has been published in the European Patent Bulletin is to facilitate public access to the content of the granted patent, particularly the nature and scope of the invention.
+
+Source: Article 98 EPC.
+
+--- Question 10 (Chunk 239) ---
+ Question 1 : What is the legal situation when the search division does not comply with Rule 63(1) EPC (failure to communicate with the appellant) and relies on a notice from the EPO concerning business methods?
+
+    A) The search division's actions are open for review by the board.
+    B) The search division's actions are not open for review by the board.
+    C) The search division's actions are open for review by the applicant.
+    D) The search division's actions are not open for review by anyone.
+
+Correct answer: B
+
+Explanation: According to the text, the search division's actions are not open for review by the board (Art. 106(1) EPC).
+
+Source: Article 106(1) EPC and the law text provided.
+
+--- Question 11 (Chunk 240) ---
+1178 : What is the correct interpretation of Rule 86(4) EPC 1973 according to the board's conclusion in the text?
+
+    A) Amended claims may be refused on the basis of R. 86(4) EPC 1973 if the subject-matter of the claims filed originally and that of the amended claims is such that, had all claims originally been filed together, a further search fee would have been payable in respect of the amended claims, relating to a different invention within the meaning of R. 46(1) EPC 1973.
+    B) Amended claims may be refused on the basis of R. 86(4) EPC 1973 if the subject-matter of the claims filed originally and that of the amended claims is such that, had all claims originally been filed together, a further search fee would not have been payable in respect of the amended claims, relating to a different invention within the meaning of R. 46(1) EPC 1973.
+    C) Amended claims may not be refused on the basis of R
+
+--- Question 12 (Chunk 241) ---
+1. Which of the following statements is correct regarding Rule 137(5) EPC?
+
+    A) Rule 137(5) EPC provides a separate legal basis for taking a discretionary decision on the admittance of amended claims.
+    B) Rule 137(5) EPC sets out a mandatory requirement that amended claims must fulfil to be allowable.
+    C) Rule 137(5) EPC refers to the act of making an amendment, but not to the amended claims themselves.
+    D) Rule 137(5) EPC does not lay down substantive requirements, non-compliance with which leads to the refusal of a European patent application under Art. 97(2) EPC.
+
+Correct answer: B
+
+Explanation: According to the text, Rule 137(5) EPC sets out a mandatory requirement that amended claims must fulfil to be allowable. This requirement does not leave any room for discretion on the part of the deciding body.
+
+Source: Article 97(2) EPC and Rule 137(
+
+--- Question 13 (Chunk 242) ---
+1
+
+Question 1: Which of the following is true about the opposition procedure under the EPC?
+
+    A) It is designed to be an extension of the examination procedure.
+    B) It is not an independent procedure following the grant procedure.
+    C) The relief sought by the opponent is refusal of the patent application.
+    D) The opposition procedure before the EPO has several important features more in common with the concept of the traditional grant procedure.
+
+Correct answer: D
+
+Explanation: According to the text, the opposition procedure is an independent procedure following the grant procedure and it has several important features more in common with the concept of the traditional revocation procedure.
+
+Source: Article 1188 EPC, G 1/84, G 9/91, G 10/91.
+
+--- Question 14 (Chunk 243) ---
+1
+
+Question 1: In T 9/00, the board dismissed a later opposition as inadmissible for lack of a general legitimate interest because:
+
+    A) The later opposition did not entail any change in the legal situation in the opposition proceedings compared to the earlier one.
+    B) The later opposition was assigned to a different part of the company and only that part of the company had been transferred to a third party.
+    C) The later opposition was filed by a different person.
+    D) The later opposition was filed after the opposition period had expired.
+
+Correct answer: A
+
+Explanation: According to the text, the board dismissed the later opposition as inadmissible for lack of a general legitimate interest because it did not entail any change in the legal situation in the opposition proceedings compared to the earlier one.
+
+Source: T 9/00 (OJ 2002, 275)
+
+--- Question 15 (Chunk 244) ---
+ Question 1 : What is the correct interpretation of the term "ground for opposition" in the context of Art. 100(a) EPC 1973?
+
+    A) A single legal objection
+    B) A collection of different legal objections
+    C) A legal reason or legal basis for an objection to the maintenance of a patent
+    D) A collection of different legal reasons or legal bases for an objection to the maintenance of a patent
+
+Correct answer: C
+
+Explanation: According to the text, the term "ground for opposition" in the context of Art. 100(a) EPC 1973 refers to an individual legal basis for an objection to the maintenance of a patent. It follows that a "ground for opposition" is a legal reason or legal basis for an objection to the maintenance of a patent. Therefore, option C is the correct interpretation of the term "ground for opposition" in the context of Art. 100(a) EPC 1973.
+
+Source: Article 100(a) EPC 1973 and the reasoning of G 1/9
+
+--- Question 16 (Chunk 245) ---
+1
+
+Question 1: Which of the following is true about the concept of "inadmissibility" in the context of opposition proceedings under the EPC?
+
+    A) The concept of "inadmissibility" is only applicable to the notice of opposition as a whole.
+    B) The concept of "inadmissibility" is only applicable to the notice of opposition in part.
+    C) The concept of "inadmissibility" is applicable to the opposition as a whole and in part.
+    D) The concept of "inadmissibility" is not applicable to the opposition proceedings under the EPC.
+
+Correct answer: A
+
+Explanation: According to the text, the concept of "inadmissibility" is only applicable to the notice of opposition as a whole.
+
+Source: IV.C.2.2.8 of the law text.
+
+--- Question 17 (Chunk 246) ---
+1
+
+Question 1: Which of the following is a requirement for an allegation of public prior use to meet the third requirement of Rule 76(2)(c) EPC?
+
+    A) The notice of opposition must indicate the arguments and evidence in support of the alleged prior use.
+    B) The notice of opposition must indicate the date of the prior use.
+    C) The notice of opposition must indicate the object of the use.
+    D) The notice of opposition must indicate the circumstances relating to the alleged use.
+
+Correct answer: D
+
+Explanation: According to the text, when an opposition ground is based on an allegation of public prior use, the requirements of Rule 76(2)(c) EPC are fulfilled if the notice of opposition indicates, within the opposition period, the facts which make it possible to determine the circumstances relating to the alleged use ("how") in order to confirm its availability to the public.
+
+Source: Article 1208, Rule 76(2)(c) EPC.
+
+--- Question 18 (Chunk 247) ---
+1. Which of the following is true about the extent of opposition in the context of the European patent opposition procedure?
+
+    A) The opposition division or board of appeal can only examine and decide on the maintenance of a European patent under Art. 101 and 102 EPC 1973 if the patent is opposed in its entirety in the notice of opposition.
+    B) Even if the opposition is expressly directed only against the subject-matter of an independent claim in a European patent, claims which depend on any such independent claim can still be examined as to their patentability if the independent claim is eliminated in opposition or appeal proceedings, provided that the validity of these dependent claims is put in doubt prima facie by the information which is already available.
+    C) The opposition division or board of appeal can only examine and decide on the maintenance of a European patent under Art. 101 and 102 EPC 1973 if the patent is opposed in the notice of opposition in the same way as it was granted.
+    D) The opposition division or board of appeal can only examine and decide on the maintenance of a European patent under Art. 101 and 1
+
+--- Question 19 (Chunk 248) ---
+1
+
+Question 1: Which of the following is true about the objection of lack of inventive step in opposition proceedings?
+
+    A) It is a fresh ground for opposition and can be examined in the appeal proceedings without the agreement of the patentee.
+    B) It is a fresh ground for opposition and can be examined in the appeal proceedings only with the agreement of the patentee.
+    C) It is not a ground for opposition and can be examined in the appeal proceedings without the agreement of the patentee.
+    D) It is not a ground for opposition and can be examined in the appeal proceedings only with the agreement of the patentee.
+
+Correct answer: A
+
+Explanation: According to the text, the objection of lack of inventive step does not constitute a fresh ground for opposition and can therefore be examined in the appeal proceedings without the agreement of the patentee (T 597/07 ; see also T 131/01 , OJ 2003, 115).
+
+Source: Opposition procedure, text provided.
+
+--- Question 20 (Chunk 249) ---
+1
+
+Question 1: Which of the following is the duty of an opponent in an opposition procedure according to the EPC provisions?
+
+    A) To submit all their objections during the opposition period, setting each out in full
+    B) To submit all their objections during the appeal period, setting each out in full
+    C) To submit all their objections during the grant procedure, setting each out in full
+    D) To submit all their objections during the oral proceedings, setting each out in full
+
+Correct answer: A
+
+Explanation: According to the text, the opponents are required to submit all their objections during the opposition period, setting each out in full. This is reflected in the EPC provisions governing the handling of late submissions: Art. 114(2) EPC, R. 76(2)(c) EPC for the opposition procedure.
+
+Source: IV.C.4. Late sub mission of documents, lines of attack and arguments, T 117/86, OJ 1989, 401.
+
+--- Question 21 (Chunk 250) ---
+1
+
+Question 1: Which of the following is not a rule regarding the discretionary power of the opposition division in relation to the admission of late-filed submissions?
+
+    A) The opposition division has to exercise its discretion reasonably after hearing the parties, including in oral proceedings if requested.
+    B) The opposition division has to review all the facts and circumstances of the case as if it were in the place of the department of first instance in order to decide whether or not it would have exercised such discretion in the same way.
+    C) The opposition division has the discretionary power to disregard a party's submission in the appeal proceedings if it was not admitted by the opposition division.
+    D) The opposition division has to consider the correct criterion, prima facie relevance, and has to do so in detail and in a reasoned manner.
+
+Correct answer: B
+
+Explanation: According to the text, the opposition division has to exercise its discretion reasonably after hearing the parties, including in oral proceedings if requested. However, it is not the function of the opposition division to review all the facts and circumstances of the case as if it were in the place
+
+--- Question 22 (Chunk 251) ---
+1
+
+Question 1: Which of the following is true according to the text?
+
+    A) A new argument can be presented at any stage in the proceedings.
+    B) A new argument can be presented only if it is based on facts and evidence already put forward.
+    C) A new argument can be presented only if it is based on a new alleged fact.
+    D) A new argument can be presented only if it is based on a new piece of evidence.
+
+Correct answer: A
+
+Explanation: According to the text, new arguments can be made at any stage in the proceedings.
+
+Source: IV.C.4. Late submission of documents, lines of attack and arguments, 1234 of the text.
+
+--- Question 23 (Chunk 252) ---
+1. Question : Which of the following is a ground for opposition under Art. 100 EPC?
+
+    A) Lack of clarity of the claims
+    B) The claims are not supported by the description
+    C) The claims are not supported by the drawings
+    D) The claims are not novel
+
+Correct answer: D
+
+Explanation: According to the text, an opposition cannot be lodged on the basis that the claims lack clarity. Therefore, lack of clarity of the claims is not a ground for opposition under Art. 100 EPC. On the other hand, the claims being not novel is a ground for opposition under Art. 100 EPC.
+
+Source: Article 100 EPC.
+
+--- Question 24 (Chunk 253) ---
+ Question 1 : Which of the following is a reason for a patent proprietor not to be allowed to amend a request in opposition proceedings?
+
+    A) The request is filed in direct response to a change in the subject of the proceedings
+    B) The request is filed after the opposition division has decided not to admit a late-filed document
+    C) The request is filed during oral proceedings
+    D) The request is filed in due time
+
+Correct answer: B
+
+Explanation: According to the text, in T 487/13, the opposition division did not respect the appellant's right to be heard by deciding not to admit auxiliary requests directly after late-filed document D10 was admitted into the proceedings. This means that filing a request after the opposition division has decided not to admit a late-filed document is a reason for a patent proprietor not to be allowed to amend a request in opposition proceedings.
+
+Source: T 487/13.
+
+--- Question 25 (Chunk 254) ---
+1
+
+Question 1: Which of the following is true about amending a non-opposed sub-claim in opposition proceedings?
+
+    A) The subject matter of a non-opposed claim is the subject of an "opposition" within the meaning of Art. 101 and Art. 102 EPC 1973.
+    B) The subject matter of a non-opposed claim is the subject of "proceedings" within the meaning Art. 114 and Art. 115 EPC.
+    C) A sub-claim that is combined with a main claim and then requested as a new main claim does not have to be examined as to its form and substance in order to ascertain whether or not the combination of the claims has extended the protection sought.
+    D) The theoretical legal construct underlying the decision in G 9/91 is that there are no proceedings within the meaning of Art. 114 or Art. 115 EPC in opposition proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, the board found that the theoretical legal construct underlying the decision in G 9/91
+
+--- Question 26 (Chunk 255) ---
+1
+
+Question 1: Which of the following is the correct statement about the examination of amended claims for clarity in opposition proceedings?
+
+    A) The amended claims may generally be examined for clarity on a case-by-case basis irrespective of the kind of amendment.
+    B) The amended claims may only be examined for clarity when the amendment introduces non-compliance with Art. 84 EPC.
+    C) The amended claims may never be examined for clarity in opposition proceedings.
+    D) The amended claims may only be examined for clarity when the amendment is a simple combination of granted claims or the mere deletion or exclusion of embodiments.
+
+Correct answer: A
+
+Explanation: According to the text, amended claims may generally be examined for clarity on a case-by-case basis irrespective of the kind of amendment.
+
+Source: IV.C.5. Amendments to claims, description and drawings in opposition proceedings, 1253.
+
+--- Question 27 (Chunk 256) ---
+ Question 1 : What is the minimum period of time that a recipient of an EPO communication has to reply to it, if the communication does not set a time limit for response?
+
+    A) One month
+    B) Two months
+    C) Three months
+    D) Four months
+
+Correct answer: A
+
+Explanation: According to the text, in the case of a communication which was issued for information purposes only and which did not set a time limit for response, a period of one month suffices as a rule to comply with the requirements of Art. 113 EPC.
+
+Source: Article 113 EPC.
+
+--- Question 28 (Chunk 257) ---
+1
+
+Question 1: Which of the following is true about the opposition division's power to make substantive interlocutory decisions during opposition proceedings?
+
+    A) The opposition division can make a final interlocutory decision that a particular proposed amendment contravenes Art. 123 EPC.
+    B) The opposition division can make a final interlocutory decision during an opposition that the main claim of the opposed patent cannot be maintained.
+    C) The opposition division can continue examination of the opposition in relation to the issues which were the subject of a final substantive decision.
+    D) The opposition division can make a final substantive decision only after deciding to maintain the patent in amended form.
+
+Correct answer: A
+
+Explanation: According to the text, the opposition division can make a final interlocutory decision that a particular proposed amendment contravenes Art. 123 EPC. This is not a decision to maintain the patent in amended form, but it is a substantive interlocutory decision.
+
+Source: IV.C.8. Decis ions of opposition division, paragraph 1263.
+
+--- Question 29 (Chunk 258) ---
+ Question 1 : Which of the following is not a requirement for the form of the statement of grounds of appeal according to the text?
+
+    A) The statement of grounds of appeal must be in writing.
+    B) The statement of grounds of appeal must be filed within the time limit.
+    C) The statement of grounds of appeal must contain a direct link between the contested decision and the statement of grounds of appeal.
+    D) The statement of grounds of appeal must be in the language of the proceedings.
+
+Correct answer: A
+
+Explanation: According to the text, the statement of grounds of appeal must be in writing and filed within the time limit. However, there is no explicit requirement that the statement of grounds of appeal must be in the language of the proceedings.
+
+Source : Article 12(3) RPBA 2020.
+
+--- Question 30 (Chunk 259) ---
+4.5.6 New requests filed – no exceptional circumstances established
+
+Question i: Which of the following is a reason for the board to establish that no exceptional circumstances have been demonstrated for the late filing of new requests?
+
+    A) The requested amendments could already have been filed in opposition proceedings
+    B) The board's preliminary opinion contains objections or arguments that were already part of the proceedings
+    C) The requested amendments address all pending objections and thus avoid oral proceedings
+    D) The requested amendments are detrimental to procedural economy and affect other parties
+
+Correct answer: B
+
+Explanation: According to the text, if the preliminary opinion of the board contains objections or arguments that were already part of the proceedings, it is a reason for the board to establish that no exceptional circumstances have been demonstrated for the late filing of new requests.
+
+Source: Article 4.5.6 of the law text.
+
+--- Question 31 (Chunk 260) ---
+1. Question : Which of the following is a fundamental deficiency that can lead to a remittal of a case to the department of first instance?
+
+    A) A minor error in the decision
+    B) A violation of the right to be heard
+    C) A missing signature
+    D) A failure to hold oral proceedings
+
+Correct answer: B
+
+Explanation: According to the text, fundamental deficiencies can include a violation of the right to be heard. Therefore, option B is a fundamental deficiency that can lead to a remittal of a case to the department of first instance.
+
+Source: Article 9.4.4 of the text.
+
+--- Question 32 (Chunk 261) ---
+1.3.1 Question i : What is the basic character of the suspensive effect of the appeal under Art. 106(1), second sentence, EPC?
+
+    A) It is tailored to the standard case of an appeal filed by a party to the preceding proceedings who was adversely affected by a decision issued in them and who is seeking redress for a grievance which is not appealable as such.
+    B) It is tailored to the standard case of an appeal filed by a party to the preceding proceedings who was adversely affected by a decision issued in them and who is seeking redress for a grievance which is appealable as such.
+    C) It is tailored to the standard case of an appeal filed by a party who was not adversely affected by a decision issued in the preceding proceedings and who is seeking redress for a grievance which is appealable as such.
+    D) It is tailored to the standard case of an appeal filed by a party who was not adversely affected by a decision issued in the preceding proceedings and who is seeking redress for a grievance which is not appealable as such.
+
+Correct answer:
+
+--- Question 33 (Chunk 262) ---
+ Question 1 : Which of the following is an example of an appealable decision?
+
+    A) A communication from the Legal Division to deny the opponent party status in the proceedings pursuant to R. 142 EPC and its resulting refusal to consider the observations and requests submitted by the opponent.
+    B) A request under R. 89 EPC 1973 (R. 140 EPC) for correction of a contested decision.
+    C) A communication under R. 57(1) EPC 1973 (R. 79 EPC, T 222/85 , OJ 1988,  128), or R. 69(1) EPC 1973  (R. 112 EPC, J 13/83 ).
+    D) A decision by a director on a request for inspection of file.
+
+Correct answer: A
+
+Explanation: According to the text, a document issued by a department of the EPO that does not have jurisdiction may constitute a decision. In this case, the communication from the Legal
+
+--- Question 34 (Chunk 263) ---
+ Question 1 : Which of the following decisions is to be decided by the Legal Board of Appeal?
+
+    A) An appeal against the decision of the examining division refusing a request for corrections under R. 88 EPC 1973 (R. 139 EPC) filed before grant of the patent.
+    B) An appeal against the decision of the examining division refusing a request for corrections under R. 88 EPC 1973 (R. 139 EPC) filed after grant of the patent.
+    C) An appeal against the decision of the Legal Board of Appeal refusing a request for corrections under R. 88 EPC 1973 (R. 139 EPC) filed before grant of the patent.
+    D) An appeal against the decision of the Legal Board of Appeal refusing a request for corrections under R. 88 EPC 1973 (R. 139 EPC) filed after grant of the patent.
+
+Correct answer: B
+
+Explanation: According to the text, an appeal against the decision of the examining division refusing
+
+--- Question 35 (Chunk 264) ---
+1
+
+Question 1: In which of the following cases was the appellant not adversely affected by the decision to grant a patent?
+
+    A) The appellant was not provided with the requested drawing sheets in the text of the granted patent.
+    B) The appellant was provided with the requested drawing sheets in the text of the granted patent but did not explicitly approve them.
+    C) The appellant was provided with the requested drawing sheets in the text of the granted patent and explicitly approved them.
+    D) The appellant was not provided with any drawing sheets in the text of the granted patent and did not explicitly approve them.
+
+Correct answer: B
+
+Explanation: In T 646/20, the appellant had approved the text intended for grant and the corresponding bibliographical data. However, in this case, the appellant did not explicitly approve the requested drawing sheets, but approval was rather deemed to have been given. Therefore, the appellant was not adversely affected by the decision to grant a patent.
+
+Source: T 646/20.
+

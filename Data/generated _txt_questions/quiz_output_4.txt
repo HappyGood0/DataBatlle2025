@@ -1,0 +1,608 @@
+--- Question 1 (Chunk 123) ---
+ Question 1 : Which of the following is a reason for allowing the replacement of an added undisclosed feature by another feature disclosed in the application as filed without violating Article 123(3) EPC?
+
+    A) The replacement feature does not limit the scope of protection.
+    B) The replacement feature is not disclosed in the application as filed.
+    C) The replacement feature is not a feature of the invention.
+    D) The replacement feature is not a feature of the granted claim.
+
+Correct answer: A
+
+Explanation: According to the text, in T 166/90, the board allowed the replacement of an added undisclosed feature in a granted claim by other disclosed features since this did not extend the scope of protection. This means that the replacement feature must limit the scope of protection, which is option A.
+
+Source: Article 123(3) EPC and T 166/90.
+
+--- Question 2 (Chunk 124) ---
+ Question 1 : Which of the following is the correct wording of Rule 139 EPC regarding the correction of errors in the description, claims and drawings?
+
+    A) Linguistic errors, errors of transcription and mistakes in any document filed with the EPO may be corrected on request; however, if the request for such correction concerns the description, claims or drawings, the correction must be obvious in the sense that it is immediately evident that nothing else would have been intended than what is offered as the correction.
+    B) Linguistic errors, errors of transcription and mistakes in any document filed with the EPO may be corrected on request; however, if the request for such correction concerns the description, claims or drawings, the correction must be obvious in the sense that it is immediately evident that nothing else would have been intended than what is offered as the correction, except for editorial changes.
+    C) Linguistic errors, errors of transcription and mistakes in any document filed with the EPO may be corrected on request; however, if the request for such correction concerns the description, claims or drawings, the correction must be obvious in the sense that it is immediately evident that nothing else would have been intended than what is offered as
+
+--- Question 3 (Chunk 125) ---
+ Question 1 : Which of the following is the correct criterion for allowing a correction under Rule 139 EPC?
+
+    A) The correction must be obvious in the sense that nothing else would have been intended than what is offered as the correction.
+    B) The correction must be obvious in the sense that the skilled person would immediately consider the correction as the only possible one.
+    C) The correction must be obvious in the sense that the correction is found in one passage of the description as filed.
+    D) The correction must be obvious in the sense that the correction is not one of several options which would occur to the skilled person.
+
+Correct answer: A
+
+Explanation: According to the text, the correction must be obvious in the sense that nothing else would have been intended than what is offered as the correction. This is the criterion for allowing a correction under Rule 139 EPC.
+
+Source: The text provided.
+
+--- Question 4 (Chunk 126) ---
+ Question 1: What is the subject matter of a divisional application according to the EPC?
+
+    A) Subject matter that extends beyond the content of the earlier application as filed.
+    B) Subject matter that is identical to the content of the earlier application as filed.
+    C) Subject matter that is not derivable from the content of the earlier application as filed.
+    D) Subject matter that is not accorded the same filing date as the parent application.
+
+Correct answer: B
+
+Explanation: According to the text, a divisional application may be filed only in respect of subject matter which does not extend beyond the content of the earlier application as filed (Art. 76(1), second sentence, EPC). Therefore, the subject matter of a divisional application should be identical to the content of the earlier application as filed.
+
+Source: Article 76(1), second sentence, EPC.
+
+--- Question 5 (Chunk 127) ---
+1
+
+Question 1: Which of the following is true about amendments to a divisional application?
+
+    A) Amendments to a divisional application must meet the requirements of Art. 76(1) EPC but not Art. 123(2) EPC.
+    B) Amendments to a divisional application must meet the requirements of both Art. 76(1) EPC and Art. 123(2) EPC.
+    C) Amendments to a divisional application must meet the requirements of Art. 76(1) EPC but only if they do not introduce new subject matter.
+    D) Amendments to a divisional application must meet the requirements of Art. 123(2) EPC but not Art. 76(1) EPC.
+
+Correct answer: B
+
+Explanation: According to the text, if a divisional application is amended, it must meet both the requirements of Art. 76(1) EPC and those of Art. 123(2) EPC. This means that both provisions must be complied with in order
+
+--- Question 6 (Chunk 128) ---
+1
+
+Question 1: Which of the following is the correct statement about the filing date attributed to a divisional application?
+
+    A) The filing date of a divisional application can be attributed to the date of filing of the divisional application.
+    B) The filing date of a divisional application can be attributed to the date of filing of the earlier application as filed.
+    C) The filing date of a divisional application can be attributed to the date of filing of the parent application.
+    D) The filing date of a divisional application can be attributed to the date of filing of the latest divisional application in a sequence of divisional applications.
+
+Correct answer: B
+
+Explanation: According to the text, the filing date of a divisional application can be attributed to the date of filing of the earlier application as filed, as long as the subject matter of the divisional application does not extend beyond the content of the earlier application as filed.
+
+Source: Article 76(1), second sentence, EPC 1973.
+
+--- Question 7 (Chunk 129) ---
+1
+
+Question 1: Which of the following is true about a divisional application under the EPC?
+
+    A) A divisional application can be filed after the applicant approves the text in which the patent is to be granted.
+    B) A divisional application can be filed after the parent application has been withdrawn.
+    C) A divisional application can be filed after the parent application has been finally refused.
+    D) A divisional application can be filed after the withdrawal of the divisional application has been corrected.
+
+Correct answer: B
+
+Explanation: According to the text, an applicant could only file a divisional application relating to any pending earlier European patent application. The Legal Board saw no difference between the case of an application deemed to be withdrawn due to the non-payment of fees and an application that had been voluntarily withdrawn by a communication from the applicant. In neither case was the withdrawal the result of a decision taken by the Office. Therefore, a divisional application can be filed after the parent application has been withdrawn.
+
+Source: Article 67(4) EPC and decision J 4/11, OJ 20
+
+--- Question 8 (Chunk 130) ---
+ Question 1 : What is the legal basis for the prohibition of double patenting in the European Patent Convention (EPC)?
+
+    A) Article 76(1) EPC
+    B) Article 97(2) and 125 EPC
+    C) Article 52(2) and (3) EPC
+    D) Article 88 EPC
+
+Correct answer: B
+
+Explanation: According to the text, the European patent application can be refused under Art. 97(2) and 125 EPC if it claims the same subject-matter as a European patent which has been granted to the same applicant and does not form part of the state of the art pursuant to Art. 54(2) and (3) EPC. This means that the legal basis for the prohibition of double patenting is Art. 97(2) and 125 EPC.
+
+Source: Article 97(2) and 125 EPC.
+
+--- Question 9 (Chunk 131) ---
+ Question 1: Which of the following is the correct statement about the principle of the protection of legitimate expectations according to the provided text?
+
+    A) The principle of the protection of legitimate expectations applies only to the applicability of the prohibition during substantive examination proceedings under Art. 94 EPC before the examining division.
+    B) The principle of the protection of legitimate expectations applies to all procedural actions taken by EPO employees vis-à-vis parties to proceedings.
+    C) The principle of the protection of legitimate expectations only protects parties from disadvantageous procedural consequences of the omission of procedural steps, in relying on erroneous information from the EPO.
+    D) The principle of the protection of legitimate expectations applies to both ex parte and inter partes proceedings, but only for applicants and not for opponents.
+
+Correct answer: C
+
+Explanation: According to the text, the principle of the protection of legitimate expectations applies to all procedural actions taken by EPO employees vis-à-vis parties to proceedings (T 160/92, OJ 1995, 35; see also T 343/95
+
+--- Question 10 (Chunk 132) ---
+1
+
+Question 1: In T 590/18, what must the appellant prove to have the debit order filed on paper (EPO Form 1010) after 1 December 2017 accepted as a valid payment of the appeal fee?
+
+    A) That the appellant had no knowledge of the change to fee payment methods
+    B) That the appellant had seen still current information clearly indicating the option of paying this way on the EPO website after the entry into force of the change to fee payment methods
+    C) That the appellant had not been notified that the change of representative had been registered
+    D) That the appellant had no knowledge of the decision of the President of the European Patent Office dated 12 July 2007 concerning the filing of patent applications and other documents by facsimile
+
+Correct answer: B
+
+Explanation: According to the text, the debit order filed on paper (EPO Form 1010) after 1 December 2017 could at most be accepted as a valid payment of the appeal fee if the appellant could successfully claim to
+
+--- Question 11 (Chunk 133) ---
+ Question 1 : In J 8/18, the appellant could rely on the information provided by the EPO on the reduced fee for appeal, assuming that its appeal would either be deemed filed or admissible following the refund of the regular appeal fee before the file was transferred to the boards of appeal.
+
+    A) The appellant could rely on the information provided by the EPO on the reduced fee for appeal, assuming that its appeal would be deemed filed or admissible following the refund of the regular appeal fee before the file was transferred to the boards of appeal.
+    B) The appellant could not rely on the information provided by the EPO on the reduced fee for appeal, assuming that its appeal would be deemed filed or admissible following the refund of the regular appeal fee before the file was transferred to the boards of appeal.
+    C) The appellant could rely on the information provided by the EPO on the reduced fee for appeal, assuming that its appeal would be deemed filed or admissible following the refund of the regular appeal fee after the file was transferred to the boards of appeal.
+    D) The appellant could not rely on the information provided by the EPO on the
+
+--- Question 12 (Chunk 134) ---
+1
+
+Question 1: Which of the following is not a reason for the EPO not to warn a party of deficiencies in the filing of a document?
+
+    A) The deficiency is not readily identifiable.
+    B) The party itself has the responsibility to take all necessary steps to avoid a loss of rights.
+    C) The party has a legitimate expectation that the EPO will check application documents for completeness on the very day it receives them.
+    D) The EPO has a duty to warn the party under the principle of good faith.
+
+Correct answer: C
+
+Explanation: According to the text, the EPO is not obliged to scrutinise submissions for deficiencies. Furthermore, no legitimate expectations concerning the validity of an application may be based on the fact that an application has been published. Therefore, option C is not a reason for the EPO not to warn a party of deficiencies in the filing of a document.
+
+Source: T 1764/08.
+
+--- Question 13 (Chunk 135) ---
+ Question 1 : Which of the following is not a principle related to the right to be heard under Article 113(1) EPC?
+
+    A) The decisions of the EPO may only be based on grounds or evidence on which the parties concerned have had an opportunity to present their comments.
+    B) The right to be heard is a fundamental principle intended to ensure that no party is caught unaware by grounds and evidence in a decision turning down a request on which that party has not had the opportunity to comment.
+    C) The right to be heard is a fundamental procedural principle, being part of the right to be heard, such that any infringement of it, even as the result of a mistaken interpretation of a request, must, in principle, be considered to be a substantial procedural violation.
+    D) The right to be heard is a procedural principle that ensures that each party should have a proper opportunity to reply to the case presented by an opposing party.
+
+Correct answer: D
+
+Explanation: The right to be heard under Article 113(1) EPC ensures that the parties have an opportunity to present their comments on the grounds or evidence on which the decisions
+
+--- Question 14 (Chunk 136) ---
+ Question 1 : Which of the following is not a requirement for the right to be heard under Article 113(1) EPC?
+
+    A) The applicants must be able to understand the factual basis of an objection against the grant of a patent.
+    B) Parties may be taken by surprise by the reasons for a decision.
+    C) Parties are entitled to advance indications of all reasons for a decision in detail.
+    D) Parties must be given sufficient opportunity to comment on a new ground for opposition.
+
+Correct answer: B
+
+Explanation: According to the text, parties may not be taken by surprise by the reasons for a decision, but they are not entitled to advance indications of all reasons for a decision in detail. Therefore, option B is not a requirement for the right to be heard under Article 113(1) EPC.
+
+Source: Article 113(1) EPC and T 1634/10, T 2405/10, T 1378/11 and T 1090/18.
+
+--- Question 15 (Chunk 137) ---
+1. In which of the following cases did the board find that a substantial procedural violation had occurred?
+
+    A) T 655/13
+    B) T 1385/16
+    C) T 1230/15
+    D) T 1240/15
+
+Correct answer: B
+
+Explanation: In T 1385/16, the board found that the examining division had failed to address fundamental submissions made by the appellant in the decision under appeal, which constituted a substantial procedural violation.
+
+Source: T 1385/16.
+
+--- Question 16 (Chunk 138) ---
+ Question 1 : Which of the following is a requirement for a decision to comply with Article 113(1) EPC?
+
+    A) The decision must be based on grounds on which the applicant has had an opportunity to present comments.
+    B) The decision must be based on a single communication.
+    C) The decision must be based on a factual basis that is not sufficiently given in the single communication.
+    D) The decision must be based on a factual basis that is sufficiently given in the single communication.
+
+Correct answer: A
+
+Explanation: According to the text, a decision must comply with Article 113(1) EPC, i.e. must be based on grounds on which the applicant has had an opportunity to present comments. Therefore, option A is a requirement for a decision to comply with Article 113(1) EPC.
+
+Source: The text provided.
+
+--- Question 17 (Chunk 139) ---
+ Question 1 : In which of the following cases was the right to be heard under Article 113(1) EPC not violated?
+
+    A) The opposition division refused to consider new objections raised by the opponent only during the oral proceedings, even though the appellant had not had an opportunity to reply to these new objections.
+    B) The opposition division refused to consider new objections raised by the opponent only during the oral proceedings, but the appellant had been aware that such prior art existed, and had thus had sufficient time to consider it in full. Furthermore, he had not requested any additional time and had not asked for an adjournment.
+    C) The opposition division refused to consider new objections raised by the opponent only during the oral proceedings, but the appellant had requested additional time and had asked for an adjournment.
+    D) The opposition division refused to consider new objections raised by the opponent only during the oral proceedings, but the appellant had not been aware that such prior art existed, and had thus not had sufficient time to consider it in full.
+
+Correct answer: B
+
+Explanation: In the case described in T 
+
+--- Question 18 (Chunk 140) ---
+1
+
+Question 1: Which of the following is a consequence of a party's decision to surrender its right to be heard under Article 113(1) EPC?
+
+    A) The party can no longer present its comments on any objections, facts, grounds or evidence which could be introduced into the proceedings by the other party or the board.
+    B) The party can still present its comments on any objections, facts, grounds or evidence which could be introduced into the proceedings by the other party or the board.
+    C) The party can present its comments on any objections, facts, grounds or evidence which could be introduced into the proceedings by the other party or the board, but only if the other party or the board allows it.
+    D) The party can present its comments on any objections, facts, grounds or evidence which could be introduced into the proceedings by the other party or the board, but only if the other party or the board is obliged to allow it.
+
+Correct answer: A
+
+Explanation: According to the text, a party's decision to surrender its right to be heard under Article 113(1) EPC means that the party
+
+--- Question 19 (Chunk 141) ---
+ Question 1 : Which of the following is the correct statement about the EPO's ability to depart from a request once made?
+
+    A) The EPO can grant or deny the request, but can also grant more, less or something different.
+    B) The EPO can grant or deny the request, but can also refuse the application if there is no clear request at all.
+    C) The EPO can grant or deny the request, but can also accept any amendment which the applicant might propose.
+    D) The EPO cannot grant or deny the request, it can only refuse the application if there is no clear request at all.
+
+Correct answer: B
+
+Explanation: According to the text, the EPO cannot depart from a request once made. It can only grant or deny the request; it cannot grant more, less or even something different. Unless a grantable text is submitted, at least auxiliarily, the request is rejected in full. Therefore, option B is the correct statement about the EPO's ability to depart from a request once made.
+
+Source: Article 113(2) EPC.
+
+--- Question 20 (Chunk 142) ---
+ Question 1 : Which of the following is a valid reason for postponing oral proceedings?
+
+    A) The representative is unable to identify an authorised person.
+    B) The representative is on a business trip.
+    C) The representative is speaking at a conference.
+    D) The representative is on a national holiday.
+
+Correct answer: A
+
+Explanation: According to the text, there are several reasons for postponing oral proceedings, including the unavailability of an accompanying person, which is mentioned in Article 15(2)(c)(iv) RPBA 2020. One of the reasons for this unavailability could be that the representative is unable to identify an authorised person. Therefore, option A is a valid reason for postponing oral proceedings.
+
+Source: Article 15(2)(c)(iv) RPBA 2020.
+
+--- Question 21 (Chunk 143) ---
+ Question 1 : What is the main consideration for the examining division when deciding whether to hold oral proceedings under Article 116(1) EPC?
+
+    A) Procedural economy
+    B) Complete lack of progress in the examination
+    C) The subjective assessment of the division
+    D) The condition of a complete lack of progress in the examination proceedings
+
+Correct answer: A
+
+Explanation: According to the text, the main consideration for the examining division when deciding whether to hold oral proceedings under Article 116(1) EPC is procedural economy.
+
+Source: Article 116(1) EPC and T 1734/10.
+
+--- Question 22 (Chunk 144) ---
+1
+
+Question 1: In which of the following situations can the board of appeal refuse to hold oral proceedings a second time, even if it was intended to discuss the allowability of proposed amendments already judged as inadmissible?
+
+    A) The proposed amendments were judged as inadmissible by the examining division, not the board of appeal.
+    B) The proposed amendments were judged as inadmissible by the board of appeal, but the legal consequence of this was that they were never integrated into the text of the application and never became part of it.
+    C) The proposed amendments were judged as inadmissible by the board of appeal, but the legal consequence of this was that they were integrated into the text of the application and became part of it.
+    D) The proposed amendments were judged as admissible by the board of appeal, but the legal consequence of this was that they were never integrated into the text of the application and never became part of it.
+
+Correct answer: B
+
+Explanation: According to the text, the board of appeal can refuse to hold oral proceedings a second time if the proposed
+
+--- Question 23 (Chunk 145) ---
+6.1.3 : What is the minimum requirement for a request for changing the date of oral proceedings?
+
+    A) The request must be filed in writing
+    B) The request must be filed by the party
+    C) The request must be filed as soon as possible after the summons to oral proceedings has been received
+    D) The request must be supported by documentary evidence
+
+Correct answer: C
+
+Explanation: According to the text, a request for changing the date of oral proceedings may be allowed if the party has put forward serious reasons which justify the fixing of a new date. The request shall be filed as soon as possible after the summons to oral proceedings has been received. Therefore, the minimum requirement for a request for changing the date of oral proceedings is that it must be filed as soon as possible after the summons to oral proceedings has been received.
+
+Source: Article 15(2)(a) RPBA 2020.
+
+--- Question 24 (Chunk 146) ---
+1
+
+Question 1: Which of the following is a reason for postponing oral proceedings according to the EPC?
+
+    A) The desire of a party to be present at oral proceedings
+    B) Flight cancellation along with impossibility of using other travel means
+    C) Late receipt of board's communication
+    D) Attendance of one of the inventors is relevant for the discussion of formal and substantive points in the oral proceedings
+
+Correct answer: B
+
+Explanation: According to the text, in T 174/16, the board held that it was unreasonable to consider a flight cancellation, along with the impossibility of using other travel means, not to constitute "serious reasons" within the meaning of the relevant provisions. Therefore, flight cancellation along with impossibility of using other travel means is a reason for postponing oral proceedings according to the EPC.
+
+Source: T 174/16.
+
+--- Question 25 (Chunk 147) ---
+ Question 1 : What is the main concern for refusing material filed after the final date set under R. 71a EPC 1973 in opposition proceedings?
+
+    A) The examining division has its own technical expertise and does not need to consult clients and technical experts.
+    B) The applicant's interest in obtaining proper patent protection for his claimed invention is not important.
+    C) The EPO's interest in bringing the examination procedure to a speedy close by the issue of a decision is not important.
+    D) Parties to opposition proceedings are not often represented by professional representatives.
+
+Correct answer: D
+
+Explanation: According to the text, the main concern for refusing material filed after the final date set under R. 71a EPC 1973 in opposition proceedings is that parties to opposition proceedings are often represented by professional representatives, who would need to consult their clients and technical experts for further instructions to deal with new requests or evidence. This means that option D is not correct.
+
+Source : Article 114(2) EPC 1973, Article 123 EPC 1973,
+
+--- Question 26 (Chunk 148) ---
+7.3.1  Legal basis
+
+    A) The legal basis for oral proceedings by videoconference is new Article 15a RPBA 2020.
+    B) The legal basis for oral proceedings by videoconference is Article 116 EPC.
+    C) The legal basis for oral proceedings by videoconference is Rule 144(a) EPC.
+    D) The legal basis for oral proceedings by videoconference is Rule 48(2) EPC 1973.
+
+Correct answer: A
+
+Explanation: According to the text, new Article 15a RPBA 2020 allows oral proceedings to be held by videoconference if the Board considers it appropriate to do so, either upon request by a party or of its own motion. The agreement of the parties is no longer required.
+
+Source: Article 15a RPBA 2020.
+
+--- Question 27 (Chunk 149) ---
+ Question 1 : What is the practice of the board regarding handwritten amendments to patent documents during oral proceedings?
+
+    A) The board allows handwritten amendments to patent documents during oral proceedings.
+    B) The board does not allow handwritten amendments to patent documents during oral proceedings.
+    C) The board allows handwritten amendments to patent documents during oral proceedings, but only if it is not detrimental to the principles of due process and procedural economy.
+    D) The board does not have a practice regarding handwritten amendments to patent documents during oral proceedings.
+
+Correct answer: C
+
+Explanation: According to the text, the board takes note of the notice from the EPO regarding the practice on handwritten amendments to patent documents. The board found that the documents as presented at the oral proceedings, for which the appellant had had the opportunity to comment, were sufficient to base its decision on. However, the board stated that for it to apply its new practice would be detrimental to the principles of due process and procedural economy in the case in hand. Therefore, the board allows handwritten amendments to patent documents during oral proceedings, but
+
+--- Question 28 (Chunk 150) ---
+ Question 1 : Who is allowed to attend the deliberations of the board according to Art. 19(1), second sentence, RPBA 2020?
+
+    A) Only members of the board
+    B) The chairman may authorise other officers to attend
+    C) The chairman may authorise other parties to attend
+    D) The chairman may authorise other employees to attend
+
+    -Correct answer: B
+
+    -Explanation: According to the text, the chairman may authorise other officers to attend the deliberations of the board.
+
+    -Source: Article 19(1), second sentence, RPBA 2020.
+
+--- Question 29 (Chunk 151) ---
+1
+
+Question 1: Which of the following is the correct interpretation of the term "general dislocation" as used in Rule 134(2) EPC?
+
+    A) A disruption caused by a specific event such as the COVID-19 outbreak
+    B) A disruption caused by any event that affects the EPO's ability to function
+    C) A disruption caused by a decision of a department of first instance or a board of appeal
+    D) A disruption caused by a statutory period
+
+Correct answer: B
+
+Explanation: According to the text, the term "general dislocation" refers to interruptions that affect the EPO's ability to function, regardless of the cause. Therefore, option B is the correct interpretation of the term "general dislocation" as used in Rule 134(2) EPC.
+
+Source: Article III.D.1 of the law text.
+
+--- Question 30 (Chunk 152) ---
+ Question 1 : What is the standard for determining legal incapacity of a representative for the purpose of Rule 142(1)(c) EPC?
+
+    A) The standard is determined by the relevant national law.
+    B) The standard is determined by the EPO.
+    C) The standard is determined by the applicant or patent proprietor.
+    D) The standard is determined by a uniform standard of judging legal incapacity.
+
+Correct answer: D
+
+Explanation: According to the text, a uniform standard of judging legal incapacity shall apply in order to avoid differences in the application of R. 90(1)(c) EPC 1973 (R. 142(1)(c) EPC) depending on the nationality or domicile of the representative. Therefore, option D is the correct answer.
+
+Source: Article 142(1)(c) EPC.
+
+--- Question 31 (Chunk 153) ---
+ Question 1 : Which of the following is a time limit for which it is for the applicant to observe under Article 122(1) EPC?
+
+    A) The time limit for filing a statement of grounds of appeal under Article 108, third sentence, EPC
+    B) The time limit for filing the notice of opposition and paying the appropriate fee under Article 99(1) EPC
+    C) The time limit for forwarding a European patent application filed with a national office to the EPO in time
+    D) The time limit for paying renewal fees which had fallen due during the period of the representative's or applicant's incapacity
+
+Correct answer: A
+
+Explanation: According to the text, re-establishment of rights may be granted to both the applicant and the proprietor of a European patent. However, opponents are not entitled to request re-establishment of rights in respect of the two-month time limit for filing an appeal under Article 108, first sentence, EPC, nor in respect of the nine-month time limit under Article 99(1) EPC for filing the notice of opposition and
+
+--- Question 32 (Chunk 154) ---
+ Question 1 : Is the requirement of pendency when filing a divisional application a time limit?
+
+    A) Yes
+    B) No
+
+    -Correct answer: B
+
+    -Explanation: According to the text, the requirement of pendency when filing a divisional application sets a condition, not a time limit.
+
+    -Source: Article 36(1) EPC and Article 25(1) EPC 1973 in its version since 2002.
+
+--- Question 33 (Chunk 155) ---
+1
+
+Question 1: In which of the following cases was the removal of the cause of non-compliance with the two-month time limit of R. 136(1) EPC not the date on which the applicant had inspected the file and realised that its former representative had not acted properly?
+
+    A) J 7/16
+    B) T 1547/20
+    C) T 493/08
+    D) None of the above
+
+Correct answer: B
+
+Explanation: In T 1547/20, the start of the two-month time limit was the appellant's receipt of a communication from the registry. However, there was no evidence as to the date of receipt of the communication. In the absence of proof that the actual date of receipt of the communication was within nine days after it was sent out, the board was satisfied that the request for re-establishment was submitted in time. Therefore, the removal of the cause of non-compliance was not the date on which the applicant had inspected the file and realised that its former representative had not
+
+--- Question 34 (Chunk 156) ---
+ Question 1 : What is a prerequisite for granting re-establishment of rights due to financial difficulties?
+
+    A) The financial difficulties were not due to circumstances beyond the reasonable control of the applicant.
+    B) The applicant did not try with all due care to obtain financial support.
+    C) The financial difficulties were not experienced through no fault of one's own.
+    D) The applicant did not file the request for re-establishment of rights in due time.
+
+Correct answer: C
+
+Explanation: According to the text, financial difficulties experienced through no fault of one's own and leading to failure to observe time limits for the payment of fees can constitute grounds for granting re-establishment of rights. Therefore, option C is a prerequisite for granting re-establishment of rights due to financial difficulties.
+
+Source: Article 122(3) EPC 1973 and J 22/88.
+
+--- Question 35 (Chunk 157) ---
+1. Which of the following situations would be considered exceptional circumstances under the EPC 1973?
+
+    A) A small firm with 15 employees changes its attorney during takeover negotiations.
+    B) A firm with 40 attorneys at four locations is not small.
+    C) A patent proprietor's R. 58(5) EPC 1973 communication did not reach the responsible department due to internal reorganisation and removals.
+    D) A patent agent's office is staffed by two patent agents, two lawyers, a partly qualified patent lawyer, and a law graduate.
+
+Correct answer: C
+
+Explanation: According to the text, exceptional circumstances can include situations where an R. 58(5) EPC 1973 communication did not reach the responsible department due to internal reorganisation and removals (see III.E.5.3.1). This is an isolated mistake that could not be ruled out despite careful company organisation, and thus it is considered an exceptional circumstance.
+
+Source: III.E.5.3.1 of the law text.
+
+--- Question 36 (Chunk 158) ---
+ Question 1 : What is the requirement for a system for monitoring time limits in general according to T 428/98 and T 1465/07?
+
+    A) The system should not incorporate an overall checking mechanism which is independent of the person responsible for monitoring time limits.
+    B) The system should not make sure that monitoring duties are not left to one person alone.
+    C) The system should not involve a second system for monitoring time limits, the latter has to be independent of the former ("redundant").
+    D) The system should not be organised more economically than in a smaller one.
+
+Correct answer: C
+
+Explanation: According to the text, the requirements to be met by a system for monitoring time limits in general include making sure that monitoring duties are not left to one person alone, and that the system incorporates an overall checking mechanism which is independent of the person responsible for monitoring time limits. This checking mechanism can be provided within a single system for monitoring time limits. If the checking mechanism involves a second system for monitoring time limits, the latter has to be independent of the former ("redundant").
+
+Source: T 428/
+
+--- Question 37 (Chunk 159) ---
+1
+
+Question 1: In which of the following situations can an applicant rely on its professional representative to deal with the EPO?
+
+    A) When the applicant is on notice that a time limit has not been met and/or that instructions are required in order to meet it.
+    B) When the applicant has issued a "stop work" order to its US representative.
+    C) When the former representative has not been capable of running the case in a proper way due to health reasons beyond his control.
+    D) When the applicant has no reason to suspect that the representative can be relied on.
+
+Correct answer: C
+
+Explanation: According to the text, in the case where the former representative has not been capable of running the case in a proper way due to health reasons beyond his control, the applicant can rely on its professional representative to deal with the EPO.
+
+Source: III.E.5. Merit of request for re -establishment of rights, T 381/93 of 12 August 1994.
+
+--- Question 38 (Chunk 160) ---
+1
+
+Question 1: In which of the following cases was the misinterpretation of a provision of the EPC by a representative not without basis or unreasonable?
+
+    A) T 624/96
+    B) J 28/92
+    C) J 31/89
+    D) T 853/90
+
+Correct answer: B
+
+Explanation: In J 28/92, the Legal Board held that the misinterpretation of a provision of the EPC by a representative was not without basis or unreasonable, considering that there was no basis for penalising the representative for having arrived at a not unreasonable interpretation of a rule of the EPC, which subsequently turned out to be wrong.
+
+Source: J 28/92.
+
+--- Question 39 (Chunk 161) ---
+ Question 1 : Which of the following tasks can a representative entrust to an assistant without infringing all due care in dealing with the filing of the grounds of appeal?
+
+    A) Sending the statement of grounds of appeal to the EPO by fax on the final date of the relevant time limit
+    B) Writing the statement of grounds of appeal
+    C) Supervising the assistant who is writing the statement of grounds of appeal
+    D) Checking whether the fax has actually been despatched after the assistant has sent it
+
+Correct answer: A
+
+Explanation: According to the text, in a properly organised office, the representative can rely on the correct execution of a task like sending a letter or a fax prepared and signed by the representative. This means that the representative can entrust this task to an assistant without infringing all due care in dealing with the filing of the grounds of appeal.
+
+Source: Article III.E.5. Merit of request for re -establishment of rights.
+
+--- Question 40 (Chunk 162) ---
+ Question 1 : Which department is competent to decide on the request for re-establishment of rights in respect of the time limit for filing a notice of appeal?
+
+    A) The department competent to decide on the omitted act
+    B) The department competent to decide whether the appeal was inadmissible for non-compliance with Article 108 EPC
+    C) The department competent to decide on the request for re-establishment in respect of any time limit
+    D) The department competent to decide on the request for re-establishment in respect of the time limit for filing a statement of grounds of appeal
+
+Correct answer: B
+
+Explanation: According to the text, the department competent to decide on the request for re-establishment in respect of the time limit for filing a notice of appeal is the department competent to decide whether the appeal was inadmissible for non-compliance with Article 108 EPC, which is under R. 101(1) EPC the board of appeal.
+
+Source: Article 108 EPC, Rule 101(1) E
+
+--- Question 41 (Chunk 163) ---
+1
+
+Question 1:
+Which of the following statements best describes the principle of proportionality as it is used in the case law of the Boards of Appeal of the European Patent Office?
+
+    A) The principle of proportionality is a main ground for assessing the allowability of an appeal.
+    B) The principle of proportionality is a duty for a court or an administration to find a balance between a party's error and the legally ensuing consequences when a margin of weighing the importance of the circumstances exists.
+    C) The principle of proportionality is never used as a main ground but only in support of other grounds already substantiating the allowability of an appeal.
+    D) The principle of proportionality is a duty for a court or an administration to find a balance between a party's error and the legally ensuing consequences when a margin of weighing the importance of the circumstances does not exist.
+
+Correct answer: C
+
+Explanation: According to the text, the principle of proportionality is never used as a main ground but only in support of other grounds already substantiating the allowability of an appeal.
+
+Source:
+
+--- Question 42 (Chunk 164) ---
+1
+
+Question 1: Which of the following is true about the use of an alternative official language in appeal proceedings under R. 2(1) EPC 1973?
+
+    A) Appeal proceedings are a mere continuation of first-instance proceedings.
+    B) A party can choose to use one of the official languages set out in Art. 14(1) EPC 1973.
+    C) A party has a right to both speak and hear in the language it chooses, as long as the conditions of R. 2(1) EPC 1973 are fulfilled.
+    D) A party can use the other official language already used by it in the oral proceedings before the opposition division, without fulfilling the requirements of R. 2(1) EPC 1973 as they apply to the pending appeal proceedings.
+
+Correct answer: C
+
+Explanation: According to the text, R. 2(1) EPC 1973 implies that a party can choose to use one of the official languages set out in Art. 14(1) EPC 1973 and
+
+--- Question 43 (Chunk 165) ---
+3.1.6 Re-hearing a witness
+
+-A) Is it necessary to hear a witness again if the evidence they provided was not relevant to the outcome of the case.
+-B) Is it necessary to hear a witness again if the evidence they provided was already heard by a national court.
+-C) Is it necessary to hear a witness again if the evidence they provided was not clear or complete.
+-D) Is it necessary to hear a witness again if the evidence they provided was not contested by the other party.
+
+-Correct answer: C
+
+-Explanation: According to the text, if the evidence provided by a witness is not clear or complete, it may be necessary to hear the witness again to clarify or complete the evidence.
+
+-Source: Article III.G Law of evidence, paragraph 3.1.6.
+
+--- Question 44 (Chunk 166) ---
+ Question 1 : What is the language to be used for taking evidence and writing the minutes according to the EPC?
+
+    A) The language of the proceedings
+    B) The language of the country where the evidence is taken
+    C) The language of the witness
+    D) The language of the party requesting the evidence
+
+Correct answer: A
+
+Explanation: According to the text, the language to be used for taking evidence and writing the minutes is governed by Art. 14(3) EPC (language of the proceedings) and R. 4 EPC (derogations from the provisions on use of the language of the proceedings in oral proceedings).
+
+Source: Article 14(3) EPC and Rule 4 EPC.
+

@@ -1,0 +1,443 @@
+--- Question 1 (Chunk 167) ---
+ Question 1 : What is the difference between a witness and an expert according to the boards of appeal?
+
+    A) A witness is put forward to substantiate facts of which he/she has personal knowledge, while an expert is put forward to provide an opinion on a technical matter.
+    B) A witness is put forward to provide an opinion on a technical matter, while an expert is put forward to substantiate facts of which he/she has personal knowledge.
+    C) A witness is put forward to provide an opinion on a legal matter, while an expert is put forward to substantiate facts of which he/she has personal knowledge.
+    D) A witness is put forward to substantiate facts of which he/she has personal knowledge, while an expert is put forward to provide an opinion on a legal matter.
+
+Correct answer: A
+
+Explanation: According to the text, a witness is put forward to substantiate facts of which he/she has personal knowledge, while an expert is put forward to provide an opinion on a technical matter.
+
+Source: Article III.G.2. Admissible evidence 813 f) of the EPC.
+
+--- Question 2 (Chunk 168) ---
+ Question 1 : What is the effect of a party not objecting to the accuracy of the minutes of the oral proceedings as evidence of the course of the proceedings?
+
+    A) The minutes are not considered a faithful account of events.
+    B) The minutes are considered a faithful account of events but can be disregarded.
+    C) The minutes are considered a faithful account of events and are admitted as evidence.
+    D) The minutes are not considered a faithful account of events and are not admitted as evidence.
+
+Correct answer: C
+
+Explanation: According to the text, in various cases concerning prior use, the minutes of the oral proceedings have never been challenged. Since the minutes are not disputed, they are considered a faithful account of events and are admitted as evidence.
+
+Source: Law of evidence 818, T 361/00, T 2301/12, R 6/17.
+
+--- Question 3 (Chunk 169) ---
+ Question 1 : Which of the following is not a reason for the examining division to reject evidence as late-filed in ex parte case T 545/08?
+
+    A) The division had cited document D1 at the beginning of the examination proceedings.
+    B) The division had provided no further explanations or evidence as to the document's public availability before the priority date.
+    C) The division had not properly raised the objections based on this document.
+    D) The division had provided persuasive arguments for the exercise of its discretion.
+
+Correct answer: D
+
+Explanation: According to the text, the examining division should not have rejected the appellant's further evidence as late-filed in ex parte case T 545/08 because it had not provided persuasive arguments for the exercise of its discretion. Therefore, option D is not a reason for the examining division to reject evidence as late-filed in this case.
+
+Source: Article 545/08.
+
+--- Question 4 (Chunk 170) ---
+ Question 1 : When should evidence that the requirements for a stay of the proceedings as per R. 14(1) EPC had been met be provided?
+
+    A) After the mention of the grant of the patent
+    B) During the oral proceedings before the board
+    C) Before the mention of the grant of the patent
+    D) After the mention of the opposition
+
+Correct answer: C
+
+Explanation: According to the text, evidence that the requirements for a stay of the proceedings as per R. 14(1) EPC had to be provided while the proceedings for grant were still pending and thus before the mention of the grant was published in the European Patent Bulletin. Any evidence not submitted by then should not be taken into account by the EPO.
+
+Source: Article 3.2.13 of the law text.
+
+--- Question 5 (Chunk 171) ---
+ Question 1 : Which of the following is true about third-party observations in patent proceedings under the EPC?
+
+    A) Third-party observations can be considered at first instance and on appeal, but there is no obligation on the board beyond such consideration.
+    B) Third parties have the same procedural rights as parties to the proceedings, including the right to be heard.
+    C) Parties to the proceedings can comment at any stage on new facts and evidence emerging from third-party observations filed after the opposition period.
+    D) Third parties have the right to be heard in patent proceedings under the EPC.
+
+Correct answer: A
+
+Explanation: According to the text, third-party observations can be considered at first instance and on appeal, but there is no obligation on the board beyond such consideration. Therefore, option A is the correct answer.
+
+Source: Article 117(1) and Article 113(1) EPC, T 390/07, T 1756/11, G 4/92.
+
+--- Question 6 (Chunk 172) ---
+ Question 1: Which of the following is a shortcoming that can lead a board of appeal to overrule the evaluation of evidence made by a department of first instance?
+
+    A) Essential points had not been considered
+    B) Irrelevant matters had been taken into consideration
+    C) The laws of thought had not been violated
+    D) The board of appeal disagrees with the evaluation of evidence made by the department of first instance
+
+Correct answer: A
+
+Explanation: According to the text, a board of appeal can overrule the evaluation of evidence made by a department of first instance if essential points had not been considered. This is one of the shortcomings mentioned in the text that can lead a board of appeal to overrule the evaluation of evidence made by a department of first instance.
+
+Source: Article 114(1) EPC 1973 and T 1418/17.
+
+--- Question 7 (Chunk 173) ---
+ Question 1 : In which of the following situations would the comparative tests provided sufficient evidence that the problem was solved?
+
+    A) The comparative tests were made with one specific printer on one specific paper, both different from the paper and the printer used in example 18 of the closest state of the art.
+    B) The comparative tests were made with the same printer and the same paper as the closest state of the art.
+    C) The comparative tests were made with one specific printer on one specific paper, both the same as the paper and the printer used in example 18 of the closest state of the art.
+    D) The comparative tests were made with a different printer and a different paper than the closest state of the art, but the results were not convincingly shown to have their origin in the distinguishing feature of the invention.
+
+Correct answer: A
+
+Explanation: According to the text, the board concluded in T 1872/08 that the comparative tests provided sufficient evidence that the problem was solved, as long as the nature of the comparison with the closest state of the art is such that the effect is convincingly shown to have its origin
+
+--- Question 8 (Chunk 174) ---
+ Question 1 : Which of the following is the standard of proof generally applied by the EPO departments?
+
+    A) The balance of probabilities
+    B) Beyond reasonable doubt
+    C) Absolute conviction
+    D) Up to the hilt
+
+Correct answer: A
+
+Explanation: According to the text, the EPO standard of proof is generally the balance of probabilities. Therefore, option A is the correct answer.
+
+Source: Law of evidence 848, 4.3, General – "Balance of probabilities".
+
+--- Question 9 (Chunk 175) ---
+ Question 1: Which of the following is the correct standard of proof for a public prior use allegation when the evidence lies within the power and knowledge of the opponent?
+
+    A) The balance of probabilities
+    B) Beyond all reasonable doubt
+    C) The overall balance of probabilities
+    D) The standard of proof "beyond any reasonable doubt"
+
+Correct answer: D
+
+Explanation: According to the text, the stricter standard of proof "beyond all reasonable doubt" has been used, exceptionally, in cases of public prior use where all the supporting evidence lay within the power and knowledge of the opponent.
+
+Source: T 421/14, T 1201/14, T 1107/12, T 2565/11.
+
+--- Question 10 (Chunk 176) ---
+1
+
+Question 1: In the context of the public availability of commercial brochures, which of the following standards of proof is considered appropriate by the board in T 1140/09?
+
+    A) The balance of probabilities
+    B) Up to the hilt
+    C) Beyond reasonable doubt
+    D) Strict scrutiny
+
+Correct answer: A
+
+Explanation: In T 1140/09, the board considered the "balance of probabilities" to be the proper standard of proof to be applied for the question of the public availability of document E3, a brochure that had been distributed by the appellant (opponent) to visitors at CeBIT and had therefore been made available to the public before the priority date.
+
+Source: T 1140/09.
+
+--- Question 11 (Chunk 177) ---
+ Question 1 : Who bears the burden of proving receipt of documents by the EPO?
+
+    A) The patentee
+    B) The opponent
+    C) The EPO
+    D) The board of appeal
+
+Correct answer: B
+
+Explanation: According to the text, the respondent (opponent) bears the burden of proving receipt of documents by the EPO.
+
+Source: III.G.4.3.7 of the law text.
+
+--- Question 12 (Chunk 178) ---
+1
+
+Question 1: In T 862/11, which of the following is true?
+
+    A) The appellant (opponent) submitted comparative tests in support of its own assertion.
+    B) The appellant (opponent) failed to submit any evidence that an improvement was implausible.
+    C) The board regarded the problem as not solved.
+    D) The board did not regard the problem as solved.
+
+Correct answer: B
+
+Explanation: According to the text, in T 862/11, the appellant (opponent) failed to submit comparative tests in support of its own assertion that an improvement was implausible owing to the lack of any evidence.
+
+Source: Law text provided.
+
+--- Question 13 (Chunk 179) ---
+ Question 1 : Which of the following is the burden of proof for a party submitting that something has not happened?
+
+    A) The party can essentially presume what could have happened or what normally would have been done if a letter had been received, in order to cast doubt upon the EPO's evidence.
+    B) The EPO is also in a difficult situation if an applicant submits that it has not received a communication. The EPO then has to start enquiries with the postal services and rely on the information obtained.
+    C) The EPO must in a case of doubt ("im Zweifel") establish the date on which the letter was delivered.
+    D) The party can file compelling evidence that the letter was not received.
+
+Correct answer: A
+
+Explanation: According to the text, a party submitting that something has not happened is faced with the difficulty of proving this allegation. The party can essentially presume what could have happened or what normally would have been done if a letter had been received, in order to cast doubt upon the EPO's evidence, but it is hardly ever possible to file compelling evidence that the letter was not received.
+
+
+
+--- Question 14 (Chunk 180) ---
+1
+
+Question 1: In a patent case, which of the following is true regarding the burden of proof for inventive step when there are contradictory test results?
+
+    A) The patent proprietor has the burden of proof to eliminate doubts on the effect allegedly achieved by the present invention.
+    B) The opponents have the burden of proof to demonstrate that the technical problem in question has not been solved.
+    C) The board has the burden of proof to determine whether the subject-matter of the claim solves the problem.
+    D) The patent proprietor has the burden of proof to demonstrate that the technical problem in question has been solved.
+
+Correct answer: A
+
+Explanation: According to the text, in T 570/08, the patent proprietor could not convincingly eliminate doubts on the effect allegedly achieved by the present invention, and the patent was revoked. This means that the patent proprietor has the burden of proof to eliminate doubts on the effect allegedly achieved by the present invention.
+
+Source: T 570/08.
+
+--- Question 15 (Chunk 181) ---
+ Question 1: Which of the following is the correct order of the principles of interpretation of the Vienna Convention?
+
+    A) Literal interpretation, Systematic interpretation, Teleological interpretation, Subsequent agreement or practice, Secondary considerations: dynamic interpretation
+    B) Literal interpretation, Systematic interpretation, Teleological interpretation, Secondary considerations: dynamic interpretation, Subsequent agreement or practice
+    C) Systematic interpretation, Literal interpretation, Teleological interpretation, Subsequent agreement or practice, Secondary considerations: dynamic interpretation
+    D) Systematic interpretation, Literal interpretation, Teleological interpretation, Secondary considerations: dynamic interpretation, Subsequent agreement or practice
+
+Correct answer: C
+
+Explanation: According to the text, the principles of interpretation of the Vienna Convention are listed in the order of Literal interpretation, Systematic interpretation, Teleological interpretation, Subsequent agreement or practice, and Secondary considerations: dynamic interpretation.
+
+Source: III.H Interpretation of the EPC, 1.1.2 Supplementary means of interpretation – "travaux préparatoires".
+
+--- Question 16 (Chunk 182) ---
+1
+
+Question 1: Which of the following is the principle that the Enlarged Board of Appeal of the European Patent Office (EPO) does not apply without exception?
+
+    A) The principle of narrow construction of exceptions from patentability
+    B) The principle of broad construction of exceptions from patentability
+    C) The principle of literal interpretation of provisions of the EPC
+    D) The principle of contextual interpretation of provisions of the EPC
+
+Correct answer: A
+
+Explanation: According to the text, the Enlarged Board of Appeal of the EPO stated that the "frequently cited principle", according to which exclusion clauses from patentability laid down in the EPC are to be construed in a restrictive manner, does not apply without exception. Therefore, option A is the principle that the Enlarged Board of Appeal of the EPO does not apply without exception.
+
+Source: Article 53(b) EPC, G 1/07, G 2/12, G 2/06.
+
+--- Question 17 (Chunk 183) ---
+ Question 1 : Which of the following is true about the relationship between TRIPS and the EPC?
+
+    A) TRIPS provisions are binding on the boards of appeal.
+    B) TRIPS provisions are not binding on the boards of appeal but can be used to interpret provisions of the EPC.
+    C) TRIPS provisions are binding on the legislator of the EPC.
+    D) TRIPS provisions are not relevant to the EPC.
+
+Correct answer: B
+
+Explanation: According to the text, TRIPS provisions are elements to be taken into consideration by the boards of appeal but are not binding on them. They can be used as a means to interpret provisions of the EPC.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 18 (Chunk 184) ---
+1
+
+Question 1: Which of the following is not a correct statement about the power of the Council to lay down provisions concerning substantive law in the Implementing Regulations?
+
+    A) The Council is entitled to provide for issues of substantive law in the Rules of the Implementing Regulations.
+    B) A Rule must be clear enough to indicate to those applying it in what way the legislator intended the Article to be interpreted by means of that Rule.
+    C) The Council is competent to amend the Convention by amendment of the Implementing Regulations.
+    D) The Administrative Council is not competent to amend the Convention, here Art. 53(b)  EPC, by amendment of the Implementing Regulations.
+
+Correct answer: C
+
+Explanation: According to the text, the Administrative Council is not competent to amend the Convention, here Art. 53(b)  EPC, by amendment of the Implementing Regulations.
+
+Source: Article 164(2) EPC and Article 33(1)(b) and 35(3) EPC.
+
+--- Question 19 (Chunk 185) ---
+ Question 1 : Which of the following is not a board's duty in relation to requests of equal ranking?
+
+    A) To give a legal opinion on the admissibility of several requests as guidance for appellants in defining the order in which they would like their requests to be examined.
+    B) To consider as inadmissible the appellant's request at the end of the oral proceedings that, should the outcome of the discussions be negative for him, he be given the opportunity to formulate new requests.
+    C) To give reasons for the rejection of each request in a decision.
+    D) To admit late-filed requests in appeal proceedings.
+
+Correct answer: A
+
+Explanation: According to the text, it is not the board's duty to give a legal opinion on the admissibility of several requests as guidance for appellants in defining the order in which they would like their requests to be examined.
+
+Source: III.I.4. Obligation to give reasons for refusal of each request, 903 3.2. Requests of equal ranking, T 148/06.
+
+--- Question 20 (Chunk 186) ---
+ Question 1 : What is the principle that parties have a right to have their case decided by?
+
+    A) The principle that parties have a right to have their case decided by the judge appointed by law
+    B) The principle that parties have a right to have their case decided by the judge appointed by the board
+    C) The principle that parties have a right to have their case decided by the judge appointed by the Enlarged Board
+    D) The principle that parties have a right to have their case decided by the judge appointed by the European Court of Human Rights
+
+Correct answer: A
+
+Explanation: According to the text, parties have a right to have their case decided by the judge designated or appointed by law. This principle is even enshrined at a constitutional level in some EPC contracting states.
+
+Source: G 1/05 of 7 December 2006, OJ 2007, 362.
+
+--- Question 21 (Chunk 187) ---
+1. What is the minimum requirement for an objection under Article 24(3), first sentence, EPC to be justified?
+
+    A) The board member concerned must actually be partial.
+    B) The party's suspicion must be justified on an objective basis.
+    C) Purely subjective impressions or vague suspicions are enough.
+    D) The party must have a reason to suspect partiality.
+
+Correct answer: B
+
+Explanation: According to the text, for an objection under Article 24(3), first sentence, EPC to be justified, it is not necessary that the board member concerned actually be partial. It suffices that there is a suspicion (an appearance) of partiality. However, the party's suspicion must be justified on an objective basis. Purely subjective impressions or vague suspicions are not enough.
+
+Source: Article 24(3), first sentence, EPC and the text provided.
+
+--- Question 22 (Chunk 188) ---
+1. When must a party raise an objection of suspected partiality under Art. 24(3) EPC?
+    -A) Immediately after having become aware of the reasons for a decision
+    -B) After an adverse decision has been announced
+    -C) After a party has been favoured by a decision
+    -D) After a party has taken a procedural step in a related appeal
+
+Correct answer: A
+
+Explanation: According to the text, the board in T 1677/11 held that the respondents had not submitted their objection immediately after having become aware of the reasons. Therefore, the correct answer is A.
+
+Source: T 1677/11.
+
+--- Question 23 (Chunk 189) ---
+1
+
+Question 1: Which of the following is a sufficient proof of personal interest within the meaning of Article 24(1) EPC 1973?
+
+    A) A member of an opposition division was previously employed by a company dependent on a party to the opposition proceedings.
+    B) A member of an opposition division was previously employed by a company that is a competitor of a party to the opposition proceedings.
+    C) A member of an opposition division was previously employed by a company that is a supplier of a party to the opposition proceedings.
+    D) A member of an opposition division was previously employed by a company that is a customer of a party to the opposition proceedings.
+
+Correct answer: A
+
+Explanation: According to T 143/91, a member of an opposition division is biased if he has a personal interest within the meaning of Article 24(1) EPC 1973. The mere fact that the member had previously been employed by a company dependent on a party to the opposition proceedings was, however, not sufficient proof of such an interest. However, it is a sufficient proof of personal interest if the member was previously employed by
+
+--- Question 24 (Chunk 190) ---
+ Question 1 : Which of the following is a reason for exclusion or objection of a board member under Article 3(2) RPBA 2020?
+
+    A) The board member has not provided details on whether they have deputised for the Vice-President of the EPO Directorate-General 3 (VP3).
+    B) The board member has not taken discretionary procedural steps which might disadvantage a particular party.
+    C) The board member has not admitted amended claims, regardless of whether the board had correctly used its power or discretion to do so.
+    D) The board member has not interpreted the steps taken as expressing bias against a particular party.
+
+Correct answer: A
+
+Explanation: According to the text, under Article 3(2) RPBA 2020, the member concerned is to be invited to present his comments as to whether there is a reason for exclusion or objection. The text also mentions that in T 1938/09, the appellant objected to the chairman of the board, arguing he was a potential deputy for the Vice-President of the E
+
+--- Question 25 (Chunk 191) ---
+ Question 1 : What is the correct statement about a former member of the boards of appeal sitting beside and assisting the respondent's representative during oral proceedings before the opposition division?
+
+    A) This is not allowed under the EPC.
+    B) This is allowed, but the former member cannot make any intervention of his own motion.
+    C) This is allowed, and the former member can make any intervention of his own motion.
+    D) This is allowed, and the former member can present his case before his former colleagues.
+
+Correct answer: B
+
+Explanation: According to the text, a former member of the boards of appeal had given hints by whispering to the authorised representative, who had been absolutely free to accept them or not, but had not made any intervention of his own motion. This means that the former member cannot make any intervention of his own motion during the oral proceedings.
+
+Source: III.K.1.3.2. Formal aspects of decisions of EPO departments.
+
+--- Question 26 (Chunk 192) ---
+1.3.3 Question: Which of the following is a substantial procedural violation according to the established case law of the EPO?
+
+    A) A delay of over three years before despatch of the written decision
+    B) A number of procedural irregularities had occurred after the oral proceedings
+    C) If only one examiner took part in the prior proceedings, that examiner may not be chairman in the subsequent opposition proceedings under Art. 19(2) EPC
+    D) A change of the opposition division between the oral and written decision
+
+Correct answer: C
+
+Explanation: According to the text, an improper composition of the opposition division is a substantial procedural violation. This means that if only one examiner took part in the prior proceedings, that examiner may not be chairman in the subsequent opposition proceedings under Art. 19(2) EPC.
+
+Source: Article 19(2) EPC.
+
+--- Question 27 (Chunk 193) ---
+ Question 1 : Which of the following is a requirement for EPO decisions according to R. 113 EPC?
+
+    A) Decisions must be signed by the employee responsible.
+    B) Decisions must be signed by the employee responsible and state their name.
+    C) Decisions must be signed by the employee responsible and bear the seal of the EPO.
+    D) Decisions must be signed by the employee responsible, state their name, bear the seal of the EPO and be signed by all the division's members.
+
+Correct answer: A
+
+Explanation: According to the text, R. 113 EPC requires that decisions from the European Patent Office must be signed by the employee responsible.
+
+Source: R. 113 EPC.
+
+--- Question 28 (Chunk 194) ---
+1
+
+Question 1: Which of the following is a reason for a decision to be considered insufficiently reasoned within the meaning of Rule 111(2) EPC?
+
+    A) The decision contains a summary of a party's submissions.
+    B) The decision does not deal with crucial counter-arguments presented by the applicant.
+    C) The decision merely states that no convincing arguments have been found in the letter.
+    D) The decision contains a reasoning on crucial points of dispute.
+
+Correct answer: B
+
+Explanation: According to the text, in T 1291/13, the decision did not deal with crucial counter-arguments presented by the applicant. The board referred to T 70/02 and held that the decision must contain at least some reasoning on crucial points of dispute, i.e. deal with at least the main counter-arguments presented by the applicant to be sufficiently reasoned.
+
+Source: T 1291/13, T 70/02.
+
+--- Question 29 (Chunk 195) ---
+ Question 1 : What is the correct statement regarding the use of annexes in an examining division's decision according to the case law of the boards of appeal?
+
+    A) An examining division's decision should not normally be supplemented by annexes dealing with issues having no relation to the issues dealt with in the reasons for this decision.
+    B) An examining division's decision should always be supplemented by annexes dealing with issues having no relation to the issues dealt with in the reasons for this decision.
+    C) An examining division's decision should be supplemented by annexes dealing with issues having no relation to the issues dealt with in the reasons for this decision, only in exceptional cases.
+    D) An examining division's decision should not be supplemented by annexes at all.
+
+Correct answer: A
+
+Explanation: According to the text, the board in T 615/95 decided that an examining division's decision should not normally be supplemented by annexes dealing with issues having no relation to the issues dealt with in the reasons for this decision.
+
+Source: T 615/95
+
+--- Question 30 (Chunk 196) ---
+1.2.1  Legal Board or Technical Boards
+
+Question: Which EPO department has the competence to correct a decision according to Rule 140 EPC?
+
+    -A) Opposition division or examining division
+    -B) Legal Board or Technical Boards of Appeal
+    -C) Enlarged Board of Appeal
+    -D) President of the EPO
+
+Correct answer: B
+
+Explanation: According to the text, the competence to correct a decision according to Rule 140 EPC lies with the Legal Board or Technical Boards of Appeal.
+
+Source: III.L Correction of errors in decisions, EPC.
+
+--- Question 31 (Chunk 197) ---
+ Question 1 : What is the legal effect of corrections according to Rule 140 EPC?
+
+    A) The corrected decision has no effect on the date of the original decision or the appeal period triggered by its service.
+    B) The corrected decision has retrospective effect from the date of the original decision.
+    C) The corrected decision has no effect on the content of the original decision.
+    D) The corrected decision has no effect on the procedural status of third parties.
+
+Correct answer: A
+
+Explanation: According to the text, a correction made no difference to either the date of the corrected decision or the appeal period triggered by its service.
+
+Source: III.L.4. Legal effect of corrections according to Rule 140 EPC.
+

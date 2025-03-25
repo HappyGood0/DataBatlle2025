@@ -1,0 +1,621 @@
+--- Question 1 (Chunk 005) ---
+ Question 1 : What is the essential requirement for an invention to be patentable under the European Patent Convention (EPC)?
+
+    A) The invention must be a mathematical method.
+    B) The invention must be a business method.
+    C) The invention must have a technical character or technicality.
+    D) The invention must be a computer-implemented method.
+
+Correct answer: C
+
+Explanation: According to the text, an invention may be an invention within the meaning of Article 52(1) EPC if it has a technical character or technicality. Therefore, the essential requirement for an invention to be patentable under the EPC is that it has a technical character or technicality.
+
+Source: Article 52(1) EPC 1973 and the text provided.
+
+--- Question 2 (Chunk 006) ---
+1
+
+Question 1: Which of the following is a reason for considering an activity to be a non-invention "as such" within the meaning of Article 52(2) and (3) EPC 1973?
+
+    A) The activity is carried out using technical means.
+    B) The activity is a purely abstract concept.
+    C) The activity is so familiar that its technical character tends to be overlooked.
+    D) The activity is a non-obvious technical solution to a technical problem.
+
+Correct answer: B
+
+Explanation: According to the text, activities falling within the concept of a non-invention "as such" would typically represent purely abstract concepts devoid of any technical implications. Therefore, option B is a reason for considering an activity to be a non-invention "as such" within the meaning of Article 52(2) and (3) EPC 1973.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 3 (Chunk 007) ---
+ Question 1 : Which of the following is a characteristic of a mathematical method or algorithm?
+
+    A) It is carried out on numbers and provides a result also in numerical form.
+    B) It is an abstract concept prescribing how to operate on the numbers.
+    C) It is a technical process.
+    D) It produces a direct technical result.
+
+Correct answer: A
+
+Explanation: According to the text, a mathematical method or algorithm is carried out on numbers (whatever these numbers may represent) and also provides a result also in numerical form. Therefore, option A is a characteristic of a mathematical method or algorithm.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 4 (Chunk 008) ---
+1
+
+Question 1: Which of the following is a necessary condition for a claim to a computer program to avoid exclusion from patentability under Art. 52(2) and (3) EPC?
+
+    A) The claim explicitly mentions the use of a computer or a computer-readable storage medium.
+    B) The claim specifies no more than "Program X on a computer-readable storage medium," or "A method of operating a computer according to program X."
+    C) The program has the potential of achieving a further technical effect when run and thus also contributes to the technical character of the claimed subject matter.
+    D) The claim does not specify any technical effect on a physical entity in the real world.
+
+Correct answer: A
+
+Explanation: According to the text, a claim in the area of computer programs can avoid exclusion under Art. 52(2)(c) and (3) EPC merely by explicitly mentioning the use of a computer or a computer-readable storage medium. Therefore, option A is a necessary condition for a claim to a computer program to avoid exclusion from patentability under Art. 52(2) and
+
+--- Question 5 (Chunk 009) ---
+ Question 1 : What is the correct interpretation of the term "technical" with respect to computer programs according to opinion G 3/08?
+
+    A) Any technical considerations are sufficient to confer technical character on claimed subject -matter.
+    B) Technical considerations are not sufficient to confer technical character on claimed subject -matter, and further technical considerations are required.
+    C) Technical considerations are not required to confer technical character on claimed subject -matter.
+    D) Technical considerations are sufficient to confer technical character on claimed subject -matter, but only if the specific use of the system as a whole is considered.
+
+Correct answer: B
+
+Explanation: According to the text, opinion G 3/08 explicitly rejected the position that any technical considerations are sufficient to confer technical character on claimed subject -matter. Therefore, option B is the correct answer.
+
+Source: opinion G 3/08, point 13.5 of the Reasons.
+
+--- Question 6 (Chunk 010) ---
+ Question 1 : Which of the following is not excluded from patentability under Article 52(2) and (3) EPC 1973?
+
+    A) Methods for doing business
+    B) Methods for playing games
+    C) Methods for performing mental acts
+    D) Methods for determining an efficient schedule for a plurality of scheduled agents in a telephone call centre
+
+Correct answer: D
+
+Explanation: According to the text, methods for doing business, methods for playing games, and methods for performing mental acts are excluded from patentability under Article 52(2) and (3) EPC 1973. However, the Enlarged Board in G 1/19 stated that the negative assessment under Article 56 EPC was (or could have been) based on the lack of a technical effect by the simulation rather than on the non-technical nature of the simulated system. Therefore, a method for determining an efficient schedule for a plurality of scheduled agents in a telephone call centre is not excluded from patentability under Article 52(2) and (3) EPC 1973.
+
+Source: Article
+
+--- Question 7 (Chunk 011) ---
+ Question 1 : Which of the following is a presentation of information in the sense of Article 52(2)(d) EPC?
+
+    A) A record carrier characterised by having functional data recorded thereon
+    B) A data structure defined in terms which inherently comprise the technical features of the system in which the record carrier is operative
+    C) A program recorded on a carrier
+    D) A data structure product
+
+Correct answer: A
+
+Explanation: According to the text, a record carrier characterised by having functional data recorded thereon is a presentation of information as such and hence excluded from patentability by Art. 52(2)(d) and (3) EPC 1973.
+
+Source: Article 52(2)(d) EPC.
+
+--- Question 8 (Chunk 012) ---
+ Question 1 : Which of the following is the reason for the exclusion of medical methods from patentability under Article 53(c) EPC?
+
+    A) The methods are not susceptible of industrial application.
+    B) The methods are not carried out on a physical entity.
+    C) The methods are not described in mathematical terms.
+    D) The methods are excluded mainly in the light of public health considerations.
+
+Correct answer: D
+
+Explanation: According to the text, medical methods are excluded from patentability mainly in the light of public health considerations. Therefore, option D is the reason for the exclusion of medical methods from patentability under Article 53(c) EPC.
+
+Source : Article 53(c) EPC.
+
+--- Question 9 (Chunk 013) ---
+ Question 1 : Which of the following is the definition of the concept of "morality" according to the EPC?
+
+    A) The belief that some behaviour is right and acceptable whereas other behaviour is wrong, this belief being founded on the totality of the accepted norms which are deeply rooted in a particular culture.
+    B) The belief that some behaviour is wrong and unacceptable whereas other behaviour is right, this belief being founded on the totality of the accepted norms which are deeply rooted in a particular culture.
+    C) The belief that some behaviour is right and acceptable whereas other behaviour is wrong, this belief being founded on the totality of the accepted norms which are deeply rooted in a particular society.
+    D) The belief that some behaviour is wrong and unacceptable whereas other behaviour is right, this belief being founded on the totality of the accepted norms which are deeply rooted in a particular society.
+
+Correct answer: A
+
+Explanation: According to the text, the concept of morality is related to the belief that some behaviour is right and acceptable whereas other behaviour is wrong, this belief being founded on the totality of the accepted norms which are deeply ro
+
+--- Question 10 (Chunk 014) ---
+1. The product claim for a genetically-manipulated animal that includes descendants not directly genetically manipulated themselves but produced by the essentially biological process of sexual reproduction is considered a product claim defined in terms of the process by which it was produced.
+
+    A) True
+    B) False
+    C) Irrelevant
+    D) Not specified in the text
+
+    -Correct answer: A
+
+    -Explanation: The text states that the product claim for the genetically-manipulated animal included descendants not directly genetically manipulated themselves but produced by the essentially biological process of sexual reproduction. This means that the product claim is defined in terms of the process by which it was produced.
+
+    -Source: Article 53(b) EPC 1973 and T 1199/08.
+
+--- Question 11 (Chunk 015) ---
+ Question 1 : What is the current interpretation of the exclusion of plants exclusively obtained by means of an essentially biological process from patentability under Article 53(b) EPC?
+
+    A) The exclusion is in conflict with the Implementing Regulations as interpreted by the Enlarged Board of Appeal in decisions G 2/12 and G 2/13.
+    B) The exclusion is not in conflict with the Implementing Regulations as interpreted by the Enlarged Board of Appeal in decisions G 2/12 and G 2/13.
+    C) The exclusion is in conflict with the Biotech Directive as put forward in the notice of the European Commission on certain articles of Directive 98/44/EC.
+    D) The exclusion is not in conflict with the Biotech Directive as put forward in the notice of the European Commission on certain articles of Directive 98/44/EC.
+
+Correct answer: A
+
+Explanation: According to the text, the board in T 1063/18 held that R. 28(2) EPC (which excl
+
+--- Question 12 (Chunk 016) ---
+ Question 1 : What is the definition of "treatment by surgery" according to the Enlarged Board of Appeal in G 1/07?
+
+    A) Treatment by surgery is limited to surgical methods pursuing a therapeutic purpose.
+    B) Treatment by surgery refers to the nature of the treatment rather than its purpose.
+    C) Treatment by surgery is limited to surgical methods for the purpose of diagnosis.
+    D) Treatment by surgery is limited to surgical methods for the purpose of research.
+
+Correct answer: B
+
+Explanation: In G 1/07, the Enlarged Board of Appeal concluded that neither the legal history nor the object and purpose of the exclusions from patentability in Art. 53(c) EPC would justify a limitation of the term "treatment by surgery" to curative surgery. Such a limitation would be contrary to the ordinary understanding of the word "surgery" as referring to the nature of the treatment rather than its purpose.
+
+Source: G 1/07 (OJ 2011, 134)
+
+--- Question 13 (Chunk 017) ---
+1
+
+Question 1: Which of the following is true about a claim encompassing a surgical step under Article 53(c) EPC?
+
+    A) The claim cannot be left unamended.
+    B) The claim can be left unamended.
+    C) The claim can be amended to omit the surgical step.
+    D) The claim cannot be amended to omit the surgical step.
+
+Correct answer: A
+
+Explanation: According to the text, a claim encompassing an embodiment which is excluded from patentability under Article 53(c) EPC cannot be left unamended.
+
+Source: Article 53(c) EPC.
+
+--- Question 14 (Chunk 018) ---
+ Question 1: Which of the following is a reason for a claimed method to be non-patentable under Article 53(c) EPC?
+
+    A) The method has both therapeutic and non-therapeutic indications, and the therapeutic element is inseparably associated with the non-therapeutic element.
+    B) The method has both therapeutic and non-therapeutic indications, but the therapeutic effects can be clearly distinguished from the non-therapeutic use and are not covered by the subject-matter of the claim.
+    C) The method has only therapeutic indications, but the therapeutic element is not an essential part of the claimed method.
+    D) The method has only non-therapeutic indications.
+
+Correct answer: A
+
+Explanation: According to the text, a method is non-patentable under Article 53(c) EPC if the scope defined by the wording of the claim encompasses a use comprising a non-therapeutic element which is inseparably associated with a therapeutic element and that latter element is an essential part of the claimed
+
+--- Question 15 (Chunk 019) ---
+ Question 1 : Which of the following steps is not considered when assessing the diagnostic character of a method of diagnosing Alzheimer's disease in a living subject?
+
+    A) Data collection
+    B) Data processing using an automated apparatus
+    C) Adjustment or preparation of the apparatus
+    D) Comparison of collected data with standard values
+
+Correct answer: B
+
+Explanation: According to the text, data processing using an automated apparatus is not part of the examination phase which involves the data collection phase, but it results from a subsequent, technical step, intermediate between the data collection and the comparison of these collected data with standard values. Therefore, data processing using an automated apparatus is not considered when assessing the diagnostic character of the method.
+
+Source : Article I.B.4 of the law text.
+
+--- Question 16 (Chunk 020) ---
+ Question 1 : What is the purpose of Article 54(1) EPC?
+
+    A) To allow the state of the art to be patented again.
+    B) To prevent the state of the art being patented again.
+    C) To define the prior art, the relevant part of that art, and the content of that relevant art.
+    D) To compare the invention with the prior art thus defined, and see whether the invention differs from it.
+
+Correct answer: B
+
+Explanation: According to the text, the purpose of Article 54(1) EPC is to prevent the state of the art being patented again.
+
+Source: Article 54(1) EPC.
+
+--- Question 17 (Chunk 021) ---
+1. Which of the following is a reason for excluding in-house knowledge or matter which cannot be identified as forming part of the state of the art within the meaning of Article 54(2) EPC from being considered for substantive patentability?
+
+    A) The in-house knowledge or matter is not known to the public.
+    B) The in-house knowledge or matter is not published before the priority date.
+    C) The in-house knowledge or matter is not part of the common general knowledge.
+    D) The in-house knowledge or matter is not part of the state of the art within the meaning of Article 54(2) EPC.
+
+Correct answer: D
+
+Explanation: According to the text, in-house knowledge or matter which cannot be identified as forming part of the state of the art within the meaning of Article 54(2) EPC is irrelevant for substantive patentability. Therefore, option D is a reason for excluding in-house knowledge or matter which cannot be identified as forming part of the state of the art within the meaning of Article 54(2) EPC from being considered for substantive patentability.
+
+
+
+--- Question 18 (Chunk 022) ---
+ Question 1 : What is the minimum requirement for a written description to be considered as having been made available to the public?
+
+    A) It was possible for the public to gain knowledge of its content with an obligation of confidentiality restricting the use or dissemination of such knowledge.
+    B) It was possible for the public to gain knowledge of its content without any obligation of confidentiality restricting the use or dissemination of such knowledge.
+    C) It was possible for the public to gain knowledge of its content with an obligation of confidentiality restricting the use or dissemination of such knowledge, but only if a member of the public actually saw the document or knew that it was available.
+    D) It was possible for the public to gain knowledge of its content with an obligation of confidentiality restricting the use or dissemination of such knowledge, but only if there were particular reasons for analysing the product.
+
+Correct answer: B
+
+Explanation: According to the text, for a written description to be regarded as having been made available to the public, it suffices that it was possible for the public to gain knowledge of its content without any obligation of confidentiality restricting the use or disse
+
+--- Question 19 (Chunk 023) ---
+1
+
+Question 1: According to the text, which of the following is a reason for considering an oral disclosure as having been made available to the public?
+
+    A) The oral disclosure was based on a written disclosure published some years earlier.
+    B) The oral disclosure was made at a public conference held some years earlier.
+    C) The oral disclosure was made at a public conference held some days before the priority date.
+    D) The oral disclosure was made to an audience of some 100 to 200 persons.
+
+Correct answer: C
+
+Explanation: According to the text, an oral disclosure is considered as having been made available to the public if it was made at a public conference held some days before the priority date, and there was no bar of confidentiality restricting its use or dissemination.
+
+Source: T 877/90, T 838/97, T 153/88, T 86/95, T 348/94, T 1212/97.
+
+--- Question 20 (Chunk 024) ---
+ Question 1 : What is the definition of public prior use according to the EPC?
+
+    A) A prior use that is made available to the public by means of a written or oral description, by use, or in any other way, before the date of filing of the European patent application.
+    B) A prior use that is made available to the public by means of a written or oral description, by use, or in any other way, after the date of filing of the European patent application.
+    C) A prior use that is made available to the public by means of a written or oral description, by use, or in any other way, after the date of grant of the European patent application.
+    D) A prior use that is made available to the public by means of a written or oral description, by use, or in any other way, before the date of grant of the European patent application.
+
+Correct answer: A
+
+Explanation: According to the text, public prior use refers to everything made available to the public by means of a written or oral description, by use, or in any other way, before the date of filing of the European patent application.
+
+Source: Article 5
+
+--- Question 21 (Chunk 025) ---
+ Question 1 : What is the principle set out in G 1/92 that makes manufacturing processes available to the public within the meaning of Art. 54(2) EPC 1973?
+
+    A) The fact that the manufacturing processes are explicitly explained to visitors.
+    B) The fact that the manufacturing processes are carried out in a public place.
+    C) The fact that direct, unlimited and unambiguous access to any particular information regarding the manufacturing processes is possible.
+    D) The fact that the manufacturing processes are carried out by skilled persons.
+
+Correct answer: C
+
+Explanation: According to the text, the principle set out in G 1/92 is that it is the fact that direct, unlimited and unambiguous access to any particular information regarding the manufacturing processes is possible that makes these processes available to the public within the meaning of Art. 54(2) EPC 1973.
+
+Source: I.C.3. Availability to the public, 103, referring to T 947/99.
+
+--- Question 22 (Chunk 026) ---
+ Question 1 : In the context of the EPC, which of the following is a condition for a disclosure to be considered made available to the public?
+
+    A) The disclosure was made to a person under an obligation to maintain secrecy.
+    B) The disclosure was made to a person who did not breach the obligation to maintain secrecy.
+    C) The disclosure was made to a person who was not under an obligation to maintain secrecy.
+    D) The disclosure was made to a person who was under an obligation to maintain secrecy and breached that obligation.
+
+Correct answer: A
+
+Explanation: According to the text, a disclosure is considered made available to the public if there is no bar of confidentiality restricting the use or dissemination of such knowledge. If the person who was able to gain knowledge of the invention was under an obligation to maintain secrecy, the invention cannot be said to have been made available to the public, provided the person did not breach that obligation. Therefore, option A is a condition for a disclosure to be considered made available to the public.
+
+Source: Article 3.4 EPC.
+
+--- Question 23 (Chunk 027) ---
+ Question 1 : In which of the following cases was there no obligation to maintain secrecy according to the text?
+
+    A) The case of T 7/07 where clinical trials were conducted with contraceptives containing the composition claimed in the patent.
+    B) The case of T 945/09 where the teaching according to claim 1 of the patent in suit was used by a patient while having "home parenteral nutrition" (HPN).
+    C) The case where a third party had claimed that the main claims of the patent lacked novelty over a prior use, but the participants had signed a confidentiality agreement and all unused drugs had been returned.
+    D) The case where all information concerning the use of taurolidine as a catheter lock was available to the acting medical team, to the patent proprietor (supplier of taurolidine) and to the patient, but the patient was under an explicit secrecy obligation.
+
+Correct answer: A
+
+Explanation: According to the text, in the case of T 7/07, the handing out of the drugs to the participants rendered them publicly available and there was
+
+--- Question 24 (Chunk 028) ---
+ Question 1 : What is the standard of proof to be applied to prior public use objections under Article 100 EPC?
+
+    A) The balance of probabilities
+    B) Beyond any reasonable doubt (also called "up to the hilt")
+    C) The balance of probabilities or beyond any reasonable doubt depending on the evidence
+    D) The balance of probabilities or "up to the hilt" depending on the opponent
+
+Correct answer: A
+
+Explanation: According to the text, the boards' established legal practice is to apply as a rule the same standard of proof to prior public use objections as to other objections under Article 100 EPC: the balance of probabilities.
+
+Source: Article 100 EPC.
+
+--- Question 25 (Chunk 029) ---
+1. Which of the following is not a correct statement about determining the disclosure of the relevant prior art according to the text?
+
+    A) It is not sufficient to limit oneself to the contents of a single document taken as a whole.
+    B) It is permissible to combine separate items belonging to different embodiments described in one and the same document merely because they are disclosed in that one document.
+    C) It is not admissible to piece together artificially a more relevant state of the art from features belonging to one or both of the entities, even if they are both disclosed in one and the same document.
+    D) The disclosure of a document normally has to be considered as a whole when examining novelty.
+
+Correct answer: B
+
+Explanation: According to the text, it is not permissible to combine separate items belonging to different embodiments described in one and the same document merely because they are disclosed in that one document, unless of course such combination had been specifically suggested there. Therefore, option B is not a correct statement about determining the disclosure of the relevant prior art according to the text.
+
+Source: I.C.4. Det
+
+--- Question 26 (Chunk 030) ---
+ Question 1 : Which of the following is not a correct statement about the interpretation of the "whole contents" of an earlier document in the context of novelty under the EPC?
+
+    A) The "whole contents" of an earlier document does not include features which are equivalents of features in a later document.
+    B) The "whole contents" of an earlier document does not include features which can be derived from the document by applying the document's teaching mutatis mutandis.
+    C) The "whole contents" of an earlier document does not include features which are explicitly mentioned in the document.
+    D) The "whole contents" of an earlier document includes features which are derivable from the document by applying the document's teaching mutatis mutandis.
+
+Correct answer: C
+
+Explanation: According to the text, the "whole contents" of an earlier document does not include features which are explicitly mentioned in the document. Therefore, option C is not a correct statement about the interpretation of the "whole contents" of an earlier document in the context of novelty under the EPC.
+
+Source: Novelty section of the law text.
+
+--- Question 27 (Chunk 031) ---
+ Question 1 : What is the requirement for a compound to be considered as made available to the public?
+
+    A) The compound must be described by name in a prior art document.
+    B) The specific attempts to prepare the compound must have succeeded in the prior art document.
+    C) The compound must be described by name and the specific attempts to prepare the compound must have succeeded in the prior art document.
+    D) The compound must be described by name and the specific attempts to prepare the compound must have failed in the prior art document.
+
+Correct answer: B
+
+Explanation: According to the text, for a compound to be considered as made available to the public, the specific attempts to prepare it must have succeeded in the prior art document. Therefore, option B is the correct answer.
+
+Source: Article 83 EPC 1973 and T 719/12.
+
+--- Question 28 (Chunk 032) ---
+ Question 1 : In the context of a patent claim, what is the significance of the term "about" when defining a range of values?
+
+    A) It means that the range of values can be slightly higher than the upper limit.
+    B) It means that the range of values can be slightly lower than the lower limit.
+    C) It means that the range of values can be exactly equal to the upper or lower limit.
+    D) It means that the range of values can be any value within the range.
+
+Correct answer: B
+
+Explanation: According to the text, when comparing a value from the state of the art (the value " 2.996") with those claimed (the range of values "from  3:1 to  9:1"), the state of the art value had to be given the same accuracy as the one claimed. In the case at issue, the values in the claims had been quoted without any digit after the comma, which meant that for comparison purposes, the value  2.996 had to be rounded up to  3, which thus fell into the range of the claimed values. This shows that when the term "about" is used
+
+--- Question 29 (Chunk 033) ---
+ Question 1 : In the context of chemical inventions and selection inventions, what is the question that arises when a general term in the state of the art is used?
+
+    A) Whether the general term makes the claimed matter fully or partially accessible to the public?
+    B) Whether the general term used in the citation discloses the subject -matter defined by the special term in the claim?
+    C) Whether the general term used in the citation discloses the subject -matter defined by the special term in the citation?
+    D) Whether the general term used in the citation discloses the subject -matter defined by the special term in the claim or the citation?
+
+Correct answer: A
+
+Explanation: According to the text, the question that arises when a general term in the state of the art is used is whether the general term makes the claimed matter fully or partially accessible to the public. This means that the general term used in the citation should disclose the subject -matter defined by the special term in the claim.
+
+Source: The text provided.
+
+--- Question 30 (Chunk 034) ---
+ Question 1 : Which of the following is the correct approach for deciding selection novelty according to T 133/92?
+
+    A) The approach is identical to that employed in determining obviousness.
+    B) The approach is different from any other type of novelty under Art. 52 and 54 EPC 1973.
+    C) The approach is to consider availability in the light of a particular document.
+    D) The approach is to consider the claimed group of compounds as essentially resulting from omitting those parts of a larger group of compounds which a skilled person would have immediately considered as being less interesting than the rest.
+
+Correct answer: C
+
+Explanation: According to the text, the board in T 133/92 found that the proper approach for deciding selection novelty is to consider availability in the light of a particular document. Therefore, option C is the correct answer.
+
+Source: T 133/92.
+
+--- Question 31 (Chunk 035) ---
+1
+
+Question 1: Which of the following is a reason for excluding a combination of alloying elements from patentability under Article 52(2) and (3) EPC 1973?
+
+    A) The combination is not a technical process.
+    B) The combination does not produce a direct technical result.
+    C) The combination is not carried out on a physical entity.
+    D) The combination is not described in the prior art.
+
+Correct answer: D
+
+Explanation: According to the text, in the case of an alloy composition, a disclosure of a combination of the different alloying elements within the claimed ranges is necessary for a finding of lack of novelty. Since the different alloying elements interact with each other to form precipitates and solid solutions, their content ranges are not to be considered in isolation but in combination. Therefore, if the combination is not described in the prior art, it is not patentable under Article 52(2) and (3) EPC 1973.
+
+Source: I.C.6. Chemical inventions and selection inventions, paragraph 153.
+
+--- Question 32 (Chunk 036) ---
+1
+
+Question 1: Which of the following is true about a first medical indication of a known substance or composition under the EPC?
+
+    A) It can be the subject of a product claim under Article 53(c), second sentence, EPC.
+    B) It can be patented under Article 54(4) EPC only if it has been used in a method under Article 53(c), first sentence, EPC.
+    C) It is generally the object of broad generic claims in the form of use-related product claims.
+    D) The appropriate protection for the inventor is in its broadest form, a purpose-limited method claim.
+
+Correct answer: C
+
+Explanation: According to the text, the first medical indication of a known substance or composition is generally the object of broad generic claims in the form of use-related product claims.
+
+Source: Article 54(4) EPC and case law of the boards of appeal.
+
+--- Question 33 (Chunk 037) ---
+1
+
+Question 1: Which of the following is true about the coexistence of two independent claims for the same medical indication of one and the same substance in a single set of claims?
+
+    A) Decision G 2/08 gives applicants an absolute right to draft two independent claims in one single set of claims for one and the same medical indication of one and the same substance, one of those claims being in the Swiss -type format and the other in the format in accordance with Art. 54(5) EPC.
+    B) Decision G 2/08 does not give applicants an absolute right to draft two independent claims in one single set of claims for one and the same medical indication of one and the same substance, but it does not prohibit the coexistence of such claims in one claim set either.
+    C) Decision G 2/08 prohibits the coexistence of two independent claims for the same medical indication of one and the same substance in one claim set.
+    D) Decision G 2/08 is silent on the issue of the coexistence of two independent claims for the same medical indication of one and the same substance in one
+
+--- Question 34 (Chunk 038) ---
+ Question 1 : What is the conclusion of the Enlarged Board of Appeal regarding the patentability of a specific dosage regime of a known medicament?
+
+    A) The specific dosage regime is not patentable.
+    B) The specific dosage regime is patentable only if it is for a different illness.
+    C) The specific dosage regime is patentable as long as it is not comprised in the state of the art.
+    D) The specific dosage regime is not patentable unless the whole body of jurisprudence relating to the assessment of novelty and inventive step also applies.
+
+Correct answer: D
+
+Explanation: According to the text, the Enlarged Board of Appeal held that there is no reason to treat a feature consisting in a new dosage regime of a known medicament differently from any other specific use acknowledged in the case law. However, it stressed that the whole body of jurisprudence relating to the assessment of novelty and inventive step also applies.
+
+Source: Article 54(5) EPC and T 1020/03.
+
+--- Question 35 (Chunk 039) ---
+ Question 1 : What is the difference between a method claim and a use claim according to the EPC?
+
+    A) A method claim is a claim defining a "use of compound X for a particular purpose", while a use claim is a claim defining a "method of carrying out the activity".
+    B) A method claim is a claim defining a "method of carrying out the activity", while a use claim is a claim defining a "use of a thing for a stated purpose".
+    C) A method claim is a claim defining a "use of a thing for a stated purpose", while a use claim is a claim defining a "method of carry ing out the activity".
+    D) A method claim is a claim defining a "method of carry ing out the activity", while a use claim is a claim defining a "use of compound X for a particular purpose".
+
+Correct answer: B
+
+Explanation: According to the text, both method claims and use claims are allowed under the EPC, but the difference between them is a matter of preference. A method claim defines a method of carrying out an activity, while a use claim defines a use of a thing for a stated purpose. The sequence of steps is implied
+
+--- Question 36 (Chunk 040) ---
+1. Which of the following is not a reason for excluding a process claim from patentability under Article 52(2) and (3) EPC 1973?
+
+    A) The process is not a technical process.
+    B) The process does not produce a direct technical result.
+    C) The process is not carried out on a physical entity.
+    D) The process is not directed to the use of a known process for a particular purpose.
+
+Correct answer: D
+
+Explanation: According to the text, a process claim is not excluded from patentability under Article 52(2) and (3) EPC 1973 based on the fact that it is directed to the use of a known process for a particular purpose. This is because the use of a process for the purpose of preparing its product(s) is considered to be the same process, and the scope of protection appears to be the same for a claim to the process as such and a claim to such use.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 37 (Chunk 041) ---
+ Question 1: Which of the following is the correct order of the steps to be followed in the problem and solution approach to assess inventive step?
+
+    A) 3.1, 3.2, 3.3, 3.4, 3.4.1, 3.4.2, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5, 4, 4.1, 4.2, 4.2.1, 4.2.2, 4.2.3, 4.3, 4.3.1, 4.3.2, 4.3.3
+    B) 3.1, 3.2, 3.3, 3.4, 3.4.2, 3.4.1, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5, 4, 4.1, 4
+
+--- Question 38 (Chunk 042) ---
+1
+
+Question 1: Which of the following is a requirement for a solution to be considered non-obvious under the problem-solution approach?
+
+    A) The solution must be disclosed in the application as providing the solution to the problem.
+    B) The solution must not be disclosed in the application as providing the solution to the problem.
+    C) The solution must not have the alleged effect.
+    D) The solution must be disclosed in the prior art.
+
+Correct answer: A
+
+Explanation: According to the text, a solution claimed as non-obvious is patentable only if it actually has the alleged effect. This means that the solution must be disclosed in the application as providing the solution to the problem.
+
+Source: Article 56 EPC 1973, T 2001/12.
+
+--- Question 39 (Chunk 043) ---
+ Question 1 : Which of the following is the central consideration in selecting the closest prior art for the purpose of objectively assessing inventive step?
+
+    A) The prior art must be directed to a purpose or effect that is different from the invention.
+    B) The prior art must be directed to a purpose or effect that is the same as the invention.
+    C) The prior art must be directed to a purpose or effect that is similar to the invention.
+    D) The prior art must be directed to a purpose or effect that is unrelated to the invention.
+
+Correct answer: B
+
+Explanation: According to the text, a central consideration in selecting the closest prior art is that it must be directed to the same purpose or effect as the invention.
+
+Source: The text provided.
+
+--- Question 40 (Chunk 044) ---
+ Question 1 : Which of the following is a reason for excluding a confidential disclosure in the application as a starting point for the assessment of inventive step?
+
+    A) The disclosure is publicly available at the priority date.
+    B) The disclosure is known only within the company employing the inventors.
+    C) The disclosure is not doubted with regard to its disclosure.
+    D) The disclosure is directed to the same purpose or effect as the patent in suit.
+
+Correct answer: B
+
+Explanation: According to the text, prior art means publicly available art at the priority date, and not some internal prior art known only within the company employing the inventors. Therefore, a confidential disclosure in the application cannot be used as a starting point for the assessment of inventive step because it is not publicly available.
+
+Source: T 211/06.
+
+--- Question 41 (Chunk 045) ---
+ Question 1: What is the requirement for the technical problem addressed by an invention according to the established case law?
+
+    A) The technical problem should be formulated in such a way that it does not contain any solution ideas.
+    B) The technical problem should be formulated in such a way that it does not conta in pointers to the solution or partially anticipate the solution.
+    C) The technical problem should be formulated in such a way that it does not require additional information not at the disposal of the skilled person even after taking into account the content of the application in question.
+    D) The technical problem should be formulated in such a way that it does not have to be explicitly disclosed in the application as filed; it suffices if it is foreshadowed therein.
+
+Correct answer: A
+
+Explanation: According to the text, the technical problem addressed by an invention has to be formulated in such a way that it does not conta in pointers to the solution or partially anticipate the solution, since including part of a solution offered by an invention in the statement of the problem necessarily results in an ex post facto view being taken of inventive step when the
+
+--- Question 42 (Chunk 046) ---
+ Question 1 : What is essential for comparative tests to be considered suitable evidence of inventive step in cases concerning products such as cosmetics?
+
+    A) The tests must be made under conditions which ensure maximum objectivity on the part of those conducting the tests and who may be required at a later date to give evidence in proceedings.
+    B) The testers must have had no part in the making of the claimed invention or research leading up to the invention or the patenting procedure.
+    C) The products adduced as a basis of comparison must be commercially available and must be selected at random.
+    D) The tests must be conducted in the strictest conditions and be "blind".
+
+Correct answer: A
+
+Explanation: According to the text, in cases concerning products such as cosmetics, it is essential for comparative tests to be made under conditions which ensure maximum objectivity on the part of those conducting the tests and who may be required at a later date to give evidence in proceedings.
+
+Source: T 702/99.
+
+--- Question 43 (Chunk 047) ---
+ Question 1 : What is the condition for reformulating the technical problem in less ambitious terms?
+
+    A) The combination of features in the claim does not solve the problem over the whole area defined in the claim.
+    B) The combination of features in the claim solves the problem over the whole area defined in the claim.
+    C) The combination of features in the claim does not solve the problem over the area defined in the claim.
+    D) The combination of features in the claim solves the problem over the area defined in the claim.
+
+Correct answer: A
+
+Explanation: According to the text, the technical problem may have to be reformulated, in particular in less ambitious terms, if the combination of features in the claim does not solve this problem over the whole area defined in the claim. Therefore, option A is the correct answer.
+
+Source: I.D.4.4.1 Reformulation of the technical problem, in the text.
+
+--- Question 44 (Chunk 048) ---
+ Question 1 : What is the approach for assessing inventive step according to the text?
+
+    A) The assessment of inventive step must involve establishing, in each individual case, to what extent the skilled person had good reason, in the light of the closest state of the art or the objective problem derivable fr om it, to adduce further prior art and apply its teaching to the process/apparatus of the closest prior art – or, in other words, whether any factor is discernible which points towards a combination of the teachings of the citations addressed.
+    B) The assessment of inventive step must involve establishing, in each individual case, to what extent the skilled person had good reason, in the light of the closest state of the art or the objective problem derivable fr om it, to adduce further prior art and apply its teaching to the process/apparatus of the closest prior art – or, in other words, whether any factor is discernible which points towards a combination of the teachings of the citations addressed, but only if the technical feasibility and the absence of obstacles are also present.
+    C) The assessment of inventive step must involve establishing, in each individual
+
+--- Question 45 (Chunk 049) ---
+1. In which of the following situations would the skilled person be considered to be in a "try and see" situation?
+
+    A) The skilled person has no expectations of success or any particular expectations of any sort, but only a "try and see" attitude, when testing humans.
+    B) The skilled person has no expectations of success or any particular expectations of any sort, but only a "try and see" attitude, when testing in vivo animals.
+    C) The skilled person has some expectations of success, when testing in vivo animals.
+    D) The skilled person has some expectations of success, when testing humans.
+
+Correct answer: C
+
+Explanation: According to the text, the skilled person would have had no reason to adopt a sceptical attitude in cases where extensive in vivo animal and ultimately human testing would be required. This means that the skilled person would have some expectations of success when testing in vivo animals. Therefore, option C is the correct answer.
+
+Source: T 1396/06 and T 293/07.
+
+--- Question 46 (Chunk 050) ---
+ Question 1 : What is the expected knowledge and capabilities of the notional skilled person in the field of genetic engineering as at October 1981?
+
+    A) The ability to solve technical problems by performing scientific research in areas not yet explored.
+    B) The ability to carry out experimental work by routine means within the framework of the normal practice of filling gaps in knowledge by the application of existing knowledge.
+    C) The ability to solve problems for which routine methods of solution do not already exist.
+    D) The ability to perform scientific research in areas that are not related to genetic engineering.
+
+Correct answer: B
+
+Explanation: According to the text, the notional skilled person in the field of genetic engineering as at October 1981 is expected to have the ability to carry out experimental work by routine means within the framework of the normal practice of filling gaps in knowledge by the application of existing knowledge.
+
+Source: T 223/92.
+

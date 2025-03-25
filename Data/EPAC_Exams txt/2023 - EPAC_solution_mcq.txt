@@ -1,0 +1,197 @@
+1 
+Model solution for part 1 
+Question 1: D 
+Legal basis 
+An incorrect designaƟon of inventor shall be recƟﬁed upon request and only with the 
+consent of the wrongly designated person and, where such a request is ﬁled by a third party, 
+the consent of the applicant for or proprietor of the patent (R. 21(1) EPC). 
+Question 2: A 
+Legal basis 
+RepresentaƟve X is a representaƟve according to arƟcle 134.1 EPC and is already registered 
+as representaƟve for the European patent applicaƟon EP-A, so any registraƟon of change in 
+representaƟon by a new European patent atorney necessitates an authorizaƟon for 
+representaƟon signed by the applicant to be validly registered by the EPO. 
+According to rule 152(1) EPC, The President of the European Patent Oﬃce shall determine 
+the cases in which a signed authorizaƟon shall be ﬁled by representaƟves acƟng before the 
+European Patent Oﬃce.  
+In decision of the President of the EPO of 12.07.2007 on the ﬁling of authorizaƟons (Special 
+ediƟon No. 3, OJ EPO 2007, L.1), (2) If the European Patent Oﬃce is informed of a change of 
+representaƟve involving professional representaƟves who are not members of the same 
+associaƟon, without being noƟﬁed that the previous representaƟve's authorizaƟon has 
+terminated, the new representaƟve must ﬁle, together with the noƟﬁcaƟon of his 
+appointment, an individual authorizaƟon (original and one copy) or a reference to a general 
+authorizaƟon already on ﬁle 
+If an authorizaƟon for representaƟon is not provided, any acts done by the “new” 
+representaƟve will be deemed to never have occurred by the EPO. R 152(6) 
+RepresentaƟve Y shall ﬁle a change in representaƟon with form 5060 to register before the 
+EPO as the new representaƟve, an authorizaƟon of representaƟon signed by the applicant 
+for the change in representaƟon to be valid and a response to the writen opinion before the 
+EPO before: 
+Time limit to respond to the negaƟve search opinion: publicaƟon date of the EESR: 12 April 
+2023 + 6 months (R 70a(1) + R 70(1) EPC) = 12 October 2023 (Tuesday) 
+2 
+Question 3: C 
+Legal basis 
+According to Art. 122 EPC and Rule 136(1) EPC it is possible to obtain re-establishment of 
+rights in respect of the priority period (twelve months according to Art. 87(1) EPC). 
+A: Rule 136(3) EPC: Further processing is available 
+B: Rule 136(3) EPC: Further processing is available 
+D: ArƟcle 122(4) EPC Re-establishment of rights shall be ruled out in respect of the Ɵme limit 
+for requesƟng re-establishment of rights 
+Question 4: B 
+Legal basis 
+Rule 90.4(d) PCT 
+Subject to paragraph (e), any receiving Oﬃce, any InternaƟonal Searching Authority, any 
+Authority competent to carry out supplementary searches, any InternaƟonal Preliminary 
+Examining Authority and the InternaƟonal Bureau may waive the requirement under 
+paragraph (b) that a separate power of atorney be submited to it, in which case paragraph 
+(c) shall not apply.
+Question 5: D 
+Legal basis 
+Art. 14(4) EPC: “Natural or legal persons having their residence or principal place of business 
+within a ContracƟng State having a language other than English, French or German as an 
+oﬃcial language, and naƟonals of that State who are resident abroad, may ﬁle documents 
+which have to be ﬁled within a Ɵme limit in an oﬃcial language of that State.” 
+ArƟcle 14(1) RFees: 30% reducƟon of the applicaƟon fee; Rule 6 RFees 
+A-X, 9.2.1; A-X, 9.2.2
+A-X, 9.2.1 CondiƟons - Guidelines for ExaminaƟon (epo.org)
+A-X, 9.2.2 ReducƟon of the ﬁling fee - Guidelines for ExaminaƟon (epo.org)
+NoƟce from the EPO dated 10 January 2014 concerning amended Rule 6 EPC and ArƟcle 
+14(1) RFees (EPO - NoƟce from the EPO dated 10 January 2014 concerning amended Rule 6 
+EPC and ArƟcle 14(1) RFees) 
+A. Not correct (Andorra is not an EPC contracƟng state); Art. 14(4) EPC relates to the 
+applicant and not to his representaƟve)
+3 
+ 
+B. Not correct (the German company is not considered as SME – R. 6(4)a, R. 6(7) // NoƟce 
+from the EPO dated 10 January 2014 concerning amended Rule 6 EPC and Art. 14(1) RFEES) 
+C. Not correct (French is an oﬃcial language of the EPO Art. 14(1) EPC) 
+D. Correct (applicant of an EPC contracƟng state with resident abroad; Italian is oﬃcial 
+language of Switzerland; natural person is enƟtled to the reducƟon) 
+ 
+ 
+Question 6: D 
+ 
+Legal basis 
+R36(2), R135(2) EPC 
+The English translaƟon of the applicaƟon documents must be ﬁled within 2 months of ﬁling 
+the DA. 
+If the English translaƟon is not ﬁled: The EPO will issue a communicaƟon pursuant to Rule 58 
+EPC seƫng a Ɵme limit of further 2 months for ﬁling the translaƟon.  
+If the English translaƟon is not ﬁled within the Ɵme limit set by the communicaƟon pursuant 
+Rule 58 EPC: a loss of rights communicaƟon is issued: further processing is ruled out for the 
+missing 2-month Ɵme limit of Rule 58 EPC -> re-establishment of rights. 
+ 
+ 
+Question 7: C 
+ 
+Legal basis 
+ 
+Art 86 EPC, Rule 51 EPC, Art 141 EPC 
+ 
+Due date of the renewal fee: 30 November 2023 = aŌer grant of the patent renewal fee 
+must be paid to the naƟonal oﬃces. 
+Time limit: 2 months of publicaƟon of grant in the European Patent BulleƟn: 8 January 2014 
+ 
+ 
+Question 8: B 
+ 
+Legal basis 
+ 
+Guidelines D-VI, 7.2.3 
+ 
+A: incorrect because of the enƟre descripƟon 
+B: correct 
+C: incorrect; the invitaƟon is not issued together with the interlocutory decision, but aŌer 
+the interlocutory decision has become ﬁnal and can no longer be appealed 
+D: incorrect: 3 months is correct Rule 82(2) EPC 
+4 
+Question 9: D 
+Legal basis 
+R 91.2 PCT: the Ɵme limit for ﬁling a request for recƟﬁcaƟon of an obvious mistake is 26 
+months from the earliest priority date 
+Question 10: C (the most correct answer), D (also possible) 
+Legal basis 
+Art. 121(1) (2), Rule 135(1) and (3) EPC, Art. 2(1), item 12 RFees 
+Guidelines for ExaminaƟon E-VIII, 2 (Further processing) and E-VIII, 3.1.3 
+E-IX, 2.3.1 (RepresentaƟon, address for correspondence)
+Comment: 
+A good paralegal will perform all acts of C, including the appointment of the representative. 
+However, formally/grammatically D can also be considered as a correct answer to the 
+question, because the appointment of the professional representative can be done later (if 
+the translation is supplied and the fees are paid, but no professional representative has been 
+appointed, the JP applicant may be invited to appoint a professional representative under R 
+163(5) EPC. The procedural acts of requesting examination and filing the translation could 
+also be considered as unsigned documents, because the JP applicant is not entitled to 
+sign.  He might receive an invitation under R 50(3) EPC to supply a missing signature, which 
+can be fulfilled by appointing a professional representative. 
+Question 11: B 
+Legal basis 
+Guide for applicants: PCT procedure before the EPO (Euro-PCT Guide) – 5.4 Amending the 
+applicaƟon – Rule 161/162 communicaƟon  
+Guidelines for examinaƟon 
+GL E-IX, 2.1.1 (2.1.1 Requirements for entry into the European phase (epo.org)) 
+E-IX, 3.3.1 (htps://www.epo.org/law-pracƟce/legal-
+texts/html/guidelines/e/e_ix_3_3_1.htm)
+5 
+ 
+“A reply to the communicaƟon under Rule 161(1) may not be necessary … If the applicant 
+ﬁled amendments according to Art. 19 and/or 34 PCT in the internaƟonal phase, and if the 
+EPO prepared the WO-ISA or SISR but no IPER (either because the applicant did not demand 
+PCT Chapter II or because the IPEA was an oﬃce other than the EPO), then these 
+amendments are considered to consƟtute a response to the WO-ISA or SISR, provided that 
+the applicant has indicated on entry into the European phase that these amendments are 
+maintained…” 
+ 
+ 
+Question 12: C 
+ 
+Legal basis 
+ 
+ExplanaƟon: Applicant’s Guide – MX – Annex C – Receiving Oﬃce 
+PCT Applicant's Guide Mexico - Valid as from 13 Apr 2023 (wipo.int) 
+Competent InternaƟonal Searching Authority: 
+ AT, CL, EP, ES, KR, SE, SG, US 
+Competent InternaƟonal Preliminary Examining Authority: 
+ AT, CL*, EP**, ES, KR, SE, SG*, US* 
+ * 
+The Oﬃce is competent only if the internaƟonal search is or has been carried out by that 
+Oﬃce. 
+ ** The Oﬃce is competent only if the internaƟonal search is or has been carried out by that 
+Oﬃce, the Austrian Patent Oﬃce, the Spanish Patent and Trademark Oﬃce or the Swedish 
+Intellectual Property Oﬃce (PRV). 
+ 
+ 
+Question 13: A 
+ 
+Legal basis 
+ 
+PCT Rule 26bis.1(a), staƟng: 
+ “The applicant may correct a priority claim or add a priority claim to the request by a noƟce 
+submited to the receiving Oﬃce or the InternaƟonal Bureau within a Ɵme limit of 16 
+months from the priority date or, where the correcƟon or addiƟon would cause a change in 
+the priority date, 16 months from the priority date as so changed, whichever 16-month 
+period expires ﬁrst, provided that such a noƟce may be submited unƟl the expiraƟon of four 
+months from the internaƟonal ﬁling date.” 
+ 
+ 
+ 
+ 
+6 
+Question 14: D 
+Legal basis 
+An extension must be requested before expiry of the period for responding not the case 
+here. 
+Further processing is only available to applicants (and thus before grant). 
+The non-observance of the Ɵme limit to ﬁle comments does not have the direct consequence 
+demanded for re-establishment of rights in Art 122(1). [see G1/90]  
+Therefore, only D can be correct, and the Board will exercise its discreƟon. The 
+Opponent/Respondent should thus submit reasons for submiƫng them late. 
+Question 15: B 
+Legal basis 
+Guidelines, E-Vii.1.5 Concerning renewal fees falling due during the period of interrupƟon, 
+Rule 142(4) has to be interpreted as deferring the due date for their payment unƟl the date 
+the proceedings are resumed (J 902/87). Thus, such renewal fees may be paid without 
+addiƟonal fee at the date of resumpƟon and in the amounts applicable on that date. They 
+may also be paid within six months of said date, provided that an addiƟonal fee is also paid 
+within said period (Rule 51(2)). 

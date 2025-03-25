@@ -1,0 +1,594 @@
+--- Question 1 (Chunk 079) ---
+1
+
+Question 1: In T 2289/09, what was the Enlarged Board's statement regarding the invention which is to be examined in a divisional application?
+
+    A) The invention must be an invention in respect of which a search fee has been paid prior to the drawing up of the European search report.
+    B) The invention must be an invention in respect of which a search fee has been paid prior to the drawing up of the international search report.
+    C) The invention must be an invention in respect of which a search fee has been paid prior to the filing of the divisional application.
+    D) The invention must be an invention in respect of which a search fee has been paid prior to the filing of the parent application.
+
+Correct answer: A
+
+Explanation: According to the text, the Enlarged Board stated that "the invention which is to be examined ... must be an invention in respect of which a search fee has been paid prior to the drawing up of the European search report".
+
+Source: T 2289/09.
+
+--- Question 2 (Chunk 080) ---
+1. Which of the following is not a requirement for sufficiency of disclosure under Art. 83 EPC?
+
+    A) The application must disclose the invention in a manner sufficiently clear and complete for it to be carried out by a person skilled in the art.
+    B) At least one way of enabling the person skilled in the art to carry out the invention must be disclosed.
+    C) The disclosure must also be reproducible without undue burden.
+    D) The application must be sufficiently disclosed at the date of the application based on the application as a whole.
+
+Correct answer: D
+
+Explanation: According to the text, the requirement for sufficiency of disclosure under Art. 83 EPC is that the application must be sufficiently disclosed at the date of the application based on the application as a whole. However, this is not a requirement for sufficiency of disclosure under Art. 83 EPC, but rather a statement about when the sufficiency of disclosure must be assessed.
+
+Source: Article 83 EPC.
+
+--- Question 3 (Chunk 081) ---
+1
+
+Question 1: Which of the following is a source of information that the skilled person can use to supplement the information in the application and correct any errors identified in the assessment of sufficiency of disclosure under Article 83 EPC?
+
+    A) Secret know-how of individual makers of aerated concrete.
+    B) Textbooks or monographs.
+    C) The knowledge potentially available to any skilled person in the field.
+    D) The knowledge of a head of a laboratory.
+
+Correct answer: C
+
+Explanation: According to the text, the skilled person can supplement the information in the application with common general knowledge, which is the knowledge potentially available to any skilled person in the field. Therefore, option C is a source of information that the skilled person can use to supplement the information in the application and correct any errors identified in the assessment of sufficiency of disclosure under Article 83 EPC.
+
+Source: Article 83 EPC and T 2704/18, T 2305/11, T 169/83, T 206/83, T 629/0
+
+--- Question 4 (Chunk 082) ---
+ Question 1 : What is the minimum requirement for an invention to be considered sufficiently disclosed?
+
+    A) At least one way of carrying out the invention must be clearly indicated enabling the person skilled in the art to carry out the invention.
+    B) The invention must be described in mathematical terms.
+    C) The invention must be described in a way that is not subject to interpretation.
+    D) The invention must be described in a way that is not subject to debate.
+
+Correct answer: A
+
+Explanation: According to the text, an invention is in principle sufficiently disclosed if at least one way is clearly indicated enabling the person skilled in the art to carry out the invention. This means that the minimum requirement for an invention to be considered sufficiently disclosed is that at least one way of carrying out the invention must be clearly indicated.
+
+Source: Article 83 EPC 1973.
+
+--- Question 5 (Chunk 083) ---
+ Question 1 : In the context of patent law, which of the following is a correct statement about the sufficiency of disclosure of an invention?
+
+    A) If the skilled person, upon consideration of the entire disclosure and possibly using common general knowledge, could infer what would and what would not work, a claimed invention is sufficiently disclosed, even if a broad construction might also encompass what does not work.
+    B) If the quality of the coatings obtained does not meet the requirements set out in a claim, the invention is not sufficiently disclosed.
+    C) If the skilled person cannot directly recognise and exclude embodiments which obviously would not achieve the effect sought, the invention is not sufficiently disclosed.
+    D) If the invention does not solve the problem or achieve the desired effect, the invention is not sufficiently disclosed.
+
+Correct answer: A
+
+Explanation: According to the text, if the skilled person, upon consideration of the entire disclosure and possibly using common general knowledge, could infer what would and what would not work, a claimed invention is sufficiently disclosed, even if a broad construction might also encompass what does not work. This is a correct statement about the sufficiency of dis
+
+--- Question 6 (Chunk 084) ---
+ Question 1 : Which of the following is a reason for a patent to be considered insufficiently disclosed?
+
+    A) The patent describes three clearly defined standard methods of determining a parameter.
+    B) The patent does not indicate any method for the measurement of a parameter.
+    C) The alleged ambiguity arises at the edges of the values recited in the claim.
+    D) The patent describes numerous methods of measuring a parameter.
+
+Correct answer: B
+
+Explanation: According to the text, if a patent does not indicate any method for the measurement of a parameter, it may be considered insufficiently disclosed.
+
+Source: The text provided.
+
+--- Question 7 (Chunk 085) ---
+ Question 1:
+
+Question 1: In the case of a patent relying on a newly formulated and unfamiliar parameter to define the solution of a technical problem, what is the patentee's particular obligation according to T 172/99?
+
+    A) To disclose all the information necessary to reliably define the new parameter in a formally correct and complete manner such that its values can be obtained by a person skilled in the art without undue burden.
+    B) To disclose all the information necessary to reliably define the new parameter in a manner which reliably retains the validity of the parameter for the solution of the technical problem for the application or patent in suit as a whole.
+    C) To disclose all the information necessary to reliably define the new parameter in a manner which ensures that the claimed subject matter does not cover variants incapable of providing the relevant effect or solving the associated technical problem.
+    D) To disclose all the information necessary to reliably define the new parameter in a manner which ensures that the claimed subject matter covers only variants capable of providing the relevant effect or solving the associated technical problem.
+
+Correct answer: B
+
+Explanation:
+
+--- Question 8 (Chunk 086) ---
+ Question 1 : Which of the following is a matter related to Art. 83 EPC?
+
+    A) The question of whether a skilled person is working or not within the claimed scope ("forbidden area" of a claim)
+    B) The definition of the scope of protection sought (Art. 84 EPC)
+    C) The question of whether a claimed essential parameter can be measured by the skilled person
+    D) The question of whether a claimed invention may be carried out with the aid of only a few additional non-disclosed steps
+
+Correct answer: C
+
+Explanation: According to the text, the question of whether a claimed essential parameter can be measured by the skilled person is related to Art. 83 EPC. This is because the sufficiency of disclosure requirement under Art. 83 EPC ensures that the skilled person can carry out the invention without having to do their own research or performing an unreasonable number of experiments. If the skilled person cannot measure the relevant essential parameter, they may have to perform their own research or experiments to determine the parameter, which would not meet the sufficiency of disclosure requirement.
+
+Source: Article 83 EPC.
+
+--- Question 9 (Chunk 087) ---
+ Question 1 : What is the main reason why the board in T 2070/13 concluded that the skilled person was unable to identify suitable materials displaying anti-adherence?
+
+    A) The board did not find any suitable compounds within the claimed families of compounds.
+    B) The board did not find any standard procedure to determine anti-adherence.
+    C) The board found that the skilled person would be faced with an experimental programme to establish which of the listed materials satisfied the claimed criterion of anti-adherence.
+    D) The board found that the enhancers to be used were characterized in functional terms only.
+
+Correct answer: C
+
+Explanation: The board in T 2070/13 concluded that the skilled person was unable to identify suitable materials displaying anti-adherence due to the large number of potential materials listed, several of these listed materials also describing large families of compounds; the skilled person would be faced with an experimental programme in order to establish which of the listed materials satisfied the claimed criterion of anti-adherence.
+
+Source: T 2070/13.
+
+--- Question 10 (Chunk 088) ---
+ Question 1 : Which of the following is a fundamental principle of patent law?
+
+    A) A claim can validly cover broad subject matter only if the description of the relevant patent enables every method of arriving at that subject matter to be carried out.
+    B) A claim can validly cover broad subject matter, even though the description of the relevant patent does not enable every method of arriving at that subject matter to be carried out.
+    C) A claim can only cover subject matter that is already known to the skilled person at the priority date.
+    D) A claim can only cover subject matter that is not anticipated in the prior art.
+
+Correct answer: B
+
+Explanation: According to the text, it is a fundamental principle of patent law that a claim can validly cover broad subject matter, even though the description of the relevant patent does not enable every method of arriving at that subject matter to be carried out. This is because if every method of arriving at the subject matter had to be enabled, no dominant patent could exist, and each developer of a new method of arriving at that subject matter would be free of earlier patents.
+
+Source: Article 83 EPC 1973.
+
+--- Question 11 (Chunk 089) ---
+ Question 1 : What is the main line of case law identified in T 116/18 regarding sufficiency of disclosure under Article 83 EPC?
+
+    A) "ab initio plausibility"
+    B) "ab initio implausibility"
+    C) "no plausibility"
+    D) "plausibility was ultimately established"
+
+Correct answer: A
+
+Explanation: According to the text, the main lines of case law identified in T 116/18 regarding sufficiency of disclosure under Article 83 EPC include "ab initio plausibility", "ab initio implausibility", and "no plausibility". Therefore, the correct answer is option A.
+
+Source: T 116/18 (OJ 2022, A76)
+
+--- Question 12 (Chunk 090) ---
+1
+
+Question 1: In the context of a patent application for a monoclonal antibody, which of the following statements is true?
+
+    A) The skilled person would have to sort out non-functional variants in a burdensome manner.
+    B) The specification must demonstrate that each and every conceivable embodiment of the claim can be obtained.
+    C) The specification must contain sufficient information on the relevant criteria for finding appropriate alternatives ("variants") over the claimed range with reasonable effort.
+    D) The skilled person would not be able to provide antibody variants having the functional requirements indicated in the claim.
+
+Correct answer: A
+
+Explanation: According to the text, in T 617/07, the claim at issue concerned monoclonal antibodies and synthetic and biotechnological derivatives thereof defined by structural and functional features. The board found that, given his common general knowledge, the skilled person would be able, in a possibly time-consuming but straightforward manner, to provide antibody variants having the functional requirements indicated in the claim. However, the skilled person would have to sort out non-functional
+
+--- Question 13 (Chunk 091) ---
+ Question 1 : What is the requirement for inventions involving biological material which is not available to the public and cannot be described in the European patent application?
+
+    A) A deposit of the biological material with a recognised depositary institution is not necessary.
+    B) A deposit of the biological material with a recognised depositary institution is necessary.
+    C) The biological material must be described in the European patent application.
+    D) The biological material must be available to the public.
+
+Correct answer: B
+
+Explanation: According to the text, for inventions involving biological material which is not available to the public and cannot be described in the European patent application, a deposit of the biological material with a recognised depositary institution is necessary under R. 31(1)(a) EPC.
+
+Source: T 1045/16 and R. 31(1)(a) EPC.
+
+--- Question 14 (Chunk 092) ---
+1
+
+Question 1: Which of the following is the correct statement about the clarity requirement of Article 83 EPC?
+
+    A) The clarity requirement of Article 83 EPC is not applicable if the wording of a claim is perfectly clear.
+    B) The clarity requirement of Article 83 EPC is not applicable if there is a discrepancy between the claims and the description.
+    C) The clarity requirement of Article 83 EPC is applicable if the expression used in the claim is very broad.
+    D) The clarity requirement of Article 83 EPC is applicable if the claim is not limited to a specific embodiment of the description.
+
+Correct answer: A
+
+Explanation: According to the text, when the wording of a claim is perfectly clear it needs to be considered under Article 83 EPC, rather than undertaking another speculative interpretation of the claim. Therefore, option A is the correct statement about the clarity requirement of Article 83 EPC.
+
+Source: T 2182/11, T 431/03, T 1188/15, T 169
+
+--- Question 15 (Chunk 093) ---
+ Question 1 : What is the burden of proof for establishing sufficiency of disclosure when a weak presumption exists that the invention is sufficiently disclosed?
+
+    A) The burden of proof is on the patent proprietor.
+    B) The burden of proof is on the opponent.
+    C) The burden of proof is on the examining division.
+    D) The burden of proof is on the board of appeal.
+
+Correct answer: A
+
+Explanation: According to the text, when a weak presumption exists that the invention is sufficiently disclosed, the burden of proof for establishing sufficiency is clearly on the appellant/patent proprietor.
+
+Source: T 59/18 and T 63/06.
+
+--- Question 16 (Chunk 094) ---
+ Question 1: The board in T 1273/09 had serious doubts that the claimed homeopathic treatment of hypertension could be reliably and reproducibly achieved by the mixture claimed for the following reasons:
+
+    A) Because the mixture was not applied according to homeopathic principles.
+    B) Because the mixture did not contain any active substance.
+    C) Because the mixture was not applied according to "conventional" medicine and science principles.
+    D) Because the mixture was not applied according to the standards of homeopathic medicine.
+
+Correct answer: D
+
+Explanation: The board in T 1273/09 had serious doubts that the claimed homeopathic treatment of hypertension could be reliably and reproducibly achieved by the mixture claimed because the mixture was not applied according to the standards of homeopathic medicine.
+
+Source: T 1273/09.
+
+--- Question 17 (Chunk 095) ---
+ Question 1 : Which of the following is the correct statement regarding the transfer of the priority right under the EPC?
+
+    A) The transfer of the priority right is governed by the law of the designated state where protection and priority are claimed.
+    B) The transfer of the priority right is governed by the law of the state where the first application was filed.
+    C) The transfer of the priority right is governed by the law of the state where the subsequent application was filed.
+    D) The transfer of the priority right is governed by the EPC and does not require any formal requirements.
+
+Correct answer: D
+
+Explanation: According to the text, neither Art. 87 EPC 1973 and Art. 88 EPC nor R. 52 and 53 EPC set out any requirement for determining the law governing transfer of the priority right. The board in T 205/14 disagreed with the reasoning of T 62/05 that the transfer had to be proven in a formal way, applying an equally high standard of proof as that required by Art. 72 EPC 1973. Having regard to Art.
+
+--- Question 18 (Chunk 096) ---
+ Question 1 : Which of the following is true about the right of priority for one contracting state?
+
+    A) Art. 87(1) EPC 1973 makes no provision for multiple filings in the same country within the priority period for the same subject -matter and hence the same invention on the basis of the same priority document.
+    B) Art. 87(1) EPC 1973 allows multiple filings in the same country within the priority period for the same subject -matter and hence the same invention on the basis of the same priority document.
+    C) Art. 87(1) EPC 1973 allows multiple filings in the same country within the priority period for different subject -matters on the basis of the same priority document.
+    D) Art. 87(1) EPC 1973 allows multiple filings in different countries within the priority period for the same subject -matter and hence the same invention on the basis of the same priority document.
+
+Correct answer: A
+
+Explanation: According to the text, Art. 87(1) EPC 1
+
+--- Question 19 (Chunk 097) ---
+ Question 1 : Which of the following is a reason for the priority document to disclose the broad group of activators functionally defined in claim 1 of the European patent?
+
+    A) The priority document only mentioned certain activators complying with the functional definition in the European patent.
+    B) The priority document did not mention any activator.
+    C) The priority document mentioned activators that do not comply with the functional definition in the European patent.
+    D) The priority document mentioned activators that comply with the functional definition in the European patent but not in the broad group defined in claim 1.
+
+Correct answer: D
+
+Explanation: According to the text, the priority document mentioned activators that comply with the functional definition in the European patent but not in the broad group defined in claim 1. Therefore, the priority document does not disclose the broad group of activators functionally defined in claim 1 of the European patent.
+
+Source: T 1052/93.
+
+--- Question 20 (Chunk 098) ---
+ Question 1 : Which of the following is a requirement for claiming priority in a subsequent application?
+
+    A) The features of the invention disclosed in the priority application must not characterise the invention claimed in the subsequent application.
+    B) The features of the invention disclosed in the priority application must characterise the invention claimed in the subsequent application.
+    C) The features of the invention disclosed in the priority application may or may not characterise the invention claimed in the subsequent application.
+    D) The features of the invention disclosed in the priority application are not relevant for claiming priority in a subsequent application.
+
+Correct answer: B
+
+Explanation: According to the text, the features of the invention disclosed in the priority application must also characterise the invention claimed in the subsequent application. This is a requirement for claiming priority in a subsequent application.
+
+Source: The text provided.
+
+--- Question 21 (Chunk 099) ---
+ Question 1 : Which of the following is a requirement for an application to be considered as the first application by the applicant or by his predecessor in title in respect of the invention?
+
+    A) The application must be filed by the inventor.
+    B) The application must be filed by the applicant or his predecessor in title.
+    C) The application must be filed by a legal entity.
+    D) The application must be filed by a person who is economically independent of the applicant.
+
+Correct answer: B
+
+Explanation: According to the text, an application giving rise to the priority right had to be the first application by the applicant or by his predecessor in title in respect of the invention. Therefore, option B is a requirement for an application to be considered as the first application by the applicant or by his predecessor in title in respect of the invention.
+
+Source: Article 87(4) EPC 1973.
+
+--- Question 22 (Chunk 100) ---
+ Question 1 : Which of the following is the correct approach to determine the subject matter disclosed in a priority document that is relevant for the purpose of assessing novelty under Article 54(3) EPC?
+
+    A) Compare the generic subject matter of a claim in a subsequent application with the disclosure of the priority document to identify clearly defined alternative subject matter s to which the multiple rights of priority claimed could be attributed or not.
+    B) Compare the specific subject matter of a claim in a subsequent application with the disclosure of the priority document to identify clearly defined alternative subject matter s to which the multiple rights of priority claimed could be attributed or not.
+    C) Compare the specific subject matter of a claim in a subsequent application with the disclosure of the priority document to identify clearly defined alternative subject matter s to which the multiple rights of priority claimed could not be attributed or not.
+    D) Compare the generic subject matter of a claim in a subsequent application with the disclosure of the priority document to identify clearly defined alternative subject matter s to which the multiple rights of priority claimed could not be attributed or not.
+
+Correct answer: A
+
+Explanation: According to the text, the approach
+
+--- Question 23 (Chunk 101) ---
+1.6.1 Question i : Which of the following statements is true about the application as filed in the context of combining features pertaining to separate embodiments?
+
+    A) The application as filed is a "reservoir" of all possible combinations of features.
+    B) The application as filed is a "reservoir" of all possible combinations of features, except for those that are explicitly excluded.
+    C) The application as filed is not a "reservoir" of all possible combinations of features.
+    D) The application as filed is not a "reservoir" of all possible combinations of features, except for those that are explicitly excluded.
+
+Correct answer: C
+
+Explanation: According to the text, the application as filed is not a "reservoir" of all possible combinations of features pertaining to separate embodiments. This means that the application does not contain all possible combinations of features, even if they are not explicitly excluded.
+
+Source: Article II.E.1.6.1 of the law text.
+
+--- Question 24 (Chunk 102) ---
+ Question 1 : Which of the following is the "gold standard" for assessing compliance with Article 123(2) EPC?
+
+    A) The amendment to the parts of a European patent application or of a European patent relating to the disclosure (the description, claims and drawings) can only be made within the limits of what a skilled person would derive directly and unambiguously, using common general knowledge, and seen objectively and relative to the date of filing, from the whole of these documents as filed.
+    B) The amendment to the parts of a European patent application or of a European patent relating to the disclosure (the description, claims and drawings) can only be made within the limits of what a skilled person would derive directly and unambiguously, using common general knowledge, and seen objectively and relative to the date of filing, from the whole of these documents as filed, but only if the amendment does not present the skilled person with new technical information.
+    C) The amendment to the parts of a European patent application or of a European patent relating to the disclosure (the description, claims and drawings) can only be made within the limits of what a skilled person would derive directly and un
+
+--- Question 25 (Chunk 103) ---
+1
+
+Question 1: According to the text, which of the following is the key question for assessing whether the subject-matter of a patent extends beyond the content of the application as filed under Article 123(2) EPC?
+
+    A) Whether the amendments made in the description or claims provide the skilled person with additional, technically irrelevant information which was not contained in the original application documents.
+    B) Whether the amendments made in the description or claims provide the skilled person with additional, technically relevant information which was not contained in the original application documents.
+    C) Whether the amendments made in the description or claims provide the skilled person with additional, irrelevant information which was not contained in the original application documents.
+    D) Whether the amendments made in the description or claims provide the skilled person with additional, irrelevant information which was contained in the original application documents.
+
+Correct answer: B
+
+Explanation: According to the text, the key question for assessing whether the subject-matter of a patent extends beyond the content of the application as filed under Article 123(2) EPC is whether the amendments made in the description or claims
+
+--- Question 26 (Chunk 104) ---
+1.3.7 Question i : What is the test for compliance with Art. 123(2) EPC 1973?
+
+    A) The test for compliance with Art. 123(2) EPC 1973 is a test for added subject-matter.
+    B) The test for compliance with Art. 123(2) EPC 1973 is a test for novelty.
+    C) The test for compliance with Art. 123(2) EPC 1973 is a test for non-technical subject-matter.
+    D) The test for compliance with Art. 123(2) EPC 1973 is a test for the allowability of an amendment.
+
+Correct answer: D
+
+Explanation: According to the text, the test for compliance with Art. 123(2) EPC 1973 is a test for the allowability of an amendment. This test is directed to the process of "derivation" and prohibits the introduction of any technical information which a skilled person would not have object
+
+--- Question 27 (Chunk 105) ---
+ Question 1 : Which of the following is the correct statement about the interpretation of ambiguous expressions in a claim?
+
+    A) The description does not give a precise definition of the expression "minimum intensity level", but the patentee's interpretation of this expression is clearly excluded.
+    B) An ambiguous expression as filed might be interpreted in a particular way, but this is not sufficient to ensure the compliance of an amendment with Art. 100(c) EPC.
+    C) All technically reasonable interpretations of an ambiguous claim have to be considered, but if one of those interpretations contains matter that extends beyond the content of the application as originally filed, it does not have to be concluded that there is added subject-matter.
+    D) The mere fact that a dependent claim encompasses a host of possible but undefined embodiments is sufficient to ensure the compliance of an amendment with Art. 123(2) EPC.
+
+Correct answer: B
+
+Explanation: According to the text, an ambiguous expression as filed might be interpreted in a particular way, but this is not sufficient to ensure the compliance of an amendment with Art. 100
+
+--- Question 28 (Chunk 106) ---
+1.4.5 Removal of a set of features
+
+    A) The removal of a set of features from a claim is allowed if the skilled person can claim two unconnected teachings separately and the set of features is not essential to the subject matter claimed in the divisional application.
+    B) The removal of a set of features from a claim is allowed if the subject matter of the divisional application is not directly and unambiguously disclosed in the parent application.
+    C) The removal of a set of features from a claim is allowed if the set of features is essential to the subject matter claimed in the parent application.
+    D) The removal of a set of features from a claim is never allowed.
+
+Correct answer: A
+
+Explanation: According to the text, the removal of a set of features from a claim is allowed if the skilled person can claim two unconnected teachings separately and the set of features is not essential to the subject matter claimed in the divisional application.
+
+Source: Article 76(1) EPC 1973 and T 211/95, T 341/06 and T 694/07
+
+--- Question 29 (Chunk 107) ---
+ Question 1 : Which of the following is a correct way to form a range with an upper limit and a lower limit in a patent claim, based on the text?
+
+    A) By arbitrarily combining an upper limit mentioned in the first sentence of the description and a lower limit mentioned in the second sentence, without any teaching that such an arrangement was intended.
+    B) By taking an upper limit mentioned in the first sentence of the description and combining it with a lower limit that is unequivocally combined with an upper limit in the disclosure.
+    C) By taking a lower limit from a list of individually disclosed values and combining it with an upper limit from the same list.
+    D) By taking an upper limit from a list of individually disclosed values and combining it with a lower limit that is not from the same list.
+
+Correct answer: B
+
+Explanation: According to the text, a range can be formed by taking an upper limit mentioned in the first sentence of the description and combining it with a lower limit that is unequivocally combined with an upper limit in the disclosure. This is because there is a teaching that such an arrangement was intended. Therefore, option B is a
+
+--- Question 30 (Chunk 108) ---
+ Question 1 : Which of the following is a reason for excluding a combination of features from a patent claim under Article 123(2) EPC 1973?
+
+    A) The combination of features is not a pointer to the disclosure of the combination in the application as filed.
+    B) The combination of features is not a technical process.
+    C) The combination of features does not produce a direct technical result.
+    D) The combination of features is not described in mathematical terms.
+
+Correct answer: A
+
+Explanation: According to the text, a combination of features in a patent claim can only be included if it is a pointer to the disclosure of the combination in the application as filed. Therefore, option A is a reason for excluding a combination of features from a patent claim under Article 123(2) EPC 1973.
+
+Source: Article 123(2) EPC 1973.
+
+--- Question 31 (Chunk 109) ---
+ Question 1 : In the case of T 686/99, which of the following best describes the combination of base oil and hydrofluorocarbons in the claim?
+
+    A) The combination is individualised in the application as filed.
+    B) The combination is not individualised in the application as filed.
+    C) The combination is not disclosed in the application as filed.
+    D) The combination is disclosed in the application as filed but not in an individualised manner.
+
+Correct answer: B
+
+Explanation: In T 686/99, the application as filed discloses different categories of base oils without any pointer regarding the selection of one particular category. Therefore, the combination of a base oil mandatorily comprising ester oils with the hydrofluorocarbons listed in claim 1 results from a multiple selection within two lists of alternative features, and is not individualised in the application as filed.
+
+Source: T 686/99.
+
+--- Question 32 (Chunk 110) ---
+ Question 1 : Which of the following is a valid reason for a deletion of genes from a list of specific genes to be allowable under Article 123(2) EPC?
+
+    A) The deletion results in singling out any hitherto not specifically mentioned individual compound or group of compounds.
+    B) The deletion leads to a particular combination of a specific meaning which was not disclosed originally.
+    C) The deletion maintains the remaining subject -matter as a generic group of compounds differing from the original group only by its smaller size.
+    D) The deletion does not generate another invention, or in other words it merely restricts the required protection but does not provide any technical contribution to the originally disclosed subject -matter.
+
+Correct answer: C
+
+Explanation: According to the text, a deletion of genes from a list of specific genes is allowable if it maintains the remaining subject -matter as a generic group of compounds differing from the original group only by its smaller size. This means that option C is a valid reason for a deletion of genes from a list of specific genes to be allowable under Article 1
+
+--- Question 33 (Chunk 111) ---
+ Question 1 : What is the standard for the allowability of disclosed disclaimers under Article 123(2) EPC according to G 2/10?
+
+    A) The skilled person would, using common general knowledge, regard the subject-matter remaining in the claim after the introduction of the disclaimer as explicitly or implicitly, but directly and unambiguously, disclosed in the application as filed.
+    B) The disclaimer should not remove more than is necessary to restore novelty.
+    C) The disclaimer should not remove more than is necessary to disclaim subject-matter excluded from patentability for non-technical reasons.
+    D) The disclaimer should not remove more than is necessary to disclaim subject-matter that is not novel.
+
+Correct answer: A
+
+Explanation: According to the text, the standard for the allowability of disclosed disclaimers under Article 123(2) EPC, as identified in G 2/10, is that the skilled person would, using common general knowledge, regard the subject-matter remaining in the claim after the introduction of the disclaimer as explicitly or implicitly, but directly and unambiguously
+
+--- Question 34 (Chunk 112) ---
+1
+
+Question 1:
+Which of the following statements is true regarding the drafting of disclaimers in patent applications?
+
+    A) A patent proprietor is permitted a degree of discretion or latitude concerning the "border" within which the disclaimer should be drafted with respect to the subject-matter to be excised.
+    B) A disclaimer should not remove more than is necessary to restore novelty or to disclaim subject-matter excluded from patentability for non-technical reasons.
+    C) A disclaimer should not remove less than is necessary to restore novelty or to disclaim subject-matter excluded from patentability for non-technical reasons.
+    D) A disclaimer should not remove more than is necessary to disclaim subject-matter comprised by the claim in the first place.
+
+Correct answer: B
+
+Explanation: According to the text, the board found that it could not be derived from the reasoning of G 1/03 that a patent proprietor was permitted a degree of discretion or latitude concerning the "border" within which the disclaimer should be drafted with respect to the subject-matter to be excised. On the contrary,
+
+--- Question 35 (Chunk 113) ---
+ Question 1 : Which of the following is not a reason for the disclaimers in claim 1 of auxiliary request 4 in T 660/14 to be considered as providing a technical contribution to the subject-matter disclosed?
+
+    A) The disclaimers are not related to the technical arrangement of the operating and control members.
+    B) The disclaimers do not provide any technical advantage.
+    C) The disclaimers are not disclosed in the description.
+    D) The disclaimers are not related to the ergonomic benefits of the pivotable arrangement of the operating and control members.
+
+Correct answer: C
+
+Explanation: According to the text, the disclaimers in claim 1 of auxiliary request 4 in T 660/14 are considered to provide a technical contribution to the subject-matter disclosed because they are related to the technical arrangement of the operating and control members and are disclosed in the description. Therefore, option C is not a reason for the disclaimers to be considered as providing a technical contribution to the subject-matter disclosed.
+
+Source : Article 123(
+
+--- Question 36 (Chunk 114) ---
+ Question 1 : What is the only relevant question when assessing compliance with Art. 123(2) EPC for an amended version of an application or patent?
+
+    A) Whether the amended version provides a complete solution to a technical problem unambiguously recognizable from the application.
+    B) Whether the amended version is in conformity with the "gold standard" in G 2/10, OJ 2012, 376.
+    C) Whether the amended version derives any additional technically relevant information from the original version.
+    D) Whether the amended version is a multiple selection from two groups of alternative features.
+
+Correct answer: C
+
+Explanation: According to the text, the only relevant question when assessing compliance with Art. 123(2) EPC for an amended version of an application or patent is whether a skilled person faced with the amended version would derive from that amended version any additional technically relevant information.
+
+Source: T 1906/11, T 802/13, T 248/12, T 1791/
+
+--- Question 37 (Chunk 115) ---
+1.10.3 : Which of the following is not a permissible amendment according to T 288/92?
+
+    A) Restricting a generic definition of a substituent to a specific (individual) one which is supported by the application as originally filed.
+    B) Restricting a generic definition of a substituent to a specific (individual) one which is not supported by the application as originally filed.
+    C) Restricting a generic definition of a substituent to a specific (individual) one which is not a chemical entity.
+    D) Restricting a generic definition of a substituent to a specific (individual) one which is not arbitrarily selected.
+
+Correct answer: B
+
+Explanation: According to T 288/92, it is not permissible to amend a generic formula defining a class of chemical compounds by restricting an originally disclosed generic definition of a substituent to a specific (individual) one which is not supported by the application as originally filed.
+
+Source: T 288/92.
+
+--- Question 38 (Chunk 116) ---
+1.12.3 Question i : In T 740/91, the board allowed a change in the upper limit of a range from what percentage to 0.6 %?
+
+    A) 1%
+    B) 2%
+    C) 3%
+    D) 5%
+
+Correct answer: D
+
+Explanation: In T 740/91, the board allowed a change in the upper limit of a range from 5 % to 0.6 %. This means that the originally claimed upper limit was 5 %, but it was changed to 0.6 %.
+
+Source: Article 123(2) EPC 1973.
+
+--- Question 39 (Chunk 117) ---
+ Question 1 : Which of the following is a requirement for the patent proprietor or applicant to demonstrate when a shift in the interpretation of the claims has occurred, but it is uncertain if this would lead to an addition of subject -matter?
+
+    A) The patent proprietor or applicant must demonstrate that the requirements of Art. 123(2) EPC 1973 were complied with in making the amendment(s).
+    B) The patent proprietor or applicant must demonstrate that the shift in the interpretation of the claims does not lead to an addition of subject -matter.
+    C) The patent proprietor or applicant must demonstrate that the shift in the interpretation of the claims is allowable under Art. 123(2) EPC 1973.
+    D) The patent proprietor or applicant must demonstrate that the shift in the interpretation of the claims is not a breach of Art. 123(2) EPC 1973.
+
+Correct answer: A
+
+Explanation: According to the text, when a shift in the interpretation of the claims has occurred, but it is uncertain if this would lead
+
+--- Question 40 (Chunk 118) ---
+ Question 1 : What is not relevant when deciding on admissibility of an amendment under Article 123(3) EPC?
+
+    A) The actual wording of the claims
+    B) The validity of the claims in view of the prior art
+    C) The subject-matter at issue in national infringement proceedings
+    D) The terms of the claims
+
+Correct answer: C
+
+Explanation: According to the text, it is unnecessary to consider the subject-matter at issue in national infringement proceedings when deciding on admissibility of an amendment under Article 123(3) EPC.
+
+Source: The text provided.
+
+--- Question 41 (Chunk 119) ---
+ Question 1 : Which of the following is not a correct statement about deleting a limiting feature in a claim under Article 123(3) EPC?
+
+    A) Deleting a limiting feature from a claim extends the protection conferred.
+    B) If the limiting subject matter had been added in contravention of Article 123(2) EPC, the applicant is caught in an "inescapable trap".
+    C) Removing a positive technical feature from an independent claim prima facie results in a narrowing of the scope of protection afforded by it.
+    D) The removal of a limiting feature from a claim does not necessarily extend the protection conferred.
+
+Correct answer: C
+
+Explanation: According to the text, deleting a limiting feature from a claim extends the protection conferred, and if the limiting subject matter had been added in contravention of Article 123(2) EPC, the applicant is caught in an "inescapable trap". Therefore, option C is not a correct statement about deleting a limiting feature in a claim under Article 123(3) EPC.
+
+Source: Article 1
+
+--- Question 42 (Chunk 120) ---
+1
+
+Question 1: In the case of a change in the technical features of the invention, if the technical features of the claimed invention after amendment are more narrowly defined, the extent of the protection conferred is:
+
+    A) less
+    B) the same
+    C) more
+    D) undefined
+
+Correct answer: A
+
+Explanation: According to the text, if the technical features of the claimed invention after amendment are more narrowly defined, the extent of the protection conferred is less.
+
+Source: G 2/88, OJ 1990, 93, point 4.1 of the Reasons.
+
+--- Question 43 (Chunk 121) ---
+ Question 1 : What is the difference between the protection conferred by a patent and the rights conferred by a patent?
+
+    A) The protection conferred by a patent is determined by the terms of the claims, while the rights conferred by a patent are related to how such subject-matter is protected.
+    B) The protection conferred by a patent is related to how such subject-matter is protected, while the rights conferred by a patent are determined by the terms of the claims.
+    C) The protection conferred by a patent is determined by the categories of the claims, while the rights conferred by a patent are related to the legal rights which the law of a designated contracting state might confer upon the proprietor.
+    D) The protection conferred by a patent is related to the legal rights which the law of a designated contracting state might confer upon the proprietor, while the rights conferred by a patent are determined by the categories of the claims.
+
+Correct answer: A
+
+Explanation: According to the text, the protection conferred by a patent is determined by the terms of the claims, in particular by the categories of such claims and their technical features. On the other
+
+--- Question 44 (Chunk 122) ---
+ Question 1 : Which of the following is not a reason for a proposed amendment to a patent not being allowable under Article 123(3) EPC 1973?
+
+    A) The proposed amendment confers additional protection compared to the patent as granted.
+    B) The proposed amendment only includes technical features which define physical characteristics of the device itself.
+    C) The patent as granted confers protection upon the device only when it is in use so as to carry out the method.
+    D) The proposed amendment defines the use of a device to carry out a method of treatment of the human body by therapy and includes method steps.
+
+Correct answer: B
+
+Explanation: According to the text, a proposed amendment to a patent is not allowable under Article 123(3) EPC 1973 if it confers additional protection compared to the patent as granted, or if the patent as granted confers protection upon the device only when it is in use so as to carry out the method. In contrast, the proposed amendment defining the use of a device to carry out a method of treatment of the human body by therapy and including method steps
+

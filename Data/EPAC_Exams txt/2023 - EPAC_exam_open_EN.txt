@@ -1,0 +1,132 @@
+ 
+ 
+1
+1. (3 points) 
+On 22 December 2022, Italian company X filed an international patent application PCT-X 
+at the EPO as receiving Office. PCT-X claims priority from European patent application 
+EP-X filed on 11 January 2022. 
+The EPO as International Searching Authority issued a search report, together with a 
+negative written opinion (WO-ISA) and transmitted them to the applicant on 11 May 2023. 
+Company X would like to overcome the objections raised in the WO-ISA before deciding 
+on national phase entry. 
+What acts should be performed before which authority, and by when?  
+ 
+2. (5 points) 
+A large US company filed an international patent application with the USPTO, without 
+claiming priority. The International Bureau published the application on 16 March 2023, 
+together with the international search report drawn up by the USPTO. The published 
+international patent application comprised 2 pages of bibliographic data, 30 pages of 
+description, 15 claims on 2 pages, and 6 drawings on 4 pages The claims have not been 
+amended under Article 19 PCT. The US company now wants the supplementary European 
+search at the EPO to start as soon as possible but believes that it has to wait until the end 
+of 31 months from the date of filing. 
+Please explain whether the supplementary European search can start earlier and list the 
+necessary steps  to ensure the earliest possible start at minimum cost. You should identify 
+the fees due to be paid, but you do not need to specify their amounts. 
+  
+3. (5 points)  
+The applicant filed a US patent application US-A on 23 November 2021. This patent 
+application is currently under examination and a notice of allowance is not expected before 
+2024.  
+On 20 November 2022, your law firm validly filed a European patent application EP-A in 
+the applicant's name, claiming priority from US-A. 
+A communication under Rule 64(1) EPC is issued on 5 September 2023, indicating a lack 
+of unity because application EP-A comprises three inventions: A1, A2 and A3. 
+ 
+1. 
+What is the deadline for responding to this communication? Show your calculations. 
+2. 
+What steps need to be taken to receive the final search report for invention A1 
+only? 
+3. 
+What steps need to be taken to receive the final search report covering all three 
+inventions?  
+4. 
+What steps need to be taken to enable the applicant to obtain examination of 
+inventions A1 and A3 by the EPO? 
+The applicant informs your law firm that it wants to accelerate examination of invention A1 
+by using Form 1009 or Form 1005. 
+5. 
+Can you use these forms to accelerate the proceedings? Please explain your 
+answer. 
+ 
+ 
+2
+Following a successful request for accelerated examination, a communication under 
+Article 94(3) EPC is issued on A1, but the applicant needs more time to formulate a 
+response and requests an extension of the time limit.  
+6. 
+What effect will this request for an extension of the time limit have on the 
+prosecution of A1?  
+ 
+4. (8 points)  
+A large German company filed a German patent application on 10 April 2022 and received 
+a search report for it on 20 October 2022.  
+The same company filed a European patent application on 10 June 2022, claiming priority 
+from the German application. The minimum amount of fees was paid on filing. The 
+European application was published yesterday, 11 October 2023, together with the search 
+report. 
+ 
+1. 
+ After having analysed the search report issued by the EPO, the applicant wants to 
+maintain its application and obtain a patent. Set out all procedural steps and actions that 
+must be taken to get the first communication under Article 94(3) EPC or Rule 71(3) EPC 
+as soon as possible. Fee amounts need not be specified. 
+2. 
+ By when must these actions be taken at the latest? Show your calculations. 
+3. 
+ Let us now assume that the response to the search opinion did not include any 
+amendment or correction of the application, and the first communication from the 
+examining division is a communication under Rule 71(3) EPC sent in December 2023 
+without any proposed amendment. The applicant confirms that it agrees with the text set 
+out in the communication and files the required translations of the claims. 
+The applicant would like to have the broadest possible territorial scope of protection. 
+Which fees will you pay if the applicant would like to obtain the grant of the patent as soon 
+as possible? Please also specify the fee amounts. 
+4. 
+If, however, the applicant is interested in delaying the grant without incurring any 
+additional expenses, what is the latest date for paying each of the fees listed in your 
+answer to question 3? 
+ 
+5. (4 points) 
+Your French employer applied for a European patent in French on 12 October 2021, 
+without claiming any priority; the application as filed contained 10 claims. All fees that fell 
+due before publication of the application with the search report were paid in time. In 
+response to the search opinion, your employer immediately requested examination and 
+filed a set of 20 claims. The application and the amended claims were published on 19 
+April 2023, together with the search report. 
+The EPO examining division has issued a communication under Rule 71(3) EPC dated 12 
+October 2023; it has not proposed any amendments. Your employer agrees to the text 
+communicated under Rule 71(3) EPC and asks you to "obtain the patent" as soon as 
+possible and at the lowest cost with a view to starting infringement proceedings in 
+Belgium, Latvia and Malta. What actions will you take to ensure that the European patent 
+takes effect in Belgium, Latvia and Malta? (Fee amounts need not be specified.) 
+ 
+ 
+3
+ 
+  
+6. (5 points) 
+Your client   XYZ was granted a European patent; the language of proceedings was 
+German. XYZ requested validation in Italy, Germany, France and the United Kingdom. 
+During the 9 month opposition period, an opposition to the granted patent was filed, citing 
+Article 100(a) EPC. During the opposition proceedings, a new set of claims was filed.  
+The outcome of the opposition proceedings was that XYZ’s patent was maintained in 
+amended form. No appeal was filed by the parties. The opposition division has now issued 
+a communication under Rule 82(2) EPC (Form 2328), setting a 3-month period for 
+response. 
+ 
+1. 
+What acts need to be performed in response to   the communication under Rule 
+82(2) EPC? 
+2. 
+What are the consequences if the acts are not performed in time? In this case, what 
+steps shall you take to maintain the patent in amended form? 
+3. 
+Let us now imagine that you have received a decision revoking the patent because 
+the required acts were not performed in time. Is any means of redress available? 
+4. 
+The patent maintained in amended form is published as EP-B2. XYZ wants to 
+maintain patent protection via EP-B2 in Italy, Germany, France and the UK but also wants 
+to add patent protection in Poland. Explain how this can be achieved. 
+ 

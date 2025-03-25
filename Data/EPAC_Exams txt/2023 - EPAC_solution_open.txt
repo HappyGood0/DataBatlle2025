@@ -1,0 +1,122 @@
+ 
+1
+Part 2  
+Note: the legal basis was not needed to get full marks. 
+ 
+Question 1 
+ 
+(a) X should file a demand (using Form PCT/IPEA/401) (mention of Art 34 accepted) at 
+the EPO and specifying the EPO as IPEA. 
+ 
+(b) The time limit for filing the demand is 22 months from priority (11 November 2023 
+(Saturday) extended to 13 November 2023 (Monday)) or 3 months from SR (11 
+August 2023 (Friday)). 
+ 
+(c) File a reply (with amendments) to the written opinion and pay the fee for preliminary 
+examination and the handling fee (to the EPO). 
+ 
+Question 2 
+ 
+(a) Request early processing and perform all necessary steps in accordance with Rule 
+159 EPC: pay the filing fee (including two page fees (30+2+4+only 1 for abstract) 
+and the search fee. 
+ 
+(b) Request examination (or use Form 1200) and pay the fee. Pay the designation fee 
+and the renewal fee for the third year. 
+ 
+(c) Waive the right to receive a communication pursuant to Rule 161(2) and Rule 
+162(2) EPC. 
+ 
+(d) Appoint a representative. 
+ 
+Question 3 
+ 
+(a) (Rule 64(1)) has a deadline of 2m from the notification of the communication, 
+therefore the 10-day rule still currently applies. 5 September 2023 + 10d = 15 
+September 2023 + 2m = 15 November 2023. 
+ 
+(b) No action is required. If no response is filed to the R64(1) communication, the 
+published search report will be based on the first mentioned invention (i.e., A1). 
+ 
+(c) Pay two additional search fees (before the calculated deadline of 15 November 
+2023). A further search report will be issued covering all three inventions. 
+ 
+(d) Request examination for EP-A and file a divisional application for the second 
+invention. 
+ 
+2
+(e) A PPH request based on the US-priority application with the USPTO as OEE cannot 
+be filed by using Form 1009 (as the US priority is still under substantive 
+examination). EPO Form 1005 can be used to request accelerated examination 
+(PACE). 
+ 
+(f) EP-A will be taken out of the PACE programme due to the request for extension of 
+time. 
+ 
+Question 4 
+ 
+(a) The applicant must respond to the search opinion if required/if negative or confirm 
+that the applicant desires to proceed further with his application in case no 
+response to the search opinion is required (Rule 70(2); Gui C-II, 1.1), pay the 
+examination fee, send a copy of the search results on the priority application 
+(without waiting for a communication from the Examining Division (Gui C-II, 5)) and 
+file a PACE request. 
+ 
+(b) 6 months from publication of the search report (or application), i.e. 11 October 2023 
++ 6 months = Thursday 11 April 2024. The copy of the search results must be filed 
+within two months from notification of the invitation (Rule 141(3) EPC). 
+ 
+(c) Designation fee: 660 EUR. 
+ 
+- 
+Extension fee Montenegro: 102 EUR (Montenegro became a contracting state 
+on 1.10.2022, thus was not designated on 10.6.2022 (extension)). 
+- 
+Extension fee for Bosnia and Herzegovina: 102 EUR   
+- 
+Validation fee for Morocco:                            240 EUR   
+- 
+Validation fee for the Republic of Moldova:  200 EUR 
+ 
+Fee for grant: 1040 EUR  
+ 
+(d) The fee for grant must be paid within 4 months from notification of the 
+communication under Rule 71(3). All other fees must be paid 6 months from the 
+publication of the application: (11 Oct 2023 + 6m = Thursday 11 April 2024). 
+ 
+Question 5 
+ 
+(a) The mention of grant will be published if you pay the fee for grant and printing, file 
+translations of the claims (in English and in German), pay the fees for 5 claims, pay 
+the designation fee (which falls due on publication of the search report and needs to 
+be paid within 6 months from that publication i.e., by 19 October 2023) and pay the 
+renewal fee for the 3rd year at the EPO (due 31 October 2023). 
+ 
+ 
+ 
+3
+(b) The following actions are needed for the patent to take effect in BE, LV and MT: 
+- 
+no action is required for validation in BE 
+- 
+appoint and instruct a national professional representative to validate in LV  
+- 
+validate in MT by filing the English translation  
+ 
+Question 6 
+ 
+(a) Paying the fee for publishing a new specification and filing a translation of sets of 
+claims in in the official languages of the European Patent Office other than the 
+language of the proceedings. 
+ 
+(b) Within two months of a communication [(pursuant to Rule 95(3) EPC) in conjunction 
+with Rule 82(3) EPC (Form 2386)] pointing out the failure to observe the time limit, 
+the omitted acts must be performed and the surcharge for late performance of the 
+acts required to maintain the European patent in amended form must be paid. 
+ 
+(c) The only possibility is re-establishment of rights. 
+ 
+(d) Within 3 months of the mention of the publication of the B2, a translation in Italian of 
+the patent specification as maintained in amended form must be filed at the Italian 
+Patent Office. No action is required in DE, FR and GB and it is no longer possible to 
+extend protection to Poland. 

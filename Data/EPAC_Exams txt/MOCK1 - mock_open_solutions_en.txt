@@ -1,0 +1,140 @@
+ 
+ 
+1
+Legal bases are not necessary to get full points but are indicated in the answers for teaching purposes.  
+  
+Q1 The applicant has to request entry into the regional phase before the EPO either by using Form 1200 or 
+in a separate letter giving all the information required by Form 1200.    
+The applicant has to:  
+• 
+select the box for early processing on Form 1200    
+• 
+pay the filing fees and search fees    
+• 
+PCT-C was filed in Chinese, searched by the CNIPA as International Searching Authority and, in 
+ 
+accordance with Rule 48.3(a) PCT, published in Chinese.  Since the Euro-PCT application was 
+ 
+published in "another language", Article 153(4) EPC requires that a translation into German, 
+ 
+English or French be filed. In accordance with Rule 159(1)(a) EPC, this translation has to be 
+ 
+filed upon entry into the European phase, i.e.  today.    
+• 
+submit a translation of the amended claims filed under Article 34 PCT    
+• 
+pay claims fees for 4 claims and the examination and designation fees   
+  
+The applicant has to specify the application documents on which the European grant procedure is to be 
+based (Rule 159(1)(b) EPC). The applicant must file a valid request for examination, which includes paying 
+the examination fee (see point 15 of the notice from the EPO concerning the request for early processing, 
+OJ EPO 2013, 156).  The applicant should waive the right to be asked under Rule 70(2) EPC whether it 
+wishes to proceed further (see point 16 of the notice from the EPO), and waive the right to receive the 
+communication under Rule 161(2) EPC, (see OJ EPO 2011, 354).    
+          
+Q2-1 Applicant E can file the application without going through a representative (Article 133(2) EPC) and 
+can therefore file the description himself. The application can be filed in Spanish (Article 14(2) EPC). Since 
+Form 1001 has been used, the formal requirements (Rule 40(1)(a) EPC) are met. The requirements (under 
+Rule 40 EPC) for according a date of filing were fulfilled on 14 October 2022, which will be accorded as the 
+date of filing (in accordance with Article 80 EPC and Rule 40 EPC).    
+     
+Q2-2 A representative has to be appointed under Article 133(2) EPC. The invitation under Rule 58 EPC to 
+correct the deficiency of the missing appointment of a representative (required under Rule 57(h) EPC) sets 
+a time limit of 2 months. This time limit expires on 16 January 2023 (Monday) (4 November 2022 + 10 days 
+(Rule 126(2) EPC) + 2 months (Rule 58 EPC), extended (Rule 134(1) EPC) to Monday). The translation should 
+have been signed by the representative (Guidelines A-VIII, 3.1). Documents signed by a person who is not 
+entitled are treated as if they had not been signed. The representative has to provide the missing signature 
+in response to the invitation under Rule 50(3) EPC. The abstract also has to be filed (Rule 57(d) EPC).    
+    
+Q3-1 You should fill in EPO Form 1001 and file the application online (reduced filing fee) today. On 
+Form 1001, provide your company address as the information allowing the applicant to be contacted and 
+refer to ES, indicating that it replaces the description, the drawings and the claims. Also request 
+examination in Spanish and select: "The applicant hereby declares that he is an entity or a natural person 
+under Rule 6(4) EPC" or else file a separate declaration to this effect.    
+    
+Q3-2 Yes, it can be filed without a signature.     
+     
+(Rule 58 EPC   Correction of deficiencies in the application documents    
+Rule 57(b) EPC and Rule 41(2)(h) EPC )  
+     
+Q3-3    
+Supply a certified copy of the previously filed application within two months of the filing date (Rule 40(3) 
+EPC) and a translation of this application within the same period (Article 14(2) EPC, Rule 40(3) EPC).     
+Submit the designation of inventor; you can use EPO Form 1002 for this.     
+Submit an abstract (Article 78 EPC).     
+Pay the examination fee  (reduced under Rule 6 EPC).  
+  
+ 
+ 
+2
+Within one month of the date of filing:      
+Pay the filing fee, which includes the page fee (5 pages) (reduced under Rule 6 EPC for online filing). 
+Pay the search fee     
+Pay the claims fee (three claims)     
+    
+Q4-1 PCT Direct procedure (OJ EPO 2014, A89, 1-3).     
+     
+Q4-2 The EPO has to be used as International Searching Authority (OJ EPO 2014, A89, 1) because PCT Direct 
+is a service offered by the EPO.   Receiving office can be any office open to a German applicant (OJ EPO 
+2017, A21): DPMA, IB, EPO.  
+     
+Q4-3 Taiwan is not a PCT contracting state (PCT Applicant's Guide ‒ International Phase – Annex A). The 
+solution is to file national patent application in Taiwan within the priority year, claiming priority of the 
+European patent application.    
+        
+Q4-4.  10 November 2022.     
+(Rule 26bis.1(a)) The applicant may correct a priority claim or add a priority claim to the request by a notice 
+submitted to the receiving Office or the International Bureau within a time limit of 16 months from the 
+priority date or, where the correction or addition would cause a change in the priority date, 16 months 
+from the priority date as so changed, whichever 16-month period expires first, provided that such a notice 
+may be submitted until the expiration of four months from the international filing date.  
+16 months from 10 July 2021 (earlier of 2 priority dates) = 10 November 2022      
+4 months from 3 June 2022 = 3 October 2022      
+The answer is therefore 10 November 2022, as it is later than 3 October 2022.    
+     
+Q4-5  7 August 2023.      
+(Rule 54bis.1(a)): 22 months from priority date or 3 months from the date of transmittal to the applicant of 
+the international search report and of the written opinion established under R. 43bis.1, whichever period 
+expires later.  
+7 October 2021 + 22 months = 7 August 2023.  
+Receipt of the international search report on 1 September 2022 + 3 months = 1 December 2022, which is 
+earlier.     
+     
+Q4-6 Only the EPO (PCT Applicant's Guide, Annex C, EP).     
+     
+Q4-7 No, entry into the national/regional phase is possible at any time after validly filing the PCT 
+application.   The applicable time limit for performing the acts for entry into the national/regional phase is 
+30-31 months from the filing date or, if priority has been claimed, the priority date. Therefore, the 
+national/regional offices will not commence processing an international application before the 30-31-
+month time limit has expired. An exception applies if the applicant lifts the processing ban earlier. To do 
+this, the applicant has to file a request for early processing (under Article 23(2) or 40(2) PCT) with the 
+designated/elected Office and comply with the requirements for the request to be effective.     
+    
+ Q5-1 The deadline for filing notice of appeal is 2 months from the date of notification of the decision to 
+refuse.    
+Therefore: 
+14 March 2022 + 10 days = 24 March 2022    
+24 March 2022 + 2 months = 24 May 2022 (Tuesday)    
+Deadline for filing notice of appeal = 24 May 2022.    
+    
+Q5-2 The deadline for filing the grounds of appeal is 4 months from the date of notification of the decision 
+to refuse.    
+Therefore: 
+14 March 2022 + 10 days = 24 March 2022    
+24 March 2022+ 4 months = 24 July 2022 (Sunday)    
+Deadline for filing grounds of appeal = 25 July 2022    
+ 
+ 
+3
+(Under Rule 103(1)(b)) If the appeal is withdrawn before the grounds of appeal are filed and before the 
+period for filing them has expired, the appeal fee will be reimbursed in full.    
+In this case, the appeal was withdrawn on 5 July 2022. Therefore, the appeal fee will be refunded in full 
+(under Rule 103(1)(b)).    
+    
+Q5-3      
+(Under Rule 103(3)(b)) If the appeal is withdrawn after the Board of Appeal has issued a communication 
+inviting observations but before expiry of the period set by the Board for filing them, the appeal fee will be 
+reimbursed at 50%.    
+In this case, as the appeal was withdrawn immediately after the communication inviting observations, the 
+appeal fee will be refunded at 50%.  
+ 
