@@ -1,0 +1,364 @@
+EN 
+2014/PE/EN 
+ 
+ 
+ 
+EUROPEAN QUALIFYING EXAMINATION 2014 
+ 
+ 
+ 
+Pre-examination 
+ 
+ 
+ 
+ 
+ 
+ 
+This paper comprises: 
+ 
+ 
+* 
+Instructions for answering the paper and marking 
+Page 1 
+ 
+scheme 
+ 
+* 
+Legal questions 
+Pages 2-11 
+ 
+(Questions 1-10) 
+ 
+ 
+* 
+Claim analysis 
+Pages 12-27 
+ 
+(Questions 11-20) 
+ 
+ 
+* 
+Annexes: calendars for 2013 and 2014 
+ 
+Pages 28-29 
+ 
+with indication of days on which at least one  
+of the EPO filing offices is not open for the  
+receipt of documents 
+ 
+Instructions for answering the paper and marking scheme 
+2014/PE/EN 
+ 
+Page 1 of 29 
+1. 
+The pre-examination is in the form of a multiple choice paper. It comprises 20 
+questions in all, 10 questions relating to legal knowledge (questions 1-10) and 10 
+questions relating to the analysis of claims (questions 11-20). Questions must be 
+answered by filling in the circles on the answer sheet printed on the reverse side of your 
+personal cover sheet. The duration of this examination is four hours. 
+ 
+a) 
+Each question X has 4 separate statements, namely X.1, X.2, X.3 and X.4. For 
+each statement X.1, X.2, X.3 and X.4 candidates must unambiguously indicate on the 
+answer sheet whether the statement is true or false. For each statement X.1, X.2, X.3 
+and X.4 only one answer can be given, either true or false. Each statement within a 
+question is to be considered independently of the other statements.  
+ 
+b) 
+To indicate that a statement X.1, X.2, X.3 or X.4 is true, the corresponding circle 
+for "true" should be filled using a black medium soft HB pencil. To indicate that a 
+statement X.1, X.2, X.3 or X.4 is false, the corresponding circle for "false" should be 
+filled using a black medium soft HB pencil. 
+ 
+c) 
+If, in reply to a statement X.1, X.2, X.3 or X.4, no indication is given as to whether 
+the statement is true or false, or if both true and false are indicated, then the answer to 
+this statement will be deemed not to be correct. Accordingly, if a candidate fills or partly 
+fills a circle they do not intend to submit as part of their answer, it is essential that any 
+mark in that circle is fully erased.  
+ 
+d) 
+There is no possibility for submitting notes or remarks to the examiner. Any such 
+submission will be disregarded.  
+ 
+2. 
+Only one answer sheet per candidate will be available. 
+ 
+3. 
+Marking 
+ 
+a) 
+Marks awarded per question 
+• If within one question X, none or only one of the answers to the statements X.1, X.2, 
+X.3 and X.4 is correct, then 0 marks will be awarded for this question X. 
+• If within one question X, two of the answers to the statements X.1, X.2, X.3 and X.4 
+are correct, then 1 mark will be awarded for this question X. 
+• If within one question X, three of the answers to the statements X.1, X.2, X.3 and X.4 
+are correct, then 3 marks will be awarded for this question X. 
+• If within one question X, all four of the answers to the statements X.1, X.2, X.3 and 
+X.4 are correct, then 5 marks will be awarded for this question X. 
+ 
+b) 
+ Total number of marks awarded  
+The total number of marks awarded for the pre-examination is the sum of the marks 
+achieved for each question, calculated as stated above.
+Legal questions 
+2014/PE/EN 
+ 
+Page 2 of 29 
+QUESTION 1 
+ 
+You filed European patent application EP-A in April 2013 without claiming priority. The 
+search division considered that the claims lacked unity of invention. The invention first 
+mentioned in the claims was searched. In October 2013 you received an invitation to 
+pay one additional search fee for the second invention. Since then you have not taken 
+any action with respect to EP-A. 
+ 
+For each of the statements 1.1 – 1.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+If today, 24 February 2014, you want to pursue the second invention, a valid option is to ... 
+1.1 
+... pay the additional search fee for EP-A with the further processing fee. 
+1.2 
+... file a European divisional application to EP-A directed to the second invention. 
+1.3 
+... file a European patent application EP-B claiming priority from EP-A, EP-B 
+being directed to the second invention. 
+1.4 
+... file an international application PCT-B claiming priority from EP-A, PCT-B 
+being directed to the second invention.
+Legal questions 
+2014/PE/EN 
+ 
+Page 3 of 29 
+QUESTION 2 
+ 
+European patent application EP-P was filed as a first filing on 2 December 2011 and 
+was published on 13 June 2013. European patent application EP-D was filed with the 
+EPO on 6 December 2013 as a divisional application of EP-P. Today, 24 February 2014, 
+you received the first communication of the examining division under Article 94(3) EPC 
+regarding EP-P. EP-P is still pending. Some of the claims of EP-D contain subject-
+matter that was not originally disclosed in EP-P. The renewal fee for EP-D has not yet 
+been paid. 
+ 
+For each of the statements 2.1 – 2.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+2.1 
+EP-D cannot be validly filed before the first communication under 
+Article 94(3) EPC was issued in respect of EP-P; therefore EP-D was not validly 
+filed. 
+2.2 
+At present, EP-D is deemed to have 6 December 2013 as its date of filing. 
+2.3 
+The renewal fee for EP-D may be validly paid on 7 April 2014 without additional 
+fee. 
+2.4 
+In the present case EP-P will be regarded as prior art under Article 54(2) EPC 
+against EP-D.
+Legal questions 
+2014/PE/EN 
+ 
+Page 4 of 29 
+QUESTION 3 
+ 
+On 11 January 2013 an applicant filed a European patent application EP-1 at the EPO. 
+EP-1 discloses subject-matter X but not subject-matter Y. On 6 September 2013 the 
+same applicant filed a US patent application US-1 at the USPTO claiming priority from 
+EP-1. Claim 1 of US-1 is directed to subject-matter X and claim 2 is directed to 
+subject-matter Y. EP-1 was withdrawn on 10 January 2014. European patent application 
+EP-2 was filed by the same applicant on 13 January 2014. EP-2 contains the same 
+description and the same claims as US-1. 
+ 
+For each of the statements 3.1 – 3.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+If in EP-2 priority is claimed only from ... 
+3.1 
+... EP-1, the effective date for claim 1 of EP-2 is 13 January 2014. 
+3.2 
+... EP-1, the effective date for claim 2 of EP-2 is 13 January 2014. 
+3.3 
+... US-1, the effective date for claim 1 of EP-2 is 13 January 2014. 
+3.4 
+... US-1, the effective date for claim 2 of EP-2 is 13 January 2014. 
+Legal questions 
+2014/PE/EN 
+ 
+Page 5 of 29 
+QUESTION 4 
+ 
+The European Patent Bulletin mentioned the publication of the European search report 
+of European patent application EP-G on 16 October 2013. EP-G has 20 claims. The 
+opinion accompanying the European search report mentions several deficiencies in  
+EP-G. 
+ 
+For each of the statements 4.1 – 4.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+One of the actions that must be done at the latest on 16 April 2014 to avoid EP-G being 
+deemed withdrawn is to ... 
+4.1 
+... pay 5 claims fees. 
+4.2 
+... correct the deficiencies mentioned in the opinion. 
+4.3 
+... pay the examination fee. 
+4.4 
+... pay the designation fee. 
+Legal questions 
+2014/PE/EN 
+ 
+Page 6 of 29 
+QUESTION 5 
+ 
+An applicant validly filed a European patent application EP-Z on 15 March 2011 as a first 
+filing. 
+ 
+For each of the statements 5.1 – 5.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+5.1 
+The renewal fee for the third year for EP-Z is due on 31 March 2014. 
+5.2 
+A renewal fee may be paid at the latest within four months of the due date, 
+provided that an additional fee is also paid within that period. 
+5.3 
+If a renewal fee is not paid in due time, the application is deemed to be 
+withdrawn. 
+5.4 
+If an applicant fails to observe the time limit for paying a renewal fee together with 
+the additional fee, a valid option is to request further processing. 
+Legal questions 
+2014/PE/EN 
+ 
+Page 7 of 29 
+QUESTION 6 
+ 
+The examining division issued a communication setting a two month time limit for 
+bringing the description of European patent application EP-XX into conformity with the 
+amended claims that the applicant had filed earlier. The communication is dated 
+10 December 2013. You received the communication on 16 December 2013. So far you 
+have not taken any action and you have not received any other communication from the 
+EPO with respect to EP-XX. 
+ 
+For each of the statements 6.1 – 6.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+6.1 
+The time limit for filing the requested adapted description expired on 
+20 February 2014. 
+6.2 
+If you file the requested adapted description today, 24 February 2014, it will be 
+deemed received on time, as you have not received a notice of loss of rights. 
+6.3 
+Further processing of EP-XX must be requested at the latest on 22 April 2014. 
+6.4 
+An extension of the time limit of two months can be validly requested as long as 
+the written request is received by the EPO before the notice of loss of rights is 
+issued.
+Legal questions 
+2014/PE/EN 
+ 
+Page 8 of 29 
+QUESTION 7 
+ 
+Mr. Brown, an Irish citizen living in Dublin wants to obtain protection for his invention  
+X-1. Tomorrow, 25 February 2014, he will disclose for the first time his invention X-1 at a 
+public press conference. Mr. Brown therefore intends to file by fax a European patent 
+application EP-X as a first filing covering invention X-1. 
+ 
+For each of the statements 7.1 – 7.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+7.1 
+In order to obtain a date of filing for EP-X, it is necessary to pay the filing fee. 
+7.2 
+If the requirements for obtaining a date of filing for EP-X are only fulfilled 
+tomorrow, 25 February 2014, the disclosure of X-1 via tomorrow's press 
+conference will become prior art for EP-X. 
+7.3 
+In order to obtain a date of filing for EP-X, it is necessary that EP-X contains at 
+least one claim. 
+7.4 
+If a date of filing is accorded to EP-X, Mr. Brown enjoys a right of priority from  
+EP-X under the Paris Convention for the Protection of Industrial Property. 
+Legal questions 
+2014/PE/EN 
+ 
+Page 9 of 29 
+QUESTION 8 
+ 
+Ms De Jong, a Dutch citizen resident in Berlin, filed on 4 February 2014 a European 
+patent application EP-Z and a notice of opposition against European patent EP-Y. The 
+mention of the grant of EP-Y was published on 26 June 2013. Both documents were 
+filed in the Dutch language. 
+ 
+For each of the statements 8.1 – 8.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+8.1 
+Regarding EP-Y: the prescribed translation of the notice of opposition must be 
+filed at the latest within one month of filing of the notice of opposition. 
+8.2 
+Regarding EP-Z: the prescribed translation shall be filed within two months of 
+filing EP-Z. 
+8.3 
+Ms De Jong is entitled to a reduction of the opposition fee. 
+8.4 
+Ms De Jong is entitled to a reduction of the filing fee for EP-Z. 
+ 
+Legal questions 
+2014/PE/EN 
+ 
+Page 10 of 29 
+QUESTION 9 
+ 
+Applicant X filed a European patent application EP-N in January 2014 without claiming 
+priority. 
+ 
+For each of the statements 9.1 – 9.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+The following represents state of the art under Article 54(2) EPC for EP-N: 
+9.1 
+a blog entry posted by applicant X on the Internet on 29 December 2013. 
+9.2 
+comparative tests filed by applicant X with respect to a European patent 
+application EP-L, wherein EP-L was filed in May 2012, the tests were filed in 
+July 2013 and EP-L was published in December 2013. 
+9.3 
+comparative tests filed by applicant X with respect to an international application 
+PCT-M, wherein PCT-M was filed in January 2012 without claiming priority, the 
+tests were filed in September 2013 together with the demand for international 
+preliminary examination and the international preliminary examination report has 
+not yet been issued. 
+9.4 
+an oral statement made by applicant X in November 2013 during oral 
+proceedings in opposition against European patent EP-H. 
+Legal questions 
+2014/PE/EN 
+ 
+Page 11 of 29 
+QUESTION 10 
+ 
+An applicant filed in January 2013 a European patent application EP-T relating to 
+invention X. The application EP-T includes several embodiments. The applicant now 
+realises that, although most of the embodiments are sufficiently disclosed, the 
+embodiment X1 lacks essential technical information and is therefore not sufficiently 
+disclosed. 
+ 
+For each of the statements 10.1 – 10.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+10.1 An objection of the examining division under Article 83 EPC regarding 
+embodiment X1 can be overcome by filing additional technical information.  
+10.2 If the examining division does not raise any objections under Article 83 EPC, lack 
+of sufficiency of disclosure will not be a valid ground for opposition against EP-T. 
+10.3 A valid option is to correct the technical information under Rule 139 EPC before 
+the publication of EP-T. 
+10.4 Before the publication of EP-T, it is not possible to amend the description of EP-T 
+in order to delete embodiment X1. 
+Claim analysis 
+2014/PE/EN 

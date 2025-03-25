@@ -1,0 +1,195 @@
+Question 1 
+ 
+For each of the statements 1.1 – 1.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+1.1 
+During opposition proceedings, an amendment to a European patent introducing 
+subject-matter which was present only in the priority document but not in the 
+European patent application as filed is allowable under Article 123(2) EPC. 
+1.2 
+Intermediate generalisations are never allowable under Article 123(2) EPC. 
+1.3 
+An amendment introducing subject-matter which was present only in the abstract 
+of the application is allowable under Article 123(2) EPC.  
+1.4 
+An amendment introducing subject-matter which was present only in the claims 
+filed in reply to a communication under Rule 58 EPC in conjunction with 
+Rule 57(c) EPC is allowable under Article 123(2) EPC. 
+Legal questions 
+2018/P/EN/3 
+Question 2 
+ 
+Daniela is resident in Poland. On 13 February 2018, Daniela filed the European patent 
+application EP-D as a first filing. The EPO noticed that the drawings mentioned in the 
+description were evidently missing. With a communication dated 22 February 2018, the 
+EPO invited Daniela to file the missing drawings. 
+ 
+For each of the statements 2.1 – 2.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+2.1 
+If Daniela ignores the invitation, EP-D will be deemed to be withdrawn. 
+2.2 
+If Daniela files the missing drawings on 3 May 2018, EP-D will receive 
+3 May 2018 as its date of filing. 
+2.3 
+Daniela may validly file the missing drawings for EP-D on 6 June 2018, provided 
+she pays the fee for further processing. 
+2.4 
+If an applicant is not invited by the EPO to file missing parts of the description or 
+missing drawings, he may validly file them within two months of the date of filing. 
+Legal questions 
+2018/P/EN/4 
+Question 3 
+ 
+The European patent application EP-A was filed on 29 February 2016. EP-A claims 
+priority from an earlier patent application filed in March 2015. The mention of the grant of 
+a European patent based on EP-A was published in April 2017. An opposition against 
+this patent was validly filed in January 2018. The only ground for opposition raised by 
+the opponent is lack of novelty according to Article 100(a) EPC. The only document cited 
+is the French patent application FR-B published in July 2015 and filed in January 2014. 
+In the notice of opposition, the opponent argues that the priority claimed in EP-A is not 
+valid.  
+ 
+For each of the statements 3.1 – 3.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+3.1 
+The validity of the priority right as such is not a ground for opposition under 
+Article 100 EPC.  
+3.2 
+FR-B is state of the art under Article 54(2) EPC if the priority of EP-A is not valid.  
+3.3 
+If the priority of EP-A is valid, then FR-B belongs to the state of the art under 
+Article 54(3) EPC in view of its earlier filing date. 
+3.4 
+If the opponent raises today, 26 February 2018, an objection of lack of sufficiency 
+of disclosure against EP-A, then this is a fresh ground for opposition.  
+Legal questions 
+2018/P/EN/5 
+Question 6 
+ 
+The Mexican applicant Juana wishes to enter the European phase with the international 
+application PCT-J today, 26 February 2018. Juana is resident in Mexico. PCT-J was 
+filed in Spanish in August 2015, without claiming any priority. PCT-J was published in 
+Spanish. 
+ 
+For each of the statements 6.1 – 6.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+6.1 
+A translation of PCT-J must be filed with the EPO within two months from entry 
+into the European phase. 
+6.2 
+If a translation of PCT-J is not filed in due time, a valid option is to request further 
+processing.  
+6.3 
+In proceedings before the EPO Juana must be represented by a professional 
+representative. 
+6.4 
+Juana is entitled to a reduction of the examination fee. 
+Legal questions 
+2018/P/EN/8 
+Question 7 
+ 
+The mention of the grant of European patent EP-X was published in July 2017. The 
+single claim of EP-X is directed to a product. The patent was validated in Germany and 
+Italy. The date of filing of EP-X is 1 March 2014. 
+ 
+For each of the statements 7.1 – 7.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+7.1 
+Any infringement of European patent EP-X can be dealt with under the EPC and 
+by the EPO, provided that opposition proceedings are pending.  
+7.2 
+The patent proprietor is entitled under all circumstances to produce in Germany 
+any matter that is covered by the claim of EP-X.  
+7.3 
+The patent proprietor is entitled under all circumstances to sell in Italy any matter 
+that is covered by the claim of EP-X. 
+7.4 
+The renewal fees for European patent EP-X that are due in 2018 cannot be 
+validly paid to the EPO.  
+Legal questions 
+2018/P/EN/9 
+Question 8 
+ 
+The international application PCT-M was filed in August 2015 without claiming priority. 
+PCT-M was searched by the EPO as the International Searching Authority in 
+February 2016. The International Searching Authority raised non-unity objections with 
+respect to the subject-matter of claims 20 to 35. The applicant did not pay any additional 
+fees. The International Searching Authority issued a partial search report covering 
+claims 1-19. PCT-M entered the European phase today, 26 February 2018, and is 
+referred to in the following as Euro-PCT-M. No amendments have been filed.  
+ 
+For each of the statements 8.1 – 8.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+8.1 
+The applicant will have an opportunity to amend the claims of Euro-PCT-M, 
+before substantive examination of Euro-PCT-M begins. 
+8.2 
+If in the application documents which are to serve as the basis of the examination 
+of Euro-PCT-M an invention is claimed that was not searched by the EPO as the 
+International Searching Authority, the applicant will be invited to pay a further 
+search fee in respect of this invention. 
+8.3 
+If the applicant does not pay claims fees today, 26 February 2018, Euro-PCT-M 
+will be deemed to be withdrawn.  
+8.4 
+If the applicant does not comment today, 26 February 2018, on the written opinion 
+of the International Searching Authority, Euro-PCT-M will be deemed to be 
+withdrawn.
+Legal questions 
+2018/P/EN/10 
+Question 9  
+ 
+A notice of appeal was validly filed on 1 February 2018 against the decision to refuse the 
+European patent application EP-B. The decision is dated 6 December 2017. According 
+to the decision, claim 1 of the sole request is not novel over D1 and is not inventive over 
+D2 in combination with the common general knowledge of the skilled person. The 
+statement setting out the grounds of appeal has not yet been filed. 
+ 
+For each of the statements 9.1 – 9.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+9.1 
+The statement setting out the grounds for the appeal must be filed at the latest on 
+6 April 2018. 
+9.2 
+On 31 January 2018 EP-B was pending.  
+9.3 
+The examining division will grant interlocutory revision, if the applicant files an 
+auxiliary request which is clearly allowable, novel and inventive.  
+9.4 
+The examining division will grant interlocutory revision, if the applicant can 
+convince the examining division that claim 1 of the sole request is novel over D1.  
+Legal questions 
+2018/P/EN/11 
+Question 10 
+ 
+The applicant of EP-S has been summoned to oral proceedings on 23 March 2018. The 
+final date for making written submissions was 23 February 2018. On 23 February 2018, 
+the applicant filed amended claims 1-9, that replace claims 1-10 previously on file. The 
+amended claims 1-9 change the focus of the discussion and raise completely new 
+issues. The applicant also informed the examining division that he will not attend the oral 
+proceedings.  
+ 
+For each of the statements 10.1 – 10.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+In the present situation, the following reaction by the examining division complies with 
+the EPC:  
+ 
+10.1 The examining division performs today, 26 February 2018, an additional search 
+and refuses today EP-S on the basis of a document found during this search.  
+10.2 The examining division does not admit amended claims 1-9 into the proceedings 
+because the request is late filed under Rule 116 EPC. 
+10.3 The examining division holds oral proceedings for EP-S in the absence of the 
+applicant. 
+10.4 The oral proceedings for EP-S are held by an examining division consisting of 
+only one technically qualified examiner. 
+Claim analysis 
+2018/P/EN/12 

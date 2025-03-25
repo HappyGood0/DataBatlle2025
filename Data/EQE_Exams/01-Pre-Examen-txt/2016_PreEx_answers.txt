@@ -1,0 +1,218 @@
+ 
+ 
+Examiner’s report pre-examination 2016 
+ 
+ 
+Preliminary remark: the references from the Guidelines are from the version of the 
+Guidelines which was to be used in the present examination.  
+ 
+ 
+ 
+Question 1 
+ 
+The opposition division will consider the third party observations under Article 115 EPC, 
+since third party observations may be directed to patentability in the broad sense: for 
+instance, they may be directed to issues of sufficiency of disclosure or unallowable 
+amendments, Guidelines, E-V, 3. Third party observations are communicated to the 
+proprietor, Rule 114(2) EPC. Third party observations become part of the file and are 
+accessible to the public according to Article 128(4) EPC, see also Guidelines, A-XI, 2.1. 
+The opposition division can introduce a fresh ground for opposition into the proceedings, 
+Article 114(1) EPC and G 9/91.  
+ 
+1.1 - False 
+1.2 - True 
+1.3 - True 
+1.4 - True 
+ 
+ 
+ 
+Question 2 
+ 
+Subsequent to the applicant’s approval in response to the communication under 
+Rule 71(3) EPC, the examining division may resume the examination procedure at any 
+time up to the moment when the decision to grant is handed over to the EPO’s internal 
+postal service, Rule 71a (2) EPC, G12/91, see also Guidelines, C-V, 6.1. Within the period 
+under Rule 71(3) EPC, the applicant may request reasoned amendments, 
+Rule 71(6) EPC: in this case the applicant will not be required to file the translation of the 
+further amended set of claims or to pay the fee for grant and publication, Guidelines, C-V, 
+4.1. Claims fees for the two dependent claims are only due, if the amendment is accepted 
+and a second communication under Rule 71(3) EPC is issued, Guidelines, C-V, 4.8.1. The 
+examining division may still consider third party observations filed up to the moment when 
+the decision to grant is handed over to the EPO’s internal postal service, Guidelines, C-V, 
+6.1.  
+ 
+2.1 - False 
+2.2 - False 
+2.3 - False 
+2.4 - False 
+ 
+ 
+ 
+ 
+1/9
+Question 3 
+ 
+The communication is deemed to be notified on [21 December + 10 days (Rule 126(2) 
+EPC) =] 31 December 2015. If a period of two months is set, the reply must be filed at the 
+latest on [21 December + 10 days (Rule 126(2) EPC) = 31 December 2015 + 2 months 
+(Rule 131(4) EPC) =] 29 February 2016. If a period of four months is set, the reply must be 
+filed at the latest on 2 May 2016 [21 December + 10 days (Rule 126(2) EPC) = 
+31 December 2015 + 4 months (Rule 131(4) EPC) = 30 April 2016, extended to Monday, 
+2 May 2016 (Rule 134(1) EPC)]. Further processing can be validly requested within two 
+months of the communication of a loss of rights due to the missed time limit, 
+Rule 135(1) EPC and Rule 112(1) EPC. Since this communication will be issued only 
+sometime after 2 May 2016 and since such a communication will be deemed to be 
+delivered only on the tenth day following its posting (Rule 126(2) EPC), there is absolute 
+certainty that further processing can be requested on 4 July 2016. Note that a request for 
+further processing may also be filed between expiry of the unobserved time limit and 
+notification of the communication concerning either the failure to observe a time limit or a 
+loss of rights, Guidelines, E-VII, 2.1. 
+ 
+3.1 - False 
+3.2 - False 
+3.3 - True 
+3.4 - True 
+ 
+ 
+ 
+Question 4 
+ 
+Rectification of the designation of the inventor can be requested even after proceedings 
+before the EPO are terminated, Rule 21(1) EPC and Guidelines, A-III, 5.6. The incorrect 
+designation is rectified upon request and no evidence is required, Rule 21(1) EPC. If a 
+further inventor is to be designated, the consent of the inventor previously designated is 
+not necessary, Rule 21(1) EPC, Guidelines, A-III, 5.6. If the request is filed by Béatrice, the 
+consent of the applicant is required, Rule 21(1) EPC.  
+ 
+ 
+4.1 - True 
+4.2 - True 
+4.3 - False 
+4.4 - True 
+ 
+ 
+ 
+Question 5 
+ 
+Hassan has the right to practice before the DPMA with which PCT-G was filed. 
+Consequently, he can be validly appointed as a representative (agent) to practice before 
+the IB, the competent International Searching Authority and the competent International 
+Preliminary Examination Authority in respect of PCT-G (Article 49 PCT and Rule 90.1 
+PCT). Statements 5.2 to 5.4 relate to representatives (agents) dealing with international 
+applications in general, and these statements are not restricted to PCT-G and Hassan as 
+the representative (agent). A waiver of power of attorney under Rule 90.4(d) and 
+Rule 90.5(c) PCT is currently in force, see Notice from the European Patent Office dated 
+2/9
+2 March 2010 concerning the waiver of power of attorney under Rule 90.4(d) and 
+Rule 90.5(c) PCT, OJ 5/2010, pages 335-336. The Demand shall be signed by the 
+applicant, Rule 53.8 PCT. However, any act by an agent shall have the effect of an act by 
+the applicant, Rule 90.3(a) PCT. Thus, the request for the Demand need not be signed by 
+the applicant. A withdrawal of an international application has to be filed either by the 
+applicant(s) or by a representative (agent), provided that he has been appointed by the 
+applicant(s) signing the request, the demand, a separate power of attorney or a general 
+power of attorney (Rule 90bis.5, Rule 90.4(a) PCT and Rule 90.5(a) PCT. [Note that the 
+case referred to in Rule 90.4(e) PCT does not apply whenever the representative (agent) 
+was appointed by the applicant signing the request or the demand]. 
+ 
+5.1 - True 
+5.2 - True 
+5.3 - False 
+5.4 - False 
+ 
+ 
+ 
+Question 6 
+ 
+The obligation to pay renewal fees to the EPO terminates in 2015, with the payment of the 
+renewal fee due in respect of the year in which the mention of the grant of the European 
+patent is published in the European Patent Bulletin, Article 86(2) EPC. An opposition can 
+be filed at the latest on (25 November 2015 + 9 months =) 25 August 2016, 
+Article 99(1) EPC and Rule 131(4) EPC. Any infringement of a European patent is dealt 
+with by national law, not under the EPC, Article 64(3) EPC. A patent  gives the patent 
+proprietor the right to exclude third parties from using the protected invention: it does not  
+automatically allow the patent proprietor to produce and sell matter that is protected by the 
+patent. 
+ 
+6.1 - True 
+6.2 - True 
+6.3 - False 
+6.4 - False 
+ 
+ 
+ 
+Question 7 
+ 
+EP-W is considered to be filed within the priority period, [20 February 2015 + 12 months 
+(Article 87(1) EPC, Rule 131(4) EPC) = 20 February 2016, extended to Monday, 
+22 February 2016 (Rule 134(1) EPC)]. A declaration of priority can be made within sixteen 
+months from the earliest priority date claimed, Rule 52(2) EPC. For Werner to be 
+considered the successor in title according to Article 87(1) EPC, the transfer of the 
+application (or of the priority right as such) must have taken place before the filing date of 
+EP-W. However, proof of this transfer can be filed later, Guidelines, A-III, 6.1. 
+ 
+7.1 - True 
+7.2 - False 
+7.3 - False 
+7.4 - True 
+ 
+3/9
+Question 8 
+ 
+The subject-matter of claim 2 lacks novelty, since product P is known in the art, 
+Article 54(2) EPC. The process is stated to be more efficient and ecological, but it is not 
+stated to provide a product with different features, Guidelines, F-IV, 4.12. According to 
+Article 64(2) EPC, if the subject-matter of a European patent is a process, the protection 
+conferred by the patent extends to the product directly obtained by such process. Even if a 
+claim directed to a production process is inventive, no conclusion can be drawn regarding 
+a product obtained by the same process: the product may be not even novel, as is 
+presently the case. The terms "obtainable", "obtained" or "directly obtained" are used in 
+the product-by-process claim to define the product per se, Guidelines, F-IV, 4.12. 
+Therefore, in proceedings before the EPO it makes no difference for the claim 
+interpretation whether in claim 2 the term “obtainable” or “directly obtained” is used.  
+ 
+8.1 - True 
+8.2 - True 
+8.3 - False 
+8.4 - False 
+ 
+ 
+ 
+Question 9 
+ 
+On 1 February 2016 it was possible to validly pay the renewal fee for EP-N together with 
+the additional fee [31 July 2015 + 6 months (Rule 51(2) EPC and Rule 131(4) EPC) = 
+31 January 2016, extended to Monday, 1 February 2016 (Rule 134(1) EPC)]. Further 
+processing is ruled out in respect of the period referred to in Rule 51(2) EPC, 
+Rule 135(2) EPC. In the present case, the omitted act that has to be completed 
+(Article 122(1) EPC and Rule 136(2) EPC) includes the payment of the renewal fee for the 
+third year (Article 86(1) EPC, Rule 51(1) and (2) EPC). The applicant must show that he 
+had exercised all due care required by the circumstances, Article 122(1) EPC and 
+Rule 136(2) EPC.  
+ 
+9.1 - True 
+9.2 - False 
+9.3 - True 
+9.4 - True 
+ 
+ 
+ 
+Question 10 
+ 
+Under the EPC, opponents are not entitled to a reduction of the opposition fee, see 
+Rule 6(3) and (4) EPC. Natural persons having their residence within a Contracting State 
+having a language other than English, French or German as an official language (such as 
+Paco), may file documents which have to be filed within a time limit (in this case a notice of 
+opposition) in an official language of that State (in this case Spanish) (Article 14(4) EPC). 
+A translation must be filed within one month of filing the notice of opposition, 
+Rule 6(2) EPC, that is on 29 March 2016  [28 February 2016 + 1 month (Rule 131(4) EPC) 
+= 28 March 2016, extended to Tuesday, 29 March 2016 (Rule 134(1) EPC)]. Any party to 
+oral proceedings before the EPO may use one of the other official languages of the EPO, 
+on condition that such party gives notice to the EPO at least one month before the date 
+4/9
+laid down for such oral proceedings. Alternatively, the party may make provision for 
+interpreting into the language of the proceedings, English, Rule 4(1) EPC.  
+ 
+10.1 - True 
+10.2 - False 
+10.3 - True 
+10.4 - True

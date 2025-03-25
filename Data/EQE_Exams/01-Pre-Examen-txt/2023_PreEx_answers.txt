@@ -1,0 +1,2298 @@
+Examiners’ Report / Prüferbericht / Commentaires des correcteurs 
+Pre-examination / Vorprüfung / Examen préliminaire 2023 
+1 
+PART 1 
+Question 1 
+You are a professional representative before the EPO. Today, 6 March 2023, you receive an email 
+from your client, Alvar, a national of Finland. He wants you to file a European patent application 
+EP-A in his name, claiming priority from FI-A, a Finnish patent application. FI-A was jointly filed in 
+the name of Alvar and Aino on 4 March 2022. A copy of FI-A is attached to the email. No other 
+document or information is sent with the email.  
+1.1  
+On the basis of the information given above, you can file a European patent application EP-
+A in Alvar's name at the EPO today and it will be accorded 6 March 2023 as the date of filing. 
+TRUE:  
+Since you can comply on 17 March 2023 with the requirements of Rule 40(1)(a), (b) 
+and (c) EPC [i.e. providing an indication that a European patent is sought; providing your own or 
+Alvar’s contact details; and filing the description of FI-A or a reference to it], the date of filing will be 
+17 March 2023 (Guidelines, A-ll 4.1). 
+WAHR: 
+Da Sie den Erfordernissen der Regel 40 (1) a), b) und c) EPÜ am 17. März 2023 
+entsprechen können [d. h. Hinweis, dass ein europäisches Patent beantragt wird; Angabe der 
+Kontaktdaten von Ihnen oder Alvar; und Einreichung der Beschreibung von FI-A oder einer 
+Bezugnahme darauf], ist der Anmeldetag der 17. März 2023 (Richtlinien A-II, 4.1). 
+VRAI :  
+Dans la mesure où le 17 mars 2023 vous pouvez remplir les conditions de la 
+règle 40(1)a), b) et c) CBE [c’est-à-dire fournir une indication selon laquelle un brevet est 
+demandé ; fournir des indications qui permettent de prendre contact avec vous ou avec Alvar ; et 
+fournir une description ou un renvoi à FI-A], la date de dépôt sera le 17 mars 2023 (Directives,  
+A-ll 4.1).
+1.2 
+You can validly file EP-A in Finnish. 
+TRUE:  
+A European patent application may be filed in any language, Article 14(2) EPC. 
+WAHR: 
+Eine europäische Patentanmeldung kann in jeder Sprache eingereicht werden, 
+Artikel 14 (2) EPÜ. 
+VRAI : Une demande de brevet européen peut être déposée en toute langue, article 14(2) CBE. 
+ 
+2 
+ 
+1.3 
+On the basis of the information given above, you can be sure that EP-A can validly claim 
+priority from FI-A. 
+FALSE: 
+For validly claiming the priority, Aino must have transferred the priority right to Alvar 
+(and Alvar must be the successor in title) before the filing date of EP-A, Article 87(1) EPC and 
+Guidelines, A-lll, 6.1(ii). 
+FALSCH: 
+Für eine wirksame Inanspruchnahme der Priorität muss Aino das Prioritätsrecht vor 
+dem Anmeldetag von EP-A auf Alvar übertragen haben (und Alvar muss der Rechtsnachfolger 
+sein), Artikel 87 (1) EPÜ und Richtlinien A-III, 6.1 ii). 
+FAUX : 
+Afin de valablement revendiquer la priorité, Aino doit avoir transféré le droit de 
+priorité à Alvar (et Alvar doit être l’ayant-cause) avant la date de dépôt d’EP-A, article 87(1) CBE et 
+Directives, A-III, 6.1.ii). 
+ 
+1.4 
+Alvar as a natural person is not entitled to a reduction of the filing fee. 
+FALSE: 
+Being a national of the Contracting State Finland and being a natural person, Alvar 
+is entitled to a reduction of the filing fees, Rule 6(3) and (4)(b) EPC and Article 14(4) EPC. 
+FALSCH: 
+Als Staatsangehöriger des Vertragsstaats Finnland und als natürliche Person hat 
+Alvar Anspruch auf eine Ermäßigung der Anmeldegebühren, Regel 6 (3) und (4) b) EPÜ und 
+Artikel 14 (4) EPÜ. 
+FAUX : 
+En tant que national d’un État contractant, la Finlande, et en tant que personne 
+physique, Alvar peut bénéficier d'une réduction de la taxe de dépôt, règle 6(3) et (4)b) CBE et 
+article 14(4) CBE.  
+ 
+ 
+ 
+ 
+3 
+ 
+Question 2 
+Paula is resident in Romania and has no EPO mailbox for electronic notification. On 13 February 
+2023, Paula filed the European patent application EP-P as a first filing. The EPO noticed that the 
+drawings mentioned in the description were missing. In a communication dated 22 February 2023, 
+the EPO invited Paula to file the missing drawings.  
+ 
+2.1 
+If applicants are not invited by the EPO to file missing parts of the description or missing 
+drawings, they may validly file them within two months of the date of filing. 
+TRUE:  
+An applicant may file missing parts of the description or missing drawings of his own 
+motion within two months of the date of filing, Rule 56(2) EPC and Guidelines, A-ll 5.2. 
+WAHR: 
+Der Anmelder kann innerhalb von zwei Monaten nach dem Anmeldetag fehlende 
+Teile der Beschreibung oder fehlende Zeichnungen auch von sich aus nachreichen, Regel 56 (2) 
+EPÜ und Richtlinien A-II, 5.2. 
+VRAI :  
+Un demandeur peut déposer de sa propre initiative des parties manquantes de la 
+description ou des dessins manquants dans un délai de deux mois à compter de la date de dépôt, 
+règle 56(2) CBE et Directives, A-II 5.2. 
+ 
+2.2 
+If Paula ignores the invitation by the EPO to file missing parts of the description or missing 
+drawings, EP-P will be deemed to be withdrawn. 
+FALSE: 
+If Paula ignores the invitation, then any reference to the drawings will be deemed to 
+be deleted, Rule 56(4)(a) EPC (the legal consequence is not that the application is deemed to be 
+withdrawn). 
+FALSCH: 
+Wenn Paula die Aufforderung ignoriert, gelten alle Bezugnahmen auf die 
+Zeichnungen als gestrichen, Regel 56 (4) a) EPÜ (die Rechtsfolge ist nicht, dass die Anmeldung 
+als zurückgenommen gilt). 
+FAUX : 
+Si Paula ignore l’invitation, toute référence aux dessins est réputée être supprimée, 
+règle 56(4)a) CBE (la conséquence juridique n’est pas que la demande est réputée être retirée). 
+ 
+2.3 
+If Paula files the missing drawings on 3 May 2023, EP-P will receive 3 May 2023 as its date 
+of filing. 
+TRUE:  
+If the missing drawings are filed within two months of the notification of that 
+communication [22 February + 10 days (4 March 2023) + 2 months], i.e. 4 May 2023 (Rule 56(1) 
+EPC, Rule 126(2) EPC, Rule 131(4) EPC) the application shall be re-dated to the date on which 
+the missing drawings were filed, Rule 56(2) EPC. 
+WAHR: 
+Wurden die fehlenden Zeichnungen innerhalb von zwei Monaten nach Zustellung 
+des Bescheids nachgereicht [22. Februar + 10 Tage (4. März 2023) + 2 Monate], d. h. 4. Mai 2023 
+ 
+4 
+ 
+(Regel 56 (1) EPÜ, Regel 126 (2) EPÜ, Regel 131 (4) EPÜ), so wird der Anmeldetag auf den Tag 
+der Einreichung der fehlenden Zeichnungen neu festgesetzt, Regel 56 (2) EPÜ. 
+VRAI :  
+Si les dessins manquants sont déposés dans un délai de deux mois à compter de la 
+signification de cette notification [22 février + 10 jours (4 mars 2023) + 2 mois], soit le 4 mai 2023 
+(règle 56(1) CBE, règle 126(2) CBE, règle 131(4) CBE), la date de dépôt de la demande est celle à 
+laquelle les dessins manquants ont été déposés, règle 56(2) CBE. 
+ 
+2.4 
+Paula may validly file the missing drawings for EP-P on 6 June 2023, provided she pays the 
+fee for further processing. 
+FALSE: 
+According to Rule 135(2) EPC, further processing is ruled out in respect of the 
+period under Rule 56(2) EPC. 
+FALSCH: 
+Nach Regel 135 (2) EPÜ ist die Frist nach Regel 56 (2) EPÜ von der 
+Weiterbehandlung ausgeschlossen. 
+FAUX : 
+Conformément à la règle 135(2) CBE, est exclu de la poursuite de la procédure le 
+délai prévu à la règle 56(2) CBE. 
+ 
+ 
+ 
+5 
+ 
+Question 3 
+Saïd intends to file the following patent applications in French language: 
+(1) a European patent application EP-S 
+(2) an international patent application PCT-SE. 
+PCT-SE will be jointly filed in the name of Saïd and Eric. Eric lives in Paris. Saïd lives in Lebanon 
+and is of Lebanese nationality. Lebanon is not a PCT member state.  
+ 
+3.1 
+Saïd can validly file EP-S with the EPO. 
+TRUE:  
+There are no nationality or residence restrictions for filing a European patent 
+application with the EPO, Articles 58 and 133(2) EPC. 
+WAHR: 
+Für die Einreichung einer europäischen Patentanmeldung beim EPA gibt es keine 
+Beschränkungen in Bezug auf Staatsangehörigkeit und Wohnsitz oder Sitz, Artikel 58 EPÜ und 
+133 (2) EPÜ. 
+VRAI :  
+Il n'existe aucune restriction de nationalité ou de domicile au dépôt d’une demande 
+de brevet européen auprès de l'OEB, articles 58 et 133(2) CBE. 
+ 
+3.2 
+If, two months after validly filing PCT-SE, Saïd moves to Paris, the EPO will, upon request, 
+record the change of residence in relation to PCT-SE. 
+FALSE: 
+Only the IB can record the residence change upon the applicant’s request, Rule 
+92bis.1.(a)(i)PCT. 
+FALSCH: 
+Nur das IB kann den Wohnortwechsel auf Antrag des Anmelders registrieren, 
+Regel 92bis.1 a) i) PCT. 
+FAUX : 
+Seul le Bureau international peut enregistrer le changement de domicile sur requête 
+du déposant, règle 92bis.1.a)i) PCT. 
+ 
+3.3 
+PCT-SE can be validly filed with the EPO as receiving Office. 
+TRUE:  
+The EPO is the receiving Office competent for applicant Eric, who has his residence 
+within one of the Contracting States (France), Article 151 EPC, Rule 157(1) EPC and Rule 19.1(a) 
+PCT. If there are two (or more) applicants, the requirements of Rule 19.1 PCT regarding where to 
+file are satisfied if the international application is filed with the competent receiving office of at least 
+one of the applicants, Rule 19.2(i) PCT. 
+WAHR: 
+Das EPA ist das zuständige Anmeldeamt für den Anmelder Eric, der seinen 
+Wohnsitz in einem der Vertragsstaaten (Frankreich) hat, Artikel 151 EPÜ, Regel 157 (1) EPÜ und 
+Regel 19.1 a) PCT. Wenn es zwei (oder mehr) Anmelder gibt, ist dem Erfordernis nach Regel 19.1 
+PCT bezüglich des Orts der Einreichung entsprochen, wenn die internationale Anmeldung beim 
+zuständigen Anmeldeamt wenigstens eines Anmelders eingereicht wird, Regel 19.2 i) PCT. 
+ 
+6 
+ 
+VRAI :  
+L’OEB est compétent pour agir en qualité d'office récepteur en ce qui concerne le 
+déposant Eric qui est domicilié dans l’un des États contractants (France), article 151 CBE, 
+règle 157(1) CBE et règle 19.1.a) PCT. S’il y a deux déposants (ou plus), les conditions de la 
+règle 19.1 PCT relatives au lieu de dépôt sont remplies si la demande internationale est déposée 
+auprès de l’office récepteur compétent où l’un au moins des déposants est domicilié, 
+règle 19.2.i) PCT. 
+ 
+3.4 
+PCT-SE can be validly filed with the International Bureau as receiving Office. 
+TRUE:  
+A PCT application can be validly filed before the International Bureau (IB) if at least 
+one of the applicants is a resident or national of a PCT Contracting State, Rule 19.1(a)(iii) and Rule 
+19.2 (ii) PCT. 
+WAHR: 
+Eine PCT-Anmeldung kann beim Internationalen Büro (IB) unabhängig von der 
+Staatsangehörigkeit und vom Wohnsitz oder Sitz des Anmelders wirksam eingereicht werden, 
+Regel 19.1 iii) und Regel 19.2 ii) PCT. 
+VRAI :  
+Une demande PCT peut être valablement déposée auprès du Bureau international 
+(BI) si l’un au moins des déposants est domicilié dans un État contractant du PCT ou est le 
+national d'un tel État, règle 19.1.a)iii) et règle 19.2.ii) PCT. 
+ 
+ 
+ 
+7 
+ 
+Question 4 
+In 2020, company A was interested in exploiting a new medical device it had developed, and, for 
+this purpose, details of the device were disclosed in confidence to company B. Unknown to 
+company A, company B filed a European patent application EP-B with an effective filing date of 6 
+June 2021. Made aware of the publication of EP-B, company A sought before a national court to 
+be recognised as entitled to the grant of a European patent for the invention disclosed in EP-B. By 
+a final decision of the national court dated 10 January 2023, it has been adjudged that company A 
+is entitled to the grant of a European patent for the invention disclosed in EP-B. This final decision 
+is recognised by all contracting states designated in the application EP-B.  
+ 
+4.1 
+If EP-B is still pending and has not yet been granted, company A may prosecute EP-B as 
+its own application in place of company B. 
+TRUE:  
+Article 61(1)(a), R. 16 EPC, Guidelines C-IX, 2.1(i) and A-IV, 2.1(i). 
+WAHR: 
+Artikel 61 (1) a), R. 16 EPÜ, Richtlinien C-IX, 2.1 i) und A-IV, 2.1 i). 
+VRAI :  
+Article 61(1)a), règle 16 CBE, Directives C-IX, 2.1.i) et A-IV, 2.1.i). 
+ 
+4.2 
+If EP-B is still pending and has not yet been granted, a request that company B must 
+withdraw EP-B, filed by company A at the EPO, will be allowed. 
+FALSE: 
+No provisions in Article 61(1)(c), Rule 16 EPC or elsewhere in the EPC are provided 
+for the original application to be withdrawn by the unlawful applicant on request of the lawful 
+applicant. 
+FALSCH: 
+Weder in Artikel 61 (1) c) noch in Regel 16 EPÜ oder sonst wo im EPÜ findet sich 
+eine Bestimmung der zufolge der unberechtigte Anmelder die frühere Anmeldung auf Antrag des 
+berechtigten Anmelders zurücknehmen muss. 
+FAUX : 
+Aucune disposition de l’article 61(1)c), de la règle 16 CBE ni aucune autre 
+disposition de la CBE ne prévoit le retrait de la demande initiale par un déposant non habilité à la 
+requête du déposant habilité. 
+ 
+4.3 
+If EP-B is still pending and has not yet been granted, company A may validly request that 
+EP-B be refused. 
+TRUE:  
+Article 61(1)(c), R. 16  EPC, Guidelines C-IX, 2.1(iii) and A-IV, 2.1(iii) 
+WAHR: 
+Artikel 61 (1) c), R. 16 EPÜ, Richtlinien C-IX, 2.1 iii) und A-IV, 2.1 iii) 
+VRAI :  
+Article 61(1)c), règle 16 CBE, Directives C-IX, 2.1.iii) et A-IV, 2.1.iii) 
+ 
+4.4 
+If EP-B has been deemed to be withdrawn and is thus no longer pending, company A may 
+still file a new European patent application EP-A in respect of the same invention, wherein EP-A 
+shall be deemed to have been filed on 6 June 2021. 
+ 
+8 
+ 
+TRUE:  
+Article 61(1)(b), R. 16  EPC, Guidelines C-IX, 2.2 and A-IV, 2.1(ii), G3/92 
+WAHR: 
+Artikel 61 (1) b), R. 16 EPÜ, Richtlinien C-IX, 2.2 und A-IV, 2.1 ii), G 3/92 
+VRAI :  
+Article 61(1)b), règle 16 CBE, Directives C-IX, 2.2 et A-IV, 2.1.ii), G 3/92 
+ 
+ 
+ 
+9 
+ 
+Question 5 
+On 31 January 2022, Susanne, a German national living in Germany, filed a PCT application PCT-
+S in German, validly claiming priority from her European patent application EP-S, filed on 
+29 January 2021 in German. PCT-S contains claim 1 as originally disclosed in EP-S and claim 2 
+directed to an improved embodiment that was not disclosed in EP-S. PCT-S was published in 
+German on 7 August 2022. Susanne sold PCT-S to Ian, a British national. The international search 
+report issued by the EPO as International Searching Authority states that claim 1 is not novel over 
+the prior art and the subject-matter of claim 2 is novel and involves an inventive step. Ian wants to 
+enter the regional phase before the EPO for PCT-S. Today is 6 March 2023. 
+ 
+5.1 
+When entering the regional phase before the EPO, Ian can file an English translation of 
+PCT-S so that the language of the proceedings of the regional phase of PCT-S will be English. 
+FALSE: 
+If an international patent application has been filed and published under the PCT in 
+an official language of the EPO, it is not possible, on entry into the European phase, to file a 
+translation of the application into another EPO official language (G 4/08). 
+FALSCH: 
+Wenn eine internationale Patentanmeldung nach dem PCT in einer Amtssprache 
+des EPA eingereicht und veröffentlicht wurde, ist es nicht möglich, beim Eintritt in die europäische 
+Phase eine Übersetzung der Anmeldung in eine der beiden anderen Amtssprachen einzureichen 
+(G 4/08). 
+FAUX : 
+Lorsqu’une demande internationale de brevet a été déposée et publiée en vertu du 
+PCT dans une langue officielle de l’OEB, il n’est pas possible, lors de l’entrée en phase 
+européenne, de déposer une traduction de la demande dans l’une des deux autres langues 
+(G 4/08). 
+ 
+5.2 
+The time limit for entering the regional phase before the EPO for PCT-S claiming priority 
+from EP-S ends on 31 July 2023. 
+FALSE: 
+Calculating 31 months from priority date, the time limit for entering the regional 
+phase before the EPO for PCT-S ends on 29 August 2023 (Rule 159(1) EPC). 
+FALSCH: 
+Bei Berechnung von 31 Monaten nach dem Prioritätstag endet die Frist für den 
+Eintritt in die regionale Phase vor dem EPA für PCT-S am 29. August 2023 (Regel 159 (1) EPÜ). 
+FAUX : 
+En calculant trente et un mois à compter de la date de priorité, le délai pour entrer 
+dans la phase régionale devant l’OEB pour PCT-S expire le 29 août 2023 (règle 159(1) CBE).  
+ 
+5.3 
+Today, 6 March 2023, Ian can withdraw the priority claim of PCT-S in the international 
+phase so that the time limit for entering the regional phase before the EPO for PCT-S expires on  
+2 September 2024. 
+ 
+10 
+ 
+TRUE:  
+The priority claim of PCT-S can be withdrawn in the international phase until 29 
+January 2021 + 30 months (Rule 90bis.3 PCT) -> 29 July 2023 (Saturday) -> 31 July 2023. The 
+time limit for entry into EP-phase becomes  31 January 2022 + 31 months (Rule 159(1) EPC) -> 31 
+August 2024 (Saturday) -> 2 September 2024. 
+This statement has been neutralized, because the calendar for 2024 was not made available to the 
+candidates. 
+WAHR: 
+Der Prioritätsanspruch von PCT-S kann in der internationalen Phase 
+zurückgenommen werden bis zum 29. Januar 2021 + 30 Monate (Regel 90bis.3 PCT) -> 29. Juli 
+2023 (Samstag) -> 31. Juli 2023. Die Frist für den Eintritt in die regionale Phase vor dem EPA für 
+PCT-S 31 wird der 31. Januar 2022 + 31 Monate (Regel 159 (1) EPÜ) -> 31. August 2024 
+(Samstag) -> 2. September 2024. 
+Diese Aussage wurde neutralisiert, weil der Kalender für 2024 den Bewerbern nicht zur Verfügung 
+gestellt wurde. 
+VRAI :  
+Le retrait de la revendication de priorité de PCT-S dans la phase internationale peut 
+intervenir avant le 29 janvier 2021 + 30 mois (règle 90bis.3 PCT) -> le 29 juillet 2023 (samedi) -> le 
+31 juillet 2023. Le délai pour entrer dans la phase européenne est alors le 31 janvier 2022 + 
+31 mois (règle 159(1) CBE) -> le 31 août 2024 (samedi) -> le 2 septembre 2024. 
+Cette affirmation n'a plus lieu d'être car le calendrier de 2024 n'a pas été mis à la disposition des 
+candidats. 
+ 
+5.4 
+Withdrawing the priority claim of EP-S will affect the effective date of claim 2. 
+FALSE: 
+Claim 2 was not disclosed in EP-S, the priority is not valid for this claim, and the 
+effective date of this claim is the filing date of PCT-S (Article 88(3) EPC). 
+FALSCH: 
+Anspruch 2 wurde in EP-S nicht offenbart, die Priorität ist für diesen Anspruch nicht 
+wirksam, und das wirksame Datum dieses Anspruchs ist das Anmeldedatum von PCT-S 
+(Artikel 88 (3) EPÜ). 
+FAUX : 
+La revendication 2 n'a pas été divulguée dans EP-S, la priorité n’est pas valable 
+pour cette revendication et la date effective de cette revendication est la date de dépôt de PCT-S 
+(article 88(3) CBE). 
+ 
+ 
+ 
+11 
+ 
+PART 2 
+ 
+Question 6 
+European patent application EP-P was filed as a first filing on 2 December 2019 and was published 
+on 13 June 2021. On 28 November 2021, you received the first communication from the examining 
+division under Article 94(3) EPC regarding EP-P. European patent application EP-D was filed with 
+the EPO on 8 December 2022 as a divisional application of EP-P. Today, 6 March 2023, EP-P is 
+still pending. Some of the claims of EP-D contain subject-matter that was not originally disclosed in 
+EP-P. The renewal fees for EP-D have not yet been paid. 
+ 
+6.1 
+An EP divisional application cannot be validly filed after 24 months from the issuance of the 
+first communication under Article 94(3) EPC in respect of EP-P and therefore EP-D was not validly 
+filed as a divisional application. 
+FALSE: 
+The European divisional application EP-D can be validly filed as long as the earlier 
+application (in this case EP-P) is pending, Rule 36(1) EPC as entered into force on 01.04.2014. 
+(Since this change, Rule 36(1)(a) EPC as entered into force on 26 October 2010 is not applicable 
+anymore). 
+FALSCH: 
+Die europäische Teilanmeldung EP-D kann wirksam eingereicht werden, solange 
+die frühere Anmeldung (in diesem Fall EP-P) anhängig ist, Regel 36 (1) EPÜ in der am 1. April 
+2014 in Kraft getretenen Fassung. (Seit dieser Änderung ist Regel 36 (1) a) EPÜ in der am 
+26. Oktober 2010 in Kraft getretenen Fassung nicht mehr anwendbar.) 
+FAUX : 
+La demande divisionnaire européenne EP-D peut être valablement déposée à la 
+condition que la demande antérieure (en l’espèce EP-P) soit en instance, règle 36(1) CBE entrée 
+en vigueur le 01.04.2014. (Depuis ce changement, la règle 36(1)a) CBE entrée en vigueur le 
+26 octobre 2010 n’est plus applicable) 
+ 
+6.2 
+The renewal fee, already fallen due, may be validly paid for EP-D on 11 April 2023 without 
+an additional fee. 
+TRUE:  
+The first to fourth renewal fee was due in respect of EP-P when EP-D was filed, the 
+5th renewal fee was not due when EP-D was filed. This 5th renewal fee for EP-P became due on 31 
+December 2022. Renewal fees already due in respect of EP-P at the date of filing EP-D shall be 
+also paid for EP-D and shall be due on its filing. These fees and any renewal fee due within four 
+months of filing EP-D can be paid within four months from filing without an additional fee, i.e. on 11 
+April 2023 [8 December 2022 + 4 months (= 8 April 2023), extended to Tuesday 11 April 2023], 
+Rule 51(3) EPC, Rule 131(4) EPC and Rule 134(1) EPC)] 
+WAHR: 
+Bei der Einreichung von EP-D waren die 1. bis 4. Jahresgebühr für EP-P fällig, die 
+5. Jahresgebühr war bei der Einreichung von EP-D nicht fällig. Diese 5. Jahresgebühr für EP-P 
+ 
+12 
+ 
+wurde am 31. Dezember 2022 fällig. Jahresgebühren, die für EP-P am Anmeldetag von EP-D 
+bereits fällig sind, sind auch für EP-D zu entrichten und sind bei deren Einreichung fällig. Diese 
+Gebühren und eine Jahresgebühr, die bis zum Ablauf von vier Monaten nach Einreichung von EP-
+D fällig wird, können innerhalb von vier Monaten nach der Einreichung ohne Zuschlagsgebühr 
+entrichtet werden, d. h. am 11. April 2023 [8. Dezember 2022 + 4 Monate (= 8. April 2023), 
+verlängert bis Dienstag, 11. April 2023], Regel 51 (3) EPÜ, Regel 131 (4) EPÜ und Regel 134 (1) 
+EPÜ)]. 
+VRAI :  
+Les première à quatrième taxes annuelles étaient exigibles pour EP-P lorsque EP-D 
+a été déposée, la cinquième taxe annuelle n’était pas exigible lorsque EP-D a été déposée. Cette 
+cinquième taxe annuelle pour EP-P est devenue exigible dès le 31 décembre 2022. Les taxes 
+annuelles déjà exigibles pour EP-P à la date de dépôt d'EP-D doivent également être acquittées 
+pour EP-D et sont exigibles lors de son dépôt. Ces taxes et toute taxe annuelle exigibles dans un 
+délai de quatre mois à compter du dépôt d'EP-D peuvent être acquittées dans un délai de quatre 
+mois à compter de la date de dépôt sans surtaxe, soit le 11 avril 2023 [8 décembre 2022 + 4 mois 
+(= 8 avril 2023), prorogé au mardi 11 avril 2023], règle 51(3) CBE, règle 131(4) CBE et 
+règle 134(1) CBE)] 
+ 
+6.3 
+At present, EP-D is deemed to have 8 December 2022 as its date of filing. 
+FALSE: 
+Even if EP-D contains subject-matter extending beyond the content of the earlier 
+application as originally filed, it cannot be converted into an independent application taking 8 
+December 2022 as its date of filing (Article 76(1) EPC, Guidelines C-IX, 1.4 or G1/05, Reasons 11.1). 
+FALSCH: 
+Auch wenn EP-D Gegenstände enthält, die über den Inhalt der ursprünglich 
+eingereichten früheren Anmeldung hinausgehen, kann sie nicht in eine unabhängige Anmeldung 
+mit dem 8. Dezember 2022 als Anmeldetag umgewandelt werden (Artikel 76 (1) EPÜ, 
+Richtlinien C-IX, 1.4 oder G 1/05, Nr. 11.1 der Entscheidungsgründe). 
+FAUX : 
+Même si l’objet d'EP-D s’étend au-delà du contenu de la demande initiale telle que 
+déposée, la demande ne peut pas être transformée en une demande indépendante ayant pour 
+date de dépôt le 8 décembre 2022 (article 76(1) CBE, Directives C-IX, 1.4 ou G1/05, motifs 11.1). 
+ 
+6.4 
+In the present case EP-P will be regarded as prior art under Article 54(2) EPC against EP-D. 
+FALSE: 
+EP-P cannot be prior art for EP-D, because EP-D cannot be converted into an 
+independent application and has the same filing date or priority of EP-P with respect to the same 
+subject-matter of EP-P (Article 76(1) EPC, Guidelines C-IX, 1.4 or G1/05, Reasons 11.1). 
+FALSCH: 
+EP-P kann nicht Stand der Technik im Hinblick auf EP-D sein, weil EP-D nicht in 
+eine unabhängige Anmeldung umgewandelt werden kann und denselben Anmeldetag/dieselbe 
+Priorität hat wie EP-P in Bezug auf denselben Gegenstand von EP-P (Artikel 76 (1) EPÜ, 
+Richtlinien C-IX, 1.4 oder G 1/05, Nr. 11.1 der Entscheidungsgründe). 
+ 
+13 
+ 
+FAUX : 
+EP-P ne peut pas être considérée comme état de la technique par rapport à EP-D 
+parce qu'EP-D ne peut pas être transformée en une demande indépendante et qu'elle a la même 
+date de dépôt ou de priorité qu'EP-P pour le même objet qu'EP-P (article 76(1) CBE, Directives  
+C-IX, 1.4 ou G 1/05, motifs 11.1). 
+ 
+ 
+14 
+ 
+Question 7 
+A company having its principal place of business in France files an international patent application 
+at the French national patent office. The language of this international patent application is English. 
+As a receiving Office, the French national patent office accepts international patent applications 
+filed in French only. The International Searching Authority for this international patent application is 
+the European Patent Office, which accepts the following languages for international search: 
+English, French and German.  
+ 
+7.1 
+The international patent application will be transmitted to the International Bureau. 
+TRUE:  
+The international patent application is not in a language accepted by the French 
+national patent office, therefore the French national patent office will transmit the international 
+patent application to the International Bureau (Rule 19.4 (b) PCT) 
+WAHR: 
+Die internationale Patentanmeldung ist nicht in einer vom französischen nationalen 
+Patentamt zugelassenen Sprache abgefasst, daher übermittelt das französische nationale 
+Patentamt die internationale Patentanmeldung an das Internationale Büro (Regel 19.4 b) PCT). 
+VRAI :  
+La demande internationale de brevet n’est pas dans une langue acceptée par 
+l’office national français des brevets, en conséquence ce dernier transmettra la demande 
+internationale de brevet au Bureau international (règle 19.4.b) PCT). 
+ 
+7.2 
+The international patent application will be considered to have been received by the French 
+national patent office on behalf of the International Bureau as receiving Office. 
+TRUE:  
+Rule 19.4 (a)(ii) PCT 
+WAHR: 
+Regel 19.4 a) ii) PCT 
+VRAI :  
+Règle 19.4.a)ii) PCT 
+ 
+7.3 
+The search fee is collected by the International Searching Authority for its own benefit. 
+FALSE: 
+The search fee is collected by the receiving Office (Rule 16.1 (b) PCT). 
+FALSCH:  
+Die Recherchengebühr wird vom Anmeldeamt erhoben (Regel 16.1 b) PCT). 
+FAUX : 
+La taxe de recherche est perçue par l’office récepteur (règle 16.1.b) PCT). 
+ 
+7.4 
+A translation is required by the European Patent Office for the international search. 
+FALSE: 
+No translation is required since English is a language accepted by the EPO for 
+international search (Rule 12.3 (a) PCT, Euro-PCT Guide 3.1.015) 
+FALSCH: 
+Eine Übersetzung ist nicht erforderlich, weil das EPA Englisch als Sprache für die 
+internationale Recherche zulässt (Regel 12.3 a) PCT, Euro-PCT-Leitfaden 3.1.015). 
+FAUX : 
+Aucune traduction n’est requise puisque l’anglais est une langue acceptée par 
+l’OEB aux fins de la recherche internationale (règle 12.3.a) PCT, Guide Euro-PCT 3.1.015). 
+ 
+15 
+ 
+Question 8 
+A European patent application, EP-A, was filed in English on 2 September 2021 claiming priority 
+from a Swedish national patent application, SE-A, which was filed on 2 September 2020. EP-A was 
+published on 9 March 2022. EP-A is pending. 
+ 
+8.1 
+The European examination proceedings are in progress. Third-party observations written in 
+English are filed today and explain why a scientific journal article published in Swedish on  
+10 August 2020 is novelty-destroying for the claimed subject-matter of EP-A. The third-party 
+observations are filed anonymously at the European Patent Office, together with a copy of the 
+Swedish publication. 
+In view of this, the third-party observations are validly filed. 
+TRUE:  
+The third-party observations may be anonymous. Any person may present 
+observations concerning the patentability of the invention including the novelty. The observations 
+are filed in writing in English which is one of the EPO’s official languages. (Art. 115 EPC, 
+Guidelines A-VII,3.5 and E-VI,3)  
+Publications submitted in support of the arguments may be filed in any language  
+(Rule 114(1) EPC, Rule 3(3) EPC, Guidelines E-VI,3). 
+WAHR: 
+Einwendungen Dritter können anonym eingereicht werden. Jeder Dritte kann 
+Einwendungen gegen die Patentierbarkeit der Erfindung einschließlich deren Neuheit erheben. Die 
+Einwendungen werden schriftlich in englischer Sprache eingereicht, die eine der Amtssprachen 
+des EPA ist (Art. 115 EPÜ, Richtlinien A-VII,3.5 und E-VI,3)  
+Zur Stützung des Vorbringens vorgelegte Veröffentlichungen können in jeder Sprache eingereicht 
+werden (Regel 114 (1) EPÜ, Regel 3 (3) EPÜ, Richtlinien E-VI,3). 
+VRAI :  
+Les observations de tiers peuvent être présentées de manière anonyme. Toute 
+personne peut présenter des observations sur la brevetabilité de l’invention notamment sur la 
+nouveauté. Les observations sont faites par écrit en anglais qui est l’une des langues officielles de 
+l’OEB. (article 115 CBE, Directives A-VII,3.5 et E-VI,3)  
+Les publications soumises à l'appui des arguments peuvent être produites en toute langue 
+(règle 114(1) CBE, règle 3(3) CBE, Directives E-VI, 3). 
+ 
+8.2 
+Third-party observations must cite prior art documents. 
+FALSE: 
+Third-party observations may be directed to any observations concerning the 
+patentability of the invention (Article 115 EPC, Guidelines E-VI, 3), for instance Articles 83, 84 and 
+123(2) EPC. 
+FALSCH: 
+Einwendungen Dritter können jedwede Einwendungen gegen die Patentierbarkeit 
+der Erfindung sein (Artikel 115 EPÜ, Richtlinien E-VI, 3), z. B. Artikel 83, 84 und 123 (2) EPÜ. 
+ 
+16 
+ 
+FAUX : 
+Les observations formulées par des tiers peuvent porter sur la brevetabilité de 
+l’invention (article 115 CBE, Directives E-VI, 3), par exemple, articles 83, 84 et 123(2) CBE. 
+ 
+8.3 
+The decision to grant a patent based on EP-A has already been sent to the applicant. Third-
+party observations are received by the EPO just before the publication of the mention of the grant. 
+They cite a new document destroying the novelty of the allowed claims.  
+In view of this, the examining division will consider them and resume the examination proceedings. 
+FALSE: 
+Observations by third parties received after the decision to grant the application has 
+been issued in written proceedings (see G 12/91) will be included in the file without taking note of 
+their content. (Guidelines E-VI, 3) 
+FALSCH: 
+Einwendungen Dritter, die eingehen, nachdem die Entscheidung über die Erteilung 
+im schriftlichen Verfahren erlassen worden ist (siehe G 12/91), werden in die Akte aufgenommen, 
+ohne dass ihr Inhalt beachtet wird. (Richtlinien E-VI, 3) 
+FAUX : 
+Les observations de tiers reçues après que la décision de délivrance a été rendue 
+dans le cadre d'une procédure écrite (cf. G 12/91) sont versées au dossier sans qu’il soit pris note 
+de leur contenu. (Directives E-VI, 3). 
+ 
+8.4 
+A patent based on EP-A has been granted. The mention of the grant was published on 1 
+March 2023. Third-party observations are validly filed today. 
+In view of this, the person filing the third-party observations will be a party to the opposition 
+proceedings if opposition proceedings start. 
+FALSE: 
+Third parties who have presented observations concerning the patentability of the 
+invention of the patent are not parties to opposition proceedings (Art. 115 EPC, last sentence and 
+Guidelines D-I,6). 
+FALSCH: 
+Dritte, die Einwendungen gegen die Patentierbarkeit der angemeldeten Erfindung 
+erhoben haben, sind nicht am Einspruchsverfahren beteiligt (Art. 115 EPÜ letzter Satz und 
+Richtlinien D-I,6). 
+FAUX : 
+Les tiers qui ont formulé des observations à l’encontre de la brevetabilité de 
+l’invention ne sont pas parties à la procédure (article 115 CBE, dernière phrase et Directives D-I, 6). 
+ 
+ 
+ 
+ 
+17 
+ 
+Question 9 
+When filing a European patent application with 14 claims, the applicant also submits a request for 
+examination by filing the written request and paying the examination fee. The European Patent 
+Bulletin mentions the publication of the European search report on 20 January 2023. The 
+European search opinion states that claim 1 lacks novelty. The applicant receives an invitation 
+under Rule 70(2) and Rule 70a(2) EPC dated 13 February 2023 setting a time limit of six months 
+running from the publication of the European search report. 
+ 
+9.1 
+The application shall be deemed to be withdrawn if the applicant files a reply to the 
+invitation on 14 August 2023. 
+TRUE:  
+Where the applicant is invited to submit the indication provided for in Rule 70(2) 
+EPC, a six-month time limit running from the publication of the search report applies,  
+Rules 70(3) + 70a(3) EPC, GL E VIII 1.2. Final date is 20 July 2023. 
+WAHR: 
+Wenn der Anmelder zur Abgabe der Erklärung nach Regel 70 (2) EPÜ aufgefordert 
+wird, findet eine Sechsmonatsfrist nach der Veröffentlichung des Recherchenberichts Anwendung, 
+Regeln 70 (3) + 70a (3) EPÜ, RL E-VIII 1.2. Das letztmögliche Datum ist der 20. Juli 2023. 
+VRAI :  
+Lorsque le déposant est invité à faire la déclaration visée à la règle 70(2) CBE, un 
+délai de six mois à compter de la date à laquelle le rapport de recherche est publié s’applique, 
+règle 70(3) + règle 70bis(3) CBE, Directives E VIII 1.2. La date finale est le 20 juillet 2023. 
+  
+9.2 
+If the applicant omits in his timely reply to the European search opinion to indicate that he 
+wishes to proceed further with the application, the application is deemed to be withdrawn. 
+FALSE: 
+The applicant's response to the search opinion is interpreted as the confirmation 
+required by Rule 70(2) EPC, even where not explicitly expressed as such, Guidelines C-II 1.1. 
+FALSCH: 
+Die Erwiderung des Anmelders auf die Stellungnahme zur Recherche gilt in diesen 
+Fällen als die in Regel 70 (2) geforderte Bestätigung, auch wenn sie nicht explizit zum Ausdruck 
+gebracht wird, Richtlinien C-II 1.1. 
+FAUX : 
+La réponse du demandeur à l’avis au stade de la recherche est interprétée comme 
+étant la confirmation requise par la règle 70(2) CBE, même si elle n’est pas formulée 
+expressément dans ces termes, Directives C-II 1.1. 
+  
+9.3 
+The applicant can validly file a request for accelerated examination before timely filing of a 
+valid reply to the invitation. 
+FALSE: 
+Accelerated examination can, in principle, be requested at any time after the 
+examining division has assumed responsibility for the application E-VIII, 4.2. Rule 10(3) EPC: If a 
+request for examination is filed before the European search report has been transmitted to the 
+ 
+18 
+ 
+applicant, the Examining Division shall be responsible from the time when the European Patent 
+Office receives the indication under Rule 70 (2) EPC. 
+FALSCH: 
+Die beschleunigte Prüfung kann grundsätzlich jederzeit beantragt werden, sobald 
+die Zuständigkeit für die Anmeldung auf die Prüfungsabteilung übergegangen ist, Richtlinien E-VIII, 
+4.2., Regel 10 (3) EPÜ: Wird ein Prüfungsantrag gestellt, bevor dem Anmelder der europäische 
+Recherchenbericht übermittelt wurde, so ist die Prüfungsabteilung ab dem Zeitpunkt zuständig, an 
+dem die Erklärung nach Regel 70 (2) EPÜ beim Europäischen Patentamt eingeht. 
+FAUX : 
+En principe, un examen accéléré peut être demandé à tout moment une fois que la 
+division d’examen est devenue compétente pour la demande E-VIII, 4.2. Règle 10(3) CBE : Si une 
+requête en examen est présentée avant que le rapport de recherche européenne ait été transmis 
+au demandeur, la division d'examen est compétente dès que l'Office européen des brevets reçoit 
+la déclaration visée à la règle 70(2). 
+ 
+9.4 
+If the applicant validly replies to the invitation and files three additional claims, he must pay 
+the claims fees for two claims within one month of filing the claims. 
+FALSE: 
+Rule 71(4) EPC defines that if the European patent application in the text intended 
+for grant comprises more than fifteen claims, the Examining Division shall invite the applicant to 
+pay claims fees in respect of the sixteenth and each subsequent claim. 
+FALSCH: 
+Regel 71 (4) EPÜ legt Folgendes fest: Enthält die europäische Patentanmeldung in 
+der für die Erteilung vorgesehenen Fassung mehr als fünfzehn Patentansprüche, so fordert die 
+Prüfungsabteilung den Anmelder auf, für den sechzehnten und jeden weiteren Patentanspruch 
+Anspruchsgebühren zu entrichten. 
+FAUX : 
+Selon la règle 71(4) CBE, si le texte dans lequel il est envisagé de délivrer le brevet 
+européen comporte plus de quinze revendications, la division d'examen invite le demandeur à 
+acquitter des taxes de revendication pour toutes les revendications à partir de la seizième. 
+ 
+ 
+ 
+19 
+ 
+Question 10 
+Applicant Andrew names Berta as sole inventor in his European patent application EP-A. 
+ 
+10.1 
+The EPO informs Berta in a communication about her designation as inventor in the 
+European patent application EP-A. 
+FALSE: 
+No provision anymore in Rule 19 EPC. 
+FALSCH: 
+Regel 19 EPÜ schreibt dies nicht mehr vor. 
+FAUX : 
+La règle 19 CBE ne contient plus aucune disposition. 
+ 
+10.2 
+Berta can waive her right to be mentioned as inventor in the published European patent 
+application EP-A. 
+TRUE:  
+Rule 20(1) EPC 
+WAHR: 
+Regel 20(1) EPÜ 
+VRAI :  
+Règle 20(1) CBE 
+ 
+10.3 
+If Carla was incorrectly designated as inventor in the European patent application EP-A, 
+there is no way to request rectification of the incorrect designation. 
+FALSE: 
+Rule 21 EPC 
+FALSCH: 
+Regel 21 EPÜ 
+FAUX : 
+Règle 21 CBE 
+ 
+10.4 
+Berta can pay any fees to the EPO. 
+TRUE:  
+Anyone can pay the fees to the EPO (Guidelines A-X, 1). 
+WAHR: 
+Jedermann kann Gebühren an das EPA entrichten (Richtlinien A-X, 1). 
+VRAI :  
+Les taxes peuvent être acquittées par toute personne (Directives A-X, 1). 
+ 
+ 
+ 
+20 
+ 
+PART 3 
+ 
+Question 11 
+11.1 Claim I.1 covers the second embodiment. 
+TRUE: 
+The claim language “comprises” covers additional layers such as the reinforcement 
+layer of the second embodiment. 
+WAHR: 
+Die Anspruchsformulierung "umfasst" deckt zusätzliche Schichten wie die 
+Verstärkungsschicht der zweiten Ausführungsform ab. 
+VRAI : 
+Le terme de la revendication "comprend" couvre des couches supplémentaires telles 
+que la couche de renforcement du deuxième mode de réalisation. 
+ 
+11.2 Claim I.1 covers the third embodiment. 
+TRUE: 
+The fibres of claim I.1 are not limited to a particular form and cover the web, loops and 
+upstanding ends of the third embodiment. 
+WAHR: 
+Die Fasern nach Anspruch I.1 sind nicht auf eine bestimmte Form beschränkt und 
+decken das Netz, die Schlaufen und die nach oben stehenden Enden der dritten Ausführungsform 
+ab. 
+VRAI : 
+Les fibres de la revendication I.1 ne sont pas limitées à une forme particulière et 
+couvrent la nappe, les boucles et les terminaisons dressées du troisième mode de réalisation. 
+ 
+11.3 Claim I.4 is disclosed in the application as filed. 
+TRUE: 
+As the claims are part of the application as filed and the combination of features is 
+covered by the claims due to the claim dependency. 
+WAHR: 
+Weil die Ansprüche Teil der Anmeldung in der ursprünglich eingereichten Fassung sind 
+und die Merkmalskombination aufgrund der Abhängigkeitsstruktur durch die Ansprüche abgedeckt 
+ist. 
+VRAI : 
+Les revendications font partie de la demande telle que déposée et la combinaison de 
+caractéristiques est couverte par les revendications en raison de la dépendance des 
+revendications. 
+ 
+11.4 Claim I.3 covers all alternatives of the first embodiment.  
+FALSE: 
+As the cleaning utensil in accordance with claim I.3 is limited to one specific fibre 
+material comprising polypropylene, whereas other alternatives of the first embodiment encompass 
+other alternative fibre materials (see [008] of the description). 
+FALSCH: Weil das Reinigungsutensil nach Anspruch I.3 auf ein bestimmtes Fasermaterial 
+umfassend Polypropylen beschränkt ist, wohingegen andere Alternativen der ersten 
+Ausführungsform andere, alternative Fasermaterialien einschließen (siehe Absatz [008] der 
+ 
+21 
+ 
+Beschreibung). 
+FAUX : 
+L'ustensile de nettoyage selon la revendication I.3 est limité à un matériau fibreux 
+spécifique comprenant du polypropylène, alors que les autres alternatives du premier mode de 
+réalisation comprennent d'autres matériaux fibreux (voir paragraphe [008] de la description). 
+ 
+ 
+22 
+ 
+Question 12 
+12.1 Claim I.1 meets the requirements of Article 123(2) EPC. 
+FALSE: 
+The description includes only embodiments of a cleaning cloth, the genus cleaning 
+utensil of claim I.1 is broader than the species cleaning cloth, see [002] of the description, so that 
+claim I.1 includes other types of cleaning utensil with the further features recited in claim I.1 which 
+are not disclosed in the application as filed. 
+FALSCH: Die Beschreibung umfasst nur Ausführungsformen eines Reinigungstuchs; das 
+generische Reinigungsutensil nach Anspruch I.1 ist breiter als die Art Reinigungstuch, siehe [002] 
+der Beschreibung, sodass Anspruch I.1 andere Arten von Reinigungsutensilien mit den weiteren in 
+Anspruch I.1 genannten Merkmalen umfasst, die in der Anmeldung in der ursprünglich 
+eingereichten Fassung nicht offenbart sind. 
+FAUX : 
+La description ne comprend que des modes de réalisation d'un chiffon de nettoyage, le 
+genre ustensile de nettoyage de la revendication I.1 est plus large que l'espèce chiffon de 
+nettoyage, voir paragraphe [002] de la description, de sorte que la revendication I.1 comprend 
+d'autres types d'ustensiles de nettoyage présentant les caractéristiques supplémentaires 
+mentionnées dans la revendication I.1 qui ne sont pas divulguées dans la demande telle que 
+déposée. 
+ 
+12.2 Claim I.4 meets the requirements of Article 123(2) EPC. 
+FALSE: 
+As only the combination of a web and loops or upstanding ends is disclosed in the 
+application as filed, in [005] of the description. 
+FALSCH: Weil nur die Kombination Netz und Schlaufen oder nach oben stehende Enden in der 
+Anmeldung in der ursprünglich eingereichten Fassung offenbart ist – in Absatz [005] der 
+Beschreibung. 
+FAUX : 
+Seule la combinaison d'une nappe et de boucles ou de terminaisons dressées est 
+divulguée dans la demande telle que déposée, dans le paragraphe [005] de la description. 
+ 
+12.3 Claim I.5 meets the requirements of Article 123(2) EPC. 
+TRUE: 
+The combination of features is disclosed in the third embodiment of Figure 3 in [005] of 
+the description. 
+WAHR: 
+Die Merkmalskombination ist in der in Fig. 3 dargestellten dritten Ausführungsform in 
+Absatz [005] der Beschreibung offenbart. 
+VRAI : 
+La combinaison de caractéristiques est divulguée dans le troisième mode de réalisation 
+de la figure 3 dans le paragraphe [005] de la description. 
+ 
+ 
+ 
+ 
+23 
+ 
+12.4 Claim I.6 meets the requirements of Article 123(2) EPC. 
+FALSE: 
+The combination of the reinforcing layer of the second embodiment with the web and 
+loops or upstanding ends of the third embodiment is not disclosed in the application as filed. 
+FALSCH: Die Kombination der Verstärkungsschicht der zweiten Ausführungsform mit dem Netz 
+und den Schlaufen oder nach oben stehende Enden der dritten Ausführungsform ist in der 
+Anmeldung in der ursprünglich eingereichten Fassung nicht offenbart. 
+FAUX : 
+La combinaison de la couche de renforcement du deuxième mode de réalisation et de 
+la nappe et des boucles ou des terminaisons dressées du troisième mode de réalisation n'est pas 
+divulguée dans la demande telle que déposée. 
+ 
+ 
+ 
+24 
+ 
+Question 13 
+13.1 The subject matter of claim I.1 is novel over D1. 
+FALSE: 
+D1 discloses a cleaning cloth (a species of a cleaning utensil) with a first layer 12 
+comprising a sponge material and a second layer 11 comprising fibres. 
+FALSCH: D1 offenbart ein Reinigungstuch (eine Art von Reinigungsutensil) mit einer ersten 
+Schicht 12 umfassend ein Schwammmaterial und einer zweiten Schicht 11 umfassend Fasern. 
+FAUX : 
+D1 divulgue un chiffon de nettoyage (une espèce d'ustensile de nettoyage) avec une 
+première couche 12 comprenant un matériau spongieux et une deuxième couche 11 comprenant 
+des fibres. 
+ 
+13.2 The subject matter of claim I.3 is novel over D1. 
+FALSE: 
+D1 discloses fibres comprising polypropylene in layer 13. 
+FALSCH: D1 offenbart Fasern umfassend Polypropylen in Schicht 13. 
+FAUX : 
+D1 divulgue des fibres comprenant du polypropylène dans la couche 13. 
+ 
+13.3 The subject matter of claim I.4 is novel over D1. 
+TRUE: 
+D1 fails to disclose fibres having loops or upstanding ends. 
+WAHR: 
+D1 offenbart keine Fasern mit Schlaufen oder nach oben stehenden Enden. 
+VRAI : 
+D1 ne divulgue pas de fibres présentant des boucles ou des terminaisons dressées. 
+ 
+13.4 The subject matter of claim I.7 is novel over D1. 
+FALSE: 
+D1 discloses ranges of 20 to 35 decitex and at least 150 decitex which overlap with the 
+ranges equal to 25 or less decitex and at least 100 decitex (Guidelines G-VI, 8(iii)). 
+FALSCH: D1 offenbart Bereiche von 20 bis 35 Dezitex und mindestens 150 Dezitex, die sich mit 
+den Bereichen 25 Dezitex oder weniger und mindestens 100 Dezitex überschneiden 
+(Richtlinien G-VI, 8 iii)). 
+FAUX : 
+D1 divulgue des plages de valeurs de 20 à 35 décitex et d'au moins 150 décitex qui se 
+recoupent avec les plages de valeurs égales ou inférieures à 25 décitex et d'au moins 100 décitex 
+(Directives G-VI, 8.iii)). 
+ 
+ 
+ 
+25 
+ 
+Question 14 
+14.1 An objective technical problem solved by the subject-matter of claim I.2 over D1 can be 
+formulated as how to provide a material for releasing water into the first layer to increase the 
+cleaning efficiency. 
+FALSE: 
+The distinguishing feature of claim I.2 over D1 is that the sponge is a synthetic sponge. 
+The patent application discloses the technical effect of releasing water into the first layer to 
+increase the cleaning efficiency for sponge material in general and not that this is a technical effect 
+specifically disclosed in connection with synthetic sponges. 
+FALSCH: Das Unterscheidungsmerkmal von Anspruch I.2 gegenüber D1 ist, dass der Schwamm 
+ein synthetischer Schwamm ist. Die Patentanmeldung offenbart die technische Wirkung der 
+Abgabe von Wasser an die erste Schicht zur Erhöhung der Reinigungseffizienz für 
+Schwammmaterial im Allgemeinen und nicht, dass dies eine technische Wirkung ist, die speziell in 
+Verbindung mit synthetischen Schwämmen offenbart wird. 
+FAUX : 
+La caractéristique distinctive de la revendication I.2 par rapport à D1 est que l'éponge 
+est une éponge synthétique. La demande de brevet divulgue l'effet technique qui consiste à libérer 
+de l’eau vers la première couche pour accroître l'efficacité du nettoyage d’un matériau spongieux 
+en général mais elle n’indique pas qu'il s'agit d'un effet technique spécifiquement divulgué en lien 
+avec des éponges synthétiques. 
+ 
+14.2 Using the problem-solution approach applied to the subject-matter of claim II.1, an objective 
+technical problem can be formulated as how to improve the cleaning action of a layer comprising 
+fibres. 
+TRUE: 
+The subject-matter of claim II.1 distinguishes over D1 in that the second portion of the 
+fibers has upstanding ends or loops protruding upwardly from the web. The technical effect of the 
+distinguishing features is disclosed in [005] of the description  as providing more abrasive cleaning 
+of a surface and also capture dirt removed from the surface thus improving the clean efficiency.  
+WAHR: 
+Der Gegenstand des Anspruchs II.1 unterscheidet sich von D1 darin, dass der zweite 
+Anteil der Fasern nach oben stehende Enden oder Schlaufen hat, die von dem Netz nach oben 
+ragen. Die in Absatz [005] der Beschreibung offenbarte technische Wirkung der 
+Unterscheidungsmerkmale ist, dass eine abrasivere Reinigung der Oberfläche ermöglicht und 
+auch der von der Oberfläche entfernte Schmutz aufgenommen wird, wodurch die Effizienz der 
+Reinigung erhöht wird. 
+VRAI : 
+L'objet de la revendication II.1 se distingue de D1 en ce que la seconde portion des 
+fibres présente des terminaisons dressées ou des boucles dépassant verticalement de la nappe. 
+L’effet technique des caractéristiques distinctives est décrit dans le paragraphe [005] de la 
+description comme assurant un nettoyage plus abrasif d’une surface et capturant également les 
+salissures enlevées de la surface, améliorant ainsi l'efficacité du nettoyage. 
+ 
+26 
+ 
+ 
+14.3 Using the problem-solution approach applied to the subject-matter of claim II.1, an objective 
+technical problem can be formulated as how to provide a more abrasive cleaning action. 
+TRUE: 
+The subject-matter of claim II.1 distinguishes over D1 in that the second portion of the 
+fibers has upstanding ends or loops protruding upwardly from the web. The technical effect of the 
+distinguishing features is disclosed in [005] of the description as providing more abrasive cleaning 
+of a surface and also capture dirt removed from the surface thus improving the clean efficiency. 
+WAHR: 
+Der Gegenstand des Anspruchs II.1 unterscheidet sich von D1 darin, dass der zweite 
+Anteil der Fasern nach oben stehende Enden oder Schlaufen hat, die von dem Netz nach oben 
+ragen. Die in Absatz [005] der Beschreibung offenbarte technische Wirkung der 
+Unterscheidungsmerkmale ist, dass eine abrasivere Reinigung der Oberfläche ermöglicht und 
+auch der von der Oberfläche entfernte Schmutz aufgenommen wird, wodurch die Effizienz der 
+Reinigung erhöht wird. 
+VRAI : 
+L'objet de la revendication II.1 se distingue de D1 en ce que la seconde portion des 
+fibres présente des terminaisons dressées ou des boucles dépassant verticalement de la nappe. 
+L’effet technique des caractéristiques distinctives est décrit dans le paragraphe [005] de la 
+description comme assurant un nettoyage plus abrasif d’une surface et capturant également les 
+salissures enlevées de la surface, améliorant ainsi l'efficacité du nettoyage. 
+ 
+14.4 A valid argument that the cleaning utensil of claim III.1 involves an inventive step is that the 
+claimed ranges of the fibre portions are not obvious from D1 since D1 gives the skilled person no 
+hint at a technical advantage associated with a larger portion of lighter fibres so that the skilled 
+person would not increase the portion of the lighter fibres to more than the maximum 64% 
+disclosed in D1. 
+TRUE: 
+Indeed, D1 does not disclose any technical effect associated with respect to the 
+amount of the lighter fibres in its cleaning cloth. Thus, in the present case this is one example of a 
+valid argument to support the inventive step of claim III.1.  
+WAHR: 
+D1 offenbart tatsächlich keine technische Wirkung, die mit dem Anteil an leichteren 
+Fasern in ihrem Reinigungstuch verbunden ist. Daher ist dies im vorliegenden Fall ein Beispiel für 
+ein stichhaltiges Argument zur Stützung der erfinderischen Tätigkeit des Anspruchs III.1. 
+VRAI : 
+En effet, D1 ne divulgue aucun effet technique associé à la quantité de fibres plus 
+légères dans son chiffon de nettoyage. Dans le cas présent, il s'agit donc d'un exemple d'argument 
+valable pour étayer l'activité inventive de la revendication III.1. 
+ 
+ 
+ 
+27 
+ 
+Question 15 
+15.1 Claim I.1, amended during examination proceedings as follows (amendments are 
+underlined), meets the requirement of Article 123(2) EPC: 
+Cleaning utensil comprising: 
+a first layer comprising a sponge material; 
+a second layer comprising fibres; and 
+a reinforcement layer arranged between the first layer and the second layer, wherein the 
+reinforcement layer comprises a sponge material. 
+FALSE: 
+The sponge material of the reinforcement layer 5 is only disclosed with features of the 
+water absorbing capacity relative to the sponge layer 3 – the amendment has resulted in an 
+intermediate generalisation as the features of the water absorbing capacity relative to the sponge 
+layer 3 have been omitted. 
+FALSCH: Das Schwammmaterial der Verstärkungsschicht 5 ist nur mit Merkmalen der 
+Wasserabsorptionsfähigkeit der Schwammschicht 3 offenbart – die Änderung hat zu einer 
+Zwischenverallgemeinerung geführt, da die Merkmale der Wasserabsorptionsfähigkeit in Bezug 
+auf die Schwammschicht 3 weggelassen wurden. 
+FAUX : 
+Le matériau spongieux de la couche de renforcement 5 n'est divulgué qu'avec les 
+caractéristiques de la capacité d'absorption d'eau par rapport à la couche spongieuse 3 – la 
+modification a abouti à une généralisation intermédiaire puisque les caractéristiques de la capacité 
+d'absorption d'eau par rapport à la couche spongieuse 3 ont été omises. 
+ 
+15.2 Claim I.2, amended during examination proceedings as follows (amendments are 
+underlined), meets the requirement of Article 123(2) EPC: 
+Cleaning utensil according to claim I.1, wherein the cleaning utensil is a cleaning cloth and the 
+sponge material comprises a synthetic or a natural sponge. 
+FALSE: 
+The “natural sponge” is mentioned in the description in [008] referring to the first, 
+second and third embodiments. All these embodiments require that cleaning utensil comprises 
+woven fibres. Claim I.2 omits the presence of woven fibres, and thus the amendment of claim I.2 
+results in an unallowable intermediate generalization. 
+FALSCH: Der "Naturschwamm" wird in Absatz [008] der Beschreibung mit Bezug auf die erste, 
+die zweite und die dritte Ausführungsform genannt. All diese Ausführungsformen erfordern, dass 
+das Reinigungsutensil gewebte Fasern umfasst. In Anspruch I.2 wird das Vorhandensein der 
+gewebten Fasern weggelassen, sodass die Änderung von Anspruch I.2 zu einer unzulässigen 
+Zwischenverallgemeinerung führt. 
+FAUX : 
+L’"éponge naturelle" est mentionnée dans la description au paragraphe [008] en 
+référence aux premier, deuxième et troisième modes de réalisation. Tous ces modes de réalisation 
+requièrent que l'ustensile de nettoyage comprenne des fibres tissées. La revendication I.2 ne 
+ 
+28 
+ 
+mentionne pas la présence de fibres tissées et, par conséquent, la modification de la 
+revendication I.2 aboutit à une généralisation intermédiaire non admissible. 
+ 
+15.3 Claim I.3, amended during examination proceedings as follows (amendments are 
+underlined), meets the requirement of Article 123(2) EPC: 
+Cleaning utensil according to claim I.1, wherein the fibres comprise polypropylene a polymer. 
+FALSE: 
+Only examples of specific polymers are disclosed in [008] in the description. A 
+generalization to any polymer contravenes the requirements of Article 123(2) EPC. 
+FALSCH: In Absatz [008] der Beschreibung werden nur Beispiele für spezifische Polymere 
+offenbart. Eine Verallgemeinerung auf ein Polymer verstößt gegen die Erfordernisse des 
+Artikels 123 (2) EPÜ. 
+FAUX : 
+Seuls des exemples de polymères spécifiques sont divulgués dans le paragraphe [008] 
+de la description. Une généralisation à tout polymère est contraire aux conditions requises à 
+l'article 123(2) CBE. 
+ 
+15.4 Claim I.7, amended during examination proceedings in such a way that it is dependent on 
+claim I.5, meets the requirement of Article 123(2) EPC. 
+TRUE: 
+The subject-matter of claim I.7 corresponds to the third embodiment described in [005] 
+to [007] of the description. 
+WAHR: 
+Der Gegenstand des Anspruchs I.7 entspricht der in den Absätzen [005] bis [007] der 
+Beschreibung offenbarten dritten Ausführungsform. 
+VRAI : 
+L'objet de la revendication I.7 correspond au troisième mode de réalisation décrit aux 
+paragraphes [005] à [007] de la description. 
+ 
+ 
+ 
+ 
+29 
+ 
+PART 4 
+ 
+Question 16 
+16.1 The following feature is described as essential in the description: The erasable ink 
+composition comprises from about 1.5% to about 30% w/w of the colouring agent by weight of the 
+erasable ink composition. 
+FALSE: 
+In [005] of the description of the application, the mentioned ranges are preferred 
+ranges. This means that the range of 1.5 to 30.0 % w/w is not an essential feature of the invention. 
+FALSCH: 
+Die in Absatz [005] der Beschreibung der Anmeldung genannten Bereiche sind 
+bevorzugte Bereiche. Dies bedeutet, dass der Bereich von 1, 5 bis 30,0 %-Gew/Gew kein 
+wesentliches Merkmal der Erfindung ist. 
+FAUX : 
+Dans le paragraphe [005] de la description de la demande, les plages de valeurs 
+mentionnées sont des plages préférées. Cela signifie que la plage de valeurs de 1,5 à 30,0 % p/p 
+n'est pas une caractéristique essentielle de l'invention. 
+ 
+16.2 
+The following feature is described as essential in the description: The releasing agent is a 
+modified siloxane. 
+FALSE: 
+[006] of the description of the application states that the erasing can be even further 
+improved when the releasing agent includes a modified siloxane. Thus, the provision of modified 
+siloxane is not an essential feature for ensuring the erasing. 
+FALSCH: 
+In Absatz [006] der Beschreibung der Anmeldung wird ausgeführt, dass das 
+Löschen sogar noch verbessert werden kann, wenn das Trennmittel ein modifiziertes Siloxan 
+enthält. Die Bereitstellung von modifiziertem Siloxan ist daher kein wesentliches Merkmal für die 
+Sicherstellung des Löschens. 
+FAUX : 
+Le paragraphe [006] de la description de la demande indique que l'effacement est 
+susceptible d’être encore amélioré lorsque l'agent antiadhérent inclut un siloxane modifié. Ainsi, la 
+fourniture de siloxane modifié n'est pas une caractéristique essentielle pour garantir l'effacement. 
+ 
+16.3 
+The following feature is described as essential in the description: The modified siloxane-
+containing releasing agent comprises less than 1% w/w of colloidal silica. 
+TRUE:  
+In [006] of the description of the application it is stated that the releasing agent 
+should always contain less than 1% w/w of colloidal silica, when the releasing agent includes the 
+modified siloxane. 
+FALSE: 
+The provision of modified siloxane is not an essential feature as discussed in 16.2 
+above. 
+Both answers are possible depending on the interpretation of the statement. 
+ 
+ 
+30 
+ 
+WAHR: 
+In Absatz [006] der Beschreibung der Anmeldung wird ausgeführt, dass das 
+Trennmittel stets weniger als 1 %-Gew/Gew kolloidales Siliziumdioxid enthalten muss, wenn das 
+Trennmittel das modifizierte Siloxan enthält. 
+FALSCH: 
+Die Bereitstellung von modifiziertem Siloxan ist kein wesentliches Merkmal wie 
+vorstehend unter 16.2 erläutert. 
+Je nach Auslegung der Aussage sind beide Antworten möglich. 
+VRAI :  
+Dans le paragraphe [006] de la description de la demande, il est indiqué que lorsque 
+l'agent antiadhérent inclut le siloxane modifié, il doit toujours contenir moins de 1 % p/p de silice 
+colloïdale. 
+FAUX : 
+La fourniture de siloxane modifié n'est pas une caractéristique essentielle comme 
+indiqué au point 16.2 ci-dessus. 
+Les deux réponses sont possibles selon l'interprétation de l'affirmation. 
+ 
+16.4 
+The following feature is described as essential in the description: The polymeric binder is a 
+polyvinyl butyral resin. 
+FALSE: 
+[008] of the description of the application states that the polymeric binder is a resin. 
+The polyvinyl butyral resin is just one of the alternative resins (PVC, PVB, etc.) mentioned. 
+FALSCH: 
+In Absatz [008] der Beschreibung der Anmeldung wird ausgeführt, dass das 
+polymere Bindemittel ein Harz ist. Das Polyvinylbutyralharz ist nur eines der genannten 
+alternativen Harze (PVC, PVB, usw.). 
+FAUX : 
+Le paragraphe [008] de la description de la demande indique que le liant 
+polymérique est une résine. La résine de polybutyral de vinyle n'est qu'une des résines alternatives 
+(PVC, PVB, etc.) mentionnées. 
+ 
+ 
+ 
+31 
+ 
+Question 17 
+17.1 
+Claim I.1bis, if filed as envisaged, would meet the requirement of Article 123(2) EPC. 
+FALSE: 
+Claim I.1bis is not completely supported in [004] of the description of the application, 
+as an essential element is missing, i.e. a releasing agent. 
+FALSCH: 
+Anspruch I.1bis wird nicht vollständig durch Absatz [004] der Beschreibung der 
+Anmeldung gestützt, denn es fehlt ein wesentliches Merkmal, d. h. ein Trennmittel. 
+FAUX : 
+La revendication I.1bis n'est pas entièrement étayée dans le paragraphe [004] de la 
+description de la demande car il manque un élément essentiel, à savoir un agent antiadhérent. 
+ 
+17.2 
+Claim I.4 meets the requirement of Article 84 EPC. 
+FALSE: 
+Claim I.4 defines the lower limit for the colouring agent to be 0.5% w/w. However, 
+paragraph 5 of the description of the application teaches that the erasable ink has to contain more 
+than 0.75% w/w of the colouring agent, since the colour intensity would be too weak. Therefore, 
+the essential feature of the colouring agent containing more than 0.75% w/w is missing. 
+FALSCH: 
+Anspruch I.4 legt als Untergrenze für das Farbmittel 0,5 %-Gew/Gew fest. Absatz 5 
+der Beschreibung der Anmeldung lehrt jedoch, dass die löschbare Tinte mehr als 0,75 %-
+Gew/Gew des Farbmittels enthalten muss, da die Farbintensität zu schwach wäre. Daher fehlt das 
+wesentliche Merkmal, dass mehr als 0,75 %-Gew/Gew Farbmittel enthalten sein müssen. 
+FAUX : 
+Selon la revendication I.4, la limite inférieure de l'agent colorant est de 0,5 % p/p. 
+Toutefois, le paragraphe [005] de la description de la demande indique que l'encre effaçable doit 
+contenir plus de 0,75 % p/p de l'agent colorant, sinon l'intensité colorimétrique serait trop faible. 
+Par conséquent, la caractéristique essentielle de l'agent colorant contenant plus de 0,75 % p/p est 
+manquante. 
+ 
+17.3 
+Claim I.5 contains all the essential features. 
+FALSE: 
+When the releasing agent comprises a modified siloxane, it should contain less than 
+1% of colloidal silica by the weight of the erasable ink composition (paragraph 6 of the description 
+of the application). 
+FALSCH: 
+Wenn das Trennmittel ein modifiziertes Siloxan enthält, muss es weniger als 1 %- 
+Gew/Gew kolloidales Siliziumdioxid pro Gewicht der Zusammensetzung einer löschbaren Tinte 
+enthalten (Absatz 6 der Beschreibung der Anmeldung). 
+FAUX : 
+Lorsque l'agent antiadhérent comprend un siloxane modifié, il doit contenir moins de 
+1 % de silice colloïdale par rapport au poids de la composition de l'encre effaçable 
+(paragraphe [006] de la description de la demande). 
+ 
+ 
+ 
+ 
+32 
+ 
+17.4 
+Claim I.8bis, if filed as envisaged, would meet the requirement of Article 123(2) EPC. 
+TRUE:  
+Claim I.8bis is based claim I.8 further specifying the amount of water to be from 
+about 40% to about 90% w/w. This specific range for the amount of water is explicitly disclosed in 
+paragraph 9 of the description as one of the several optional features in combination with the 
+embodiments of the application as filed (Guidelines H-V, 3.2, G-VI, 8(i)). 
+WAHR: 
+Anspruch I.8bis basiert auf Anspruch I.8 und definiert die Wassermenge näher mit 
+der Angabe von ca. 40 bis ca. 90 %-Gew/Gew . Genau dieser Bereich für die Wassermenge ist in 
+Absatz 9 der Beschreibung als eines der optionalen Merkmale in Kombination mit den 
+Ausführungsformen der Anmeldung in der ursprünglich eingereichten Fassung ausdrücklich 
+offenbart (Richtlinien H-V, 3.2, G-VI, 8 i)). 
+VRAI :  
+La revendication I.8bis est basée sur la revendication I.8 et précise que la quantité 
+d'eau est d'environ 40 % à environ 90 % p/p. Cette plage de valeurs spécifique concernant la 
+quantité d'eau est explicitement divulguée au paragraphe [009] de la description comme étant l'une 
+des nombreuses caractéristiques facultatives en combinaison avec les modes de réalisation de la 
+demande telle que déposée (Directives H-V, 3.2, G-VI, 8.i)). 
+ 
+ 
+ 
+33 
+ 
+Question 18 
+18.1 
+Claim I.1 is novel over D1. 
+FALSE: 
+While D1 directed to a solvent system with an organic ester, D1 discloses in the 
+introduction what is commonly known in the field of erasable ink composition. D1 discloses in 
+paragraph 2 a water-based erasable ink comprising a pigment, i.e. a colouring agent and a 
+releasing agent. 
+FALSCH: 
+Wenngleich D1 auf ein Lösungsmittelsystem mit einem organischen Ester gerichtet 
+ist, offenbart D1 in der Einführung, was auf dem Gebiet der Zusammensetzungen einer löschbaren 
+Tinte allgemein bekannt ist. D1 offenbart in Absatz 2 eine wasserbasierte löschbare Tinte, die ein 
+Pigment enthält, d. h. ein Farbmittel und ein Trennmittel. 
+FAUX : 
+Bien que D1 concerne un système de solvants avec un ester organique, D1 
+divulgue dans l'introduction ce qui est généralement connu dans le domaine des compositions 
+d'encre effaçable. D1 divulgue au paragraphe [002] une encre effaçable à base d'eau comprenant 
+un pigment, c'est-à-dire un agent colorant et un agent antiadhérent. 
+ 
+18.2 
+Claim I.1 is novel over D2. 
+FALSE: 
+D2 discloses an erasable ink composition ([001]) comprising: (a) water ([002]), (b) a 
+colouring agent ([002]; pigment = colouring agent), (c) and a releasing agent ([003]) . Thus, all the 
+features of claim I.1 are disclosed in D2 and the subject-matter of claim I.1 is not novel over D2. 
+FALSCH: 
+D2 offenbart eine Zusammensetzung einer löschbaren Tinte ([001]) umfassend a) 
+Wasser ([002]), b) ein Farbmittel ([002]; Pigment = Farbmittel) und c) ein Trennmittel ([003]). Somit 
+sind alle Merkmale des Anspruchs I.1 in D2 offenbart, und der Gegenstand des Anspruchs I.1 ist 
+nicht neu gegenüber D2. 
+FAUX : 
+D2 divulgue une composition d'encre effaçable ([001]) comprenant : (a) de l’eau 
+([002]), (b) un agent colorant ([002] ; pigment = agent colorant), (c) et un agent antiadhérent 
+([003]). Ainsi, toutes les caractéristiques de la revendication I.1 sont divulguées dans D2 et l'objet 
+de la revendication I.1 n'est pas nouveau par rapport à D2. 
+ 
+18.3 
+Claim I.3 is novel over D2. 
+FALSE: 
+D2 discloses an erasable ink composition ([001]) comprising: (a) water ([002]), (b) a 
+colouring agent ([002]; pigment = colouring agent), (c) a releasing agent ([003], since the 
+dispersant of D2 has a releasing effect) and a film-forming polymeric binder ([003], since the 
+dispersant is a water-soluble polymer that includes polymeric chains and has the effect of forming 
+a film). D2 does not explicitly disclose that the water is present in an amount ranging from about 40 
+to about 90% w/w, however it discloses an overlapping range, i.e. about 74% to about 94% w/w 
+([002] of D2). According to the GL G VI-8, the criteria mentioned in relation to selection inventions 
+can be applied analogously for assessing the novelty of overlapping numerical ranges (see 
+ 
+34 
+ 
+T 17/85), i.e. (a) is the selected sub-range narrower compared to the known range; and (b) is the 
+selected sub-range sufficiently far removed from any specific examples disclosed in the prior art 
+and from the end-points of the known range. This is not the case here, thus, the subject-matter of 
+claim I.3 is not novel over D2. 
+The description in [002] of the application mentions that water-based ink are based on using water 
+as a solvent rather than using other solvents. This means that “water-based” corresponds to 
+“water". 
+FALSCH: 
+D2 offenbart eine Zusammensetzung einer löschbaren Tinte ([001]) umfassend 
+a) Wasser ([002]), b) ein Farbmittel ([002]; Pigment = Farbmittel), c) ein Trennmittel ([003], denn 
+das Dispergiermittel von D2 hat eine Trennwirkung), und ein filmbildendes polymeres Bindemittel 
+([003], denn das Dispergiermittel ist ein wasserlösliches Polymer, das Polymerketten enthält und 
+einen Film bildet). D2 offenbart nicht explizit das Vorhandensein von Wasser in einer Menge von 
+ca. 40 bis ca. 90 %-Gew/Gew, wohl aber einen Überschneidungsbereich, d. h. ca. 74 bis ca. 94 %-
+Gew/Gew ([002] von D2). Gemäß RL G-VI, 8 können die in Bezug auf Auswahlerfindungen 
+genannten Kriterien analog für die Neuheitsprüfung von sich überschneidenden Zahlenbereichen 
+verwendet werden (siehe T 17/85), d. h. a) ist der ausgewählte Teilbereich im Vergleich zu dem 
+bekannten Bereich enger, und b) hat der ausgewählte Teilbereich genügend Abstand von 
+konkreten im Stand der Technik offenbarten Beispielen und von den Eckwerten des bekannten 
+Bereichs. Dies ist hier nicht der Fall, daher ist der Gegenstand des Anspruchs I.3 nicht neu 
+gegenüber D2. 
+Die Beschreibung der Anmeldung erwähnt in Absatz [002], dass wasserbasierte Tinten auf Wasser 
+als Lösungsmittel statt auf anderen Lösungsmitteln basieren. "Wasserbasiert" entspricht also 
+"Wasser". 
+FAUX : 
+D2 divulgue une composition d'encre effaçable ([001]) comprenant : (a) de l'eau 
+([002]), (b) un agent colorant ([002] ; pigment = agent colorant), (c) un agent antiadhérent ([003], le 
+dispersant de D2 ayant un effet antiadhérent) et un liant polymérique filmogène ([003], le 
+dispersant étant un polymère hydrosoluble qui inclut des chaînes polymériques et qui a un effet 
+filmogène). D2 ne divulgue pas explicitement que l'eau est présente dans une quantité allant 
+d'environ 40 à environ 90 % p/p, mais il divulgue une plage de recoupement, c'est-à-dire d'environ 
+74 % à environ 94 % p/p ([002] de D2). Selon les Directives G VI-8, les critères mentionnés en 
+relation avec les inventions de sélection peuvent être appliqués de manière analogue pour évaluer 
+la nouveauté de plages de valeurs qui se recoupent (voir T 17/85), c'est-à-dire : a) la plage de 
+valeurs limitée qui a été sélectionnée est-elle plus étroite par rapport à la plage connue ; et b) la 
+plage de valeurs limitée qui a été sélectionnée est-elle suffisamment éloignée de tout exemple 
+spécifique divulgué dans l'état de la technique et des points extrêmes de la plage de valeurs 
+connue. Cela n'est pas le cas ici, l'objet de la revendication I.3 n'est donc pas nouveau par rapport 
+à D2. 
+ 
+35 
+ 
+La description de la demande mentionne dans le paragraphe [002] que les encres à base d'eau 
+sont basées sur l'utilisation d'eau comme solvant plutôt que sur l'utilisation d'autres solvants. Cela 
+signifie que "à base d’eau" correspond à "à l’eau". 
+ 
+18.4 
+Claim I.6 is novel over D2. 
+TRUE:  
+D2 does not disclose an erasable ink composition comprising the polyvinyl butyral 
+resin being present in an amount ranging from about 1 to 15% w/w. 
+WAHR: 
+D2 offenbart keine Zusammensetzung einer löschbaren Tinte umfassend 
+Polyvinylbutyralharz, das in einer Menge von ca. 1 bis 15 %-Gew/Gew vorhanden ist. 
+VRAI :  
+D2 ne divulgue pas une composition d'encre effaçable comprenant la résine de 
+polybutyral de vinyle présente dans une quantité allant d'environ 1 à 15 % p/p. 
+ 
+ 
+ 
+36 
+ 
+Question 19 
+19.1 
+D1 mentions that water in the solvent system has disadvantages. 
+FALSE: 
+D1 discloses a solvent system which does not comprise water. D1 mentions 
+generally other types of commonly known solvents without excluding other solvents. Thus, D1 
+does not mention explicitly that water has disadvantages as a solvent. 
+FALSCH: 
+Das in D1 offenbarte Lösungsmittelsystem umfasst kein Wasser. In D1 werden 
+allgemein weitere Typen von allgemein bekannten Lösungsmitteln erwähnt, ohne andere 
+Lösungsmittel auszuschließen. In D1 wird daher nicht ausdrücklich erwähnt, dass Wasser als 
+Lösungsmittel Nachteile hat. 
+FAUX : 
+D1 divulgue un système de solvants qui ne comprend pas d’eau. D1 mentionne de 
+manière générale d'autres types de solvants généralement connus sans exclure d'autres solvants. 
+Ainsi, D1 ne mentionne pas explicitement que l'eau présente des inconvénients en tant que 
+solvant. 
+ 
+19.2 
+D1 teaches that an essential element of all erasable ink compositions is the presence of a 
+releasing agent. 
+FALSE: 
+D1 discloses that the commonly known erasable ink composition may comprise a 
+releasing agent ([002]), but among the specific features related to the product of D1 ([004]), no 
+releasing agent is listed. Thus, D1 does not teach that a releasing agent is an essential feature of 
+any erasable ink composition. 
+FALSCH: 
+D1 offenbart, dass die allgemein bekannte Zusammensetzung einer löschbaren 
+Tinte ein Trennmittel umfassen kann ([002]), führt aber unter den besonderen Merkmalen des 
+Produkts von D1 ([004]) kein Trennmittel auf. D1 lehrt somit nicht, dass ein Trennmittel ein 
+wesentliches Merkmal aller Zusammensetzungen seiner löschbaren Tinte ist. 
+FAUX : 
+D1 divulgue que la composition d'encre effaçable généralement connue peut 
+comprendre un agent antiadhérent ([002]), mais parmi les caractéristiques spécifiques liées au 
+produit de D1 ([004]), aucun agent antiadhérent n'est répertorié. Ainsi, D1 n'enseigne pas qu'un 
+agent antiadhérent est une caractéristique essentielle de toute composition d'encre effaçable. 
+ 
+19.3 
+D2 discloses a pen that contains an erasable ink composition. 
+TRUE:  
+D2 explicitly refers to a pen as a writing instrument ([002]). Furthermore, D2 is an 
+editorial paper published in Pen Technology. Thus, D2 does teach explicitly that a pen contains the 
+erasable ink composition. 
+WAHR: 
+D2 nimmt ausdrücklich Bezug auf einen Stift als Schreibgerät ([002]). Des Weiteren 
+ist D2 ein in Pen Technology veröffentlichter Artikel. D2 lehrt daher ausdrücklich, dass ein Stift die 
+Zusammensetzung einer löschbaren Tinte enthält. 
+ 
+37 
+ 
+VRAI :  
+D2 fait explicitement référence à un stylo en tant qu'instrument d'écriture ([002]). En 
+outre, D2 est un éditorial publié dans Pen Technology. Ainsi, D2 enseigne explicitement qu'un 
+stylo contient la composition d'encre effaçable. 
+ 
+19.4 
+D2 does not teach that the erasability of the erasable ink composition is dependent on the 
+drying time. 
+TRUE:  
+D2 does not mention the drying time or any dependency on time of the erasable ink 
+composition. Thus, D2 does not teach that the erasable ink composition is dependent on the drying 
+time. 
+WAHR: 
+D2 erwähnt nicht die Trockendauer oder andere zeitliche Abhängigkeiten der 
+Zusammensetzung einer löschbaren Tinte. D2 lehrt daher nicht, dass die Zusammensetzung einer 
+löschbaren Tinte von der Trockendauer abhängt. 
+VRAI :  
+D2 ne mentionne pas le temps de séchage ou toute dépendance au temps de la 
+composition d'encre effaçable. D2 n'enseigne donc pas que la composition d'encre effaçable 
+dépend du temps de séchage. 
+ 
+ 
+38 
+ 
+Question 20 
+20.1 
+In an opposition procedure, an opponent will likely be successful with a novelty attack 
+against claim II.1 over D2. 
+TRUE:  
+D2 discloses an erasable ink composition comprising : (a) from about 74 to about 
+94% w/w of water (overlapping with the range from II.1); (b) from 5 to 20% w/w of the flake-like 
+pigment (overlapping with the range from II.1.); (c) from 1 to 4% w/w of dispersant/releasing 
+agent/film forming polymer (once more overlapping with the range from II.1). Note that the 
+releasing agent of D2 also play the role of a film-forming polymeric binder ([003]). According to the 
+GL G VI-8, the criteria mentioned in relation to selection inventions can be applied analogously for 
+assessing the novelty of overlapping numerical ranges (see T 17/85), i.e. (a) is the selected sub-
+range narrower compared to the known range; and (b) is the selected sub-range sufficiently far 
+removed from any specific examples disclosed in the prior art and from the end-points of the 
+known range. Although here we have four overlapping ranges, the ranges are neither narrower nor 
+far removed from the end-points of the known ranges. Please further note that feature (d) of claim 
+II.1 is optional. Thus, claim II. 1 would not be new over D2. 
+WAHR: 
+D2 offenbart eine Zusammensetzung einer löschbaren Tinte, umfassend a) von 
+ca. 74 bis ca. 94 %-Gew/Gew Wasser (überschneidet sich mit dem Bereich von II.1), b) von ca. 5 
+bis ca. 20 %-Gew/Gew des flockenartigen Pigments (überschneidet sich mit dem Bereich von 
+II.1.), c) von ca. 1 bis 4 %-Gew/Gew Dispergiermittel/Trennmittel/filmbildendes Polymer 
+(überschneidet sich ebenfalls mit dem Bereich von II.1). Zu beachten ist, dass das Trennmittel von 
+D2 auch als filmbildendes polymeres Bindemittel fungiert ([003]). Gemäß RL G-VI, 8 können die in 
+Bezug auf Auswahlerfindungen genannten Kriterien analog für die Neuheitsprüfung von sich 
+überschneidenden Zahlenbereichen verwendet werden (siehe T 17/85), d. h. a) ist der 
+ausgewählte Teilbereich im Vergleich zu dem bekannten Bereich enger, und b) hat der 
+ausgewählte Teilbereich genügend Abstand von konkreten im Stand der Technik offenbarten 
+Beispielen und von den Eckwerten des bekannten Bereichs. Wenngleich sich im vorliegenden Fall 
+vier Bereiche überschneiden, so sind diese Bereich weder enger noch weit entfernt von den 
+Eckwerten der bekannten Bereiche. Außerdem zu beachten ist, dass Merkmal d des 
+Anspruchs II.1 optional ist. Somit wäre Anspruch II. 1 nicht neu gegenüber D2. 
+VRAI :  
+D2 divulgue une composition d'encre effaçable comprenant : (a) d'environ 74 à 
+environ 94 % p/p d'eau (recoupant la plage de II.1) ; (b) de 5 à 20 % p/p du pigment en forme de 
+flocons (recoupant la plage de II.1) ; (c) de 1 à 4 % p/p de dispersant/d’agent antiadhérent/de 
+polymère filmogène (recoupant une fois de plus la plage de II.1). Il convient de noter que l'agent 
+antiadhérent de D2 joue également le rôle de liant polymérique filmogène ([003]). Selon les 
+Directives G VI-8, les critères mentionnés en relation avec les inventions de sélection peuvent être 
+appliqués de manière analogue pour évaluer la nouveauté de plages de valeurs qui se recoupent 
+(voir T 17/85), c'est-à-dire : a) la plage de valeurs limitée qui a été sélectionnée est-elle plus étroite 
+ 
+39 
+ 
+par rapport à la plage connue ; et b) la plage de valeurs limitée qui a été sélectionnée est-elle 
+suffisamment éloignée de tout exemple spécifique divulgué dans l'état de la technique et des 
+points extrêmes de la plage de valeurs connue. Bien que quatre plages de valeurs se recoupent 
+ici, les plages de valeur ne sont ni plus étroites que les plages de valeurs connues ni éloignées 
+des points extrêmes des plages de valeurs connues. Veuillez également noter que la 
+caractéristique (d) de la revendication II.1 est facultative. Ainsi, la revendication II.1 ne serait pas 
+nouvelle par rapport à D2. 
+ 
+20.2 
+In an opposition procedure, an opponent will likely be successful with a novelty attack 
+against claim II.2 over D1. 
+FALSE: 
+D1 does not disclose an erasable ink composition comprising a modified siloxane as 
+a releasing agent. 
+FALSCH: 
+D1 offenbart keine Zusammensetzung einer löschbaren Tinte umfassend ein 
+modifiziertes Siloxan als Trennmittel. 
+FAUX : 
+D1 ne divulgue pas de composition d'encre effaçable comprenant un siloxane 
+modifié comme agent antiadhérent. 
+ 
+20.3 
+In an opposition procedure, an opponent will likely be successful with an attack under 
+Article 83 EPC against claim II.3. 
+FALSE:  
+Claim II.3 has rather a clarity problem (Article 84 EPC, which is not a ground for 
+opposition), as it lacks the essential features to achieve the effect sought. However, the application 
+(as required by Article 83 EPC) does provide the teaching to carry out the invention as exemplified 
+in [011] of the description (Guideline F-III, 1). 
+FALSCH:  
+Anspruch II.3 hat eher ein Klarheitsproblem (Artikel 84 EPÜ, was kein 
+Einspruchsgrund ist), da ihm die wesentliche Merkmale zur Erzielung der gewünschten Wirkung 
+fehlen. Allerdings vermittelt die Anmeldung (wie in Artikel 83 EPÜ gefordert) die Lehre zur 
+Ausführung der Erfindung wie im Beispiel von Absatz [011] der Beschreibung dargelegt (Richtlinien 
+F-III, 1). 
+FAUX : 
+La revendication II.3 présente plutôt un problème de clarté (article 84 CBE, qui n'est 
+pas un motif d'opposition), car il manque les caractéristiques essentielles pour atteindre l'effet 
+recherché. Toutefois, la demande (comme l'exige l'article 83 CBE) fournit l'enseignement 
+nécessaire à la réalisation de l'invention, comme le montre l'exemple cité dans le paragraphe [011] 
+de la description (Directive F-III, 1). 
+ 
+ 
+ 
+ 
+40 
+ 
+20.4 
+In an opposition procedure, an opponent will likely be successful with an attack under 
+Article 123(2) EPC against claim II.2. 
+TRUE: The application explicitly states that when the releasing agent includes a modified siloxane, 
+it should contain less than 1% w/w of colloidal silica (paragraph 6 of the description). Claim II.2, 
+however, is not limited to comprise any colloidal silica, although the claimed erasable ink 
+composition comprises a modified siloxane. An erasable ink composition comprising a modified 
+siloxane without any colloidal silica is not directly and unambiguously derivable from the application 
+as originally filed. 
+WAHR: 
+In der Anmeldung wird ausdrücklich erwähnt, dass das Trennmittel weniger als 1 %-
+Gew/Gew kolloidales Siliziumdioxid enthalten muss, wenn es ein modifiziertes Siloxan umfasst 
+(Absatz 6 der Beschreibung). Anspruch II.2 ist jedoch nicht darauf beschränkt, kolloidales 
+Siliziumdioxid zu enthalten, obwohl die beanspruchte Zusammensetzung einer löschbaren Tinte 
+ein modifiziertes Siloxan umfasst. Eine Zusammensetzung einer löschbaren Tinte umfassend ein 
+modifiziertes Siloxan ohne kolloidales Siliziumdioxid ist nicht unmittelbar und eindeutig aus der 
+Anmeldung in der ursprünglich eingereichten Fassung ableitbar. 
+VRAI : La demande indique explicitement que lorsque l'agent antiadhérent inclut un siloxane 
+modifié, il doit contenir moins de 1 % p/p de silice colloïdale (paragraphe 6 de la description). La 
+revendication II.2 n'est cependant pas limitée à la silice colloïdale, bien que la composition d'encre 
+effaçable revendiquée comprenne un siloxane modifié. Une composition d'encre effaçable 
+comprenant un siloxane modifié sans silice colloïdale ne peut être déduite directement et sans 
+ambiguïté de la demande telle que déposée initialement. 
+ 
+EN
+EUROPEAN QUALIFYING EXAMINATION 2023
+Pre-examination
+Documents for part 3
+*
+Description of the application
+2023/P3/EN/1-4
+*
+Document D1
+  
+2023/P3/EN/5-6
+2023/P3/EN
+0-1
+Description of the application
+Cleaning utensil
+[001] The present invention relates to a cleaning utensil, in particular a cleaning cloth.
+[002] Cleaning utensils such as cloths, mops and brushes may be used to clean many 
+types of surface. Different types of cleaning utensils may be more effective depending on 
+the type and amount of dirt which has to be removed from the surface.
+[003] Figure 1 illustrates a first embodiment of a cleaning cloth 1 which comprises an 
+upper layer 2 and a lower layer 3. The lower layer 3 is made of a sponge material and the 
+upper layer 2 is made of fibres 4 that are woven to form a textile. The lower layer 3 may be
+used to distribute water and cleaning solution over a surface in order to wet and soften the 
+dirt which has to be removed. The textile surface of the upper layer 2 is stiffer than the 
+sponge surface of the lower layer 3 and provides a more abrasive cleaning of the surface 
+to better remove dirt from the surface. The sponge surface of the lower layer 3 may also 
+be used to remove dirt loosened from the surface by the textile surface of the upper 
+layer 2. The cleaning cloth 1, therefore, includes two different types of cleaning surface 
+which can be used for different cleaning actions for an improved cleaning effect.
+2023/P3/EN/1
+[004] Figure 2 illustrates a second embodiment of the cleaning cloth 1 that additionally 
+includes a reinforcement layer 5 that is positioned between the lower sponge layer 3 and 
+the upper layer 2 of woven fibres 4 forming the textile. The reinforcement layer 5 provides 
+an additional mechanical reinforcement of the cleaning cloth 1 which is useful when using 
+the cloth 1 to clean large surfaces. In some embodiments, the reinforcement layer 5 
+comprises a sponge material which has a higher water absorption capacity than the 
+material of the lower sponge layer 3 and the upper textile layer 2. For example, the sponge
+material of the reinforcement layer 5 may include a higher degree of porosity which 
+enables it to store a larger amount of water. Thus, the sponge material of the 
+reinforcement layer 5 can release water to the upper and lower layers 2, 3 to prevent the 
+upper and lower layers 2, 3 from becoming too dry. This release of water into the upper 
+and lower layers 2, 3 improves the cleaning action of the cleaning cloth 1.
+[005] Figure 3 illustrates a third embodiment of the cleaning cloth 1 illustrated in Figure 1 
+which includes a different arrangement of the fibres 4 of the upper layer 2. The lower 
+layer 3 includes the sponge material. In this third embodiment, a first portion of the fibres 4
+is woven to form a web 7 and a second portion of the fibres 4 has upstanding ends 8 or 
+loops 9 protruding upwardly from the web 7. The loops 9 and upstanding ends 8 provide 
+more abrasive cleaning of a surface and also capture dirt removed from the surface thus 
+improving the cleaning efficiency.
+[006] The fibres 4 of the upper layer 2 of each of the first, second and third embodiments 
+may preferably comprise two portions that include fibres of different weights in order to 
+enhance the cleaning effect. The heavier fibres provide an enhanced mechanical cleaning 
+action by virtue of their stiffness and the lighter fibres ensure sufficient flexibility of the cloth
+when cleaning non-planar surfaces. If used in the third embodiment, the lighter fibres are 
+used to provide the web 7 and the heavier fibres are used to form the upstanding ends 8 
+and loops 9 protruding from the face of the web 7.
+2023/P3/EN/2
+[007] Preferably, the fibres 4 of the first portion have a weight equal to or less than 25 
+decitex and the fibres 4 of the second portion have a weight of at least 100 decitex. The 
+weight of the fibre refers to the mass per unit length, which is measured in decitex (grams 
+per 10 000 m). The lighter fibres of the first portion make up 65% to 75% of the total mass 
+of the fibres and the heavier fibres of the second portion make up 25% to 35% of the total 
+mass of fibres. 
+[008] In each of the first, second and third embodiments, the fibres 4 comprise one of the 
+following polymers: a polypropylene, a polyamide, a polyester or a combination of these 
+polymers. The sponge material of the first, second and third embodiments may be a 
+natural sponge or a synthetic sponge.
+2023/P3/EN/3
+Drawings of the application
+ 
+2023/P3/EN/4
+Assume that the following document D1 is prior art under Article 54(2) EPC.
+Document D1: Cleaning cloth
+[001] Figure 1 illustrates a cleaning cloth 10. The cleaning cloth 10 comprises a first 
+layer 11 comprising fibres woven to form a textile, a second layer 12 comprising a natural 
+sponge material and a third layer 13 comprising fibres woven to form a textile. The second 
+layer 12 is arranged between the first layer 11 and the third layer 13 such that the sponge 
+material is held in a pouch formed of woven fibres. In some embodiments, the fibres of 
+both the first layer 11 and the third layer 13 comprise polypropylene with an antibacterial 
+coating.
+[002] The fibres of each of the first and third layers 11, 13 comprise two portions having 
+different weights in order to improve the cleaning action. The fibres of the first portion have
+a weight of 20 to 35 decitex and the fibres of the second portion have a weight of at 
+least 150 decitex. The weight of the fibre refers to the mass per unit length, which is 
+measured in decitex (grams per 10 000 m). The lighter fibres make up 54% to 64% of the 
+total mass of the fibres and the heavier fibres make up 36% to 46% of the total mass of 
+fibres.
+[003] The sponge material of the second layer 12 has a greater water absorption capacity 
+than the outer textile layers 11, 13 and can release water into the outer textile 
+layers 11, 13 in use to increase the cleaning efficiency of the cleaning cloth 10.
+2023/P3/EN/5
+Drawing Document D1 
+2023/P3/EN/6
+EN
+EUROPEAN QUALIFYING EXAMINATION 2023
+Pre-examination
+Documents for part 4
+*
+Description of the invention
+2023/P4/EN/1-3
+*
+Documents D1 and D2  
+2023/P4/EN/4-5
+2023/P4/EN
+0-1
+Description of the invention
+PCT 2021/321654, filed 16.08.2019
+[001] Some writing instruments, e.g. pens and markers, include erasable inks which allow 
+markings formed with the ink to be erased efficiently. It is desirable that erasable inks 
+provide good writing performance when compared with non-erasable inks. 
+[002] This invention provides erasable inks that provide good writing performance when 
+used in writing instruments such as pens. The erasable inks are water-based inks that 
+have a short "waiting time", i.e. inks that can be erased soon after they are applied on a 
+surface made, for instance, of paper. Because the water-based inks are based on using 
+water as a solvent rather than on using other solvents, the erasable inks of the invention 
+are relatively non-toxic and odour-free. 
+[003] All the amounts are expressed, as per the convention in the technical area, as % 
+w/w, corresponding to a weight percent (%) of a given compound per weight of the 
+erasable ink composition.
+[004] In one aspect, the invention features an erasable ink composition that includes 
+(a) water, (b) a colouring agent, (c) a releasing agent, and optionally (d) a film-forming 
+polymeric binder.
+[005] The erasable ink compositions of the present invention preferably contain from about
+1.0% to 30% w/w of the colouring agent, in the form of a pigment on a solid basis, more 
+preferably about 1.5% to 5% w/w of colouring agent. So to avoid that the colour intensity is
+too weak for proper reading, the erasable ink has to contain more than 0.75% w/w of the 
+colouring agent.
+2023/P4/EN/2
+[006] The releasing agent allows the erasable ink composition to be erased from a surface 
+made of paper. It is a finding of the inventors that if the releasing agent includes a modified
+siloxane, the erasing is even more improved. When the releasing agent includes a 
+modified siloxane, it has to contain less than 1% w/w of colloidal silica. To enhance 
+erasability, it is necessary that the releasing agent has a water solubility ranging from 
+about 0.5% to 70%.
+[007] The erasable ink compositions preferably contain from about 0.3% to 30% w/w of the
+releasing agent, more preferably from about 1% to 7% w/w of said releasing agent. If the 
+amount of the releasing agent is too high, the erasable ink composition may smear, 
+whereas if the amount of the releasing agent is too low, then its erasability may be 
+compromised.
+[008] When present, the polymeric binder is a resin, such as a polyvinyl-based resin (e.g. a
+resin of PVC or of polyvinyl butyral (PVB)), an acrylic-based resin or a melamine resin. 
+The preferred polymeric binder includes a plasticised polyvinyl butyral resin. It allows the 
+erasable ink composition to shine under the light.
+[009] Some implementations include one or more of the following features. The water is 
+present in an amount ranging from about 40% to about 90% w/w, the colouring agent is 
+present in an amount ranging from about 1.5% to about 30% w/w, the releasing agent is 
+present in an amount ranging from about 0.3% to about 30% w/w and the optional 
+polymeric binder is present in an amount ranging from about 1% to about 15% w/w, 
+wherein the percentages are by weight of the erasable ink composition. 
+[010] In another aspect, the invention relates to a pen comprising an outer body, a writing 
+tip at one end of said body, a reservoir included within said body and connected to said 
+writing tip, and within said reservoir a water-based erasable ink as described above.
+2023/P4/EN/3
+[011] Example: An erasable ink composition was formed by mixing the ingredients shown 
+in Table 1, wherein the amounts are percentages by weight of the erasable ink 
+composition:
+Ingredient
+Amount (w/w)
+Description
+Water
+60%
+Solvent
+Polyvinyl butyral
+23%
+Binder
+Ethylhexyl Phthalate
+8%
+Plasticiser
+Blue pigment
+3.5%
+Colouring agent
+Polyethylene oxide modified
+poly (dimethyl) siloxane
+5%
+Releasing agent
+Oleic acid
+0.5%
+Emulsifier
+[012] This ink was applied to a piece of paper. After 30 seconds, an eraser was used to 
+remove the ink of the paper. The ink erased cleanly, leaving no visible residue or staining. 
+A second marking was applied to the piece of paper and allowed to dry for a longer period 
+(60 seconds). This marking also erased cleanly. The ink exhibited an erasability of 95% 
+after a waiting time of 10 seconds, and an erasability of 100% when completely dry.
+2023/P4/EN/4
+D1 – Advertisement in The Local Sun, published on the 15 August 2019
+[001] For a number of years, there has been a desire to produce a pen that produces an 
+erasable, pencil-like trace. The particular choice of colouring pigments is important for 
+maintaining the erasability of traces formed by the erasable ink composition.
+[002] Similarly, numerous water-based erasable ink compositions exist in the prior art. 
+Typically, such water-based compositions include a block copolymer such as styrene-
+butadiene and a pigment. Generally, such erasable ink compositions also include one or 
+more additives such as releasing and spreading agents, antioxidants, surfactants, 
+gelatinisers, lubricants and various waxes.
+[003] The erasable ink composition of our new pen produces traces that are substantially 
+erasable with a common pencil eraser and are erasable for at least one day after the tracs 
+are formed on paper.
+[004] Some specificities of our product are:
+
+The pigment, of any colour, is present in an amount of 2% to 25% weight per weight 
+(w/w).
+
+An organic ester-based solvent system is present in an amount of 25% to 55 % w/w.
+
+The solvent system comprises a component selected from the group consisting of an 
+optionally substituted cycloalkane, an optionally substituted cycloalkanone, an 
+optionally substituted cycloalkene, and mixtures thereof; and an organic ester. The 
+solvent system may comprise additionally other types of commonly known solvents. 
+
+A polymeric binder being a liquid butene polymer combined to a plasticiser. 
+2023/P4/EN/5
+D2 – Editorial paper published in Pen Technology on 1 March 1995
+[001] Erasable ink compositions, and more particularly erasable ink compositions for use 
+in writing instruments, are becoming more and more popular. However, erasable ink 
+compositions should not only be erasable but also provide good writing performance when
+used in writing instruments.
+[002] The simplest erasable ink composition for use in a writing instrument, such as a pen, 
+comprises a solvent and a pigment. Preferably, said pigment has a flake-like morphology. 
+The pigment, whatever its colour, is dispersed in the solvent. It seems that for the most 
+efficient systems, the erasable ink compositions include from about 5% to about 20% w/w 
+of the flake-like pigment and from about 74% to about 94% w/w of the water-based solvent
+system. Such erasable ink compositions exhibit an erasability of at least 80%. 
+[003] Optionally, the erasable ink composition can comprise a dispersant. Typically, the 
+dispersants are water-soluble polymers that include polymeric chains. When present, the 
+dispersant is typically included at about 1% to 4% w/w, and most preferably about 1.5% to 
+2% w/w. Examples of suitable dispersants include, but are not limited to, nonionic 
+copolymers or anionic substituted alkoxylated polymers. One of the advantages of the 
+dispersant is that it forms a film at the surface of the writing as well as to have a releasing 
+effect.
+2023/P4/EN/6
+DE
+EUROPÄISCHE EIGNUNGSPRÜFUNG 2023
+Vorprüfung
+Dokumente für Teil 3
+* 
+Beschreibung der Anmeldung
+2023/P3/DE/1-4
+   
+*
+Dokument D1
+  
+2023/P3/DE/5-6
+2023/P3/DE
+0-1
+Beschreibung der Anmeldung
+Reinigungsutensil
+[001] Die vorliegende Erfindung betrifft ein Reinigungsutensil, insbesondere ein 
+Reinigungstuch.
+[002] Reinigungsutensilien wie Tücher, Mopps und Bürsten können zur Reinigung 
+verschiedener Arten von Oberflächen benutzt werden. Je nachdem, welche Art und 
+Menge von Schmutz von der Oberfläche entfernt werden soll, können unterschiedliche 
+Arten von Reinigungsutensilien effektiver sein.
+[003] Figur 1 zeigt eine erste Ausführungsform eines Reinigungstuchs 1, das eine obere 
+Schicht 2 und eine untere Schicht 3 umfasst. Die untere Schicht 3 besteht aus einem 
+Schwammmaterial, und die obere Schicht 2 besteht aus Fasern 4, die zu einem Textil 
+gewebt sind. Die untere Schicht 3 kann dazu verwendet werden, Wasser und 
+Reinigungslösung auf einer Oberfläche zu verteilen, um den zu entfernenden Schmutz zu 
+befeuchten und aufzuweichen. Die Textiloberfläche der oberen Schicht 2 ist steifer als die 
+Schwammoberfläche der unteren Schicht 3 und ermöglicht eine abrasivere Reinigung der 
+Oberfläche, um den Schmutz besser von der Oberfläche zu lösen. Die Schwamm-
+oberfläche der unteren Schicht 3 kann auch verwendet werden, um Schmutz zu entfernen,
+der durch die Textiloberfläche der oberen Schicht 2 von der Oberfläche gelöst wurde. Das 
+Reinigungstuch 1 enthält daher zwei unterschiedliche Arten von Reinigungsoberflächen, 
+die zu unterschiedlichen Reinigungsaktionen für eine verbesserte Reinigungswirkung 
+genutzt werden können.
+2023/P3/DE/1
+[004] Figur 2 zeigt eine zweite Ausführungsform des Reinigungstuchs 1, die zusätzlich 
+eine Verstärkungsschicht 5 enthält, die sich zwischen der unteren Schwammschicht 3 und 
+der oberen Schicht 2 der zu dem Textil gewebten Fasern 4 befindet. Die Verstärkungs-
+schicht 5 bietet eine zusätzliche mechanische Verstärkung des Reinigungstuchs 1, die bei 
+der Verwendung des Tuchs 1 zur Reinigung großflächiger Oberflächen nützlich ist. In 
+einigen Ausführungsformen umfasst die Verstärkungsschicht 5 ein Schwammmaterial, das
+eine höhere Fähigkeit zur Wasserabsorption aufweist als das Material der unteren 
+Schwammschicht 3 und der oberen Textilschicht 2. Zum Beispiel kann das 
+Schwammmaterial der Verstärkungsschicht 5 eine höhere Porosität aufweisen, wodurch 
+sie mehr Wasser speichern kann. So kann das Schwammmaterial der 
+Verstärkungsschicht 5 Wasser an die obere und die untere Schicht 2, 3 abgeben, damit 
+die obere und die untere Schicht 2, 3 nicht zu sehr austrocknen. Die Abgabe von Wasser 
+an die obere und die untere Schicht 2, 3 verbessert die Reinigungsaktion des 
+Reinigungstuchs 1.
+[005] Figur 3 zeigt eine dritte Ausführungsform des in Figur 1 dargestellten 
+Reinigungstuchs 1, die eine andere Anordnung der Fasern 4 der oberen Schicht 2 
+aufweist. Die untere Schicht 3 enthält das Schwammmaterial. In dieser dritten 
+Ausführungsform ist ein erster Anteil der Fasern 4 zu einem Netz 7 gewebt und ein zweiter
+Anteil der Fasern 4 hat nach oben stehende Enden 8 oder Schlaufen 9, die von dem 
+Netz 7 nach oben ragen. Die Schlaufen 9 und nach oben stehende Enden 8 ermöglichen 
+eine abrasivere Reinigung der Oberfläche und nehmen auch den von der Oberfläche 
+entfernten Schmutz auf, wodurch die Effizienz der Reinigung erhöht wird.
+[006] Die Fasern 4 der oberen Schicht 2 der ersten, der zweiten und der dritten 
+Ausführungsform können vorzugsweise zwei Anteile umfassen, die Fasern von 
+unterschiedlichem Gewicht enthalten, um den Reinigungseffekt zu erhöhen. Die 
+schwereren Fasern ermöglichen aufgrund ihrer Steifheit eine verbesserte mechanische 
+Reinigungsaktion, und die leichteren Fasern sorgen für ausreichende Flexibilität des 
+Tuchs beim Reinigen nicht ebener Oberflächen. Bei Verwendung in der dritten 
+Ausführungsform werden die leichteren Fasern genutzt, um das Netz 7 zu bilden, und die 
+schwereren Fasern, um die nach oben stehenden Enden 8 und die von der Oberseite des 
+Netzes 7 nach oben ragenden Schlaufen 9 zu formen.
+2023/P3/DE/2
+[007] Vorzugsweise haben die Fasern 4 des ersten Anteils ein Gewicht von 25 Dezitex 
+oder weniger, und die Fasern 4 des zweiten Anteils haben ein Gewicht von mindestens 
+100 Dezitex. Das Gewicht der Faser bezieht sich auf die Masse pro Längeneinheit, die in 
+Dezitex gemessen wird (Gramm pro 10 000 m). Die leichteren Fasern des ersten Anteils 
+machen 65 % bis 75 % der Gesamtmasse der Fasern aus, und die schwereren Fasern 
+des zweiten Anteils machen 25 % bis 35 % der Gesamtmasse der Fasern aus. 
+[008] In der ersten, der zweiten und der dritten Ausführungsform umfassen die Fasern 4 
+jeweils eines der folgenden Polymere: ein Polypropylen, ein Polyamid, ein Polyester oder 
+eine Kombination dieser Polymere. In der ersten, der zweiten und der dritten 
+Ausführungsform kann das Schwammmaterial ein Naturschwamm oder ein synthetischer 
+Schwamm sein.
+2023/P3/DE/3
+Zeichnungen der Anmeldung
+ 
+2023/P3/DE/4
+Nehmen Sie an, dass das folgende Dokument D1 Stand der Technik nach Artikel 54 (2) 
+EPÜ ist.
+Dokument D1: Reinigungstuch
+[001] Figur 1 zeigt ein Reinigungstuch 10. Das Reinigungstuch 10 umfasst eine erste 
+Schicht 11 umfassend Fasern, die zu einem Textil gewebt sind, eine zweite Schicht 12 
+umfassend ein Naturschwammmaterial und eine dritte Schicht 13 umfassend Fasern, die 
+zu einem Textil gewebt sind. Die zweite Schicht 12 ist zwischen der ersten Schicht 11 und 
+der dritten Schicht 13 so angeordnet, dass das Schwammmaterial in einem Beutel aus 
+gewebten Fasern gehalten wird. In einigen Ausführungsformen umfassen die Fasern der 
+ersten Schicht 11 und der dritten Schicht 13 Polypropylen mit einer antibakteriellen 
+Beschichtung.
+[002] Die Fasern der ersten und der dritten Schicht 11, 13 umfassen jeweils zwei Anteile 
+mit Fasern unterschiedlicher Gewichte, um die Reinigungsaktion zu verbessern. Die 
+Fasern des ersten Anteils haben ein Gewicht von 20 bis 35 Dezitex, und die Fasern des 
+zweiten Anteils haben ein Gewicht von mindestens 150 Dezitex. Das Gewicht der Faser 
+bezieht sich auf die Masse pro Längeneinheit, die in Dezitex gemessen wird (Gramm pro 
+10 000 m). Die leichteren Fasern machen 54 % bis 64 % der Gesamtmasse der Fasern 
+aus, und die schwereren Fasern machen 36 % bis 46 % der Gesamtmasse der Fasern 
+aus.
+[003] Das Schwammmaterial der zweiten Schicht 12 hat eine höhere Fähigkeit zur 
+Wasserabsorption als die äußeren Textilschichten 11, 13 und kann bei der Benutzung 
+Wasser in die äußeren Textilschichten 11, 13 abgeben, um die Reinigungseffizienz des 
+Reinigungstuchs 10 zu erhöhen.
+2023/P3/DE/5
+Zeichnung Dokument D1
+2023/P3/DE/6
+DE
+EUROPÄISCHE EIGNUNGSPRÜFUNG 2023
+Vorprüfung
+Dokumente für Teil 4
+* 
+Beschreibung der Erfindung
+2023/P4/DE/1-3
+   
+*
+Dokumente D1 und D2   
+2023/P4/DE/4-5
+2023/P4/DE
+0-1
+Beschreibung der Erfindung
+PCT 2021/321654, eingereicht am 16.08.2019
+[001] Einige Schreibgeräte, z. B. Stifte und Marker, enthalten löschbare Tinten, die es 
+erlauben, mit der Tinte vorgenommene Markierungen effizient zu löschen. Es ist 
+wünschenswert, dass löschbare Tinten im Vergleich mit nicht löschbaren Tinten eine gute 
+Schreibleistung bieten. 
+[002] Diese Erfindung stellt löschbare Tinten bereit, die eine gute Schreibleistung bieten, 
+wenn sie in Schreibgeräten wie Stiften verwendet werden. Die löschbaren Tinten sind 
+wasserbasierte Tinten mit einer kurzen "Wartezeit", d. h. Tinten, die gelöscht werden 
+können, kurz nachdem sie auf eine Oberfläche zum Beispiel aus Papier aufgetragen 
+wurden. Weil die wasserbasierten Tinten auf Wasser als Lösungsmittel statt auf anderen 
+Lösungsmitteln basieren, sind die löschbaren Tinten der Erfindung relativ ungiftig und 
+geruchsfrei. 
+[003] Alle Mengenangaben sind, wie auf diesem technischen Gebiet üblich, in 
+%-Gew/Gew angegeben, was einem Gewichtsprozent (%) einer bestimmten Verbindung 
+pro Gewicht der Zusammensetzung einer löschbaren Tinte entspricht.
+[004] In einem Aspekt betrifft die Erfindung eine Zusammensetzung einer löschbaren 
+Tinte, die (a) Wasser, (b) ein Farbmittel, (c) ein Trennmittel und optional (d) ein 
+filmbildendes polymeres Bindemittel enthält.
+[005] Die Zusammensetzung einer löschbaren Tinte der vorliegenden Erfindung enthalten 
+bevorzugt von ca. 1,0 bis 30 %-Gew/Gew des Farbmittels, in der Form eines Pigments auf
+fester Basis, und noch bevorzugter von ca. 1,5 bis 5 %-Gew/Gew des Farbmittels.  Um zu 
+verhindern, dass die Farbintensität für richtiges Lesen zu schwach ist, muss die löschbare 
+Tinte mehr als 0,75 %-Gew/Gew des Farbmittels enthalten. 
+2023/P4/DE/1
+[006] Das Trennmittel ermöglicht es, die Zusammensetzung einer löschbaren Tinte von 
+einer Oberfläche aus Papier zu löschen. Die Erfinder haben herausgefunden, dass wenn 
+das Trennmittel ein modifiziertes Siloxan enthält, das Löschen sogar noch verbessert wird.
+Wenn das Trennmittel ein modifiziertes Siloxan enthält, muss es weniger als 
+1 %-Gew/Gew kolloidales Siliziumdioxid enthalten. Um die Löschbarkeit zu verbessern, 
+muss das Trennmittel eine Wasserlöslichkeit von ca. 0,5 % bis 70 % aufweisen.
+[007] Die Zusammensetzung einer löschbaren Tinte enthalten bevorzugt von ca. 0,3 bis 
+30 %-Gew/Gew des Trennmittels, noch bevorzugter von ca. 1 bis 7 %-Gew/Gew des 
+Trennmittels. Wenn die Menge des Trennmittels zu hoch ist, kann die Zusammensetzung 
+einer löschbaren Tinte verschmieren, während bei einer zu niedrigen Menge des 
+Trennmittels die Löschbarkeit beeinträchtigt sein kann.
+[008] Wenn vorhanden, ist das polymere Bindemittel ein Harz, wie etwa ein Harz auf 
+Polyvinylbasis (z. B. ein PVC- oder ein Polyvinylbutyral(PVB)-Harz), ein Harz auf 
+Acrylbasis oder ein Melaminharz. Das bevorzugte polymere Bindemittel enthält ein 
+plastifiziertes Polyvinylbutyralharz. Es ermöglicht, dass die Zusammensetzung einer 
+löschbaren Tinte unter Licht leuchtet.
+[009] Einige Umsetzungsformen enthalten eines oder mehrere der folgenden Merkmale. 
+Wasser ist in einer Menge von ca. 40 bis ca. 90 %-Gew/Gew vorhanden, das Farbmittel ist
+in einer Menge von ca. 1,5 bis ca. 30 %-Gew/Gew vorhanden, das Trennmittel ist in einer 
+Menge von ca. 0,3 bis ca. 30 %-Gew/Gew vorhanden, und das optionale polymere 
+Bindemittel ist in einer Menge von ca. 1 bis ca. 15 %-Gew/Gew vorhanden, wobei sich die 
+Prozentangaben auf das Gewicht der Zusammensetzung einer löschbaren Tinte beziehen.
+ 
+[010] In einem anderen Aspekt betrifft die Erfindung einen Stift umfassend ein 
+Außengehäuse, eine Schreibspitze an einem Ende des Gehäuses, einen Tank, der in dem
+Gehäuse enthalten und mit der Schreibspitze verbunden ist, und in dem Tank eine 
+wasserbasierte löschbare Tinte wie oben beschrieben.
+2023/P4/DE/2
+[011] Beispiel: Eine Zusammensetzung einer löschbaren Tinte wurde gebildet durch 
+Mischen der in der Tabelle 1 aufgeführten Inhaltsstoffe, wobei sich die Prozentangaben 
+auf das Gewicht der Zusammensetzung einer löschbaren Tinte beziehen: 
+Inhaltsstoff
+Menge (%-Gew/Gew)
+Beschreibung
+Wasser
+60 %
+Lösungsmittel
+Polyvinylbutyral
+23 %
+Bindemittel
+Ethylhexylphthalat
+8 %
+Weichmacher
+Blaues Pigment
+3,5 %
+Farbmittel
+Polyethylenoxid-modifiziertes
+Poly(dimethyl)siloxan
+5 %
+Trennmittel
+Ölsäure
+0,5 %
+Emulgator
+[012] Diese Tinte wurde auf ein Blatt Papier aufgetragen. Nach 30 Sekunden wurde ein 
+Löscher benutzt, um die Tinte von dem Papier zu entfernen. Die Tinte ließ sich sauber 
+löschen und hinterließ keine sichtbaren Reste oder Flecken. Eine zweite Markierung 
+wurde auf das Blatt Papier aufgetragen und länger trocknen gelassen (60 Sekunden). 
+Auch diese Markierung ließ sich sauber löschen. Die Tinte zeigte eine Löschbarkeit von 
+95 % nach einer Wartezeit von 10 Sekunden und eine Löschbarkeit von 100 %, wenn sie 
+komplett getrocknet war.
+2023/P4/DE/3
+Dokument D1 – Anzeige in The Local Sun, veröffentlicht am 15. August 2019
+[001] Seit einigen Jahren besteht der Wunsch, einen Stift herzustellen, der einen 
+löschbaren, bleistiftähnlichen Strich erzeugt. Die besondere Auswahl der Farbpigmente ist 
+dafür wichtig, die Löschbarkeit der von der Zusammensetzung einer löschbaren Tinte 
+erzeugten Striche zu bewahren.
+[002] Ähnlich gibt es im Stand der Technik zahlreiche wasserbasierte 
+Zusammensetzungen einer löschbaren Tinte. Typischerweise enthalten solche 
+wasserbasierten Zusammensetzungen ein Blockcopolymer wie Styrol-Butadien und ein 
+Pigment. In der Regel enthalten solche Zusammensetzung einer löschbaren Tinte auch 
+ein oder mehrere Additive wie Trenn- und Spreitmittel, Antioxidantien, Tenside, 
+Geliermittel, Schmiermittel und verschiedene Wachse.
+[003] Die Zusammensetzung einer löschbaren Tinte unseres neuen Stifts erzeugt Striche, 
+die im Wesentlichen mit einem gewöhnlichen Radiergummi für Bleistifte löschbar sind und 
+mindestens einen Tag nach Auftragen der Striche auf dem Papier löschbar sind.
+[004] Einige Besonderheiten unseres Produkts sind:
+
+Das Pigment, egal von welcher Farbe, ist in einer Menge von 2 bis 25 %-Gew/Gew 
+vorhanden.
+
+Ein Lösungsmittelsystem auf Basis organischen Esters ist in einer Menge von 25 bis 
+55 %-Gew/Gew vorhanden.
+
+Das Lösungsmittelsystem umfasst einen Bestandteil aus der Gruppe bestehend aus 
+einem optional substituierten Cycloalkan, einem optional substituierten Cycloalkanon, 
+einem optional substituierten Cycloalken und Mischungen davon; sowie einem 
+organischen Ester. Das Lösungsmittelsystem kann zusätzlich weitere Typen von 
+allgemein bekannten Lösungsmitteln umfassen.
+
+Ein polymeres Bindemittel, das ein mit einem Weichmacher kombiniertes flüssiges 
+Butenpolymer ist. 
+2023/P4/DE/4
+Dokument D2 – Artikel veröffentlicht in Pen Technology am 1. März 1995
+[001] Zusammensetzung einer löschbaren Tinte und insbesondere Zusammensetzungen 
+einer löschbaren Tinte zur Verwendung in Schreibgeräten werden immer populärer. 
+Zusammensetzungen einer löschbaren Tinte sollten jedoch nicht nur löschbar sein, 
+sondern bei der Verwendung in Schreibgeräten auch eine gute Schreibleistung aufweisen.
+[002] Die einfachste Zusammensetzung einer löschbaren Tinte zur Verwendung in einem 
+Schreibgerät wie einem Stift umfasst ein Lösungsmittel und ein Pigment. Das Pigment hat 
+bevorzugt eine flockenartige Morphologie. Das Pigment, egal welcher Farbe, ist in dem 
+Lösungsmittel verteilt. Es scheint so, dass bei den effizientesten Systemen die 
+Zusammensetzungen einer löschbaren Tinte von ca. 5 bis ca. 20 %-Gew/Gew w/w des 
+flockenartigen Pigments und von ca. 74 bis ca. 94 %-Gew/Gew des wasserbasierten 
+Lösungsmittelsystems enthalten. Solche Zusammensetzungen einer löschbaren Tinte 
+zeigen eine Löschbarkeit von mindestens 80 %. 
+[003] Optional kann die Zusammensetzung einer löschbaren Tinte ein Dispergiermittel 
+umfassen. Typischerweise sind die Dispergiermittel wasserlösliche Polymere, die 
+Polymerketten enthalten. Wenn vorhanden, ist das Dispergiermittel typischerweise zu 
+einem Anteil von ca. 1 bis 4 %-Gew/Gew enthalten; und noch bevorzugter zu einem Anteil 
+von ca. 1,5 bis 2 %-Gew/Gew. Beispiele für geeignete Dispergiermittel sind unter anderem
+nicht-ionische Copolymere oder anionische substituierte alkoxylierte Polymere. Einer der 
+Vorteile des Dispergiermittels ist, dass es an der Oberfläche des Geschriebenen einen 
+Film bildet und eine Trennwirkung hat.
+2023/P4/DE/5
+FR
+EXAMEN EUROPEEN DE QUALIFICATION 2023
+Examen préliminaire
+Documents pour la partie 3
+*
+Description de la demande
+2023/P3/FR/1-4
+*
+Document D1  
+2023/P3/FR/5-6
+2023/P3/FR
+0-1
+Description de la demande
+Ustensile de nettoyage
+[001] La présente invention porte sur un ustensile de nettoyage, en particulier un chiffon 
+de nettoyage.
+[002] Les ustensiles de nettoyage tels que les chiffons, les balais et les brosses peuvent 
+être utilisés pour nettoyer de nombreux types de surface. L’efficacité des différents types 
+d’ustensiles de nettoyage varie selon le type et la quantité de salissure qui doit être 
+enlevée de la surface.
+[003] La figure 1 illustre un premier mode de réalisation d'un chiffon de nettoyage 1 qui 
+comprend une couche supérieure 2 et une couche inférieure 3. La couche inférieure 3 est 
+faite d'un matériau spongieux et la couche supérieure 2 est faite de fibres 4 qui sont 
+tissées pour former un textile. La couche inférieure 3 peut être utilisée pour répandre de 
+l'eau et une solution de nettoyage sur une surface afin de mouiller et de ramollir la 
+salissure qui doit être enlevée. La surface textile de la couche supérieure 2 est plus rigide 
+que la surface spongieuse de la couche inférieure 3 et assure un nettoyage plus abrasif de
+la surface afin de mieux enlever la salissure de la surface. La surface spongieuse de la 
+couche inférieure 3 peut également être utilisée pour enlever les salissures détachées de 
+la surface par la surface textile de la couche supérieure 2. Le chiffon de nettoyage 1 inclut 
+donc deux types différents de surfaces de nettoyage qui peuvent être utilisés pour 
+différentes actions de nettoyage, ce qui améliore l'effet du nettoyage.
+2023/P3/FR/1
+[004] La figure 2 illustre un deuxième mode de réalisation du chiffon de nettoyage 1 qui 
+inclut en outre une couche de renforcement 5 qui est disposée entre la couche spongieuse
+inférieure 3 et la couche supérieure 2 de fibres tissées 4 formant le textile. La couche de 
+renforcement 5 permet un renforcement mécanique supplémentaire du chiffon de 
+nettoyage 1 qui est utile lorsque le chiffon 1 est utilisé pour nettoyer de grandes surfaces. 
+Dans certains modes de réalisation, la couche de renforcement 5 comprend un matériau 
+spongieux qui a une capacité d'absorption d'eau supérieure à celle du matériau de la 
+couche spongieuse inférieure 3 et à celle de la couche textile supérieure 2. Par exemple, 
+le matériau spongieux de la couche de renforcement 5 peut inclure un degré plus élevé de
+porosité qui lui permet d'emmagasiner une plus grande quantité d'eau. Ainsi, le matériau 
+spongieux de la couche de renforcement 5 peut libérer de l'eau vers les couches 
+supérieure et inférieure 2, 3 pour éviter que les couches supérieure et inférieure 2, 3 ne 
+deviennent trop sèches. Cette libération d'eau vers les couches supérieure et 
+inférieure 2, 3 améliore l'action de nettoyage du chiffon de nettoyage 1.
+[005] La figure 3 illustre un troisième mode de réalisation du chiffon de nettoyage 1 illustré 
+dans la figure 1 qui inclut une disposition différente des fibres 4 de la couche supérieure 2.
+La couche inférieure 3 inclut le matériau spongieux. Dans ce troisième mode de 
+réalisation, une première portion des fibres 4 est tissée pour former une nappe 7 et une 
+seconde portion des fibres 4 présente des terminaisons dressées 8 ou des boucles 9 
+dépassant verticalement de la nappe 7. Les boucles 9 et les terminaisons dressées 8 
+assurent un nettoyage plus abrasif d’une surface et capturent également les salissures 
+enlevées de la surface, améliorant ainsi l'efficacité du nettoyage.
+[006] Les fibres 4 de la couche supérieure 2 de chacun des premier, deuxième et 
+troisième modes de réalisation peuvent comprendre de préférence deux portions qui 
+incluent des fibres de poids différents afin d'améliorer l'effet de nettoyage. Les fibres plus 
+lourdes permettent une meilleure action de nettoyage mécanique du fait de leur rigidité et 
+les fibres plus légères assurent une flexibilité suffisante du chiffon lors du nettoyage de 
+surfaces non planes. Si elles sont utilisées dans le troisième mode de réalisation, les 
+fibres plus légères servent à constituer la nappe 7 et les fibres plus lourdes servent à 
+former les terminaisons dressées 8 et les boucles 9 dépassant de la face de la nappe 7.
+2023/P3/FR/2
+[007] De préférence, les fibres 4 de la première portion ont un poids égal ou inférieur à 
+25 décitex et les fibres 4 de la seconde portion ont un poids d'au moins 100 décitex. Le 
+poids de la fibre renvoie à la masse par unité de longueur, qui est mesurée en décitex 
+(grammes par 10 000 m). Les fibres plus légères de la première portion constituent 65 % à
+75 % de la masse totale des fibres et les fibres plus lourdes de la seconde portion 
+constituent 25 % à 35 % de la masse totale des fibres.
+[008] Dans chacun des premier, deuxième et troisième modes de réalisation, les fibres 4 
+comprennent l’un des polymères suivants : un polypropylène, un polyamide, un polyester 
+ou une combinaison de ces polymères. Dans chacun des premier, deuxième et troisième 
+modes de réalisation, le matériau spongieux peut être une éponge naturelle ou une 
+éponge synthétique.
+2023/P3/FR/3
+Dessins de la demande
+2023/P3/FR/4
+Supposez que le document D1 constitue un état de la technique au sens de 
+l'article 54(2) CBE.
+Document D1 : Chiffon de nettoyage
+[001] La figure 1 illustre un chiffon de nettoyage 10. Le chiffon de nettoyage 10 comprend 
+une première couche 11 comprenant des fibres tissées pour former un textile, une 
+deuxième couche 12 comprenant un matériau spongieux naturel et une troisième 
+couche 13 comprenant des fibres tissées pour former un textile. La deuxième couche 12 
+est disposée entre la première couche 11 et la troisième couche 13 de sorte que le 
+matériau spongieux est maintenu dans une poche formée de fibres tissées. Dans certains 
+modes de réalisation, les fibres de la première couche 11 et de la troisième couche 13 
+comprennent du polypropylène ayant un revêtement antibactérien.
+[002] Les fibres de chacune des première et troisième couches 11, 13 comprennent deux 
+portions ayant des poids différents afin d'améliorer l'action de nettoyage. Les fibres de la 
+première portion ont un poids de 20 à 35 décitex et les fibres de la seconde portion ont un 
+poids d'au moins 150 décitex. Le poids de la fibre renvoie à la masse par unité de 
+longueur, qui est mesurée en décitex (grammes par 10 000 m). Les fibres plus légères 
+constituent 54 % à 64 % de la masse totale des fibres et les fibres plus lourdes constituent
+36 % à 46 % de la masse totale des fibres.
+[003] Le matériau spongieux de la deuxième couche 12 a une capacité d'absorption d'eau 
+supérieure à celle des couches textiles extérieures 11, 13 et peut libérer de l'eau vers les 
+couches textiles extérieures 11, 13 pendant l'utilisation pour accroître l'efficacité de 
+nettoyage du chiffon de nettoyage 10.
+2023/P3/FR/5
+Dessin du Document D1
+2023/P3/FR/6
+FR
+EXAMEN EUROPEEN DE QUALIFICATION 2023
+Examen préliminaire
+Documents pour la partie 4
+*
+Description de l’invention
+2023/P4/FR/1-3
+*
+Documents D1 et D2  
+2023/P4/FR/4-5
+2023/P4/FR
+0-1
+Description de l’invention – PCT 2021/321654, déposée le 16.08.2019
+[001] Certains instruments d'écriture, tels que les stylos et les marqueurs, incluent des 
+encres effaçables qui permettent d’effacer efficacement les inscriptions réalisées à l’encre.
+Il est souhaitable que les encres effaçables offrent de bonnes performances d'écriture par 
+rapport aux encres non effaçables.
+[002] L’invention concerne des encres effaçables qui offrent de bonnes performances 
+d'écriture lorsqu'elles sont utilisées dans des instruments d'écriture tels que les stylos. Les 
+encres effaçables sont des encres à base d'eau qui ont un court "temps d'attente", c'est-à-
+dire des encres qui peuvent être effacées peu après avoir été appliquées sur une surface 
+faite, par exemple, de papier. Comme les encres à base d'eau sont basées sur l'utilisation 
+d’eau comme solvent plutôt que sur l’utilisation d'autres solvants, les encres effaçables de 
+l'invention sont relativement peu toxiques et inodores.
+[003] Toutes les quantités sont exprimées, conformément à la convention en vigueur dans 
+le domaine technique, en % p/p, ce qui correspond à un pourcentage pondéral (%) d'un 
+composé donné en fonction du poids de la composition d'encre effaçable.
+[004] Dans un aspect, l'invention concerne une composition d'encre effaçable qui inclut 
+(a) de l'eau, (b) un agent colorant, (c) un agent antiadhérent et, à titre facultatif, (d) un liant
+polymérique filmogène.
+[005] Les compositions d'encre effaçable de la présente invention contiennent de 
+préférence environ 1,0 % à 30 % p/p d’agent colorant, sous la forme d'un pigment sur une 
+base solide, et plus préférentiellement environ 1,5 % à 5 % p/p d'agent colorant. Ainsi, 
+pour éviter que l’intensité colorimétrique soit trop faible pour une bonne lecture, l’encre 
+effaçable doit contenir plus de 0,75% p/p d’agent colorant. 
+2023/P4/FR/1
+[006] L'agent antiadhérent permet d’effacer la composition d'encre effaçable d'une surface
+faite de papier. Les inventeurs ont constaté que si l'agent antiadhérent inclut un siloxane 
+modifié, l'effaçage est encore amélioré. Lorsque l'agent antiadhérent inclut un siloxane 
+modifié, il doit contenir moins de 1 % p/p de silice colloïdale. Pour améliorer l'effaçabilité, 
+il est nécessaire que l’agent antiadhérent ait une hydrosolubilité allant d’environ 0,5 % à 
+70 %.
+[007] Les compositions d'encre effaçable contiennent de préférence environ 0,3 % à 
+30 % p/p d'agent antiadhérent, et plus préférentiellement environ 1 % à 7 % p/p dudit 
+agent antiadhérent. Si la quantité d'agent antiadhérent est trop élevée, la composition 
+d'encre effaçable peut baver, tandis que si la quantité d'agent antiadhérent est trop faible, 
+cela peut rendre l’encre plus difficile à effacer.
+[008] Lorsqu'il est présent, le liant polymérique est une résine, telle qu’une résine à base 
+de polyvinyle (par ex. une résine de PVC ou de polybutyral de vinyle (PVB)), une résine à 
+base d'acrylique, ou une résine de mélamine. Le liant polymérique préféré inclut une 
+résine de polybutyral de vinyle plastifiée. Il permet à la composition d'encre effaçable de 
+briller à la lumière.
+[009] Certaines mises en œuvre incluent une ou plusieurs des caractéristiques suivantes. 
+L'eau est présente dans une quantité allant d’environ 40 % à environ 90 % p/p, l'agent 
+colorant est présent dans une quantité allant d’environ 1,5 % à environ 30 % p/p, l'agent 
+antiadhérent est présent dans une quantité d’environ 0,3 % à environ 30 % p/p et le liant 
+polymérique facultatif est présent dans une quantité allant d’environ 1 % à environ 
+15 % p/p, les pourcentages étant exprimés en fonction du poids de la composition d'encre 
+effaçable.
+[010] Dans un autre aspect, l'invention concerne un stylo comprenant un corps extérieur, 
+une pointe d'écriture à une extrémité dudit corps, un réservoir inclus dans ledit corps et 
+relié à ladite pointe d'écriture et, dans ledit réservoir, une encre effaçable à base d'eau 
+telle que décrite ci-dessus.
+2023/P4/FR/2
+[011] Exemple : une composition d'encre effaçable a été formée en mélangeant les 
+ingrédients figurant dans le tableau 1, les quantités étant des pourcentages en poids de la 
+composition d'encre effaçable :
+Ingrédient
+Quantité (p/p)
+Description
+Eau
+60 %
+Solvant
+Polybutyral de vinyle
+23 %
+Liant
+Phtalate d'éthylhexyle
+8 %
+Plastifiant
+Pigment bleu
+3,5 %
+Agent colorant
+Poly(diméthyl)siloxane modifié
+par du polyoxyde d'éthylène
+5 %
+Agent antiadhérent
+Acide oléique
+0,5 %
+Émulsifiant
+[012] Cette encre a été appliquée sur du papier. Après 30 secondes, une gomme a été 
+utilisée pour enlever l'encre du papier. L'encre a pu être effacée proprement, ne laissant 
+aucun résidu ni aucune tache visible. Une seconde inscription a été tracée sur le papier et 
+a séché pendant une durée plus longue (60 secondes). Cette inscription a également pu 
+être effacée proprement. L'encre présentait une effaçabilité de 95 % après un temps 
+d'attente de 10 secondes et une effaçabilité de 100 % une fois complètement sèche.
+2023/P4/FR/3
+Document D1 – Publicité dans The Local Sun, publiée le 15 août 2019
+[001] Depuis plusieurs années, on cherche à mettre au point un stylo permettant de tracer 
+des inscriptions effaçables semblables à celles d'un crayon. Le choix particulier des 
+pigments colorants est important pour maintenir l'effaçabilité des inscriptions produites par
+la composition d'encre effaçable.
+[002] De manière similaire, de nombreuses compositions d'encre effaçable à base d'eau 
+existent dans l'état de la technique. Habituellement, de telles compositions à base d'eau 
+incluent un copolymère bloc tel que le styrène-butadiène et un pigment. Généralement, de
+telles compositions d'encre effaçable incluent également un ou plusieurs additifs tels que 
+des agents antiadhérents et dispersants, des antioxydants, des tensioactifs, des gélifiants,
+des lubrifiants et diverses cires.
+[003] La composition d'encre effaçable de notre nouveau stylo produit des inscriptions 
+qu'une gomme à crayon classique peut en grande partie effacer et qui sont effaçables 
+pendant au moins un jour après que les inscriptions ont été tracées sur le papier.
+[004] Notre produit présente les particularités suivantes :
+
+Le pigment, quelle que soit sa couleur, est présent dans une quantité de 2 % à 25 % 
+en poids (p/p).
+
+Un système de solvants à base d'ester organique est présent dans une quantité de 
+25 % à 55 % p/p.
+
+Le système de solvants comprend un composé sélectionné dans le groupe consititué 
+par un cycloalcane éventuellement substitué, une cycloalcanone éventuellement 
+substituée, un cycloalcène éventuellement substitué et des mélanges de ces 
+composés ; ainsi qu'un ester organique. Le système de solvants peut comprendre en 
+outre d'autres types de solvants généralement connus.
+
+Un liant polymérique est un polymère de butène liquide combiné à un plastifiant.
+2023/P4/FR/4
+Document D2 – Éditorial publié dans Pen Technology le 1er mars 1995
+[001] Les compositions d'encre effaçable, et plus particulièrement les compositions 
+d'encre effaçable destinées à être utilisées dans des instruments d'écriture, deviennent de 
+plus en plus populaires. Cependant, les compositions d'encre effaçable doivent non 
+seulement être effaçables, mais également offrir de bonnes performances d'écriture 
+lorsqu'elles sont utilisées dans des instruments d'écriture.
+[002] La plus simple des compositions d'encre effaçable destinée à être utilisée dans un 
+instrument d'écriture, comme un stylo, comprend un solvant et un pigment. De préférence,
+ledit pigment a une morphologie en forme de flocons. Le pigment, quelle que soit sa 
+couleur, est dispersé dans le solvant. Il semble que les systèmes les plus efficaces soient 
+ceux pour lesquels les compositions d'encre effaçable incluent environ 5 % à environ 
+20 % p/p du pigment en forme de flocons et environ 74 % à environ 94 % p/p du système 
+de solvants à base d'eau. De telles compositions d'encre effaçable affichent une 
+effaçabilité d'au moins 80 %.
+[003] À titre facultatif, la composition d'encre effaçable peut comprendre un dispersant. 
+Habituellement, les dispersants sont des polymères hydrosolubles qui incluent des 
+chaînes polymériques. Lorsqu'il est présent, le dispersant est habituellement inclus dans 
+une quantité d’environ 1 % à 4 % p/p ; et de manière particulièrement préférée d’environ 
+1,5 % à 2 % p/p. Des exemples de dispersants adaptés englobent, sans s’y limiter, les 
+copolymères non ioniques et les polymères alcoxylés substitués anioniques. L’un des 
+avantages du dispersant est de former un film à la surface de l'écriture, en plus d'avoir un 
+effet antiadhérent.
+2023/P4/FR/5

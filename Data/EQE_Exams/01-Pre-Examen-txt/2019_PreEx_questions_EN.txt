@@ -1,0 +1,300 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2019
+Pre-examination
+This paper comprises:
+*
+Instructions for answering the paper and
+2019/P/EN/1
+marking scheme
+*
+Legal questions
+2019/P/EN/2-11
+(Questions 1-10)
+*
+Claims analysis
+2019/P/EN/12-26
+(Questions 11-20)
+*
+Annexes: calendars for 2018 and 2019
+2019/P/EN/27-28
+ 
+with indication of days on which at least one 
+of the EPO filing offices is not open for the
+receipt of documents
+2019/P/EN
+2-2
+Instructions for answering the paper and marking scheme 
+1.
+The pre-examination is in the form of a multiple choice paper. It comprises 20 
+questions in all, 10 questions relating to legal knowledge (questions 1-10) and 10 
+questions relating to the analysis of claims (questions 11-20). Questions must be 
+answered by filling in the circles on the answer sheet printed on the reverse side of your 
+personal cover sheet. The duration of this examination is four hours.
+(a)
+Each question X has 4 separate statements, namely X.1, X.2, X.3 and X.4. For 
+each statement X.1, X.2, X.3 and X.4 candidates must unambiguously indicate on the 
+answer sheet whether the statement is true or false. For each statement X.1, X.2, X.3 and 
+X.4 only one answer can be given, either true or false. Each statement within a question is 
+to be considered independently of the other statements. 
+(b)
+To indicate that a statement X.1, X.2, X.3 or X.4 is true, the corresponding circle for 
+“true” should be filled using a black medium soft HB pencil. To indicate that a statement 
+X.1, X.2, X.3 or X.4 is false, the corresponding circle for “false” should be filled using a 
+black medium soft HB pencil.
+(c)
+If, in reply to a statement X.1, X.2, X.3 or X.4, no indication is given as to whether 
+the statement is true or false, or if both true and false are indicated, then the answer to this
+statement will be deemed not to be correct. Accordingly, if a candidate fills or partly fills a 
+circle they do not intend to submit as part of their answer, it is essential that any mark in 
+that circle is fully erased. 
+(d)
+There is no possibility for submitting notes or remarks to the examiner. Any such 
+submission will be disregarded. 
+2.
+Only one answer sheet per candidate will be available.
+3.
+Marking
+(a)
+Marks awarded per question
+If within one question X, none or only one of the answers to the statements X.1, X.2, X.3 
+and X.4 is correct, then 0 marks will be awarded for this question X.
+If within one question X, two of the answers to the statements X.1, X.2, X.3 and X.4 are 
+correct, then 1 mark will be awarded for this question X.
+If within one question X, three of the answers to the statements X.1, X.2, X.3 and X.4 are 
+correct, then 3 marks will be awarded for this question X.
+If within one question X, all four of the answers to the statements X.1, X.2, X.3 and X.4 are
+correct, then 5 marks will be awarded for this question X.
+(b)
+ Total number of marks awarded 
+The total number of marks awarded for the pre-examination is the sum of the marks 
+achieved for each question, calculated as stated above.
+2019/P/EN/1
+Legal questions
+Question 1
+You are a professional representative before the EPO. Today, 25 February 2019, you 
+receive an email from your client, an Italian engineer, Pietro. He wants you to file a 
+European patent application EP-P in his name, claiming priority of IT-P, an Italian patent 
+application. IT-P was jointly filed in the name of Pietro and Gianna on 23 February 2018. A 
+copy of IT-P is attached to the email. No other document or information is sent with the 
+email.
+For each of the statements 1.1 – 1.4, indicate on the answer sheet whether the statement 
+is true or false:
+1.1
+On the basis of the information given above, you can file today a European patent 
+application EP-P, which will be accorded 25 February 2019 as the date of filing, in 
+Pietro’s name at the EPO.
+1.2
+On the basis of the information given above, you can be sure that EP-P can validly 
+claim priority from IT-P.
+1.3
+You can validly file EP-P in Italian.
+1.4
+Pietro as a natural person is not entitled to a reduction of the filing fee.
+2019/P/EN/2
+Legal questions
+Question 2 
+You are a professional representative before the EPO and represent the patent proprietor 
+in opposition proceedings. You are summoned to oral proceedings. The language of the 
+proceedings is English. The patent proprietor has its headquarters in the USA and has a 
+research centre in Portugal. You informed the opposition division in due time that you 
+would attend the oral proceedings accompanied by Sarah, the inventor. You have stated 
+that Sarah would make oral submissions at the oral proceedings and would explain 
+feature X of claim 1. On the day of the oral proceedings you arrive with Sarah, but also 
+with Jane and Pedro, whose intention to attend was not previously made known. Jane is a 
+US patent agent. Pedro is employed at the research centre in Portugal. The opponent's 
+representative is also attending the oral proceedings.
+For each of the statements 2.1 – 2.4, indicate on the answer sheet whether the statement 
+is true or false:
+2.1
+You will be allowed to make oral submissions at the oral proceedings.
+2.2
+As a general rule, Jane will be allowed to make oral submissions at the oral 
+proceedings.
+2.3
+As a general rule, Pedro will be allowed to make oral submissions at the oral 
+proceedings.
+2.4
+If the parties and the opposition division agree, Sarah will be allowed to make oral 
+submissions in Portuguese at the oral proceedings.
+2019/P/EN/3
+Legal questions
+Question 3 
+Company Z filed a European patent application EP-Z on 30 January 2018, without 
+claiming any priority. EP-Z has eleven claims. Alina and Elena are designated as the 
+inventors of EP-Z. However, Alina is wrongly designated as an inventor. The EPO drew up 
+a search report and a favourable opinion in August 2018. An international application 
+PCT-Z was filed in December 2018, validly claiming the priority of EP-Z.
+For each of the statements 3.1 – 3.4, indicate on the answer sheet whether the statement 
+is true or false:
+3.1
+The first communication in respect of EP-Z that can be expected from the examining
+division is a communication under Rule 71(3) EPC. 
+3.2
+If you receive a communication under Rule 71(3) EPC for EP-Z in October 2019 and
+if you fulfil all the requirements of Rule 71(5) EPC on 31 January 2020, no fees 
+other than the grant and publishing fee are due. 
+3.3
+It is possible to cancel the designation of Alina as an inventor of EP-Z without Alina's
+consent. 
+3.4
+PCT-Z will be deemed to be withdrawn, once a patent is granted on the basis of 
+EP-Z. 
+2019/P/EN/4
+Legal questions
+Question 4
+Today, 25 February 2019, Didier files a European patent application EP-D with the EPO. 
+Didier is resident in Belgium.
+For each of the statements 4.1 – 4.4, indicate on the answer sheet whether the statement 
+is true or false:
+4.1
+If Didier files the application in Dutch, he must file a translation into one of the EPO's
+official languages within two months of filing the application.
+4.2
+Didier can pay the search fee in May 2019 provided he requests further processing.
+4.3
+If Didier does not submit any claims either on filing or within the time limit set by the 
+EPO in a communication inviting him to correct this deficiency, Didier can validly 
+request further processing and file the claims. 
+4.4
+To validly file a European patent application, Didier can file a reference to a 
+previously filed application, wherein the reference contains (i) the filing date of the 
+previous application, (ii) the file number of the previous application, (iii) the office 
+where the previous application was filed and (iv) an indication that this reference 
+replaces the description and any drawings. 
+2019/P/EN/5
+Legal questions
+Question 5 
+Antonia intends to file the following patent applications: 
+(1) a European patent application EP-A
+(2) an international patent application PCT-AW.
+PCT-AW will be jointly filed in the name of Antonia and Werner.
+Werner lives in Berlin; Antonia lives in Argentina and is of Argentinian nationality. Argentina
+is not a PCT member state. 
+For each of the statements 5.1 – 5.4, indicate on the answer sheet whether the statement 
+is true or false:
+5.1
+Antonia can validly file EP-A with the EPO. 
+5.2
+PCT-AW can be validly filed with the EPO as receiving Office. 
+5.3
+PCT-AW can be validly filed with the International Bureau as receiving office. 
+5.4
+If, two months after validly filing PCT-AW, Antonia moves to Berlin, the EPO will 
+record in relation to PCT-AW the change of residence, upon request. 
+2019/P/EN/6
+Legal questions
+Question 6 
+Company A filed a European patent application EP-AB with the EPO. Company A and 
+Company B agreed to transfer European patent application EP-AB to Company B. All 
+Contracting States are designated.
+For each of the statements 6.1 – 6.4, indicate on the answer sheet whether the statement 
+is true or false:
+6.1
+It is possible to register in the European Patent Register Company A as sole 
+applicant for EP-AB for the EPC contracting state Germany and to register 
+Company B as sole applicant for EP-AB for all the other EPC contracting states.
+6.2
+The only conditions for recording the assignment of EP-AB from Company A to 
+Company B for all contracting states in the European Patent Register are the 
+submission of a written request signed by Company B and the payment of an 
+administrative fee.
+6.3
+The transfer of a European patent application only becomes effective vis-à-vis the 
+EPO when it is published in the European Patent Register.
+6.4
+The transfer of a European patent can be recorded in the European Patent Register 
+during the opposition period. 
+2019/P/EN/7
+Legal questions
+Question 7 
+Company X has filed a European patent application EP-X before the EPO. Company Y 
+has filed a European patent application EP-Y before the EPO. Neither EP-X nor EP-Y 
+claim any priority. Company X developed the invention of European patent application 
+EP-X in Canada, and Company Y developed the same invention in Germany 
+independently of Company X's invention. The filing date of EP-X is before the filing date of 
+EP-Y. Both applications claim the same subject-matter and disclose the same invention. 
+No other patent applications have been filed by Company X or Company Y.
+For each of the statements 7.1 – 7.4, indicate on the answer sheet whether the statement 
+is true or false:
+7.1 
+The right to a European patent on the invention belongs to Company X even if a 
+European patent based on EP-Y was granted before the grant of a European patent
+based on EP-X.
+7.2
+The right to a European patent on the invention belongs to Company X even if EP-X
+was withdrawn without being published.
+7.3
+During proceedings before the EPO, Company X and Company Y will inevitably be 
+asked to prove their entitlement to exercise the right to their respective European 
+patents. 
+7.4
+Even if EP-X was published after the filing date of EP-Y, EP-X could be validly cited 
+as prior art in evaluating the inventive step of EP-Y. 
+2019/P/EN/8
+Legal questions
+Question 8
+An applicant receives two notifications from the EPO on 5 February 2019. Both 
+notifications are dated 31 January 2019. The first notification relates to the international 
+application PCT-S and the second notification relates to European patent application 
+EP-S.
+For each of the statements 8.1 – 8.4, indicate on the answer sheet whether the statement 
+is true or false:
+8.1
+If a period of one month is set for replying to the notification relating to PCT-S, that 
+time limit will expire on 11 March 2019.
+8.2
+If a period of two months is set for replying to the notification relating to PCT-S, that 
+time limit will expire on 9 April 2019.
+8.3
+The notification relating to EP-S will be deemed to have been delivered on Sunday, 
+10 February 2019.
+8.4
+If a period of four months is set for replying to the notification relating to EP-S, that 
+time limit will expire on 10 June 2019.
+2019/P/EN/9
+Legal questions
+Question 9
+For each of the statements 9.1 – 9.4, indicate on the answer sheet whether the statement 
+is true or false:
+In the following case, the EPO will refund at least a part of the respective fee: 
+9.1
+The examination fee for a European patent application is refunded in full if the 
+European patent application is withdrawn before the examining division has 
+assumed responsibility for it.
+9.2
+The opposition fee is refunded in part if the opposition is withdrawn before the notice
+of opposition is communicated to the patent proprietor.
+9.3
+The examination fee for a European patent application is refunded in part if the 
+European patent application is withdrawn today, 25 February 2019, which is two 
+weeks after receipt of the first invitation under Article 94(3) EPC issued by the 
+examining division proper.
+9.4
+The appeal fee is refunded in full if the appeal is withdrawn before the filing of the 
+statement of grounds of appeal and before the period for filing that statement has 
+expired.
+2019/P/EN/10
+Legal questions
+Question 10
+Hans filed an admissible notice of opposition against European patent EP-H. EP-H was 
+validated in all EPC contracting states. EP-H validly claims priority from an earlier patent 
+application. In the notice of opposition, Hans raised an objection of lack of inventive step of
+claim 1 over the combination of two prior art documents, D1 and D2. While the opposition 
+proceedings are pending, Theresa files third-party observations, arguing that claim 1 lacks 
+novelty over D3, a German patent application filed before the priority date of EP-H and 
+published after that date. 
+For each of the statements 10.1 – 10.4, indicate on the answer sheet whether the 
+statement is true or false:
+10.1
+Third parties are entitled to file observations during opposition proceedings.
+10.2
+If oral proceedings are to be held and the opposition division follows Theresa’s 
+objections with regard to novelty, it will also summon Theresa to the oral 
+proceedings.
+10.3
+If the European patent is maintained in amended form, it could contain different 
+claims for different designated states.
+10.4
+If Hans does not file a copy of D1 within the opposition period, the opposition will be 
+inadmissible.
+2019/P/EN/11
