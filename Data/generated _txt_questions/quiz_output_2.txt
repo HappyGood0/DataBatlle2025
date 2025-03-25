@@ -1,0 +1,397 @@
+--- Question 1 (Chunk 051) ---
+1
+
+Question 1: Which of the following statements is true about the skilled person under Article 56 EPC?
+
+    A) The skilled person under Article 56 EPC is the person qualified to solve the established objective technical problem.
+    B) The skilled person under Article 56 EPC does not need prompting to apply their knowledge.
+    C) The skilled person under Article 56 EPC is the person who has the common general knowledge in the art.
+    D) The skilled person under Article 56 EPC is the person who has the teaching of specialist documents.
+
+Correct answer: A
+
+Explanation: According to the text, the skilled person under Article 56 EPC is the person qualified to solve the established objective technical problem.
+
+Source: Article 56 EPC.
+
+--- Question 2 (Chunk 052) ---
+1. Which of the following is a reason for a computer program product to not be excluded from patentability under Article 52(2) and (3) EPC 1973?
+
+    A) The computer program product does not produce a further technical effect.
+    B) The computer program product is not run on a computer.
+    C) The computer program product is not described in mathematical terms.
+    D) The computer program product produces a technical effect that is known in the prior art.
+
+Correct answer: A
+
+Explanation: According to the text, a computer program product is not excluded from patentability under Article 52(2) and (3) EPC 1973 if, when it is run on a computer, it produces a further technical effect that goes beyond the "normal" physical interactions between program (software) and computer (hardware). Therefore, a computer program product that does not produce a further technical effect would be excluded from patentability.
+
+Source: T 1173/97 (OJ 1999, 609)
+
+--- Question 3 (Chunk 053) ---
+1
+
+Question 1: In the context of mixed-type inventions, which of the following is a legitimate way to formulate the technical problem to be solved in order to avoid taking into account a non-technical contribution when assessing inventive step?
+
+    A) Formulating the technical problem to contain pointers to the solution or partially anticipate it.
+    B) Excluding any feature that appears in the claim from the formulation of the problem.
+    C) Including an aim to be achieved in a non-technical field as part of the framework of the technical problem to be solved.
+    D) Formulating the technical problem in such a way that "there is a possibility of an inventive step being involved by purely non-technical features".
+
+Correct answer: C
+
+Explanation: According to the text, the board in T 641/00 allowed an aim to be achieved in a non-technical field to appear in the formulation of the problem as part of the framework of the technical problem that is to be solved, in order to avoid taking into account a non-technical contribution when assessing inventive step.
+
+Source: I.
+
+--- Question 4 (Chunk 054) ---
+ Question 1 : Which of the following is the correct interpretation of the term "technical" with respect to computer programs according to the jurisprudence of the boards of appeal?
+
+    A) Any technical considerations are sufficient to confer technical character on claimed subject matter.
+    B) Technical considerations aiming to solve problems "merely" relating to programming such as maintainability, re-usability and understandability of program code can confer technical character on claimed subject matter.
+    C) Technical considerations aiming to solve problems "merely" relating to the presentation of information can confer technical character on claimed subject matter.
+    D) Technical considerations aiming to solve problems "merely" relating to the physical interactions between program (software) and computer (hardware) can confer technical character on claimed subject matter.
+
+Correct answer: D
+
+Explanation: According to the text, the jurisprudence of the boards of appeal has reframed the interpretation of technicality with respect to computer programs to a narrower interpretation of the term "technical". The board saw no support for the position that any technical considerations are sufficient to confer technical character on claimed subject matter. Therefore, option A is incorrect
+
+--- Question 5 (Chunk 055) ---
+1
+
+Question 1: Which of the following is a non-technical aim according to the board in T 1834/10?
+
+    A) The desire to present a selection of images
+    B) The desire to limit the selection to a predetermined number of images
+    C) The desire to present the selected images in some preferred layout
+    D) The desire to present the meaning of the display data
+
+Correct answer: C
+
+Explanation: According to the text, the board in T 1834/10 considers the desire to present a selection of images, to limit the selection to a predetermined number of images, and to present the selected images in some preferred layout as non-technical aims. The meaning of the display data does not convey any technical character to the presentation.
+
+Source: T 1834/10.
+
+--- Question 6 (Chunk 056) ---
+ Question 1 : Which of the following is a reason for considering a mathematical algorithm to contribute to the technical character of an invention?
+
+    A) The algorithm is not a technical process.
+    B) The algorithm does not produce a direct technical result.
+    C) The algorithm is carried out on a physical entity.
+    D) The algorithm serves a technical purpose.
+
+Correct answer: D
+
+Explanation: According to the text, mathematical algorithms may contribute to the technical character of an invention only insofar as they serve a technical purpose. Therefore, option D is a reason for considering a mathematical algorithm to contribute to the technical character of an invention.
+
+Source: Article 52(2) and (3) EPC, T 1784/06.
+
+--- Question 7 (Chunk 057) ---
+ Question 1 : Which of the following is not a field of technology where a technical contribution was found in the case law?
+
+    A) Heartbeat monitoring method
+    B) Image processing
+    C) Live web applications ranking
+    D) Vehicle navigation system
+
+Correct answer: D
+
+Explanation: According to the text, in T 598/07, T 1286/09, and T 1510/10, a technical contribution was found in the fields of heartbeat monitoring method, image processing, and live web applications ranking. However, in T 505/18, the board recognized improved safety in the technical context of the invention, which was real-time route guidance of a driver of a vehicle, as being a technical effect. Therefore, option D is not a field of technology where a technical contribution was found in the case law.
+
+Source: The case law mentioned in the text.
+
+--- Question 8 (Chunk 058) ---
+ Question 1 : Which of the following is the correct statement about the game apparatus in the text?
+
+    A) The game rules are not meaningful only in a gaming context.
+    B) The game rules do not govern the conduct and actions of the players during game play.
+    C) The game rules do not have any further technical effects in the particular manner of technical implementation.
+    D) The game rules are not the direct technical consequence of the particular technical way selected data is used to determine a display state.
+
+Correct answer: C
+
+Explanation: According to the text, the board was unable to identify any further technical effects in the particular manner of technical implementation that might have rendered it non-obvious to the skilled person. This means that the game rules do not have any further technical effects in the particular manner of technical implementation.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 9 (Chunk 059) ---
+ Question 1 : Which of the following is a reason for excluding a feature from being considered in the assessment of inventive step of a combination of features?
+
+    A) The feature contributes causally to the solution of the problem.
+    B) The feature is a technical non-functional modification.
+    C) The feature is not described in the description.
+    D) The feature does not provide a surprising advantage.
+
+Correct answer: D
+
+Explanation: According to the text, a feature is only to be considered in the assessment of inventive step if it contributes causally to the solution of the problem. Therefore, a feature that does not provide a surprising advantage is not a reason for excluding it from being considered. However, if a feature does not contribute causally to the solution of the problem, it is not relevant for the assessment of inventive step.
+
+Source: I.D.9. Assessment of inventive step, T 37/82, T 65/87, T 144/90, T 206/91, T 226/94, T 912/94
+
+--- Question 10 (Chunk 060) ---
+1
+
+Question 1: Which of the following statements is correct regarding the burden of proof when the credibility that a technical effect is achieved by substantially all claimed compounds is at issue?
+
+    A) The opponent has the burden of proving that the effect is not achieved.
+    B) The patentee has the burden of proving that the effect is achieved.
+    C) The burden of proof is shared between the patentee and the opponent.
+    D) The burden of proof is not relevant in this case.
+
+Correct answer: B
+
+Explanation: According to the text, when the credibility that a technical effect is achieved by substantially all claimed compounds is at issue and in a situation where it is prima facie unlikely that this is credible, it is not the opponent, but the patentee who has the burden of proving that the effect is achieved.
+
+Source: T 415/11.
+
+--- Question 11 (Chunk 061) ---
+1. In which of the following cases would the use of a known means to achieve a known result on the basis of the expected inherent effect not normally involve an inventive step?
+
+    A) The known means is used to obtain a result not previously known or obvious.
+    B) The known means is used to achieve a known result on the basis of the expected inherent effect.
+    C) The known means is used to obtain a new and non-obvious technical result.
+    D) The known means is used in a combination invention where the way the features are interrelated is not suggested by the cited prior art.
+
+Correct answer: B
+
+Explanation: According to the text, the use of a known measure to achieve a known result on the basis of the expected inherent effect is not normally inventive.
+
+Source: T 301/90.
+
+--- Question 12 (Chunk 062) ---
+ Question 1 : Which of the following is not a reason for a step to be considered obvious in the context of inventive step?
+
+    A) The step is a natural choice of a material generally available on the market and suitable for the purpose.
+    B) The step is a normal aim of the skilled person.
+    C) The step is a result of automation.
+    D) The step is a result of routine experimentation.
+
+Correct answer: D
+
+Explanation: According to the text, a step that is a result of routine experimentation is not considered obvious in the context of inventive step.
+
+Source: Inventive step 288 9.21.5, T 513/90, T 636/09, T 775/90, T 1175/02, T 438/06, T 734/13, T 711/14, T 2315/16.
+
+--- Question 13 (Chunk 063) ---
+ Question 1 : Which of the following is a secondary indication of inventive step?
+
+    A) The satisfaction of a long-felt need
+    B) The overcoming of a prejudice in the professional world
+    C) Economic success
+    D) The lack of a technical prejudice
+
+Correct answer: A, B, C
+
+Explanation: According to the text, secondary indicia such as the satisfaction of a long-felt need, the overcoming of a prejudice in the professional world, or economic success, are auxiliary considerations in assessing inventive step. Therefore, options A, B, and C are secondary indications of inventive step.
+
+Source: The text provided.
+
+--- Question 14 (Chunk 064) ---
+ Question 1 : Which of the following is not a reason for considering commercial success as an indicator of inventive step?
+
+    A) Commercial success might have been due to factors other than its properties.
+    B) Commercial success alone can be regarded as forming the basis for an indication of inventive step.
+    C) Commercial success is not a factor that can be considered in the assessment of inventive step.
+    D) Commercial success must be demonstrated and it must be shown that such success resulted from the claimed invention and not from one or more other causes.
+
+Correct answer: B
+
+Explanation: According to the text, commercial success alone cannot be regarded as forming the basis for an indication of inventive step.
+
+Source: Article 56 EPC 1973.
+
+--- Question 15 (Chunk 065) ---
+1
+
+Question 1: Which of the following is the correct interpretation of the term "industrial" in the context of Article 57 EPC 1973?
+
+    A) The term "industrial" in the context of Article 57 EPC 1973 refers to technical processes that occur in "industry" in the narrower sense of what in German would be called "Industrie".
+    B) The term "industrial" in the context of Article 57 EPC 1973 refers to commercial applications.
+    C) The term "industrial" in the context of Article 57 EPC 1973 refers to technical processes that occur in "industry" in the broader sense.
+    D) The term "industrial" in the context of Article 57 EPC 1973 refers to technical processes that occur in "industry" in the sense of "commercial" applications.
+
+Correct answer: A
+
+Explanation: According to the text, in the context of Article 57 EPC 1973, the meaning of "industrial" is evidently intended to cover
+
+--- Question 16 (Chunk 066) ---
+1
+
+Question 1:
+Which of the following is the basis for all the therapeutic indications of the claimed subject -matter in T 1452/06?
+
+    A) The predicted role of the purported serine protease activity of the polypeptide of sequence SEQ ID NO: 24 in the degradation of the extracellular matrix.
+    B) The experimental evidence present in the application in support of a serine protease activity for a polypeptide comprising the amino acid sequence of SEQ ID NO: 24.
+    C) The presence of an example disclosing this serine protease activity in the application.
+    D) The evidence showing that the screening method was used to prove the serine protease activity of the polypeptide of sequence SEQ ID NO: 24.
+
+Correct answer: A
+
+Explanation: According to the text, the basis for all the therapeutic indications of the claimed subject -matter in T 1452/06 is the predicted role of the purported serine protease activity of the polypeptide
+
+--- Question 17 (Chunk 067) ---
+1. Which of the following is not a reason for rejecting a two-part claim under the EPC 1973?
+
+    A) The claim gives an incorrect picture of the state of the art.
+    B) The claim gives the impression that there is no closer state of the art.
+    C) The claim is not justified because details in certain process steps are difficult to pick out in a simple and unambiguous form.
+    D) The claim is not justified because it does not comply with R. 29(1) EPC 1973.
+
+Correct answer: D
+
+Explanation: According to the text, R. 29(1) EPC 1973 is an implementing regulation which does not constitute a ground for opposition. Therefore, a claim not complying with R. 29(1) EPC 1973 is not a reason for rejecting a two-part claim under the EPC 1973.
+
+Source: Article 29(1) EPC 1973.
+
+--- Question 18 (Chunk 068) ---
+ Question 1 : Which of the following is not a reason for a claim to lack clarity according to the text?
+
+    A) The exact distinctions which delimit the scope of protection cannot be learnt from them.
+    B) The claims per se are contradictory.
+    C) The claims are not clear in themselves when read by the person skilled in the art, without any reference to the content of the description.
+    D) The claims are not free of contradiction.
+
+Correct answer: D
+
+Explanation: According to the text, a claim lacks clarity if the exact distinctions which delimit the scope of protection cannot be learnt from them, if the claims per se are contradictory, if they are not clear in themselves when read by the person skilled in the art, without any reference to the content of the description. However, the text does not mention that the claims must be free of contradiction as a reason for a claim to lack clarity.
+
+Source: Article 84 EPC 1973.
+
+--- Question 19 (Chunk 069) ---
+ Question 1 : What is the essential feature of a diagnostic method within the meaning of Art. 52(4) EPC 1973?
+
+    A) The diagnosis as the deductive medical or veterinary decision phase
+    B) The features relating to the preceding steps which are constitutive for making the diagnosis
+    C) The features relating to the diagnosis for curative purposes
+    D) The features relating to the diagnosis for diagnostic purposes
+
+    -Correct answer: A
+
+    -Explanation: According to G 1/04, the essential features of a diagnostic method within the meaning of Art. 52(4) EPC 1973 include the diagnosis as the deductive medical or veterinary decision phase.
+
+    -Source: G 1/04 (OJ 2006, 334)
+
+--- Question 20 (Chunk 070) ---
+ Question 1 : What is the requirement for the method for measuring a parameter to appear in the claim according to the case law summarised in T 849/11?
+
+    A) The method must be clearly indicated in the claim.
+    B) The method must be known to the skilled person.
+    C) The method must be the same for all methodologies known in the relevant technical field.
+    D) The method must be described in the description according to R. 29(6) EPC 1973.
+
+Correct answer: A
+
+Explanation: According to the text, the requirement for the method for measuring a parameter to appear in the claim is that it must be clearly indicated in the claim itself (see T 1156/01, T 412/02, T 908/04, T 555/05, T 1497/08).
+
+Source: Article 84 EPC.
+
+--- Question 21 (Chunk 071) ---
+ Question 1 : Which of the following is a reason for a claim not being supported by the description according to the EPC?
+
+    A) The subject matter of the claim is not taken from the description.
+    B) The subject matter of the claim is not described as an essential feature of the invention in the description.
+    C) The subject matter of the claim is described as an essential feature of the invention in the description but not in the claims.
+    D) The subject matter of the claim is described as an essential feature of the invention in both the description and the claims.
+
+Correct answer: B
+
+Explanation: According to the text, a claim which does not include a feature described in the application (on the proper interpretation of the description) as an essential feature of the invention, and which is therefore inconsistent with the description, is not supported by the description for the purpose of Art. 84 EPC 1973. Therefore, option B is a reason for a claim not being supported by the description according to the EPC.
+
+Source: Article 84 EPC 1973.
+
+--- Question 22 (Chunk 072) ---
+ Question 1 : What is the correct interpretation of a claim according to the text?
+
+    A) The claim can extend to gene constructs which compose any DNA in addition to the GBSS gene fragments.
+    B) The claim is interpreted based on the purpose of introducing the GBSS DNA fragment into the potato cells and integrating it into the genome.
+    C) The claim can be interpreted in a way that contradicts its actual content.
+    D) Two methods having no technical bearing on each other can form a single multi-step process.
+
+Correct answer: B
+
+Explanation: According to the text, the board in the case T 409/97 held that an erroneous statement in the introduction to the description was of no assistance in interpreting the claim and establishing the subject -matter for which protection was being sought, where this statement contradicted its actual content. This means that the claim should be interpreted based on its actual content, not on any erroneous statements in the introduction to the description. In the case T 409/97, the claim was interpreted based on the purpose of introducing the GBSS DNA fragment into the potato cells and
+
+--- Question 23 (Chunk 073) ---
+ Question 1 : What is the effect of a change in the description or drawings of a patent on the understanding of a claimed feature?
+
+    A) It may have no influence on the understanding of a claimed feature
+    B) It may lead to a narrowing of the extent of the protection conferred
+    C) It may lead to a broadening of the extent of the protection conferred
+    D) It may have no influence on the understanding of the patent as a whole
+
+    -Correct answer: C
+
+    -Explanation: According to the text, any information in the description and/or drawings of a patent directly related to a feature of a claim and potentially restricting its interpretation could not be removed from the patent without infringing Art. 123(3) EPC. This means that any change in the description or drawings may have an influence on the understanding of a claimed feature, and may thus lead to a broadening of the extent of the protection conferred.
+
+    -Source: Article 123(3) EPC, T 1023/02.
+
+--- Question 24 (Chunk 074) ---
+ Question 1 : Which of the following is a requirement for a product-by-process claim to be valid under the EPC 1973?
+
+    A) The claim must define the product structurally.
+    B) The claim must mention all the specific conditions needed to obtain the products whose novelty can be demonstrated.
+    C) The claim must include all the process parameters required for unambiguously defining the claimed substances as inevitable process products.
+    D) The claim must indicate the method by which the reaction mixture is processed to obtain the claimed substances.
+
+Correct answer: C
+
+Explanation: According to the text, a product-by-process claim must include all the process parameters required for unambiguously defining the claimed substances as inevitable process products. This means that option C is a requirement for a product-by-process claim to be valid under the EPC 1973.
+
+Source: The text provided.
+
+--- Question 25 (Chunk 075) ---
+ Question 1 : What is the requirement for a European patent application according to Article 82 EPC?
+
+    A) The application must relate to one invention only.
+    B) The application must relate to a group of inventions that are not linked.
+    C) The application must relate to a group of inventions that are not so linked as to form a single general inventive concept.
+    D) The application must relate to a group of inventions that are not so linked as to form a single general inventive concept and are not oriented towards the end products.
+
+Correct answer: C
+
+Explanation: According to the text, Article 82 EPC requires that the European patent application must relate to one invention only or to a group of inventions so linked as to form a single general inventive concept. Therefore, option C is the correct answer.
+
+Source: Article 82 EPC.
+
+--- Question 26 (Chunk 076) ---
+ Question 1 : Which of the following is a reason for considering two sets of intermediates as being technically sufficiently closely related by their contribution to an essential structural element of the end products?
+
+    A) The orientation of the intermediates towards the end products permits the individual technical problems addressed by the intermediates to be combined into a unitary overall problem to the solution of which both sets of purpose-made intermediates contribute.
+    B) The former are not even destroyed when the admixture is prepared and fully retain their properties and functions in the product, unlike typical intermediates, which lose their properties and functions when the admixture is prepared.
+    C) The intact components and the corresponding compositions in a mixture are technically interconnected by incorporation.
+    D) The intermediates are structurally related to each other.
+
+Correct answer: C
+
+Explanation: According to the text, the intact components and the corresponding compositions in a mixture are technically interconnected by incorporation. Therefore, option C is a reason for considering two sets of intermediates as being technically sufficiently closely related by their contribution to an essential structural element of the end products.
+
+Source: Article 
+
+--- Question 27 (Chunk 077) ---
+4.2. Examination as to novelty and inventive step
+
+    A) The activities of the authorities responsible for carrying out a substantive examination of an international application in respect of unity of invention
+    B) The activities of the authorities responsible for carrying out a substantive examination of an international application in respect of clarity of claims
+    C) The activities of the authorities responsible for carrying out a substantive examination of an international application in respect of formal requirements
+    D) The activities of the authorities responsible for carrying out a substantive examination of an international application in respect of the requirement of unity of invention
+
+Correct answer: D
+
+Explanation: According to the text, the Enlarged Board of Appeal ruled on the question of the ISA's power to carry out a substantive examination of an international application in respect of novelty and inventive step when considering whether it complies with the requirement of unity of invention. Therefore, the activities of the authorities responsible for carrying out a substantive examination of an international application in respect of the requirement of unity of invention is the correct answer.
+
+Source: Article 153(1) EPC 1973 and G 1/89 (
+
+--- Question 28 (Chunk 078) ---
+ Question 1 : What is the common technical feature shared by all the processes claimed in the application described in T 957/96?
+
+    A) The use of a specific catalyst
+    B) The use of a specific solvent
+    C) The use of a specific temperature
+    D) The use of a substantially pure regioisomer
+
+Correct answer: D
+
+Explanation: According to the text, the common technical feature shared by all the processes claimed in the application described in T 957/96 is the use of the substantially pure regioisomer, which is essential for solving the technical problem addressed by the application.
+
+Source : T 957/96.
+

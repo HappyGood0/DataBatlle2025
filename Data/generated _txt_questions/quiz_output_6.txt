@@ -1,0 +1,446 @@
+--- Question 1 (Chunk 198) ---
+ Question 1 : Which of the following is the applicable law for the request to exclude documents from file inspection?
+
+    A) EU General Data Protection Regulation (GDPR)
+    B) Guidelines for the Protection of Personal Data in the EPO of 1 April 2014
+    C) Art. 1(2)(a) of the decision of the President of the EPO dated 12 July 2007 concerning documents excluded from file inspection
+    D) Art. 128(4)  and R. 144(d)  EPC
+
+Correct answer: D
+
+Explanation: According to the text, the applicable law for the request to exclude documents from file inspection is Art. 128(4)  and R. 144(d)  EPC.
+
+Source: Article 128(4)  and R. 144(d)  EPC.
+
+--- Question 2 (Chunk 199) ---
+1. Which of the following is true about the stay of proceedings under Rule 14(1) EPC?
+
+    A) The immediate effect of the stay cannot be set aside with retroactive effect or reversed by a decision in appeal proceedings.
+    B) The communication ordering suspension is a preliminary procedural measure " sui generis " which is justified as a preventive measure to preserve the third party's possible rights to the patent in dispute and takes immediate effect.
+    C) The respondent's withdrawal of its request for suspension of the proceedings has no impact on the procedural situation in the appeal proceedings.
+    D) The department of first instance can continue grant proceedings if it has wrongly stayed them, with retroactive effect.
+
+Correct answer: A
+
+Explanation: According to the text, the immediate effect of the stay cannot be set aside with retroactive effect or reversed by a decision in appeal proceedings.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 3 (Chunk 200) ---
+1. Who can present observations concerning the patentability of the invention to which the application or patent relates?
+
+    A) Any party to the proceedings
+    B) The patent proprietor
+    C) The opponent
+    D) Any third party
+
+Correct answer: D
+
+Explanation: According to the text, any third party can present observations concerning the patentability of the invention to which the application or patent relates.
+
+Source: Article 115 EPC, Rule 114(1) EPC.
+
+--- Question 4 (Chunk 201) ---
+1
+
+Question 1: Who has no right to have its request for an order that examination proceedings in respect of a European patent be reopened for the purpose of removing allegedly unclear claims heard at oral proceedings before a board of appeal?
+
+    A) The patentee
+    B) The opponent
+    C) The third party
+    D) The board of appeal
+
+Correct answer: C
+
+Explanation: According to the text, a third party within the meaning of Art. 115 EPC who has filed an appeal against a decision to grant a European patent has no right to have its request for an order that examination proceedings in respect of the European patent be reopened for the purpose of removing allegedly unclear claims heard at oral proceedings before a board of appeal.
+
+Source: G 2/19, the Enlarged Board held that a third party within the meaning of Art. 115 EPC.
+
+--- Question 5 (Chunk 202) ---
+1. Question: Which of the following is a requirement for a transferee of a patent to be entitled to appeal in opposition proceedings?
+
+    A) The transfer request and the transfer fee pursuant to R. 22 EPC must be filed after expiry of the period for appeal under Art. 108 EPC.
+    B) The necessary documents establishing the transfer must be filed after expiry of the period for appeal under Art. 108 EPC.
+    C) The transfer request and the transfer fee pursuant to R. 22 EPC must be filed before expiry of the period for appeal under Art. 108 EPC.
+    D) The transfer request and the transfer fee pursuant to R. 22 EPC must be filed after the new patent proprietor is entered in the Register of Patents.
+
+Correct answer: C
+
+Explanation: According to the text, for a transferee of a patent to be entitled to appeal, the necessary documents establishing the transfer, the transfer request and the transfer fee pursuant to R. 22 EPC must be filed before expiry of the period
+
+--- Question 6 (Chunk 203) ---
+ Question 1 : What is the general principle regarding the transfer of opponent status in opposition proceedings before the EPO?
+
+    A) The opponent status can be freely transferred.
+    B) The opponent status can only be transferred together with the assignment of part of the commercial activity of an opponent with sole legal authority.
+    C) The opponent status can be transferred to any third party as part of the opponent's business assets.
+    D) The opponent status can only be transferred in the case of universal succession.
+
+Correct answer: B
+
+Explanation: According to the text, the general principle is that the opponent status can only be transferred together with the assignment of part of the commercial activity of an opponent with sole legal authority. This is based on the case law subsequent to G 4/88.
+
+Source: III.O.2. Party status as opponent, 993, 2.4. No transfer: sale of opponent's subsidiary company.
+
+--- Question 7 (Chunk 204) ---
+1. Question : Who can be a party to opposition proceedings before the EPO?
+
+    A) A person who has been declared by the department of first instance to be entitled to take part in the proceedings
+    B) A person who has been declared by the department of first instance to be entitled to take part in the proceedings and whose transfer of opponent status during the opposition proceedings is valid
+    C) A person who has been declared by the department of first instance to be entitled to take part in the proceedings and whose transfer of opponent status during the opposition proceedings is invalid
+    D) A person who has been declared by the department of first instance to be entitled to take part in the proceedings and who has produced satisfactory evidence that he, she or they have done so under the relevant national law
+
+Correct answer: A
+
+Explanation: According to the text, a "party" simply means someone who takes part in the proceedings before the EPO. If it is decided by the department of first instance that he is entitled to take part in the proceedings, he remains a party even though this decision may be later reversed on appeal.
+
+Source: Article 105 EPC.
+
+--- Question 8 (Chunk 205) ---
+1. Question: In which of the following scenarios would an intervention be considered admissible according to T 898/07?
+
+    A) The patentee had not requested the alleged infringer to cease the infringement.
+    B) The alleged infringer had not been expressly asked to cease the infringement.
+    C) The alleged infringer had not been required to put an end to the infringement.
+    D) The alleged infringer had not received warnings or threats of legal action.
+
+Correct answer: D
+
+Explanation: According to T 898/07, an intervention would be considered admissible if the alleged infringer had not received warnings or threats of legal action. This is because the board found the intervention admissible when it was apparent from the documents submitted by the opponent that the respondent had repeatedly informed it that it considered its actions to infringe the patent and, with reference to infringement proceedings already pending against third parties, invited it to enter licensing negotiations. This was considered a request to cease patent infringement by concluding a licensing agreement which would render the allegedly unlaw
+
+--- Question 9 (Chunk 206) ---
+1. What is the correct statement regarding the legal status of documents filed with an intervention during appeal proceedings?
+
+    A) The board has discretion to admit these documents into the proceedings.
+    B) The board does not have discretion to admit these documents into the proceedings.
+    C) The legal status of these documents changes after the withdrawal of the intervention.
+    D) The legal status of these documents does not change after the withdrawal of the intervention.
+
+Correct answer: B
+
+Explanation: According to the text, documents filed with an intervention during appeal proceedings are part of the appeal proceedings, without the Board needing to exercise a discretion or decide on admitting these documents into the proceedings. Therefore, option A is incorrect. The legal status of these documents does not change after the withdrawal of the intervention, so option C is incorrect.
+
+Source: III.P.3. Legal status of documents filed with intervention during appeal proceedings, T 1665/16.
+
+--- Question 10 (Chunk 207) ---
+1. What is the effect of a withdrawal of an opposition on the party status of the opponent?
+
+    A) The opponent remains a party to the proceedings with respect to the substantive issues.
+    B) The opponent ceases to be a party to the proceedings.
+    C) The opponent remains a party to the proceedings with respect to the apportionment of costs.
+    D) The opponent ceases to be a party to the proceedings with respect to the apportionment of costs and the substantive issues.
+
+Correct answer: D
+
+Explanation: According to the text, an opponent who withdraws his opposition ceases to be a party to the proceedings with respect to the substantive issues, but remains a party as regards apportionment of costs ( T 789/89 , see also the more recent decisions T 1397/10 , T 2350/10  and T 2061/11 ).
+
+Source: Article 84(2) EPC.
+
+--- Question 11 (Chunk 208) ---
+1. Question: Which of the following is a reason for ordering a different apportionment of costs in the EPC proceedings?
+
+    A) The material in question has no bearing on the merits of the decision.
+    B) The party introducing the material has cogent reasons for the delay.
+    C) The party introducing the material has no cogent reasons for the delay.
+    D) The party introducing the material has no bearing on the costs incurred by the other party.
+
+Correct answer: C
+
+Explanation: According to the text, if a party introduces important facts or evidence at a late stage of the proceedings, without cogent reasons for the delay, this may be taken into account in the apportionment of costs. Therefore, option C is a reason for ordering a different apportionment of costs in the EPC proceedings.
+
+Source: Article 1018, 1018.2.1, EPC.
+
+--- Question 12 (Chunk 209) ---
+1
+
+Question 1: In T 101/17, the board refused the respondent's request for a different apportionment of costs because:
+
+    A) the case law of the boards of appeal did not support a different apportionment of costs
+    B) the respondent did not establish a causal link between the respondent's expenses and the appellant's behaviour
+    C) the respondent did not consider what objections were to be made, including, where appropriate, possible objections as regards admittance of such requests into the proceedings
+    D) the respondent did not prepare for the scenario that the auxiliary requests would be admitted and to subsequently address them content-wise
+
+Correct answer: A
+
+Explanation: In T 101/17, the board refused the respondent's request for a different apportionment of costs because the case law of the boards of appeal did not support a different apportionment of costs.
+
+Source: T 101/17.
+
+--- Question 13 (Chunk 210) ---
+1. Question: In T 301/12, what was the appellant's submission regarding oral proceedings?
+    -A) The appellant explicitly stated that it would not attend oral proceedings.
+    -B) The appellant explicitly stated that it would attend oral proceedings.
+    -C) The appellant did not make any statement regarding oral proceedings.
+    -D) The appellant's statement regarding oral proceedings was unclear.
+
+Correct answer: D
+
+Explanation: According to the text, in T 301/12, the appellant announced in writing that it would "probably not be represented at the oral proceedings", but the statement was unclear.
+
+Source: T 301/12.
+
+--- Question 14 (Chunk 211) ---
+1. If a party withdraws its request for oral proceedings less than 8 days before the scheduled date, is it obliged to bear a part of the costs of the other party?
+
+    A) Yes
+    B) No
+    C) It depends on the clarity of the declaration abandoning the patent
+    D) It depends on whether the oral proceedings would probably be superfluous
+
+    -Correct answer: B
+
+    -Explanation: According to the text, in T 721/96, the respondent informed the board and appellant, four working days before the date set for oral proceedings, that it was abandoning the patent and no longer requesting oral proceedings. However, the declaration abandoning the patent was not completely unambiguous. The board refused the appellant's request that costs be awarded against the respondent; it had been clear that the oral proceedings would probably be superfluous and the appellant could have contacted the DG 3 Registry to find out about the course the proceedings would be taking. This means that the respondent was not obliged to bear a part of the costs of the other party.
+
+    -Source : Article 
+
+--- Question 15 (Chunk 212) ---
+1. Question : In the context of the EPC, which of the following is true about the withdrawal of an appeal at short notice?
+
+    A) The appellant's right to withdraw the appeal may be restricted due to the threat of cost apportionment.
+    B) The benefits that respondents derive from the withdrawal of the appeal will not offset the costs that they incur, even if they are avoidable.
+    C) The respondents' representative must be notified in time that the oral proceedings will not be taking place.
+    D) Internal delays in forwarding the communication are the fault of the appellants.
+
+Correct answer: B
+
+Explanation: According to the text, the benefits that respondents derive from the withdrawal of the appeal will offset the costs that they incur, even if they are avoidable. Therefore, option B is true about the withdrawal of an appeal at short notice in the context of the EPC.
+
+Source: Article 1038, 2.4, EPC.
+
+--- Question 16 (Chunk 213) ---
+1
+
+Question 1: Which of the following is the correct statement about filing a request for apportionment of costs before the boards of appeal?
+
+    A) The request for apportionment must be made before any decision is announced in oral proceedings.
+    B) The request for apportionment can be made after termination of the proceedings if the request is based on the timing of the withdrawal of the appeal or other related circumstances.
+    C) The request for apportionment can be made after termination of the proceedings if the request is based on the decision of the opposition division.
+    D) The request for apportionment can be made after termination of the proceedings if the request is based on the decision fixing the costs.
+
+Correct answer: A
+
+Explanation: According to the text, the practice before the boards of appeal is that all requests by parties, including any requests as to costs, should be made before any decision is announced in oral proceedings, as the decision on apportionment is part of the final decision. Therefore, option A is the correct statement about filing a request for apportionment of costs before the boards of appeal.
+
+Source: III
+
+--- Question 17 (Chunk 214) ---
+1. Who is responsible for proving that an electronic document reached its destination, or the date on which it reached it, in case of dispute?
+
+    A) The European Patent Office
+    B) The recipient of the electronic document
+    C) The sender of the electronic document
+    D) The intermediary service provider
+
+    -Correct answer: A
+
+    -Explanation: According to the text, in case of dispute, the Office must prove that the electronic document reached its destination, or the date on which it reached it.
+
+    -Source: R. 127(2) EPC.
+
+--- Question 18 (Chunk 215) ---
+1. When a national court has adjudged that a person other than the applicant is entitled to the grant of a European patent, and that person files a new European patent application in respect of the same invention under Art. 61(1)(b) EPC 1973, is it a pre-condition for the application to be accepted that the earlier original usurping application is still pending before the EPO at the time the new application is filed?
+
+    -A) Yes
+    -B) No
+    -C) It depends on the specific requirements of Art. 61(1) EPC 1973
+    -D) It depends on the decision of the EPO under Art. 61 EPC
+
+    -Correct answer: B
+
+    -Explanation: According to the text, the Enlarged Board of Appeal held that it is not a pre-condition for the application to be accepted that the earlier original usurping application is still pending before the EPO at the time the new application is filed.
+
+    -Source: G 3/92 (OJ 1994, 607)
+
+--- Question 19 (Chunk 216) ---
+1. Question: Which of the following is not a situation where the period for payment of a fee is considered to have been observed under Article 7(3) RFees?
+
+    A) The payer took certain steps to initiate the payment within the period.
+    B) The payment is made through a banking establishment which is not in an EPC contracting state.
+    C) The payment is made after the expiry of the period and the receipt of the funds is no longer attributable to the original transfer order.
+    D) The payment is made through a banking establishment which has a subsidiary in a contracting state.
+
+Correct answer: B
+
+Explanation: According to the text, Art. 7(3) RFees does not apply to payments made through a banking establishment which is not in an EPC contracting state.
+
+Source: Article 7(3) RFees.
+
+--- Question 20 (Chunk 217) ---
+1
+
+Question 1: Which of the following is true regarding the representation of a person in proceedings established by the EPC?
+
+    A) A person not having either a contracting state residence or their principal place of business within the territory of one of the contracting states must be represented by a professional representative and act through him in all proceedings established by the Convention.
+    B) A person having a principal place of business within an EPC contracting state is obliged to be represented in proceedings established by the Convention.
+    C) A person having a principal place of business within an EPC contracting state is not obliged to be represented in proceedings established by the Convention.
+    D) A person not having either a contracting state residence or their principal place of business within the territory of one of the contracting states is not obliged to be represented in proceedings established by the Convention.
+
+Correct answer: A
+
+Explanation: According to Art. 133(2) EPC, natural or legal persons not having either a contracting state residence or their principal place of business within the territory of one of the contracting states must be represented by a professional representative and act through him in all proceedings established
+
+--- Question 21 (Chunk 218) ---
+1
+
+Question 1: Which of the following is a requirement for a common representative to withdraw from the proceedings?
+
+    A) The common representative must notify the EPO of the withdrawal.
+    B) The common representative must be a resident of a contracting state.
+    C) The common representative must be a professional representative.
+    D) The common representative must be a joint patent proprietor.
+
+Correct answer: A
+
+Explanation: According to the text, if either a common opponent or appellant (including the common representative) intends to withdraw from the proceedings, the EPO shall be notified accordingly by the common representative or by a new common representative determined under R. 100(1) EPC 1973 in order for the withdrawal to take effect. Therefore, the common representative must notify the EPO of the withdrawal.
+
+Source: Representation section of the law text.
+
+--- Question 22 (Chunk 219) ---
+ Question 1 : Who is entitled to give a sub-authorisation to a representative?
+
+    A) A professional representative
+    B) A party to the proceedings
+    C) An accompanying person
+    D) A sub-authorised representative
+
+Correct answer: B
+
+Explanation: According to the text, a sub-authorisation can be given by a party to the proceedings. This means that only a party to the proceedings is entitled to give a sub-authorisation to a representative.
+
+Source: III.V.4. Authorisations for appointment of a representative, paragraph 1073.
+
+--- Question 23 (Chunk 220) ---
+ Question 1 : Who can make oral submissions during oral proceedings according to the conditions set out in the decision G 4/95?
+
+    A) A former European patent attorney who is not authorized to act as a professional representative.
+    B) A legal practitioner who has not been authorized to represent the patent proprietor.
+    C) A technical expert who has not been authorized to speak during the oral proceedings.
+    D) A former European patent attorney who is authorized to act as a professional representative.
+
+Correct answer: A
+
+Explanation: According to the text, the board in T 754/08 decided that the conditions set out in the decision G 4/95 were applicable to any accompanying person. Therefore, a former European patent attorney who is not authorized to act as a professional representative can make oral submissions during oral proceedings.
+
+Source: T 754/08.
+
+--- Question 24 (Chunk 221) ---
+1. Question i : A former member of the boards of appeal is allowed to make oral submissions during oral proceedings before the board of appeal only after how many years have elapsed following termination of such former member's appointment to the boards of appeal?
+
+    -A) 1 year
+    -B) 2 years
+    -C) 3 years
+    -D) 4 years
+
+    -Correct answer: C
+
+    -Explanation: According to the text, after three years have elapsed, permission should be granted except in very special circumstances.
+
+    -Source: The text provided.
+
+--- Question 25 (Chunk 222) ---
+1
+
+Question 1: Which of the following is a reason for considering a procedural violation as substantial according to the European Patent Office?
+
+    A) The search and examining divisions failed to follow the procedure established in the Guidelines for considering unity.
+    B) The search and examining divisions followed the procedure established in the Guidelines for considering unity.
+    C) The examining division repeatedly postponed oral proceedings without serious reasons, especially if it is done several times in the same examination proceedings after long delays have already occurred.
+    D) The examining division did not repeatedly postpone oral proceedings without serious reasons, especially if it is done several times in the same examination proceedings after long delays have already occurred.
+
+Correct answer: A
+
+Explanation: According to the text, in T 755/14, the board found that it is unacceptable to repeatedly postpone oral proceedings without serious reasons, especially if it is done several times in the same examination proceedings after long delays have already occurred. However, the board also found that the search and examining divisions' failure to follow the procedure established in the Guidelines for considering unity is a reason for considering a
+
+--- Question 26 (Chunk 223) ---
+1. Question i : Who is responsible for the examination on filing and the examination as to formal requirements of European patent applications?
+
+    A) The Examining Division
+    B) The Legal Division
+    C) The Receiving Section
+    D) The President of the EPO
+
+    -Correct answer: C
+
+    -Explanation: According to the text, under Article 16 EPC, the Receiving Section is responsible for the examination on filing and the examination as to formal requirements of European patent applications.
+
+    -Source: Article 16 EPC.
+
+--- Question 27 (Chunk 224) ---
+ Question 1 : Which of the following is a reason for the EPO to correct the designation of the applicant under Rule 139 EPC?
+
+    A) The applicant's name was misspelled in the application.
+    B) The applicant's name was changed after the application was filed.
+    C) The applicant's name was not mentioned in the application.
+    D) The applicant's name was not written in the correct language.
+
+Correct answer: A
+
+Explanation: According to the text, Rule 139 EPC allows the correction of linguistic errors, errors of transcription and mistakes in any document filed with the EPO. Therefore, if the applicant's name was misspelled in the application, it can be corrected under Rule 139 EPC.
+
+Source: Rule 139 EPC.
+
+--- Question 28 (Chunk 225) ---
+ Question 1 : Which of the following is not a correct statement about corrections under Rule 139 EPC?
+
+    A) The correction must be obvious in the sense that it is immediately evident that nothing else would have been intended than what is offered as the correction.
+    B) The complete documents forming a European patent application cannot be replaced by way of a correction under Rule 139 EPC by other documents which the applicants had intended to file with their request for grant.
+    C) The correction under Rule 139 EPC is not bound by Article 123(2) EPC 1973.
+    D) The correction under Rule 139 EPC can only be made by the Receiving Section.
+
+Correct answer: D
+
+Explanation: According to the text, the correction under Rule 139 EPC can be made by the applicant, not by the Receiving Section.
+
+Source: Article 16 and 18 EPC 1973, J 5/01.
+
+--- Question 29 (Chunk 226) ---
+1
+
+Question 1: Which of the following is not a requirement for filing the designation of the inventor under R. 60(1) EPC?
+
+    A) The designation must be filed within 16 months of the priority date.
+    B) The designation must be filed before the completion of the technical preparations for the publication of the patent application.
+    C) The designation must be filed with the consent of a "wrongly designated" person.
+    D) The designation must be filed before early publication of the European patent application at the applicant's request under Art. 93(1)(b) EPC.
+
+Correct answer: D
+
+Explanation: According to the text, early publication of the European patent application at the applicant's request under Art. 93(1)(b) EPC does not affect the time period under R. 60(1) EPC for filing the designation of the inventor. Therefore, the designation must not be filed before early publication of the European patent application at the applicant's request under Art. 93(1)(b) EPC.
+
+
+--- Question 30 (Chunk 227) ---
+ Question 1 : Which of the following is the correct provision for correcting priority declarations under the EPC 2000?
+
+    A) Rule 88 EPC 1973
+    B) Rule 52(3) EPC
+    C) Rule 139 EPC
+    D) Rule 38(3) EPC
+
+Correct answer: B
+
+Explanation: According to the text, the possibility to correct priority data under R. 52(3) EPC is introduced into the EPC 2000. Therefore, option B is the correct answer.
+
+Source: Article 52(2) and (3) EPC 1973.
+
+--- Question 31 (Chunk 228) ---
+ Question 1 : What is the purpose of Rule 71(3) EPC?
+
+    A) To allow the applicant to amend the text of the application after the first communication from the examining division.
+    B) To allow the applicant to request amendments and corrections to the text of the application according to Rule 71(6) EPC.
+    C) To allow the applicant to waive the right to a further communication under Rule 71(3) EPC.
+    D) To allow the applicant to approve the text of the application for grant.
+
+Correct answer: D
+
+Explanation: According to the text, Rule 71(3) EPC is used for the applicant to approve the text of the application for grant.
+
+Source: Article 113(2) EPC.
+
+--- Question 32 (Chunk 229) ---
+ Question 1 : Which of the following is the correct order of the steps that the examining division should follow when drafting the first communication under Article 94(3) EPC?
+
+    A) Invite the applicant to correct any deficiencies noted and to amend the description, claims and drawings within a period to be specified, and then invite the applicant to file his observations and, subject to Article 123(1) EPC, to amend the application.
+    B) Invite the applicant to file his observations and, subject to Article 123(1) EPC, to amend the application, and then invite the applicant to correct any deficiencies noted and to amend the description, claims and drawings within a period to be specified.
+    C) Invite the applicant to correct any deficiencies noted and to amend the description, claims and drawings within a period to be specified, and then invite the applicant to file his observations.
+    D) Invite the applicant to file his observations and, subject to Article 123(1) EPC, to amend the application, and then invite the applicant to correct any def
+

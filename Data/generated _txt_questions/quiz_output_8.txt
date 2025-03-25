@@ -1,0 +1,619 @@
+--- Question 1 (Chunk 265) ---
+1
+
+Question 1: In which of the following cases can a party who was not heard when grant proceedings were suspended at a third party's request challenge the justification for that suspension?
+
+    A) The party was not a party to the grant proceedings.
+    B) The party was a party to the grant proceedings but did not file an appeal against the decision to suspend the grant proceedings.
+    C) The party was a party to the grant proceedings and filed an appeal against the decision to suspend the grant proceedings.
+    D) The party was not a party to the grant proceedings and filed an appeal against the decision to suspend the grant proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, an applicant who was not heard when grant proceedings were suspended at a third party's request pursuant to R. 13 EPC 1973 could still challenge the justification for that suspension. This means that the applicant was not a party to the grant proceedings and filed an appeal against the decision to suspend the grant proceedings. Therefore, option D is the correct answer.
+
+Source: Article 107 EPC 1973 and J 2
+
+--- Question 2 (Chunk 266) ---
+1
+
+Question 1: Which of the following is a sufficient condition for the provisions of Rule 99(1)(a) EPC to be satisfied?
+
+    A) The notice of appeal contains the name and address of the appellant as provided in R. 41(2)(c) EPC.
+    B) The notice of appeal contains the name and address of the appellant in accordance with the provisions of R. 26(2)(c) EPC 1973.
+    C) The notice of appeal contains sufficient information for identification of a party.
+    D) The notice of appeal contains the name and address of the patent proprietor.
+
+Correct answer: C
+
+Explanation: According to the text, the provisions of R. 99(1)(a) EPC are satisfied if the notice of appeal contains sufficient information for identification of a party. This means that the other options are not sufficient conditions for the provisions of Rule 99(1)(a) EPC to be satisfied.
+
+Source: Article 1308 of the law text.
+
+--- Question 3 (Chunk 267) ---
+1
+
+Question 1: Which of the following is a requirement for the admissibility of an appeal under Rule 64(b) EPC 1973?
+
+    A) The notice of appeal must contain an unambiguous, clear and explicit statement concerning the identification of the impugned decision.
+    B) The notice of appeal must contain an unambiguous, clear and explicit statement concerning the subject of the appeal.
+    C) The notice of appeal must contain an unambiguous, clear and explicit statement concerning both the identification of the impugned decision and the subject of the appeal.
+    D) The notice of appeal must contain an unambiguous, clear and explicit statement concerning the extent to which amendment or cancellation of the decision is requested.
+
+Correct answer: C
+
+Explanation: According to the text, the notice of appeal must contain an unambiguous, clear and explicit statement concerning both the identification of the impugned decision and the subject of the appeal. Therefore, option C is the correct answer.
+
+Source: V.A.2. Filing and admissibility of the appeal, paragraph 1313.
+
+--- Question 4 (Chunk 268) ---
+1
+
+Question 1: Which of the following is true about the declaration required under points 3 and 4 of the Notice?
+
+    A) It is a requirement devoid of any basis in law.
+    B) It can already be demanded on payment of the reduced appeal fee.
+    C) It can be accepted by the boards even after the time limit for appeal has elapsed and the appeal proceedings are under way.
+    D) It is not a requirement that the boards are obliged to examine.
+
+Correct answer: C
+
+Explanation: According to the text, the boards' general practice is to accept a declaration and supporting evidence of compliance with the requirements under R. 6(4) EPC even after the time limit for appeal has elapsed and the appeal proceedings are under way.
+
+Source: Article 2(1), item 11, RFees and T 3023/18.
+
+--- Question 5 (Chunk 269) ---
+ Question 1 : What is the requirement for the statement of grounds of appeal in order to enable the board to assess whether or not the decision is incorrect?
+
+    A) The statement of grounds of appeal must contain a party's complete appeal case.
+    B) The statement of grounds of appeal must contain a causal relationship between the reasons given in the statement of grounds of appeal and the asserted invalidity of the findings of the decision impugned.
+    C) The statement of grounds of appeal must be conclusive in itself, i.e. justify the setting aside of the decision impugned.
+    D) The statement of grounds of appeal must contain a completely new set of facts.
+
+Correct answer: B
+
+Explanation: According to the text, the statement of grounds of appeal must enable the board to assess whether or not the decision is incorrect. This means that there must be a causal relationship between the reasons given in the statement of grounds of appeal and the asserted invalidity of the findings of the decision impugned.
+
+Source: Article 108 EPC and the case law of the boards of appeal.
+
+--- Question 6 (Chunk 270) ---
+ Question 1 : Which of the following is not a reason for an appeal to be considered inadmissible?
+
+    A) The appeal is based on a ground for opposition already invoked in opposition proceedings.
+    B) The statement of grounds of appeal is not complete.
+    C) The statement of grounds of appeal is not signed by the representative.
+    D) The appeal is based on a completely fresh factual framework.
+
+Correct answer: C
+
+Explanation: According to the text, an appeal invoking a ground for opposition already invoked in opposition proceedings does not ipso facto lead to an inadmissible appeal. However, the statement of grounds of appeal must be complete and signed by the representative. Therefore, option C is not a reason for an appeal to be considered inadmissible.
+
+Source: The case law of the boards of appeal (see e.g. T 389/95 , T 1063/98 , T 1029/05 , T 1915/09 , T 1314/12 ).
+
+--- Question 7 (Chunk 271) ---
+1
+
+Question 1: Which of the following is the correct statement about the grounds of appeal according to the case law of the Boards of Appeal?
+
+    A) The grounds of appeal should state the legal and factual reasons why the appeal should be allowed, but it is not necessary to explicitly state these reasons.
+    B) The grounds of appeal should state the legal and factual reasons why the appeal should be allowed, but it is sufficient to merely refer to one's own first-instance submissions.
+    C) The grounds of appeal should not state the legal and factual reasons why the appeal should be allowed, as it is the responsibility of the board and the opposing party to conjecture these reasons.
+    D) The grounds of appeal should not state the legal and factual reasons why the appeal should be allowed, as it is sufficient to make a general assertion that the contested decision is incorrect.
+
+Correct answer: A
+
+Explanation: According to the text, the grounds of appeal should state the legal and factual reasons why the appeal should be allowed. It is not enough merely to seek fresh examination of the patentability requirement found not to be met at the previous instance by
+
+--- Question 8 (Chunk 272) ---
+2.9.4 Question i : Which of the following statements is true regarding the jurisdiction of the department of first instance and the appellate instance under Article 109 EPC 1973?
+
+    A) The appellate instance has exclusive jurisdiction over a request for restitutio in integrum into a time limit relating to the appeal itself.
+    B) The department of first instance has exclusive jurisdiction over a request for restitutio in integrum into a time limit relating to the appeal itself.
+    C) The appellate instance has exclusive jurisdiction over a request for restitutio in integrum into a time limit relating to the decision under appeal.
+    D) The department of first instance has exclusive jurisdiction over a request for restitutio in integrum into a time limit relating to the decision under appeal.
+
+Correct answer: A
+
+Explanation: According to the text, the appellate instance has exclusive jurisdiction over a request for restitutio in integrum into a time limit relating to the appeal itself.
+
+Source: T 473/91 (OJ 1993, 630)
+
+--- Question 9 (Chunk 273) ---
+ Question 1 : What is the exception to the prohibition of reformatio in peius as set out in G 1/99?
+
+    A) The exception is made when the opposition division has allowed an inadmissible amendment and the patent proprietor has filed a main request including the added (and unallowable) limiting feature, and an auxiliary request deleting it (and thus widening the claim).
+    B) The exception is made when the opposition division has not allowed an inadmissible amendment and the patent proprietor has filed a main request including the added (and unallowable) limiting feature, and an auxiliary request deleting it (and thus widening the claim).
+    C) The exception is made when the opposition division has allowed an inadmissible amendment and the patent proprietor has filed a main request deleting the added (and unallowable) limiting feature, and an auxiliary request including it (and thus narrowing the claim).
+    D) The exception does not exist and the amended claim which would put the opponent and sole appellant in a worse situation than if it had not appealed must always be rejected.
+
+Correct answer: A
+
+--- Question 10 (Chunk 274) ---
+1
+
+Question 1 : Which of the following is a reason for a board not to take an objection into consideration in appeal proceedings?
+
+    A) The objection is not substantiated in the statement of grounds of appeal.
+    B) The objection is not linked with the issue addressed in the objection.
+    C) The objection is not linked with the rest of the case.
+    D) The objection is not linked with the purpose of Art. 12(3) RPBA 2020.
+
+Correct answer: A
+
+Explanation: According to the text, a complete case must be presented at the start of the proceedings in order to provide the board (and the other parties) with an appeal file that contains every party's complete case and to prevent any tactical procedural abuse. Therefore, if an objection is not substantiated in the statement of grounds of appeal, the board may not take the objection into consideration.
+
+Source : Article 12(3) RPBA 2020.
+
+--- Question 11 (Chunk 275) ---
+ Question 1 : In appeal proceedings, can a new ground for opposition be introduced if it is unconnected with the reasons given in the appealed decision and is directed only to a new ground for opposition (lack of novelty) based on a new document?
+
+    A) Yes, as long as the patent proprietor consents to the introduction of the new ground.
+    B) Yes, as long as the new ground is within the same legal and factual framework as the opposition proceedings.
+    C) No, as it is tantamount to a new opposition and is inadmissible.
+    D) Yes, as long as the patent proprietor at some time responds substantively to the new ground.
+
+Correct answer: C
+
+Explanation: According to the text, an appeal should be within the same legal and factual framework as the opposition proceedings. Therefore, introducing a new ground for opposition (lack of novelty) based on a new document in an appeal unconnected with the reasons given in the appealed decision is contrary to the principles laid down in decisions G 9/91 and G 10/91 and is inadmissible.
+
+Source: Article 1
+
+--- Question 12 (Chunk 276) ---
+ Question 1 : Which of the following is not a reason for the boards to overrule the way in which a department of first instance exercised its discretion in reaching a decision in a particular case?
+
+    A) The department of first instance exercised its discretion in accordance with the wrong principles.
+    B) The department of first instance did not take the right principles into account.
+    C) The department of first instance exercised its discretion in an arbitrary or unreasonable way.
+    D) The department of first instance did not exceed the proper limits of its discretion.
+
+Correct answer: D
+
+Explanation: According to the text, the boards should overrule the way in which a department of first instance exercised its discretion in reaching a decision in a particular case only if they conclude that it did so in accordance with the wrong principles, without taking the right principles into account or in an arbitrary or unreasonable way, thereby exceeding the proper limits of its discretion. Therefore, option D is not a reason for the boards to overrule the way in which a department of first instance exercised its discretion in reaching a decision in a particular case.
+
+Source : Article 1
+
+--- Question 13 (Chunk 277) ---
+ Question 1:
+
+The opposition division did not use its discretion in accordance with the EPC when it decided not to admit a late-filed ground for opposition.
+
+-A) The opposition division used its discretion in accordance with the EPC when it decided not to admit a late-filed ground for opposition.
+-B) The opposition division did not use its discretion in accordance with the EPC when it decided to admit a late-filed ground for opposition.
+-C) The opposition division used its discretion in accordance with the EPC when it decided to admit a late-filed ground for opposition, but only with the consent of the patent proprietor.
+-D) The opposition division did not use its discretion in accordance with the EPC when it decided to admit a late-filed ground for opposition, without the consent of the patent proprietor.
+
+Correct answer: a
+
+Explanation: According to the text, the opposition division has the discretionary power to introduce of its own motion a fresh ground for opposition (Art. 114(1) EPC). However, if it decides not to admit a late-filed ground for opposition, it may
+
+--- Question 14 (Chunk 278) ---
+ Question 1 : Which of the following is not a principle of the EPO's examination of facts in appeal proceedings?
+
+    A) The EPO is obliged to examine the facts of its own motion.
+    B) The EPO may disregard facts or evidence which are not submitted in due time by the parties concerned.
+    C) The EPO must conduct rehearings of the first-instance proceedings with unlimited right and obligation to look at all fresh matter.
+    D) The EPO is not restricted to the facts, evidence and arguments provided by the parties and the relief sought.
+
+Correct answer: C
+
+Explanation: According to the text, the EPO is obliged to examine the facts of its own motion, and in doing so, it is not restricted to the facts, evidence and arguments provided by the parties and the relief sought. However, the EPO may disregard facts or evidence which are not submitted in due time by the parties concerned. The text does not mention that the EPO must conduct rehearings of the first-instance proceedings with unlimited right and obligation to look at all fresh matter.
+
+Source: Article 114(1) and
+
+--- Question 15 (Chunk 279) ---
+ Question 1: Which of the following is not a part of a party's appeal case according to the rule according to Art. 12(4) , first sentence, RPBA 2020?
+
+    A) Parts that meet the requirements of Art. 12(2) RPBA 2020
+    B) Parts that were not admissibly raised and maintained in the proceedings leading to the decision under appeal
+    C) Parts that were not directed to the facts, objections, evidence and requests on which the decision under appeal was based
+    D) Parts that were not part of the appeal case at the first level of the convergent approach
+
+Correct answer: D
+
+Explanation: According to the text, any part of a party's appeal case that does not meet the requirements of Art. 12(2) RPBA 2020 and was not admissibly raised and maintained in the proceedings leading to the decision under appeal is to be regarded as an amendment of the party's case. Therefore, parts that were not part of the appeal case at the first level of the convergent approach are not a part
+
+--- Question 16 (Chunk 280) ---
+ Question 1 : In T 1480/16, what was the board's opinion regarding the deletion of method claims from auxiliary request 5?
+
+    A) The deletion was an amendment to the appeal case since it necessitated a new discussion on novelty or inventive step.
+    B) The deletion was not an amendment to the appeal case since it did not result in any change to the factual situation.
+    C) The deletion was an amendment to the appeal case since it required a thorough re-evaluation of the matters at issue.
+    D) The deletion was not an amendment to the appeal case since it did not alter the factual situation and did not require a thorough re-evaluation of the matters at issue.
+
+Correct answer: D
+
+Explanation: According to the text, the board did not consider the deletion of method claims from auxiliary request 5 to be an amendment to the appeal case since it did not result in any change to the factual situation and did not necessitate any new discussion on novelty or inventive step.
+
+Source : Article 13(2) RPBA 
+
+--- Question 17 (Chunk 281) ---
+ Question 1 : Which of the following is a reason for a factual element to be considered as part of the appeal case?
+
+    A) The factual element is apparent from the patent documents on the case file.
+    B) The factual element is not apparent from the patent documents on the case file.
+    C) The factual element has been expressly asserted in the appeal proceedings.
+    D) The factual element has not been expressly asserted in the appeal proceedings.
+
+Correct answer: C
+
+Explanation: According to the text, facts apparent from the patent documents on the case file are not automatically at issue on appeal without having been expressly asserted. This means that a factual element has to be expressly asserted in the appeal proceedings to be considered as part of the appeal case.
+
+Source : Article 114(2) EPC and T 482/18 and J 14/19.
+
+--- Question 18 (Chunk 282) ---
+ Question 1: Which of the following is not a principle expressed by Art. 12(4) to (6) RPBA 2020 and Art. 12(6), second sentence, RPBA 2020?
+
+    A) Each party should submit all facts, evidence, arguments and requests that appear relevant as early as possible so as to ensure a fair, speedy and efficient procedure.
+    B) An appellant is at liberty to bring about the shifting of its case to the appeal proceedings as it pleases, and so compel the board either to give a first ruling on the critical issues or to remit the case to the opposition division.
+    C) The requirements of the first level of the convergent approach – i.e. those set out in Art. 12(4) to (6) RPBA 2020 – apply throughout the appeal proceedings, i.e. also at the stages of the appeal proceedings which are governed by Art. 13(1) and (2) RPBA 2020.
+    D) The requirements of the first level of the convergent approach – i.e. those
+
+--- Question 19 (Chunk 283) ---
+ Question 1 : Which of the following is a reason for excluding an objection from being considered on appeal under Art. 12(3) RPBA 2020?
+
+    A) The objection is not clearly stated.
+    B) The objection is not adequately substantiated.
+    C) The objection is not supported by any evidence.
+    D) The objection is not mentioned in the opposition proceedings.
+
+Correct answer: B
+
+Explanation: According to the text, Art. 12(3) RPBA 2020 requires that the grounds of appeal contain the appellant's complete case, and that all facts, objections, and evidence relied on be specified expressly. If an objection is not adequately substantiated, it will not be considered on appeal.
+
+Source: Article 12(3) RPBA 2020.
+
+--- Question 20 (Chunk 284) ---
+ Question 1 : In which of the following cases was the board more likely to admit new lines of attack based on lack of inventive step?
+
+    A) The appellant (opponent) had filed the new lines of attack in response to the respondent's reply to the statement of grounds of appeal.
+    B) The appellant (opponent) had filed the new lines of attack in response to the board's preliminary opinion.
+    C) The appellant (opponent) had not provided any reasons for first raising these objections after having filed the statement of grounds of appeal.
+    D) The appellant (opponent) had prevented the respondent from reacting to the attack during the opposition proceedings and the opposition division from deciding on the matter.
+
+Correct answer: B
+
+Explanation: According to the text, the board in T 32/16 admitted a new request in response to the board's preliminary opinion of the objections. Therefore, the board is more likely to admit new lines of attack based on lack of inventive step when they are filed in response to the board's preliminary opinion.
+
+Source : Article 13
+
+--- Question 21 (Chunk 285) ---
+ Question 1 : What is one reason for a request not being admitted during the oral proceedings before the board?
+
+    A) The request was filed in response to the board's conclusions that the invention claimed in the main request lacked sufficiency of disclosure and that auxiliary request 8 extended the scope of protection.
+    B) The underlying issues had already been raised in the decision under appeal and/or the communication issued by the board in preparation for the oral proceedings.
+    C) The request prima facie overcomes the objections raised by the board.
+    D) The request was filed at a late stage of the oral proceedings before the board.
+
+Correct answer: B
+
+Explanation: According to the text, one reason for a request not being admitted during the oral proceedings before the board is that the underlying issues had already been raised in the decision under appeal and/or the communication issued by the board in preparation for the oral proceedings.
+
+Source: V.A.4. New submissions on appeal – case law on the RPBA 2020, T 1384/16.
+
+--- Question 22 (Chunk 286) ---
+ Question 1 : Which of the following is a reason for not admitting a late substantiated line of attack in an appeal proceeding?
+
+    A) The attack had been substantiated for the first time at the oral proceedings before it.
+    B) The appellant's earlier general submissions on inventive step were regarded as substantiated.
+    C) The respondent had every reason to believe that a lack of inventive step objection was still being pursued.
+    D) The attack would not add complexity to the matter to be discussed.
+
+Correct answer: A
+
+Explanation: According to the text, the board did not admit the appellant's inventive step attack because it had been substantiated for the first time at the oral proceedings before it. Therefore, option A is a reason for not admitting a late substantiated line of attack in an appeal proceeding.
+
+Source: Article 13(1) RPBA 2020 and Article 13(1) and (3) RPBA 2007.
+
+--- Question 23 (Chunk 287) ---
+1
+
+Question: Which of the following is true about the application of Article 13(1) RPBA 2020 in transitional cases?
+
+    A) It is applicable only to appeal proceedings pending on 1 January 2020.
+    B) It is applicable only to appeal proceedings where the summons to oral proceedings or a communication of the board under R. 100(2) EPC was notified before the date of entry into force of the RPBA 2020.
+    C) It is applicable only to appeal proceedings where the appeal was filed after the date of entry into force of the RPBA 2020.
+    D) It is applicable only to appeal proceedings where the statement of grounds of appeal or the reply was filed after the entry into force of the RPBA 2020.
+
+Correct answer: B
+
+Explanation: According to the text, Article 25(3) RPBA 2020 states that where the summons to oral proceedings or a communication of the board under R. 100(2) EPC was notified before the date of entry
+
+--- Question 24 (Chunk 288) ---
+ Question 1 : In which of the following cases was the board able to admit a newly submitted auxiliary request into the proceedings because there were exceptional circumstances?
+
+    A) The board had raised a new objection under Art. 123(2) EPC in its preliminary opinion and the amendments were designed to overcome that objection and did not give rise to any new ones.
+    B) The board had raised a new clarity objection to the main request and the newly submitted auxiliary request was aimed at overcoming that objection.
+    C) The newly submitted auxiliary request was filed in ex parte proceedings and the board was able to deal with the amendment without undue delay during the oral proceedings.
+    D) The newly submitted auxiliary request was filed in inter partes proceedings and the other party had no objection to its admission into the proceedings.
+
+Correct answer: A
+
+Explanation: According to the text, in the ex parte case T 2351/17, the board found that there were exceptional circumstances because it had raised a new objection under Art. 123(2) EPC in its preliminary opinion and the amendments were
+
+--- Question 25 (Chunk 289) ---
+ Question 1 : In which of the following cases did the board see no exceptional circumstances which would justify admitting the auxiliary request into the proceedings?
+
+    A) T 14/20
+    B) T 2279/16
+    C) T 1187/16
+    D) T 2775/17
+
+Correct answer: B
+
+Explanation: In T 2279/16, the board saw no exceptional circumstances which would justify admitting the auxiliary request into the proceedings because the combination of documents on which the board based its inventive step objection in its preliminary opinion was exactly the same as the one which had led to the refusal of the application, and hence this was not a new objection from the board.
+
+Source: V.A.4. New submissions on appeal – case law on the RPBA 2020.
+
+--- Question 26 (Chunk 290) ---
+ The following is the answer for the quiz question:
+
+Question 1: Which of the following is not a reason for the board to admit an auxiliary request filed at the oral proceedings under Article 13(2) RPBA 2020?
+
+    A) The board regards it as an amendment within the meaning of Article 13(2) RPBA 2020.
+    B) The auxiliary request addresses all of the outstanding issues raised by the board.
+    C) The auxiliary request was filed in response to a case made by the opposing party during the oral proceedings.
+    D) The board's preliminary opinion in the communication under Article 15(1) RPBA 2020 was changed in the light of the oral discussion of arguments that were all already known from the written proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, changing an opinion expressly referred to as preliminary in the light of the oral discussion of arguments that were all already known from the written proceedings could not serve as justification for the purposes of Article 13(2) RPBA 2020
+
+--- Question 27 (Chunk 291) ---
+ Question 1 : Which of the following is not a reason for the board to consider belated submissions as not justified in T 1904/16?
+
+    A) The submissions were not justified by the change of representative shortly before the oral proceedings.
+    B) The submissions were not justified by the change of the law.
+    C) The submissions were not justified by the change of the facts.
+    D) The submissions were not justified by the change of the opponent.
+
+Correct answer: B
+
+Explanation: According to the text, the board considered that the change of representative was not a reason for the board to consider belated submissions as justified. The change of the law, however, is not mentioned as a reason in this case.
+
+Source: V.A.4. New submissions on appeal – case law on the RPBA 2020.
+
+--- Question 28 (Chunk 292) ---
+ Question 1 : What is the criterion that the boards consider even though it is not referred to in Art. 13(1) RPBA 2020, and cannot be decisive in view of the stage reached in the proceedings and the fact that the new submissions had not been occasioned by any statements made by the patent proprietor in the proceedings before the board or by the board itself?
+
+    A) Prima facie relevance
+    B) Prima facie irrelevance
+    C) Prima facie admissibility
+    D) Prima facie inadmissibility
+
+Correct answer: A
+
+Explanation: According to the text, the criterion of prima facie relevance is considered by the boards, even though it is not referred to in Art. 13(1) RPBA 2020. However, it cannot be decisive in view of the stage reached in the proceedings and the fact that the new submissions had not been occasioned by any statements made by the patent proprietor in the proceedings before the board or by the board itself.
+
+Source: Article 13(1) RPBA 
+
+--- Question 29 (Chunk 293) ---
+ Question 1 : Which of the following is a reason for not admitting new requests at a very late procedural stage (shortly before the oral proceedings)?
+
+    A) The requests are prima facie allowable.
+    B) The requests are unsuitable from the outset to overcome the doubts as to the allowability of the claim.
+    C) The requests are filed very late (i.e. shortly before or during the oral proceedings).
+    D) The requests are not accompanied by reasons explaining why the amendments have been made and how they are intended to overcome the objections raised in the course of the proceedings.
+
+Correct answer: C
+
+Explanation: According to the text, the admission of new requests at a very late procedural stage (shortly before the oral proceedings) is only in keeping with the principle of procedural economy if the requests are not unsuitable from the outset to overcome the doubts as to the allowability of the claim. Therefore, the fact that the requests are filed very late (i.e. shortly before or during the oral proceedings) is a reason for not admitting them.
+
+Source: Article 13(1) RPBA 
+
+--- Question 30 (Chunk 294) ---
+ Question 1 : Which of the following is a reason for refusing to admit new requests filed by the patentee in oral proceedings in appeal proceedings?
+
+    A) The subject of the proceedings has changed.
+    B) The patentee has repeatedly modified its requests until an acceptable set of claims is found.
+    C) The patentee has taken care not to act in a manner detrimental to the efficient conduct of oral proceedings.
+    D) The patentee has submitted requests willy -nilly, withdrawn them and then resubmitted them later.
+
+Correct answer: D
+
+Explanation: According to the text, the board in T 1790/06 took account of the conduct of the respondent (patentee) during the oral proceedings. A party's obligations included taking care not to act in a manner detrimental to the efficient conduct of oral proceedings. Submitting requests willy -nilly, withdrawing them and then resubmitting them later was unacceptable, for both the board and other parties. Therefore, option D is a reason for refusing to admit new requests filed by the patentee in oral proceedings in appeal proceedings.
+
+Source :
+
+--- Question 31 (Chunk 295) ---
+1
+
+Question 1: In which of the following situations is it possible to file a new request after the debate has been closed during oral proceedings?
+
+    A) The new request is filed before the board announces its decision, and there is a justification for filing it so late.
+    B) The new request is filed after the board announces its decision, and there is a justification for filing it so late.
+    C) The new request is filed after the board announces its decision, and there is no justification for filing it so late.
+    D) The new request is filed before the board announces its decision, and there is no justification for filing it so late.
+
+Correct answer: A
+
+Explanation: According to the text, in T 360/13, the appellant filed a new request after the debate had been closed, but before the board announced its decision. The board noted that, once the debate had been closed, the criteria for admitting new submissions were especially strict. However, in this case, there was a justification for filing the new request so late. Therefore, option A is the correct answer.
+
+Source: T
+
+--- Question 32 (Chunk 296) ---
+ Question 1 : What is the correct interpretation of the term "poly" -olefin" in the passage concerned in the application as filed?
+
+    A) "Polyalphaolefin"
+    B) "Polyolefin"
+    C) "Polymethylene"
+    D) "Polyethylene"
+
+    -Correct answer: B
+
+    -Explanation: According to the text, the respondent's allegation that the term "poly" -olefin" in the passage concerned meant "polyalphaolefin" was not an argument but rather an allegation of a fact. The board in T 482/18 commented that the content of the application as filed and of the patent as granted covered a large number of individual facts, but it did not state that all those facts remained at issue at all times in the proceedings. Therefore, the correct interpretation of the term "poly" -olefin" in the passage concerned in the application as filed is "polyolefin".
+
+    -Source : Article 114(2) EPC 1973, T 482/18, T 1914/12
+
+--- Question 33 (Chunk 297) ---
+1. Which of the following is a reason for admitting new documents in appeal proceedings?
+
+    A) The documents were not filed during opposition proceedings.
+    B) The documents were filed for the first time in the appeal proceedings.
+    C) The documents were filed as a normal reaction to a late turn of events in the opposition proceedings.
+    D) The documents were filed as a reaction to an exceptional interpretation by the opposition division at a late stage.
+
+Correct answer: B
+
+Explanation: According to the text, in principle, documents can be admitted in the case of e.g. a normal reaction to a late turn of events in the (oral) opposition proceedings, an exceptional interpretation by the opposition division at a late stage or in the decision or evident non-allowability in view of the newly cited documents and/or objections. However, the key point is that the documents were filed for the first time in the appeal proceedings. Therefore, option B is a reason for admitting new documents in appeal proceedings.
+
+Source: V.A.5. New submissions on appeal – case law on the RPBA 2007.
+
+--- Question 34 (Chunk 298) ---
+1468 Question i : Which of the following is a reason for not admitting a request first submitted in appeal proceedings?
+
+    A) The request relates solely to an independent claim which was within the scope of the opposition but had not been considered in the first-instance decision.
+    B) The request contains product and use claims which relate to fundamentally different subject matter.
+    C) The request was filed at the earliest possible stage of the appeal proceedings.
+    D) The request could have been filed in the first-instance proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, the admissibility of a request first submitted in appeal proceedings and relating solely to an independent claim which, although within the scope of the opposition, had not been considered in the first-instance decision, should be decided on in the light of whether it could also have been submitted earlier. Therefore, if a request could have been filed in the first-instance proceedings, it is not admissible in appeal proceedings.
+
+Source: T 144/09.
+
+--- Question 35 (Chunk 299) ---
+1. In which of the following cases was the reintroduction of a previously withdrawn request on appeal considered an abuse of procedure?
+
+    A) T 390/07
+    B) T 691/09
+    C) T 52/15
+    D) None of the above
+
+Correct answer: B
+
+Explanation: In T 691/09, the board deemed the belated introduction of a request which had been withdrawn during the oral proceedings before the opposition division to be an abuse of procedure.
+
+Source: T 691/09.
+
+--- Question 36 (Chunk 300) ---
+1
+
+Question 1: Which of the following is a reason for not admitting new requests for reasons of procedural economy, even where not filed until a very late stage?
+
+    A) The amendments are justified, e.g. where filed in response to objections or comments which were not part of the decision under appeal but were raised in writing during the appeal proceedings.
+    B) The amendments extend the scope of discussion as determined by the decision under appeal and the statement of grounds of appeal.
+    C) The amendments do not introduce new objections under the EPC and overcome all outstanding objections under the EPC.
+    D) The subject matter of the new claims does not diverge considerably from the claims already filed, in particular they should not contain subject matter which has not previously been claimed.
+
+Correct answer: B
+
+Explanation: According to the text, new requests may exceptionally be admitted for reasons of procedural economy, even where not filed until a very late stage (e.g. during the oral proceedings), if the amendments are justified, e.g. where filed in response to objections or comments which were not part of the decision under appeal
+
+--- Question 37 (Chunk 301) ---
+ Question 1 : Which of the following is not a reason for a board to refuse to admit auxiliary requests in appeal proceedings?
+
+    A) The requests define subject matter diverging from subject matter of higher ranking requests.
+    B) The requests were not examined by the first-instance department.
+    C) The requests were not substantiated.
+    D) The requests were filed during the oral proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, the board can refuse to admit auxiliary requests if they define subject matter diverging from subject matter of higher ranking requests, if they were not examined by the first-instance department, or if they are not substantiated. However, the text does not mention that the requests being filed during the oral proceedings is a reason for the board to refuse to admit them.
+
+Source: Article 12(2) and (4) RPBA 2007, Article 25(2) RPBA 2020.
+
+--- Question 38 (Chunk 302) ---
+1488 instance: Which of the following is a reason for not considering it compatible with due procedural economy to shift the subject matter to be decided on in the appeal proceedings to subject matter which could have been presented to the examining division and which would have to be examined as to inventive step for the first time by the board?
+
+    A) The subject matter of the dependent claims had been searched
+    B) The subject matter of the dependent claims had been discussed in both the opposition and the appeal proceedings
+    C) The subject matter of the dependent claims had been presented to the examining division
+    D) The subject matter of the dependent claims would have to be examined as to inventive step for the first time by the board
+
+Correct answer: D
+
+Explanation: According to the text, the board considered it incom patible with due procedural economy to shift the subject matter to be decided on in the appeal proceedings to subject matter which could have been presented to the examining division and which would have to be examined as to inventive step for the first time by the board. Therefore, the correct answer is D.
+
+Source: Article 12(4) and 13(1)
+
+--- Question 39 (Chunk 303) ---
+1
+
+Question 1:
+Which of the following is a criterion to be taken into account by the boards of appeal when deciding whether a late-filed document is admissible in the appeal proceedings?
+
+    A) Whether the document is prima facie highly relevant
+    B) Whether the document is obviously relevant
+    C) Whether the document provides a better understanding of the state of the art
+    D) Whether the document's submission can be seen as reasonable as far as the respondent is concerned
+
+Correct answer: A
+
+Explanation: According to the text, the boards of appeal consider whether a late-filed document is prima facie highly relevant as a criterion for its admissibility in the appeal proceedings. This means that the document should be highly likely to change the eventual result and is thus highly likely to prejudice the maintenance of the European patent.
+
+Source: V.A.5. New submissions on appeal – case law on the RPBA 2007, 1493.
+
+--- Question 40 (Chunk 304) ---
+1
+
+Question 1: Which of the following is a reason for the boards to refuse to include late-filed evidence of public prior use in the proceedings?
+
+    A) The submission is potentially relevant.
+    B) The submission is filed within the opposition period.
+    C) The submission is filed after the expiry of the opposition period.
+    D) The submission is filed with a good reason for the delay.
+
+Correct answer: C
+
+Explanation: According to the text, the boards have set strict standards for the admissibility of late-filed evidence of public prior use by the opponent. They refuse to include late-filed evidence in the proceedings where it is filed after the expiry of the opposition period. This is the case even if the submission is potentially relevant or filed with a good reason for the delay.
+
+Source: Article 114(2) EPC 1973 and case law T 17/91 and T 534/89.
+
+--- Question 41 (Chunk 305) ---
+1
+
+Question 1: Which of the following is true about the termination of appeal proceedings in the European Patent Office?
+
+    A) The board of appeal can examine the substantive merits of the remaining, limited subject matter if the sole appellant withdraws his appeal.
+    B) The patent proprietor can force the non-appealing opponent to "live with" a deficiency which he had introduced.
+    C) The board of appeal can examine the substantive merits of the remaining, limited subject matter if the sole appellant does not withdraw his appeal.
+    D) The patent had to be granted in its amended form if the sole appellant withdraws his appeal following an allowable limitation of the patent's subject matter under Art. 123 EPC 1973 during appeal proceedings.
+
+Correct answer: D
+
+Explanation: According to the text, if the sole appellant withdraws his appeal following an allowable limitation of the patent's subject matter under Art. 123 EPC 1973 during appeal proceedings, the patent had to be granted in its amended form.
+
+Source: Article 7
+
+--- Question 42 (Chunk 306) ---
+ Question 1 : What is the primary object of appeal proceedings before the boards of appeal?
+
+    A) To review the decision under appeal in a judicial manner
+    B) To review the facts and evidence on which the decision was based
+    C) To include new grounds in the proceedings
+    D) To examine the grounds for the contested decision
+
+Correct answer: A
+
+Explanation: According to the text, the primary object of appeal proceedings is to review the decision under appeal in a judicial manner.
+
+Source: Article 12(2) RPBA 2020 and T 731/17.
+
+--- Question 43 (Chunk 307) ---
+ Question 1 : Which of the following is a reason for remitting a case to the department of first instance according to the text?
+
+    A) The case has been taken out of turn, meaning there are another 14 years of a potential 20-year patent term left to run.
+    B) The case has been taken out of turn, meaning there are less than 14 years of a potential 20-year patent term left to run.
+    C) The case has been taken out of turn, meaning there are more than 20 years of a potential patent term left to run.
+    D) The case has not been taken out of turn, meaning there are 14 years of a potential 20-year patent term left to run.
+
+Correct answer: A
+
+Explanation: According to the text, in T 894/20, the board considered the fact that the case had been taken out of turn, meaning there were another 14 years of a potential 20-year patent term left to run, to be special reasons for remitting the case to the examining division. Therefore, option A is a reason for remitting a
+
+--- Question 44 (Chunk 308) ---
+ Question 1 : Which of the following is a fundamental procedural deficiency in the first-instance proceedings that amounts to a special reason within the meaning of Art. 11 RPBA 2020 and justifies remittal to the department that issued the contested decision?
+
+    A) The department of first instance did not consider all the arguments.
+    B) The department of first instance did not provide a reasoned decision.
+    C) The department of first instance violated the right to be heard under Art. 113(1) EPC.
+    D) The department of first instance did not provide a copy of the decision to the parties.
+
+Correct answer: C
+
+Explanation: According to the text, a violation of the right to be heard under Art. 113(1) EPC is a fundamental procedural deficiency in the first-instance proceedings that amounts to a special reason within the meaning of Art. 11 RPBA 2020 and justifies remittal to the department that issued the contested decision.
+
+Source: Article 11 RPBA 2020 and Case Law of the Bo
+
