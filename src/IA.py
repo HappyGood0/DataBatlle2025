@@ -52,14 +52,13 @@ query_engine = index.as_query_engine()
 
 async def generate_quiz() -> str:
     quiz = ""
-    for i in range(1, 6):  # Générer 5 questions une par une
+    for i in range(0, 6):  # Générer 5 questions une par une
         response = await query_engine.aquery(prompt)
         quiz += str(response) + "\n\n"
     return quiz
 
 async def main():
     quiz = await generate_quiz()
-    print("Generated Quiz:")
     with open("quiz_output.txt", "w", encoding="utf-8") as file:
         file.write(quiz)
 

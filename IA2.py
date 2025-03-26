@@ -23,11 +23,33 @@ base_prompt = """You are an expert legal quiz generator.
 
 Based on the following law text, generate a quiz consisting of 1 multiple-choice question.
 
-For the question, provide:
-- The question text.
-- Four answer options labeled A, B, C, D.
-- The correct answer (one of A, B, C, or D).
-- A brief explanation for the correct answer. You must also cite the title of the law article you used for the answer.
+The format for the answers must be the following :
+    - Question i (i being the actual number of the question) : The actual question
+
+    - A) proposition A for the MCQ
+    - B) proposition B for the MCQ
+    - C) proposition C for the MCQ
+    - D) proposition D for the mCQ
+
+    - Correct answer : (put the letter of the right answer)
+
+    - An explanation of why this is the correct answer
+
+    -Source : The source where you found the answer (like the article number for example)
+
+This is an example of the type of answers that I desire :
+Question 4 : Which of the following is not a reason for excluding a mathematical method from patentability under Article 52(2) and (3) EPC 1973?
+
+    A) The method is not a technical process.
+    B) The method does not produce a direct technical result.
+    C) The method is not carried out on a physical entity.
+    D) The method is not described in mathematical terms.
+
+Correct answer: D
+
+Explanation: According to the text, a mathematical method or algorithm is carried out on numbers and provides a result also in numerical form. This means that the method is described in mathematical terms. Therefore, option D is not a reason for excluding a mathematical method from patentability under Article 52(2) and (3) EPC 1973.
+
+Source : Article 52(2) and (3) EPC 1973.
 
 Law text:
 {chunk_text}
