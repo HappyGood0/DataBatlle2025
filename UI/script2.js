@@ -5,32 +5,14 @@ toggleButton.addEventListener('click', () => {
   body.classList.toggle('dark-mode');
 });
 
-const questions = [
-  {
-    question: "What is the time limit for replying to a communication under Article 94(3) EPC?",
-    options: ["Two months", "Four months", "Six months", "Eight months"],
-    answer: 1
-  },
-  {
-    question: "Which authority receives European patent applications?",
-    options: ["EPO", "WIPO", "USPTO", "JPO"],
-    answer: 0
-  },
-  {
-    question: "Under which article can re-establishment of rights be requested?",
-    options: ["Article 87", "Article 122", "Article 94", "Article 54"],
-    answer: 1
-  }
-];
-
 let currentQuestion = 0;
 let score = 0;
+let nbQuestion;
+let nbPoint = 0;
 
-const questionEl = document.querySelector('.question');
 const optionsEl = document.querySelector('.options');
-const questionNumber = document.querySelector('.question-box h3');
-const nextBtn = document.querySelector('.next-btn');
-const progressBar = document.querySelector('.progress-bar');
+const nextBtn = document.getElementById('next-btn');
+const progressBar = document.getElementById('progress-bar');
 const scoreDisplay = document.createElement('p');
 
 scoreDisplay.style.fontWeight = "bold";
@@ -40,49 +22,66 @@ scoreDisplay.textContent = `Score: ${score}`;
 document.querySelector('.quiz-container').prepend(scoreDisplay);
 
 function loadQuestion() {
-  const q = questions[currentQuestion];
-  questionEl.textContent = q.question;
-  questionNumber.textContent = `Question ${currentQuestion + 1}/${questions.length}`;
-  optionsEl.innerHTML = "";
+  document.getElementById(currentQuestion).classList.remove("hide");
 
-  q.options.forEach((opt, idx) => {
-    const li = document.createElement('li');
-    const btn = document.createElement('button');
-    btn.textContent = `${String.fromCharCode(65 + idx)}) ${opt}`;
-    btn.addEventListener('click', () => checkAnswer(idx, btn));
-    li.appendChild(btn);
-    optionsEl.appendChild(li);
+  document.getElementById(currentQuestion).querySelectorAll('button').forEach(b => {
+    b.addEventListener('click', checkAnswer);
   });
 
   // Animate progress bar
   setTimeout(() => {
-    progressBar.style.width = `${((currentQuestion) / questions.length) * 100}%`;
+    progressBar.style.width = `${((currentQuestion) / nbQuestion) * 100}%`;
   }, 100);
 }
 
-function checkAnswer(selected, btn) {
-  const correct = questions[currentQuestion].answer;
-  const allButtons = document.querySelectorAll('.options button');
+function checkAnswer(e) {
+  dataset = document.getElementById(currentQuestion).dataset;
+  if("responce" in dataset){
+    const correct    = dataset.responce;
+    const allButtons = document.getElementById(currentQuestion).querySelectorAll('button');
 
-  allButtons.forEach(b => b.disabled = true);
-  if (selected === correct) {
-    btn.style.background = "#28a745";
-    score++;
-  } else {
-    btn.style.background = "#dc3545";
-    allButtons[correct].style.background = "#28a745";
+    allButtons.forEach(b => b.disabled = true);
+    if(this.dataset.buttonid === correct){
+      this.style.background = "#28a745";
+      score++;
+    }
+    else{
+      this.style.background = "#dc3545";
+      document.getElementById(currentQuestion+"_"+correct).style.background = "#28a745";
+    }
+  }
+  else{
+    const correct = this.dataset.responce;
+    ids = this.id.replace("_True", "").replace("_False", "");
+    document.getElementById(ids+"_True").disabled = true;
+    document.getElementById(ids+"_False").disabled = true;
+
+    if(this.innerHTML === correct){
+      this.style.background = "#28a745";
+      score++;
+    }
+    else{
+      this.style.background = "#dc3545";
+      document.getElementById(ids+"_"+correct).style.background = "#28a745";
+    }
   }
   scoreDisplay.textContent = `Score: ${score}`;
 }
 
 nextBtn.addEventListener('click', () => {
-  if (currentQuestion < questions.length - 1) {
+  nbPoint+=parseInt(document.getElementById(currentQuestion+"options").dataset.nbpoint);
+  if(currentQuestion < nbQuestion - 1){
+    document.getElementById(currentQuestion).classList.add("hide");
     currentQuestion++;
     loadQuestion();
-  } else {
+  }
+  else{
     progressBar.style.width = `100%`;
-    document.querySelector('.quiz-container').innerHTML = `<h2>🎉 Quiz Completed!</h2><p>Your score: ${score}/${questions.length}</p>`;
+    document.querySelector('.quiz-container').innerHTML = `<h2>🎉 Quiz Completed!</h2><p>Your score: ${score}/${nbPoint}</p><a href="quiz.php" class="button">Start Quiz</a>`;
   }
 });
 
-loadQuestion();
+function Load(nb){
+  nbQuestion = nb;
+  loadQuestion();
+}

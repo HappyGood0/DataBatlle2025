@@ -27,8 +27,8 @@ to_delete = []
 
 for i, data in enumerate(liste):
     data.pop("question_number")
-    if "questions" in data and ("type" not in data or data["type"] != "open") :
-        data.update({"type" : "open"})
+    if "questions" in data or ("type" in data and data["type"] == "open") :
+        to_delete.append(i)
 
 for i in range(len(to_delete)-1, -1, -1):
     liste.pop(to_delete[i])

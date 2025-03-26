@@ -18,6 +18,11 @@
     color: #222;
     overflow-x: hidden;
   }
+
+  a{
+    color: white;
+    text-decoration: none;
+  }
   
   .main-header {
     display: flex;
@@ -77,7 +82,7 @@
     overflow: hidden;
   }
   
-  .progress-bar {
+  #progress-bar {
     height: 100%;
     background: linear-gradient(90deg, #FFD700, #FFA500);
     width: 0%;
@@ -97,6 +102,10 @@
     font-size: 1.2rem;
     margin-bottom: 2rem;
   }
+
+  .hide{
+    display: none;
+  }
   
   /* OPTIONS */
   .options {
@@ -106,6 +115,7 @@
   }
   
   .options li {
+    display: flex;
     margin: 1rem 0;
   }
   
@@ -127,7 +137,7 @@
   }
   
   /* NEXT BUTTON */
-  .next-btn {
+  .button {
     padding: 0.9rem 2rem;
     background: var(--secondary-color);
     border: none;
@@ -138,7 +148,7 @@
     margin-top: 1rem;
   }
   
-  .next-btn:hover {
+  .button:hover {
     transform: scale(1.08);
     box-shadow: 0 0 15px rgba(0,0,0,0.15);
   }
