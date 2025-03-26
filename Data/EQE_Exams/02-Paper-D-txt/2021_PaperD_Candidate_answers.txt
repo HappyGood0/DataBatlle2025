@@ -1,0 +1,457 @@
+Based on legal text in force on 31.10.2019
+1.
+EP-A2 was not validly ﬁled
+A European divisional application shall be filed directly at the EPO in accordance with the implementing regulations [A76(1) EPC].
+A divisional application shall be filed in the language of the proceedings of the earlier application (or the language which the earlier application was
+filed in if that was a language other than an official language of the EPO) [R36(2) EPC].
+The language of proceedings for EP-A1 is English [A14(3) EPC], because EP-A1 was filed in English and that is an official language of the EPO [A14(1)
+EPC]
+Therefore, EP-A2 was not validly filed in accordance with A76(1) EPC and R36(2) EPC and will not be dealt with as a European patent
+application under A90(2) EPC.
+Validly ﬁle a divisional
+Applicant A needs to file a further divisional from EP-A1 directed to invention Y, referred to hereafter as EP-A3, in order to have invention Y searched.
+EP-A1 needs to be pending when EP-A3 is filed [R36(1) EPC]
+EP-A3 will meet this requirement:
+until the mention of grant of EP-A1 (but not including) [G1/09]; and
+until EP-A1 is deemed withdrawn, which is upon the expiry of the non-observed period [G4/98].
+Deadline to respond to A94(3) EPC communication is
+5 October 2020 + 10 days [R126(2) EPC] = 15 October 2020 + 4 months [R131(4) EPC] = Monday 15 February 2021
+This deadline has passed, so EP-A1 is deemed withdrawn [A94(4) EPC]
+Extension cannot be requested because the period has expired [GL E-VIII,1.6]
+Within two months from the notification under R112(1) EPC Applicant A therefore needs to request further processing [A121 EPC and R135 EPC] by
+paying the fee for further processing and filing a reply to the communication under A94(3) EPC [R135(1) EPC].
+Applicant A must do this before filing EP-A3 because a divisional filed after an application has been deemed withdrawn will only be filed if a remedy is
+applied successfully [J4/11 and GL A-IV,1.1.1]
+A divisional can only be filed in respect of subject-matter which does not extend beyond the content of EP-A1 [A76(1) EPC].
+EP-A3 will meet this requirement because EP-A1 described invention Y.
+EP-A3 needs to be filed in English because that is the language of proceedings of EP-A1 [R36(2) EPC]
+EP-A3 needs to be filed with the EPO in Munich, Hague, or Berlin [R36(2) EPC]
+Renewal fees already due for EP-A1 are due for EP-A3 on filing [R51(3) EPC].
+The first renewal fee for EP-A1 was due in 2020 because EP-A1 was filed in 2018 [A86(1) EPC]. Therefore, at least one renewal fee is due on filing for
+EP-A3.
+Therefore, Applicant A needs to:
+Pay the fee for further processing and filing a reply to the communication under A94(3) EPC to make EP-A1 pending.
+Once EP-A1 is pending, file EP-A3 in English at the EPO and pay at least one renewal fee.
+Only an indication that EP patent is sought (e.g. request for grant), applicant details, and description are required on filing [R40(1) EPC].
+To have invention Y searched
+The EPO shall, in accordance with the implementing regulations, draw up and publish a European search report on the basis of the claims [A92 EPC]
+The search can only start after the claims have been filed because the search report is based on the claims [A92 EPC]
+Therefore, Applicant A should file EP-A3 with claims directed to invention Y (although not needed for filing date) [R40(1) EPC]
+The filing fee and search fee are due within one month of the date of filing [R36(3) EPC]
+However, the search will only start after paying the filing fee and search fee, since the EPO only renders a service after payment of the corresponding
+fee.
+Therefore, Applicant A should pay the filing fee and the search fee on filing EP-A3.
+The amount of the filing fee and search fee is fixed in Rfees2(1)1 and Rfees2(1)2, respectively.
+2.
+Restoration of priority is not effective in the European phase
+An office has a choice of applying two different criteria when deciding whether to restore the right of priority to an international application
+[R.26bis.3(a) PCT]
+One criteria is the the failure occured in spite of due care [R.26bis.3(a)(i) PCT]
+Candidate's answer - Paper D - EQE 2021
+The other criteria is that the failure was unintentional [R.26bis.3(a)(ii) PCT]
+Only a restoration of priority based on the due care criterion is generally binding on all designated offices [R49ter.1(a) PCT]
+Restoration of priority based on unintentional criterai is only effective in designated offices that apply that criterion [R.49ter.1(b) PCT]
+The EPO applies the all due care criterion [AG-NP National Chapter EP, A122 EPC, R136(1) EPC, EPG 5.13.019]
+Therefore, because restoration was only based on unintentional criterion it is not effective and applicant B needs to take action before the
+EPO.
+Request restoration of priority before EPO
+A request may be filed during the national phase [R49ter.2(a) PCT]
+Therefore Applicant B needs to file a new request at the EPO as dO [EPG 5.13.022]
+The EPO will grant the request only if the following requirements are met:
+The filing date of PCT-B is within two months of the date on which the priority period expired [R.26bis.2(c)(iii) PCT]
+This criteria is met because the priority period expired on 2 August 2018 + 12 months [A4(C)(1) PC] = 2 August 2019 and therefore 9 August
+2019 is well within the two months
+The failure to file the claim occured in spite of all due care [R49ter.2(a) PCT and A122 EPC]
+This criteria is met.
+The request is filed within one month of the date on which the 31-month time limit for entry into EP phase under R159(1) EPC expired
+[R49ter.2(b)(i) PCT]
+The deadline under R159(1) EPC is from the priority date [R159(1) EPC].
+The deadline for filing the request is therefore 2 August 2018 + 31 months [R131(4) EPC] = 2 March 2021 - i.e. today!
+The fee for restoration of priority levied by the EPO is duly paid within the same time limit [R49ter.2(b)(iii), (d) PCT and R136(1) EPC]
+The fee is fixed in Rfees2(1)13
+The request for restoration is accompanied by a statement of reasons for the failure and any declaration or other evidence in support of the
+statement [R49ter.2(b)(ii) PCT and R136(2) EPC and T324/90]
+Therefore, Applicant B needs to file a request to restore priority, with reasons, and pay the accompanying fee, today 2 March 2021.
+6.
+1. Procedural steps for post-grant limitation
+At the request of proprietor F the European patent may be limited by amendment of the claims. [A105a(1) EPC]
+The request musy be made in accordance with the implementing regulations [A105a(1) EPC, R90-92 EPC]
+The request is not deemed filed until the limitation fee has been paid [A105a(1) EPC]. THe amount of the fee is fixed in Rfees2(1)10a]
+The request must be filed in writing [R92(1) EPC]
+The request must include details of the proprietor F [R92(2)(a) EPC] and the patent must be identified and a list of contracting states in which the
+patent has effect given [R92(2)(b) EPC]
+The amended claims must be given [R92(2)(d) EPC]
+Normally the descision on the request for limitation will have effect in all the Contracting States in respect of which EP-F has been granted [A105b(3)
+EPC]
+However, the decision may include a different set of claims for different contracting states if proprietor F requests this and informs the EPO of the
+existence of DE-G because DE-G is a national prior right [R138 EPC, GL D-X,10.1].
+Therefore proprietor F needs to:
+File a request for limitation in writing with the required information and pay the fee for limitation in accordance with A105a(1) EPC.
+File the amended claims in respect of Germany under R138 EPC
+Request that these are only for limitation of the claims in respect of Germany and inform the EPO of the existence of DE-G in
+accordance with R138 EPC
+2. Request will not be allowable
+The EPO examines whether the requirements laid down in the implementing regulations are met [A105b(1) EPC]
+The EPO examines whether the amended claims actually limit the patent and whether the requirements of A84 EPC, A123(2) EPC and A123(3) EPC are
+met [R95(2) EPC].
+The amended claim meets the requirements of A84 EPC because it is clear.
+The amended claim meets ther requirements of A123(2) EPC because such a food composition is unambiguously disclosed in the description of EP-F.
+However, the amended claim is not a limitation and does not meet the requirements of A123(3) EPC [H-IV, 3.4 and T2017/07 hn]:
+The proposed amended claim does not require that the food composition comprises 1 to 5% meat.
+Therefore it encompasses a composition comprising 1 % beef meat, but also e.g. 5% pork meat.
+Such a composition would comprise 6% meat, which is outside the scope of the claim of EP-F as granted, contrary to A123(3) EPC
+Therefore, the request with the claim proposed by the proprietor is not allowable.
+An exemplary amended claim which meets the requirements of A123(3) EPC would be: "A food composition comprising 1 to 5% meat and 1 to 5% beef
+meat"
+This amended claim meets the requirements of A84 EPC because it is clear.
+We will have to check whether this amended claim meets the requirements of A123(2) EPC. It may do if it is considered that there is implict
+basis for such a claim and the subject-matter does not extend beyond the teaching of EP-F, even if there is not explicit basis.
+Another exemplary amended claim which meets the requirements of A123(3) EPC is based on an undisclosed disclaimer: "A food composition
+comprising 1 to 5% meat, wherein the food composition does not comprise 3% of meat, wherein the meat is pork"
+This amended claim meets the requirements of A84 EPC because it is clear.
+Such an amendment meets the requirements of A123(2) EPC according to G1/16 because it exclude subject-matter for legal reasons and has no
+bearing on the technical information in the application.
+Based on legal text in force on 31.10.2019
+3.
+Refund of search and/or examination fees for EP-C1
+The search fee is fully refunded if the application is withdrawn, refused, or deemed withdrawn at a time the EPO has not yet begun to drawn up the
+search report [Rfees9(1), Not. EPO, OJ 2009 p.99]
+The EPO draws up the search report on the basis of the claims [A92 EPC]. Therefore, the search can only start after the claims have been filed.
+No claims have yet been filed for EP-C1 because the EPO has issued an invitation to file one or more claims.
+Therefore, the search has not yet begun.
+If client C does not respond to the invitation in due time then EP-C1 will be refused [A90(5) EPC]. The deadline for response is two months from the
+notification of the invitation [R58 EPC]
+Alternatively, client C could actively withdraw EP-C1 before the deadline expires by writing to the EPO requesting unconditional withdrawl of EP-C1. 
+The examination is refunded if the application is withdrawn, refused, or deemed withdrawn before substantive examination has begun [Rfees11(a)]
+Substantive examination has not started at least because the search has not been drawn up and the examining division has not assumed
+responsibility [R10 EPC]
+Once EP-C1 is refused for failure to reply to the invitation (or actively withdrawn) the EPO will then make a refund to the deposit account that client C
+has indicated in the refund instructions [ADA.8 and OJ 2019 A82]
+Therefore, both the search fee and examination fee will be fully refunded and client C does not have to actively do anything.
+Refund of search and/or examination fees for EP-C2
+No refund of the search fee is possible because the European search report has been transmitted [Rfees9(1)]
+The examination division can assume responsibility the day the search report is transmitted because the R70(2) EPC invitation was waived [R10(4) EPC]
+The first step is a top-up search do identify additional prior art and the date of this is recorded in the file [GL C-IV,7.1]. The date can also be accessed or
+requested [Not. EPO OJ 2013 p.153 and GL A-VI,2.5]
+If EP-C2 is actively withdrawn by client C before this first step has occured then the examination fee will be refunded in full [Rfees 11(a)]
+If EP-C2 is actively withdrawn by client C after this first step has occured then the examination fee will be refunded at a rate of 50% [Rfees 11(b)]
+because the first A94(3) EPC communication has not issued and a R71(3) EPC communication cannot be the first communication because of the
+novelty-destroying document.
+Therefore, the examination fee will be refunded in full or at a rate 50% if client C actively withdrawls EP-C2.
+4.
+EP-D0 is novelty-destroying for the subject-matter of the claim of EP-D1
+EP-D0 is not state of the art under A54(2) EPC whether or not the claim is entitled to priority:
+EP-D0 was published in Aug 2020, after the filing date of EP-D1 on 8 Jun 2020 and was therefore not publicly available prior to the effective date
+EP-D0 is state of the art under A54(3) EPC whether or not the claim is entitled to priority
+EP-D0 has a filing date of Feb 2019, prior to the date of filing of US-D on 7 June 2019
+EP-D0 was published in Aug 2020, after the filing date of EP-D1 on 8 Jun 2020
+Claim of EP-D1 therefore lacks novelty over EP-D0 as state of the art under A54(3) EPC [A54(1) EPC] because the disclosure of a bolt made of specific
+type of metal deprives the claim to a bolt made of a generic type of metal [GL G-IV,5]
+Therefore, EP-D0 is novelty-destroying from the subject-matter of the claim of EP-D1
+Restoring novelty over EP-D0
+An undisclosed disclaimer may be added to make the claim novel over prior art under A54(3) EPC, such as EP-D0 [G1/16].
+Such a disclaimer excludes subject-matter for legal reasons and has no bearing on the technical information in the application and therefore meets the
+requirements of A123(2) EPC [G1/16]
+Therefore, the claim can be amended to "a bolt made of metal other than aluminium"
+Such a claim does not go beyond the purpose of making the claim novel over EP-D0 in accordance with G1/03
+Therefore, claim EP-D1 can be amended to make its subject-matter novel
+If EP-D0 had been published in April 2020 it would be novelty-detroying for the subject-matter of
+the claim of EP-D1 and could not be overcome
+The priority claim is not valid because US-D is not the first application for the subject-matter of a bolt made of metal by applicant D [A87(1) EPC]
+EP-D0 is the first application by applicant D for a bolt made of metal, because aluminium is a type of metal.
+US-D cannot be the first application under A87(4) EPC because US-D and EP-D0 were filed in different states. Morover, EP-D0 was not withdrawn
+leaving no rights outstanding on the date of filing US-D because it subsequently published around two months later. [A87(4) EPC]
+The effective date of the claim is therefore 8 June 2020.
+EP-D0 is state of the art under A54(2) EPC because it was publicly available April 2020, before the effective date.
+Claim of EP-D1 therefore lacks novelty over EP-D0 as state of the art under A54(2) EPC [A54(1) EPC].
+An undisclosed disclaimer cannot be used because EP-D0 is not an accidental anticipation since it is in the same technical field [G1/03] and such a
+claim would not meet the requirements of A123(2) EPC.
+Therefore, if it was published in April 2020, EP-D0 is novelty-destroying from the subject-matter of the claim of EP-D1 and claim EP-D1 cannot
+be amended to make its subject-matter novel
+5.
+Situation A: rO
+The applicant must file the international application with a competent rO (A10 PCT]
+The applicant must choose between the rO of or acting for the state which he is resident or a national and the IB [R.19.1(a)(i)-(iii) PCT] 
+The EPO may act as rO if the applicant is resident of a contracting state, such as Portugal [A151 EPC, R157(1) EPC, OJ 2014 A33]
+Applicant E is a resident and national of Portugal so can file at National Institute of Industrial Property (Portugal), EPO or IB at the choice of the
+applicant [AG-IP, Annex B1]. Applicant E chose to file at the EPO.
+However, the EPO as rO accepts only French, German and English [R157(2) EPC]
+The EPO does not accept Portugese because the PCT is applied in accordance with only A150-153 EPC and the corresponding rules, not A14(2) EPC.
+Therefore, PCT-E will be transmitted to the IB under R.19.4(a)(ii) PCT which will then become the rO
+Situation A: translation
+Portugese is a language of publication [R.48.3(a) PCT] so no translation is required for publication.
+Where the IB is the rO the competent ISA is the ISA which would have been competent if the application had been filed at the rO which is the national
+office of acting for a contracting state of which the applicant is national or resident [R.35.3(a) PCT].
+The EPO is competent ISA for Portugal and EPO [AG-IP Annex C] and is therefore the competent ISA.
+The EPO as ISA will only accept English, French and German for the international search of PCT-E [AG-IP Annex D, ISA/IPEA agreement between EPO
+and WIPO]
+Therefore, applicant E must furnish to the IB as rO a translation of PCT-E into English, French or German within one month of reciept of the
+international application by the rO [R.12.3(a) PCT]. 
+The date of reciept is considered the date of filing at the EPO, i.e. 3 Jan 2021 [R.19.4(b) PCT]. Therefore that deadline was:
+ 3 Jan 2021 + 1 month [R.80.2 PCT] = 3 Feb 2021
+If the translation is not provided by the time the rO notifies the applicant of the filing date the rO will invite the applicant to furnish the application
+within one month from the date of reciept of the invitation [R.12.3(c)(i) PCT]:
+ 29 Jan 2021 + 1 month [R.80.2 PCT] = Sunday 28 Feb 2021 = next working day [R.80.5 PCT] Monday 1 March 2021
+The translation can still be filed two months after the invitation subject to payment of a late furnishing fee [R.12.3(c)(ii) PCT and R.12.3(e) PCT]
+If the translation is not filed in due time the rO will declare PCT-E is considered withdrawn [R.12.3(d) PCT].
+A translation filed before this declaration is deemed filed in due time [R.12.3(d) PCT]
+Therefore, a translation of PCT-E into English, French or German must be filed at the IB by Monday 1 March 2021
+Situation B: rO
+As described above, Applicant E is a resident and national of Portugal so can file at National Institute of Industrial Property (Portugal), EPO or IB at the
+choice of the applicant [AG-IP, Annex B1]
+As described above, the EPO as rO accepts English [R157(2) EPC]
+Drawings are not required to accord a filing date [A3(2) PCT and A11(1) PCT]
+Therefore, the EPO is competent rO.
+Situation B: translation
+All elements of the IA must normally be in the same language [AG-IP 5.013]
+The IA, including the drawings, must be filed with the EPO as rO [EPG 2.23.001]
+However, if the text matter in the drawings are in a language which is different from the description and claims then the rO will invite the applicant to
+furnish a translation [AG-IP 6.018 and R26.3ter(a)( PCT]
+The translation must be into the language in which the IA is to be published [R26.3ter(a) PCT] which will be English because the IA was filed in English
+[R48.3(a) PCT]
+The time limit is two months from the date of invitation [R26.3ter(a) PCT and R26.2 PCT]:
+29 Jan 2021 + 2 months [R.80.2 PCT] = Monday 29 March 2021
+Therefore, a translation of the text matter of the drawings into English must be filed at the EPO by Monday 29 March 2021
+1.
+SPRINGY leashes in general (S)
+W-JP
+W-JP is the first application for S
+However, W-JP was explictly withdrawn soon after publication in July 2018 so cannot lead to patent protection for this subject-matter.
+W-JP also cannot act as a priority application for a new application because it was filed 2 Jan 2017, over 12 months ago
+W-IT
+W-IT is the second application for S
+However, W-IT has been withdrawn so cannot lead to patent protection for this subject-matter.
+W-IT also cannot act as a priority application for a new application because it was filed 10 July 2017, over 12 months ago
+W-EP
+W-EP is the third application for S
+S is claimed in claim 1 of W-EP as granted
+Priority is claimed from WT-IT
+Relevant prior art (whether or not priority claim is valid):
+Puppy-press article published 4 Jan 2017 before effective date is state of the art under A54(2) EPC and discloses S
+Claim 1 of W-EP as granted lacks novelty over Puppy press article
+This objection was raised as a grounds in opposition by P
+W responded by limiting claim 1
+W-EP will not be maintained with claim to S and this has retroactive active [A68 EPC]
+Therefore W-EP will not provide patent protection for S
+A SPRINGY leash with an OH-NO fastener (S+O)
+W-JP
+W-JP is the first application for S+O
+However, W-JP was explictly withdrawn soon after publication in July 2018 so cannot lead to patent protection for this subject-matter
+W-JP also cannot act as a priority application for a new application because it was filed 2 Jan 2017, over 12 months ago
+W-IT
+W-IT is the second application for S+O
+However, W-IT has been withdrawn so cannot lead to patent protection for this subject-matter.
+W-IT also cannot act as a priority application for a new application because it was filed 10 July 2017, over 12 months ago
+W-EP
+W-EP is the third application for S+O
+S+O is claimed in claim 1 of W-EP as amended
+Priority is claimed from WT-IT
+Priority claim for S+O is invalid under A87(1) EPC because:
+W-IT is not the first application for S+O by W
+W-JP is the first application for S+O by W
+A87(4) EPC cannot apply such that W-IT is deemed the first application for S because W-JP was filed in a different state to W-IT and because W-JP
+was not explictly withdrawn until July 2018 which is after the fiing date of W-IT on 10 July 2017
+Effective date for amended claim 1 is 29 June 2018, the filing date of W-EP
+Relevant prior art:
+Puppy-press article published 4 Jan 2017 before effective date is state of the art under A54(2) EPC and discloses S
+HP-PCT is not state of the art under A54(2) EPC because it was not published prior to the effective date
+HP-PCT is not state of the art under A54(3) EPC because it was filed in Chinese, not an official language of the EPO and a translation has not
+been filed with the EPO [A153(5) EPC]
+Claim 1 of W-EP as amended is novel because Puppy press article does not disclose O 
+Claim 1 of W-EP as amended is inventive because O is designed to detach the leash from the collar if the strain exceeds a particular limit to avoid
+excessive strain on the dogs's neck. This technical effect is disclosed in W-EP. No prior art suggests such a feature or effect.
+Claim 1 of W-EP as amended meets the requirements of A123(2) EPC because it was in the description of W-EP (although not claimed)
+Claim 1 of W-EP as amended meets the requirements of A123(3) EPC because it is narrower in scope than S as another feature has been added (O)
+Claim 1 of W-EP as amended meets the requirements of R80 EPC because amendment was made in response to ground of opposition (i.e. lack of
+novelty of claim 1)
+Claim 1 of W-EP as amended is currently valid.
+W-EP will currently be maintained with claim to S+O and this has retroactive active [A68 EPC]
+Therefore W-EP will provide patent protection for S+O in UK, France, Italy and Germany because it is currently in force in those states.
+A SPRINGY leash with an OH-NO fastener and a COMEBACK cable
+(S+O+C)
+HP-PCT
+HP-PCT is first application for S+O+C
+S+O+C is claimed in claim 1 of HP-PCT
+Priority is not claimed
+Effective date for claim 1 is 18 June 2018, the filing date of HP-PCT
+Relevant prior art:
+Puppy-press article published 4 Jan 2017 before effective date is state of the art under A54(2) EPC and discloses S
+Claim 1 of HP-PCT is novel because puppy press article does not disclose O or C
+Claim 1 of HP-PCT is inventive because:
+O is designed to detach the leash from the collar if the strain exceeds a particular limit to avoid excessive strain on the dogs's neck. This
+technical effect is disclosed in HP-PCT. No prior art suggests such a feature or effect.
+C has a surprisingly positive effect on the behaviour of the dog. This technical effect is disclosed in HP-PCT. No prior art suggests such a feature
+or effect.
+Claim 1 of HP-PCT is valid.
+HP-PCT has entered China national phase and will provide patent protection for S+O+C in China
+However, HP-PCT has not entered EP regional phase. Deadline was:
+ 18 June 2018 + 31 months = 18 Jan 2021
+The deadline for entering EP regional phase has passed, therefore EURO-HP-PCT is deemed withdrawn and no patent protection will be provided for
+S+O+C in Europe.
+W-EP
+W-EP is the second application for S+O+C
+S+O+C is claimed in claim 2 of W-EP (as granted and amended)
+Priority is claimed from W-IT
+Priority is invalid for claim 2 because S+O+C is not disclosed in W-IT
+Effective date for claim 2 is 29 June 2018, the filing date of W-EP
+Claim 2 of W-EP is valid for the same reasons as claim 1 of HP-PCT
+HP-PCT is not state of the art under A54(2) EPC because it was not published prior to the effective date
+HP-PCT is not state of the art under A54(3) EPC because the filing fee has not been paid contrary to A153(5) EPC
+W-EP will currently be maintained with claim 2 to S+O+C
+Therefore W-EP will provide patent protection for S+O+C in UK, France, Italy and Germany because it is currently in force in those states.
+A SPRINGY leash with the YELP modiﬁcation (S+Y)
+W-EP
+W-EP is first application for S+Y
+S+Y is claimed in claim 3 of W-EP (as granted and amended)
+Priority is claimed from W-IT
+Priority is invalid for claim 3 because S+Y is not disclosed in W-IT
+Effective date for claim 3 is 29 June 2018, the filing date of W-EP
+Relevant prior art:
+Puppy-press article published 4 Jan 2017 before effective date is state of the art under A54(2) EPC and discloses S
+Although researchers at P developed S+Y in June 2018 there is no indication that this was made publicly available 
+Claim 3 is novel because Puppy-press article does not disclose Y
+Claim 3 is inventive because Y is surprisingly effective at causing a dog to stop pulling on the leash to reduce the effect of strain on the dog. This
+technical effect is disclosed in W-EP. No prior art suggests such a feature or effect.
+Unity is not a ground of opposition and W-EP as amended does not need to comply with requirement of unity [G1/91]
+Claim 3 of W-EP is valid.
+W-EP will be maintained with claim 3 to S+Y
+Therefore W-EP will provide patent protection for S+Y in UK, France, Italy and Germany because it is currently in force in those states.
+P-EP
+P-EP is second application for S+Y
+ The right to the European patent belongs to the first-to-file, not the first-to-invent [A60(2) EPC] - so it is not relevant that P developed
+invention in June 2018
+S+Y is not claimed in P-EP as granted
+It is too late to file a divisional application from P-EP because P-EP has granted and is therefore not pending
+It is too late to file an application claiming priority from P-EP because P-EP was filed on 2 July 2018, over 12 months ago
+Therefore, P-EP cannot provide protection for S+Y in Europe
+Notwithstanding, a claim to S+Y would lack novelty over W-EP
+W-EP is state of the art under A54(3) EPC because it was filed earlier and published later than filing date of P-EP
+W-EP is not a non-prejudicial disclosure, even though invention was developed by P in June 2018 because W developed invention
+independently.
+W-EP discloses S+Y therefore is novelty-destroying
+A SPRINGY leash with the YELP modiﬁcation and the AHHH modiﬁcation (S+Y+A)
+P-EP
+P-EP is first application for S+Y+A
+S+Y+A is not claimed in P-EP as granted
+It is too late to file a divisional application from P-EP because P-EP has granted and is therefore not pending
+It is too late to file an application claiming priority from P-EP because P-EP was filed on 2 July 2018, over 12 months ago
+Therefore, P-EP cannot provide protection for S+Y+A in Europe
+A SPRINGY leash with the YELP modiﬁcation and a sound barrier (S+Y+B)
+P-EP
+P-EP is first application for S+Y+B
+S+Y+B is claimed in claim 1 of P-EP as granted
+Priority is not claimed
+Effective date for claim 1 is 2 July 2018, the filing date of P-EP
+Relevant prior art:
+Puppy-press article published 4 Jan 2017 before effective date is state of the art under A54(2) EPC and discloses S
+W-EP was filed on 29 June 2018, before the effective date, and published after effective date, and least when granted 5 Aug 2019. Therefore, W-
+EP is state of the art under A54(3) EPC and discloses S+Y
+Claim 1 is novel
+Puppy-press article does not disclose Y or B
+W-EP does not disclose B
+Claim 1 is inventive
+W-EP is not citable for inventive step
+Starting from Puppy-press article Y is surprisingly effective at causing a dog to stop pulling on the leash to reduce the effect of strain on the
+dog. This technical effect is disclosed in P-EP. No prior art suggests such a feature or effect.
+Claim 1 lacks sufficiency
+A detailed description of at least one way of carrying out the invention must be given [GL F-III, 1 and A83 EPC]
+Burden lies with applicant when no single example or other technical information from which the invention can be plausibly carried out is
+provided [GL F-III,4 and T1329/11]#
+Therefore claim 1 lacks sufficiency because the description of P-EP does not include any suitable sound barrier (B) and indeed no barrier has
+yet been obtained. 
+Claim 1 of P-EP is invalid
+Lack of sufficiency has been raised by W as a ground in opposition.
+Therefore, claim 1 of P-EP will be revoked by the OD in opposition
+Revocation is retroactive
+Therefore, P-EP will not provide protection for S+Y+B in Europe
+2.
+P-EP cannot be saved
+Claim 1 of P-EP cannot be maintained because it lacks sufficiency.
+The only way to demonstrate sufficiency would be by showing that the teachings of P-EP are sufficient for the skilled person to obtain S+Y+B
+without undue burden
+However, since P has not been able to obtain S+Y+B this is not plausible
+Claim 1 of P-EP cannot be amended to replace the sound barrier feature with the AHHH modification because that would be contrary to A123(3) EPC.
+ The scope of S+Y+A is different from the scope of S+Y+B and therefore would extend the protection conferred by P-EP
+Therefore, P-EP is caught in an inescapable trap [GL H-IV, 3.6]
+As described above, it is too late to file a further application
+It is too late to file a divisional application from P-EP because P-EP has granted and is therefore not pending
+It is too late to file an application claiming priority from P-EP because P-EP was filed on 2 July 2018, over 12 months ago
+Therefore, P-EP cannot be saved.
+3.
+Enter EP regional phase with W
+As described above, HP-PCT has not entered EP regional phase. Deadline was:
+ 18 June 2018 + 31 months = 18 Jan 2021
+The deadline for entering EP regional phase has passed, therefore EURO-HP-PCT is deemed withdrawn.
+The EPO will communicate to H and P that EURO-HP-PCT is deemed withdrawn.
+H and P may use further processing to enter the EP regional phase
+The deadline for using further processing is two months from notification of the loss of rights
+If the notification has not been sent yet further processing can still be used before - there is no need to wait
+Therefore, H and P have until 18 Jan 2021 + 2 months = 18 March 2021 to complete the omitted acts and pay the further processing fee
+H and P need to complete the following omitted acts under R159(1) EPC by the deadline:
+Pay the filing fee (and any additional page fee) + 1 FP fee at 50% of filing fee
+Pay the designation fee + 1 FP fee
+Pay the search fee + 1 FP fee
+File request for examination and pay exam fee + 1 FP (flat fee + 50% of exam fee)
+Subsequently, HP-PCT will valdily enter EP regional phase as EURO-HP-PCT
+Once filing fee is paid, EURO-HP-PCT will provide provisional patent protection for S+O+C [as a consequence of A153(4) EPC, EPG 5.16.003]
+Therefore entry to EP regional phase should be effected ASAP to obtain provisional protection
+To obtain provisional protection in IT, FR and DE a translation of the claims must be filed in Italian, French and German, respectively -
+provisional protection will apply from when translation is made available to the public
+To obtain provisional protection in GB no translation is necessary because HP-PCT is in English - provisional protection will apply from date of
+publication of HP-PCT (shortly after 18 Dec 2019) - W was already selling S+O+C in GB so damages can be obtained from this date
+As described above, Claim 1 of HP-PCT is valid.
+Therefore, EURO-HP-PCT is expected to proceed to grant and provide patent protection for S+O+C in whichever contracting states it is validated in
+H and P should validate in at least IT by filing a translation of the patent specification
+National right will arise in GB, DE and FR automatically following grant
+H will need to be represented by a professional representative
+Therefore because 31 month deadline has passed H need to appoint a professional representative entitled to practise before the EPO to act on
+their behalf and perform the necessary acts for late entry to the EP regional phase [GL E-IX,2.3.1] e.g. request for examination
+Although the fees (including filing fee) can be paid by anyone [EPG 5.3.009]
+Also to ensure P is deemed common representative and can act during prosecution they should also appoint a professional representative (can
+be the same) [R151(1) EPC]
+If professional representative is not appointed in due time EPO will invite H to do so.
+Cite EURO-HP-PCT in opposition against W-EP and ﬁle W-JP
+P should file W-JP and argue that claims 1-2 (as granted and amended) do not validly claim priority because W-IT is not the first application for this
+subject-matter.
+Although evidence is late-filed it will be taken into account because it is prima facie relevant to novelty for the reasons below
+Claim 3 (as granted an amended) does not validly claim priority.
+All claims of W-EP therefore have an effective date of 29 June 2018
+P should file EURO-HP-PCT and argue that claims 1-2 (as granted and amended) lack novelty
+Although evidence is late-filed it will be taken into account because it is prima facie relevant to novelty for the reasons below - moreover it was
+not relevant to novelty previously!
+Once filing fee is paid for HP-PCT and enters EP regional phase as EURO-HP-PCT, it becomes relevant for opposition against W-EP:
+EURO-HP-PCT becomes state of the art under A54(3) EPC because it was filed on 18 June 2018, prior to effective date and published after the
+effective date
+EURO-HP-PCT describes and claims S+O+C 
+Effect on valdity:
+ Claim 1 of W-EP as granted (S) lacks novelty over EURO-HP-PCT because EURO-HP-PCT discloses S+O+C and disclosure of a specific
+embodiment is novelty-destroying for the generic
+ Claim 1 of W-EP as amended (S+O) lacks novelty over EURO-HP-PCT because EURO-HP-PCT discloses S+O+C and disclosure of a specific
+embodiment is novelty-destroying for the generic
+ Claim 2 of W-EP as granted and amended (S+O+C) lacks novelty over EURO-HP-PCT because EURO-HP-PCT discloses S+O+C
+ Claim 3 of W-EP is still valid because EURO-HP-PCT does not disclose S+Y
+Therefore, W-EP claims 1 and 2 are invalid.
+W-EP is not expected to be maintained with claims 1 and 2. This effect is retroactive and therefore W-EP will not provide any patent protection for S,
+S+O or S+O+C.
+W-EP may still provide patent protection for S+Y.
+4.
+P can stop W from making and selling S+O+C
+As described above, once EURO-HP-PCT is granted and validated in IT it will provide patent protection for S+O+C in IT, GB, FR and DE
+P can stop W from making S+O+C in Italy (and GB, FR, DE)
+P will have provisional protection once EURO-HP-PCT enters EP phase and translation of claims in Italian is filed
+P can stop W from selling S+O+C in IT, GB, FR, DE
+P will have provisional protection once EURO-HP-PCT enters EP phase and translation of claims in Italian, French and German is filed
+W can stop P from making and selling S+Y or S+Y+A or S+Y+B
+W-EP is granted an in force
+As described above, W-EP will be limited to S+Y (at best) and will provide patent protection in GB, FR, IT and DE
+Protection will cover S+Y, S+Y+A and S+Y+B since these fall within scope of S+Y and claim 3 uses opene ended "comprising" or "having"
+language
+W can stop P from making S+Y, S+Y+A and S+Y+B in GB (and IT, FR (and DE))
+W can stop P from selling S+Y, S+Y+A and S+Y+B in GB, IT, FR (and DE)
+Although P researchers develope S+Y in June 2018 they were not making or selling S+Y and therefore it is very unlikely that they can use any public
+prior use defence
+Potential strategy
+P should not start making S+Y, S+Y+A or S+Y+B in GB or selling in GB, IT or FR unless they can agree a cross licence with W
+Cross-licence could offer to at least allow W to continue selling S+O+C in DE since P does not intend to do that
+P will need agreement of H to grant this licence
+In return P could try to obtain some rights from W to make and sell S+Y or S+Y+A

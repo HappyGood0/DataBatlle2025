@@ -1,0 +1,427 @@
+- 1 - 
+ 
+Examiners’ Report – Paper D 2021 
+ 
+ 
+Purpose and extent of the examiners' report 
+ 
+The purpose of the present examiners' report is to enable candidates to prepare for future 
+examinations (cf. Art. 6(6) of the Regulation on the European qualifying examination for 
+professional representatives). 
+ 
+General comments 
+ 
+Candidates are reminded that they should pay attention to the way the questions are 
+asked and should not simply repeat information from the paper in the answer. Repeating 
+information per se is not awarded any marks. Alternative answers, one being correct and 
+one being wrong, for the markers to choose from do not attract any marks. 
+ 
+In Part I, full marks were only awarded when the full legal basis was cited to support the 
+analysis. Citing only the legal basis or repeating the text therefrom without any further 
+explanation, reasoning or providing advice generally does not attract any marks. 
+However, alternative relevant legal bases also attracted marks. 
+ 
+An unnecessary amount of points was sometimes lost due to miscalculation of time limits. 
+ 
+Candidates are reminded that the PCT questions may make up a substantial part 
+of paper D. 
+- 2 - 
+ 
+Examiners’ Report – Paper D 2021, Part I 
+ 
+Question 1 (9 marks) 
+ 
+Most candidates realized that EP-A2 was not filed in the language prescribed, however 
+fewer realized legal consequences and accordingly the necessity to revive EP1 so that a 
+new divisional can be filed. Many candidates erroneously suggested to merely file a 
+translation for EP-A2. 
+ 
+Question 2 (8 marks) 
+ 
+This question was reasonably well answered. Most of the candidates realized that the 
+EPO is not bound by the decision of any receiving office under the “unintentional criterion”. 
+Many candidates also correctly indicated the steps required to ensure that the restoration 
+of the right of priority is effective in the European phase. The required payment of a fee for 
+requesting restoration was sometimes forgotten. 
+ 
+Question 6 (8 marks) 
+ 
+The question regarding the procedural steps to be taken before the EPO to request 
+amendment of the claim in respect of Germany was well answered, although some 
+candidates did not realize the need to use the limitation procedure (not realizing that the 
+examination phase was over). Very few candidates realized that the amendment 
+proposed did not meet the requirements of Art. 123(3) EPC.  
+ 
+Question 3 (7 marks) 
+ 
+The question about EP-C1 was well answered. Regarding EP-C2, many candidates did 
+not realize that the search report was issued with a first communication under Art. 94(3) 
+EPC, not with a written opinion. Although some candidates realized that the examining 
+division was responsible, they still suggested to check in the register if the examination 
+already started. 
+ 
+Question 4 (8 marks) 
+ 
+Questions (a) and (b) were generally well answered. 
+Regarding question (c), many candidates failed to see the partial priority aspect. 
+Nevertheless, some candidates correctly concluded that any amendment excluding 
+- 3 - 
+ 
+aluminium would violate the requirements of Art. 123(2) EPC. 
+ 
+Question 5 (10 marks) 
+ 
+This question was generally well answered, but marks were often lost for not providing 
+legal basis. Some candidates overlooked that from the perspective of nationality or 
+residence the EPO was a competent receiving office. Some candidates correctly 
+calculated time limits but did not draw any conclusion regarding if it is still possible to 
+take action or not.
+- 4 - 
+ 
+Possible Solution – Paper D 2021, Part I 
+ 
+References to the legal basis are referring to the status on 31 October 2020. 
+Answer to Question 1 (9 marks) 
+The time limit for responding to the Art. 94(3) EPC communication expired on 15 
+February 2021 5.10.20+10d (Rule 126(2) EPC) +4m=15.02.21 (Rule 131(4) EPC). 
+Thus, EP-A1 is deemed withdrawn, Art. 94(4) EPC . 
+ 
+EP-A2 was filed before the loss of right i.e. while EP-A1 was pending in the sense of 
+Rule 36(1) EPC, but it was not filed in the language prescribed by Rule 36(2) EPC. 
+Therefore EP-A2 cannot be treated as a valid divisional application, J13/14. 
+ 
+A further divisional application EP-A3 of EP-A1 should be filed in English. EP-A3 
+should claim invention Y.   
+ 
+A divisional application can only be filed if the loss of rights of EP-A1 is remedied, Art. 
+121(3) in conjunction with Rule 36(1) EPC. A should thus request further processing, 
+Art. 121 EPC in respect of EP-A1, i.e. pay the further processing fee and file an answer 
+to the communication thereby reviving EP-A1. 
+ 
+The filing fee and search fee for EP-A3 have to be paid, Rule 36(3) EPC. 
+ 
+Renewal fees already due in respect of EP-A1 have to be paid for EP-A3, Art. 86(1) 
+and Rule 51 (3) EPC. 
+ 
+Answer to Question 2 (7 marks) 
+ 
+The deadline for filing an international application claiming priority of application US-B 
+was 12 months from the filing date of US-B, 2 August 2019, Art. 8(2)(a) PCT and Art. 
+4C(1) Paris Convention.  
+ 
+Hence PCT-B was filed after expiry of the priority period but within two months from the 
+date on which the priority period expired, Rule 49ter.2(a) PCT. 
+- 5 - 
+ 
+Yes, the applicant B needs to take action at the EPO as designated office as the 
+restoration granted by the USPTO as receiving office will not automatically be effective 
+before the EPO because the EPO is not bound by the decision of any receiving office 
+under the “unintentional criterion”, OJ 2007 p. 694 
+To ensure that priority is restored during the European phase, the applicant should 
+request restoration of priority within one month from the date on which the Art. 22 PCT 
+time limit expires, Rule 49ter.2(b)(i) PCT. 
+ 
+Rule 159(1) EPC sets a 31-month deadline  
+02.08.2018+31m=02.03.2021 (Rule 80.2 PCT) 
+02.03.2021 +1m =02.04.2021 (Rule 80.2 PCT)-> 06.04.21 (Rule 80.5 PCT) 
+ 
+The fee for restoration of priority must be paid within the same time limit, Rule 
+49ter.2(b)(iii),(d) PCT. 
+ 
+The request for restoration of priority must be accompanied by a statement of reasons for 
+the failure to file the international application within the priority period Rule 49ter.2(b)(ii) 
+PCT. 
+ 
+Answer to Question 6 (8 marks) 
+ 
+(1) The procedural steps to be taken before the EPO to request amendment of 
+the claim in respect of Germany are the following: 
+ 
+Request limitation and pay the limitation fee, Art. 105a(1) EPC. 
+ 
+The request must comply with the requirements of Rule 92 (2) EPC and thus file 
+a) the particulars of the proprietor 
+b) the number of the patent 
+c) amended claims and description  
+d) the particulars of the representative if required 
+ 
+A separate claim for Germany must be submitted and the EPO must be informed 
+of DE-G, Rule 138 EPC. 
+Indicate that the claims for other contracting states remain unchanged. 
+- 6 - 
+ 
+ 
+(2) The proposed amendments are not allowable because the upper limit of 5% 
+now applies to beef meat only. Therefore for example a food composition with 3% 
+pork meat + 3% beef would fall within the scope of the amended claim but not in 
+the claim as granted, Guidelines H-IV, 3.4. 
+ 
+The request will thus be rejected, Art.105b(2) EPC as it does not meet the 
+requirements of Art. 123(3) EPC, Rule 95(2) EPC 
+ 
+Answer to Question 3 (7 marks) 
+ 
+EP-C1 
+ 
+The search will not start if no claim is filed, Art. 92 EPC. Thus, by not responding to the 
+invitation under Rule 58 EPC or by actively withdrawing the application, the search fee will 
+be refunded in full, Rfees Art. 9(1). 
+ 
+The examination fee will be reimbursed in full, Rfees Art. 11(a). 
+ 
+EP-C2 
+ 
+The search fee will not be refunded since the search report was already issued Rfees Art. 
+9(1). 
+ 
+The search report was issued with a first communication under Art. 94(3) EPC, OJ 2015 
+EPO A94,  because: 
+- EPO Form 1001 contains a pre-filled request for examination 
+- the applicant waived his right under Rule 70(2) EPC and paid the examination fee and 
+thus 
+- the examining division has already assumed responsibility, Rule 10(4) EPC 
+- the application is not in order for grant as a novelty destroying X document was cited in 
+the search report. 
+ 
+The client can only get a 50% refund by actively withdrawing the application before expiry 
+- 7 - 
+ 
+of the time limit to reply to the communication, Rfees Art. 11(b). 
+ 
+Answer to Question 4 (8 marks) 
+a) EP-D0, which is a European patent application, was filed before the effective dates of 
+EP-D1's claim but published after. EP-D0 forms therefore part of the prior art relevant for 
+novelty for subject-matter of claim 1, Art. 54(3) EPC. 
+Yes, EP-D0 is novelty destroying because it discloses the subject-matter “aluminium” 
+(ALU). 
+ 
+b) Yes, the claim of EP-D1 can be amended to make its subject-matter novel by disclaiming 
+the species ALU, which is possible because EP-D0 is a novelty destroying prior right 
+document under A 54(3) EPC, G1/16. 
+c) EP-D1 was filed within the priority year by the same applicant as US-D, Art. 87(1) EPC. 
+The subject-matter “metal” can be conceptually divided into the subject-matter “aluminium” 
+(ALU) and the subject-matter “metal but not aluminium” (NOTALU), G1/15.  
+For the subject-matter ALU, US-D is not the “first application” in the sense of Art. 87(1) EPC 
+because EP-D0 is also from applicant D and discloses the subject-matter ALU. 
+Therefore the claimed priority is not valid for the subject-matter ALU and the effective date 
+of the subject-matter ALU is 8 June 2020. 
+For the subject-matter NOTALU, US-D is the “first application” and thus the effective date of 
+the subject-matter NOTALU is 7 June 2019. 
+c-a) Then answer to a) would be Yes: 
+In that case EP-D0 was published before the effective date of the subject-matter ALU but 
+after the effective date of the subject-matter NOTALU. 
+EP-D0 thus forms part of the prior art under Art. 54(2) EPC for the subject-matter ALU and 
+under Art. 54(3) EPC for the subject-matter NOTALU. 
+c-b) Then answer to b) would be No: 
+- 8 - 
+ 
+Any amendment excluding ALU would violate Art. 123(2) EPC. 
+ 
+Answer to Question 5 (10 marks) 
+ 
+(1) The EPO as receiving Office (rO) does not accept Portuguese as a language in 
+which the international application may be filed, Rule 157(2) EPC. 
+ 
+Hence the EPO will transfer the international application to the International 
+Bureau (IB), Rule 19.4(a)(ii) PCT, which is thus the competent rO,  Rule 19.4(b) 
+PCT. 
+ 
+(2) Portuguese is not accepted by ISA/EPO to carry out the international search, 
+Agreement EPO-WIPO, Annex A. 
+Hence the invitation sent by rO/IB is an invitation under Rule 12.3(c)(i) PCT to file a 
+translation of the international application into EN, DE, FR for the purpose of the 
+international search. 
+The time limit under Rule 12.3(a) PCT already expired (on 03.02.2021). 
+ 
+The translation can still be filed within whichever of the following time limits expires 
+later, Rule 12.3(c)(ii) PCT: 
+(a) 29.01.2021 + 1m = 28.02.2021(Sunday) (Rule 80.2 PCT)->01.03.2021 (Rule 
+80.5 PCT) 
+(b) 03.01.2021 + 2m = 03.03.2021 (Rule 80.2 PCT)  
+so tomorrow at the latest. 
+ 
+A late furnishing fee must be paid to rO/IB with the same time limit, Rule12.3(c)(ii) 
+PCT. 
+ 
+(3) The applicant has both nationality and residence of an EPC Contracting State. 
+Hence, from the perspective of nationality or residence the EPO is a competent rO 
+according to Rule 19.1(a) PCT. 
+ 
+The EPO accepts English as a language in which the international application may 
+be filed, Rule 157(2) EPC. 
+ 
+- 9 - 
+ 
+Hence the EPO is the competent rO, Rule 19.1(a)(i) PCT. 
+ 
+(4) The text of the drawings is in a different language than the language of the 
+description and the claims. Hence the invitation is an invitation under Rule 
+26.3ter(a) PCT to furnish a translation of the text of the drawing into the language 
+in which the international application is to be published (English). 
+ 
+This translation must be filed at the latest on 29.01.2021 + 2m = 29.03.2021 (Mo) 
+(Rule 80.2 PCT), Rule 26.2 PCT. 
+ 
+ 
+- 10 - 
+ 
+Examiners’ Report – Paper D 2021, Part II 
+ 
+This year’s Part II of paper D required candidates to analyse a complex patent situation 
+recognising an invalid claim to priority, prior art under Article 54(3) EPC, sufficiency of 
+disclosure, the possibility of a PCT application entering the European phase late, the effect 
+of Articles 123(2) and 123(3) EPC and the admissibility of submissions in the opposition 
+procedure. 
+ 
+The order of the questions provided a structure for candidates to conduct a complete 
+analysis of the patent situation before considering improvements and consequences. 
+Candidates who followed this structure generally did well in the analysis and spotted most of 
+the relevant issues. Providing the current status of the rights includes an assessment of the 
+validity of those rights. Candidates who immediately proposed improvements without fully 
+analysing the situation as outlined in the paper often missed several relevant issues. 
+ 
+Many candidates recognised that W-IT is not the first application in respect of a SPRINGY 
+leash (S) and a SPRINGY leash with OH-NO fastener (S+O), though in some cases HP-PCT 
+was incorrectly judged to be prior art under Article 54(3) EPC in respect of P-EP or W-EP in 
+spite of not having entered the European phase. Some candidates concluded that the 
+Japanese patent application W-JP constituted prior art for these patents under Article 54(3) 
+EPC leading to incorrect conclusions. 
+ 
+Candidates exhibiting a proper understanding of the interplay between Articles 123(2) and 
+123(3) EPC in respect of the subject matter of P-EP answered question 2 well, recognising 
+that the deficiencies in P-EP cannot be remedied in opposition proceedings and P-EP will be 
+revoked. However, a worrying number of candidates suggested amending the claim of P-EP 
+to remove the feature of a sound barrier (B), or replacing or supplementing B with the AHHH 
+modification (A). 
+ 
+A number of candidates surprisingly proposed filing a divisional application on the basis of 
+granted patent P-EP.  
+ 
+In the improvement of the situation, many candidates recognised the opportunity to enter the 
+European phase in HP-PCT using further processing, though few noted the need to for the 
+Chinese co-applicant, HOUND, to appoint a professional representative. 
+- 11 - 
+ 
+ 
+When HP-PCT is in the European phase, a number of practical steps are necessary to 
+ensure it is taken into account as prior art under Article 54(3) EPC. Most candidates skipped 
+at least one of these steps. In particular, in addition to requesting the admission of evidence 
+into the procedure citing the regionalised HP-PCT application, it is necessary to evidence the 
+new fact that the subject matters S+O and S+O+C in W-EP have, as effective date, the filing 
+date of W-EP. Candidates often neglected to mention this important fact to show the 
+invalidity of the claims as amended in W-EP. Furthermore, some candidates omitted to 
+request the admission of HP-PCT to the opposition procedure as relevant prior art under 
+Article 54(3) EPC for W-EP. 
+ 
+Additionally, some candidates incorrectly concluded that amended claim 1 of W-EP directed 
+to S+O is novel over the disclosure of a SPRINGY leash with OH-NO fastener and a 
+COMEBACK cable (S+O+C) in HP-PCT in the European phase. 
+ 
+Candidates were generally good at identifying the individual states in which patent protection 
+can be obtained by each of the parties, noting the respective states of interest to the parties, 
+and in summarising the effects of the protection obtained on competitors. 
+ 
+ 
+- 12 - 
+ 
+ 
+Possible Solution – Paper D 2021, Part II 
+ 
+1. What is the current patent situation in respect of:  
+SPRINGY leashes in general (S)? 
+W-JP is the first application containing S and was published in July 2018. It is withdrawn so 
+will not provide protection. W-IT contains S and is withdrawn. HP-PCT discloses, but does 
+not claim, S and will have published around December 2019. W-EP claims priority from W-
+IT. However, W-IT is not the first application in respect of subject matter S and so the claim 
+to priority in W-EP is not valid in respect of subject matter S. The effective date for subject 
+matter S in W-EP is the filing date of W-EP. W-JP published after the effective date of S 
+in W-EP. The PUPPY-PRESS paper is prior art for all pending patent applications and 
+granted patents. The claim to S in W-EP as granted is not novel over PUPPY-PRESS. P-EP 
+discloses, but does not claim, S and is granted. As the situation currently stands no valid 
+patent protection for S exists. 
+ 
+A SPRINGY leash with an OH-NO fastener (S+O)? 
+W-JP is the first application containing S+O and was published July 2018. It is withdrawn so 
+will not provide protection. W-IT contains S+O and is withdrawn. HP-PCT discloses, but does 
+not claim, S+O and will have published. S+O is present in W-EP as originally filed so the 
+amended claim 1 of W-EP does not add subject matter. The claim to S+O in W-EP does not 
+extend the scope of protection of W-EP as granted. W-EP claims priority from W-IT. 
+However, W-IT is not the first application in respect of subject matter S+O and so the claim 
+to priority in W-EP is not valid in respect of subject matter S+O. The effective date for subject 
+matter S+O in W-EP is the filing date of W-EP. HP-PCT has not entered the European phase 
+and so does not form part of the state of the art for W-EP. There is no prior art 
+disclosing S+O for W-EP so the claim to S+O in W-EP is novel. S+O in W-EP is surprisingly 
+clever, so it is inventive. According to the current situation W-EP is likely to be maintained in 
+amended form with a claim to S+O. 
+ 
+A SPRINGY leash with an OH-NO fastener and a COMEBACK cable (S+O+C)? 
+HP-PCT is the first application directed to S+O+C. There is no prior art for HP-PCT 
+disclosing S+O+C so the claim to S+O+C in HP-PCT is novel. HP-PCT is likely to lead to a 
+granted patent in China giving protection for S+O+C to PUGZ and HOUND. W-EP claims 
+priority from W-IT but W-IT does not disclose S+O+C. The effective date for the subject 
+matter S+O+C in W-EP is the filing date of W-EP. There is no prior art for W-EP disclosing 
+- 13 - 
+ 
+S+O+C (HP-PCT did not enter the European phase) so the claim to S+O+C in W-EP is 
+novel. S+O+C in HP-PCT and W-EP has a surprisingly positive effect, so it is inventive. 
+According to the current situation, W-EP is likely to be maintained in amended form with a 
+claim to S+O+C. 
+ 
+A SPRINGY leash with the YELP modification (S+Y)? 
+W-EP is the first applications directed to S+Y. W-EP claims priority from W-IT but W-IT does 
+not disclose S+Y. The effective date for the claim to S+Y in W-EP is the filing date of W-EP. 
+There is no prior art for W-EP disclosing S+Y so the claim to S+Y in W-EP is novel. S+Y in 
+W-EP is surprisingly effective, so it is inventive. According to the current situation W-EP is 
+likely to be maintained in amended form with a claim to S+Y.  
+ 
+A SPRINGY leash with the YELP modification and the AHHH modification (S+Y+A)? 
+P-EP is the only application to contain S+Y+A. P-EP discloses, but does not claim, S+Y+A 
+which was published around January 2020. There are no granted patents or pending 
+applications claiming S+Y+A.  
+ 
+A SPRINGY leash with the YELP modification and a sound barrier (S+Y+B)? 
+P-EP is the only application to contain S+Y+B. P-EP discloses and claims S+Y+B which was 
+published around January 2020 and is granted. B is not sufficiently disclosed in P-EP and it 
+is not known how to make B. WUFF’s opposition of P-EP is likely to be successful. 
+ 
+2. Can we save our patent P-EP and why? Give a reasoned analysis. 
+The opposition period for P-EP expires 12th August 2021, so WUFF’s opposition was filed in 
+time. W-EP does not disclose feature B and the claim of P-EP is therefore novel over W-EP.  
+Feature B in the claim of P-EP cannot be deleted or replaced without extending the scope of 
+protection. It is also not possible to add sufficient disclosure for feature B to P-EP without 
+adding subject matter. Thus, the deficiencies in P-EP cannot be remedied in opposition 
+proceedings and P-EP will be revoked. 
+ 
+3. What improvements can we make to the current patent situation? 
+The deadline for entering the EP regional phase for HP-PCT was 18th January 2021. This 
+date has passed although it is still possible for HP-PCT to enter the EP phase. To do 
+this, pay the fees for further processing and fulfil the requirements for entry to the European 
+phase, including paying the renewal fee in respect of the 3rd year with the surcharge. HP-
+- 14 -
+PCT will form part of the state of the art for novelty only for W-EP. The Chinese co-
+applicant HOUND must appoint a professional representative before the EPO. 
+HP-PCT discloses S+O+C and, since it forms part of the state of the art, it anticipates the 
+claim directed to S+O and the claim directed to S+O+C in W-EP. After HP-PCT enters to the 
+European phase, file written submissions in the opposition proceedings filing the new 
+evidence W-JP and file HP-PCT – having entered the European phase – identifying the 
+invalid claim to priority and the lack of novelty of the amended claims in view of HP-PCT. 
+The new evidence and argument are admissible because, since feature O was introduced 
+into claim 1 from the description during opposition proceedings, there is a change to the 
+subject of proceedings. Furthermore, HP-PCT was not prior art before it entered the 
+European phase and so could not be cited earlier. 
+W-EP will not be maintained as currently amended. W-EP can give WUFF protection for 
+S+Y.
+Once HP-PCT has entered the European phase, file translations of claims of HP-PCT into 
+French, German and Italian to obtain provisional protection in FR, DE, IT. 
+4. After our improvements:
+Which products will we be able to stop WUFF from making and selling?  
+When granted in the European phase, HP-PCT will provide protection for S+O+C in Europe 
+by validating in IT and maintaining in FR, UK, DE. PUGZ can stop WUFF making or selling 
+products containing S+O+C in EP states in which HP-PCT in the European phase is 
+validated or maintained, and China.  
+Which products will WUFF be able to stop us from making and selling? 
+An amended W-EP claiming S+Y will enable WUFF to prevent PUGZ from using any product 
+comprising S+Y, including S+Y+A, in EP states in Europe in which W-EP is 
+validated or maintained. 
+ Examination Committee III: Paper D - Marking Details - Candidate No 
+Category

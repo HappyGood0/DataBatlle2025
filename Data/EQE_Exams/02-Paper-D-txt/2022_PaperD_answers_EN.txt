@@ -1,0 +1,442 @@
+1 
+ 
+Examiners’ Report – Paper D 2022 
+ 
+ 
+Purpose and extent of the examiner’s report 
+The purpose of the present examiner’s report is to enable candidates to prepare for future examinations 
+(cf. Art 6(6) of the Regulations on the European qualifying examination for professional representatives). 
+ 
+General comments: 
+Candidates are reminded that they should pay attention to the way questions are asked and should not 
+simply repeat information form the paper in the answer. Repeating information per se is not awarded any 
+marks. Alternative answers, one being correct and one being wrong, for the markers to choose from do not 
+attract any marks. 
+ 
+In part I, full marks are only rewarded when the full legal basis was cited to support the analysis; candidates 
+lost many marks due to incomplete legal basis.  
+ 
+Citing only the legal basis or repeating the text therefrom without any further explanation, reasoning or 
+providing advice generally does not attract any marks. However, alternative relevant legal basis not 
+mentioned in the model solution also attracted marks. It is noted in this respect that the online 
+examination with direct access to part of the syllabus in electronic form, appears to be seen as an invitation 
+to copy articles, rules and paragraphs from the guidelines, for which full marks are only awarded if apart 
+from the copied text, also the explanation is provided in view of the situation in the question. 
+ 
+Candidates are reminded that the PCT questions make up a substantial part of paper D. 
+ 
+ 
+2 
+ 
+Examiners’ Report – Paper D 2022, Part I 
+ 
+ 
+Question 1 (8 marks): 
+Most of the candidates realized that the time limit to reply to the communication under Article 94(3) EPC 
+and the time limit for applying for further processing already expired and a request for re-establishment of 
+rights in respect of the time limit for further processing has to be made to further prosecute the 
+application.  
+Few candidates recognized the need to pay the renewal fees for the 5th and 6th year that became due on 
+the date of notification of the decision re-establishing the rights and that the provisions of Rule 51(4)a) EPC 
+applied. 
+ 
+Question 2 (10 marks): 
+Most of the candidates proposed requesting a correction of the spelling mistake. Fewer realized that a 
+request for correction under Rule 139 EPC triggers the procedure under Rule 71(6) EPC.  
+Some of the candidates still requested to waive the right to receive a further communication under Rule 
+71(3) EPC (waiver option) without expressing the applicant’s agreement to the text to be granted. However, 
+the EPO does not process these waivers any more. 
+Some candidates suggested to approve the text as proposed for grant with the first communication under 
+Rule 71(3) EPC and thereafter to request the correction of the spelling mistake while EP-B is still pending. 
+This approach would lead to a further delay of the conclusion of the grant procedure of EP-B contrary to 
+the wish of the applicant. 
+Full points were also attributed to candidates who suggested expressing the applicant’s agreement to the 
+text to be granted immediately after receiving the second communication under Rule 71(3) EPC, if the 
+translations of the corrected claims and the fee for grant and publishing had already been filed and paid 
+respectively in reply to the first communication under Rule 71(3) EPC. 
+Many candidates overlooked paying the renewal fee for the fourth year. 
+The necessary steps to be taken to have the European patent application take effect in the Netherlands 
+were less well answered. 
+ 
+Question 3 (8 marks): 
+This question was generally well answered. Most of the candidates realized that no supplementary 
+international search report can be established for C2, as its basis is the set of claims as filed, and that C2 
+can be the subject of a supplementary European search and can be examined under the provision of Rule 
+164(2) EPC. 
+ 
+Question 4 (6 marks): 
+Several candidates came to the right conclusion that EP-D3 was not entitled to the priority date of EP-D2. 
+However, many of them did not realize and/or provide the correct legal basis why the disclosure of EP-D2 
+does not enable the skilled person to carry out the method for producing product D2 starting from raw 
+material D1. Even fewer candidates explicitly stated that D2 is sufficiently disclosed in EP-D4. 
+ 
+Question 5 (5 marks): 
+Due to different publication dates for the article given in the English, German and French versions of the 
+paper, the Examination Board decided to award full marks to all candidates for question 5. 
+ 
+Question 6 (8 marks): 
+Many candidates realized the asymmetry between opposition and appeal proceedings in relation to the 
+continuation of the opposition proceedings ex officio. However, few candidates realized that the opposition 
+and appeal proceedings are not pending any more in situation 2, and that limitation is possible under 
+Article 105a(2) EPC to address the lack of novelty in view of D1. 
+3 
+ 
+Likewise, few candidates realized that the withdrawal of the opposition by the sole opponent-appellant is 
+interpreted as withdrawal of the appeal, and that the correct legal basis for this conclusion is G8/93. 
+ 
+ 
+4 
+ 
+Possible Solution – Paper D 2022, Part I 
+ 
+References to the legal basis refer to the situation on 31 October 2021 
+ 
+Answer to Question 1 (8 marks): 
+The time limit to apply for further processing under Article 121(1) and Rule 135(1) EPC already expired 
+on 4 March +10 days (Rule 126(2) EPC) + 2 months (Rule 135(1) EPC) = 14 May 2021 (Fri). Thus, EP-F is 
+deemed to be withdrawn, Article 94(4) EPC. 
+It is possible to request re-establishment of rights in respect of the time limit for further processing, Article 
+122(1) EPC and Rule 136(3) EPC. The request has to be filed within two months of the removal of the cause 
+of non-compliance, Rule 136(1) EPC, i.e. two months after 3 February 2022, i.e. at the latest on 3 April 2022 
+(Sun), extended to 4 April 2022 (Mon), Rule 134(1) EPC. This is still within the one year period from 14 May 
+2021. Thus the request has to be filed at the latest on 4 April 2022. 
+In addition to filing the request for re-establishment of rights, applicant F has to pay the prescribed fee, 
+Rule 136(1) EPC, state the grounds and facts on which the request is based or state that all due care was 
+observed, Rule 136(2) EPC, and has to complete the omitted acts by requesting further processing under 
+Article 121(1) and Rule 135(1) EPC by paying the prescribed fee and replying to the communication under 
+Article 94(3) EPC. 
+The time limit for replying to the communication under Article 94(3) EPC expired on 11 January 2021 
+(Mon). 
+Two renewal fees (in respect of the 5th and the 6th year) were due on 31 January 2021 and 31 January 2022, 
+respectively, Article 86(1) and Rule 51(1) EPC. This is after a loss of right. 
+Therefore the renewal fees are due on the date of the notification of the decision re-establishing the rights. 
+The renewal fees can still be paid within 4 months of the notification of the decision, Rule 51(4)(a) EPC, 
+without an additional fee, or within 6 months of the decision with an additional fee, Rule 51(4)(a) and 51(2) 
+EPC. 
+ 
+Answer to Question 2 (10 marks): 
+The communication issued by the EPO on 12 November 2021 was a communication under Rule 71(3) EPC. 
+The following acts need to be carried out by 22 March 2022 (Tue) (12 November 2021 + 10 days (Rule 
+126(2) EPC) + 4 months (Rule 71(3) EPC) = 22 March 2022): 
+File a request to correct the spelling mistake in one of the claims and additionally file a reasoned 
+statement, why the correction satisfies the requirement of Rule 139 EPC, Guidelines C-V, 4.3; request PACE 
+and reply as soon as possible to the second communication under Rule 71(3) EPC, OJ 2015, A93, C.15; 
+immediately after receiving the second communication under Rule 71(3) EPC according to Rule 71(6) EPC, 
+pay the fee for grant and publishing and file a translation of claims 1-16 in German and French, Rule 71(3) 
+EPC; pay one claim fee for claim 16, Rule 71(4) EPC, before or immediately after receiving the second 
+communication under Rule 71(3) EPC; pay the renewal fee for the fourth year with an additional fee of 50% 
+of the renewal fee for the fourth year, Rule 51(2) EPC, within 6 months of the due date, i.e. until 31 August 
+2022: 28 February 2022 (last day of Feb) + 6 months (Rule 51(2) EPC, J4/91) = 31 August 2022 (Wed). 
+Only after all of the fees are paid, the decision to grant the European patent is issued, Rule 71a(1) EPC, and 
+the mention of the grant of the European patent is published. 
+To have the European patent based on EP-B take effect in the Netherlands, file a translation only of the 
+claims in Dutch, Article 1(2) and Article 1(3) of the London Agreement, and pay the special fee, National 
+Law relating to the EPC, IV., column 5 for NL, under Article 65(2) EPC. Both actions need to be performed 
+within 3 months from the date on which the mention of the grant is published in the European Patent 
+Bulletin, Article 65(1) and National Law relating to the EPC, IV., columns 4 and 5 for NL. 
+ 
+Answer to Question 3 (8 marks): 
+1.(a): The supplementary international search report, SISR, may be requested within 22 months from the 
+filing date, Rule 45bis.1(a) PCT, i.e. until 28 March 2022 (26 May 2020 (Thu) + 22 months (Rule 
+5 
+ 
+45bis.1(a) PCT) = 26 March 2022 (Sat) extended to 28 March 2022 (Mon) (Rule 80.5 PCT)). The 
+request shall be filed at the International Bureau, Rule 45bis.1(b) PCT. 
+Both the supplementary search handling fee, Rule 45bis.2(a) PCT, and the supplementary search fee, 
+Rule 45bis.3(a) PCT, are to be paid to the International Bureau, Rule 45bis.2(c) PCT and Rule 
+45bis.3(b) PCT, within one month of the date of the receipt of the supplementary search request, 
+Rule 45bis.2(c) PCT and Rule 45bis.3(c) PCT. 
+1.(b): No SISR can be established for C2, as the basis for the SISR is the set of claims as filed, Rule 45bis.5(b) 
+PCT. 
+2.  
+Since the EPO drew up the SISR, no supplementary European search report will be established, 
+Article 153(7) EPC and Guidelines B-II, 4.3.1. However C may and must amend the claims so as to 
+claim C2, upon entry into European phase or in response to a communication under to Rule 161(1) 
+EPC. The EPO will issue an invitation to pay an additional fee pursuant to Rule 164(2)(a) EPC. 
+Provided C pays the additional fee, C2 can be searched and examined pursuant to Rule 164(2) EPC. 
+ 
+Answer to Question 4 (6 marks): 
+(a) EP-D1 was not made available to the public before or on the publication date of EP-D2, because EP-
+D1 was withdrawn in due time before its publication, Rule 67(2) EPC. Therefore, the relevant 
+content of EP-D1, i.e. the method for obtaining raw material D1, is not to be considered as forming 
+part of the content of EP-D2 for the disclosure of the invention, Guidelines F-III, 8 in combination 
+with H-IV, 2.2.1. The disclosure of EP-D2 does not enable the skilled person to carry out the method 
+for producing product D2 starting from raw material D1. Therefore, EP-D2 does not sufficiently 
+disclose product D2, Article 83 EPC. 
+(b) EP-D3 is not entitled to the priority date of EP-D2, because EP-D2 does not sufficiently disclose 
+product D2, Case Law II.D.3.1.6, because an essential element (i.e. the method for obtaining D2 
+starting from D1) is neither expressly disclosed nor directly and unambiguously implied in EP-D2, as 
+it is not part of the content of EP-D2. EP-D4 and EP-D3 are sufficiently disclosed, because EP-D4 and 
+EP-D3 describe a method for producing D2 from D3 and D3 was part of the state of the art for EP-
+D4 and EP-D3. EP-D4 is filed before EP-D3 but published after and is prior art pursuant to Article 
+54(3) EPC. Therefore the subject-matter of the claim of EP-D3 is not novel in view of EP-D4. 
+ 
+Answer to Question 5 (5 marks) 
+(The following possible answer applies only for the German and French versions of the question, whereas 
+the English version should be read as if the article was published in December 2019): 
+EP-E was filed within the priority period, which was extended from 30 May 2020 (Sat) through 1 June 2020 
+(Whit Monday) to 2 June 2020 (Tue) and the EPO's filing offices in Germany were closed from 30 May to 1 
+June 2020, 
+Rule 134(1) EPC. Hence, the effective date for the composition comprising E1 in the range [10-20%] is the 
+filing date of the priority document JP-E and the effective date for E1 being within [5-10%[ or ]20-40%] is 
+the filing date of EP-E, G1/15. The skilled person can see at once that the disclosure of the article contains 
+errors, i.e. a composition comprising 40% of E1, and can identify what the only possible correction should 
+be, i.e. a composition comprising 15% of E1. Hence, the article can be considered to contain the correction 
+when assessing its relevance to patentability, i.e. it discloses a composition comprising 15% of E1,  
+Guidelines G-IV, 9.  
+The article forms prior art under Article 54(2) EPC only for the subject-matter not entitled to priority, 
+G3/93, i.e. the composition comprising E1 in the range [5-10%[ or ]20-40%].  
+Therefore the article is not novelty destroying, because it discloses an embodiment of a composition 
+comprising 15% of E1, which falls within the range [10-20%] of E1, being entitled to the right of priority. 
+ 
+Answer to Question 6 (8 marks): 
+Situation 1: 
+(a) The opposition division will continue the proceedings of its own motion, Article 114(1) EPC and 
+Rule 84(2) EPC, when the opposition is withdrawn, because the stage reached in the opposition 
+6 
+ 
+proceedings is as in Guidelines D-VII, 5.3 and 5.2. Namely, the proceedings are likely to result in a 
+limitation or revocation of EP-A without further assistance of the opponent and without the 
+opposition division itself having to undertake extensive investigations in view of document D1 
+being prior art according to Article 54(3) EPC and being novelty destroying for claim 1. The 
+opposition division will inform the patent proprietor that the opposition proceedings are 
+continued, Guidelines-D-VII, 5.2. 
+(b) Because the opposition is still pending, the proprietor should file an amendment limiting the claims 
+to claim 2 only, which is occasioned by the ground of opposition under Article 100a EPC, Rule 80 
+EPC. Hence, EP-A will be maintained as amended, Article 101(3)(a) EPC. 
+Situation 2: 
+(c) The opponent is the sole appellant. If an opposition is withdrawn by the sole opponent-appellant 
+during appeal proceedings, the withdrawal of the opposition is interpreted as withdrawal of the 
+appeal, G8/93. The withdrawal of the appeal terminates the appeal proceedings, and the first 
+instance decision becomes final. 
+(d) The opposition / appeal proceedings are not pending anymore and therefore limitation is possible, 
+Article 105a(2) EPC and Rule 93(1) EPC. In order to address the lack of novelty in view of D1, the 
+patent proprietor should request limitation by performing the acts according to Article 105a(1) EPC 
+and Rule 92 EPC, in particular submit amended claims limited to claim 2, Rule 92(2)(d) EPC, and pay 
+the fee for limitation, Article105a(1) EPC. 
+ 
+ 
+7 
+ 
+Examiners’ Report – Paper D 2022, Part II 
+ 
+Question 1 was in general well answered and the priority issues well analyzed. 
+ 
+Much to the Examiner’s delight, most of the candidates did follow in their response the scheme for the 
+questions as it had been asked. Only some candidates instead of discussing the patent situation by subject 
+matter followed an approach by patent application thus losing some marks because of incomplete analysis. 
+It was often not detected that OPT-EP1 is a prior art document (for novelty only) to subsequent filings OPT-
+EP2 and OPT-PCT. The same occurred with reference to OPT-EP2 being an Art. 54(3) document for OPT-PCT. 
+ 
+Concerning the appeal many candidates recognized the impossibility of introducing a fresh ground by 
+Avidus without Torre’s consent. Some candidates wrongly suggested filing third party observations. 
+The question about the German lawyer acting as strawman was correctly answered by almost all the 
+candidates. Similarly, almost all the candidates correctly advised against discussing CLEAN process with the 
+Opposition Division, but very few recognized that OPT-EP1 does not disclose the cleaning effect and that it 
+cannot therefore be used to argue inventive step. 
+ 
+Few candidates realized the urgency of acting asap with entitlement proceedings before TOR-EP could be 
+granted and that renewal fees must be paid while proceedings are stayed. 
+Too many candidates wrongly advised to intervene in pending appeal proceedings solely on the basis of 
+Torre’s cease and desist letter, without mentioning that it was necessary to institute proceedings before an 
+Italian Court. The three-months time limit for intervention was seldom mentioned. 
+ 
+Most of the candidates noticed that OPT-2 does not claim the FEED + SPRAY combination, but only a 
+minority realized that the combination could not be claimed as it was a not searched subject matter. Very 
+few candidates suggested abandoning OPT-2 and prosecuting with OPT-PCT for the combination FEED + 
+SPRAY. 
+ 
+Question 4 was generally well answered even though some candidates’ answer was a generic FTO rather 
+than the required response. 
+ 
+ 
+8 
+ 
+Possible Solution – Paper D 2022, Part II 
+ 
+Question 1 
+ 
+(a) the FEED machine with a feeding duct at the bottom of the mill. 
+TOR-EP is first filing for a FEED machine comprising at least one duct for feeding filler at the bottom of the 
+mill (FEED-1). TOR-EP is novel and inventive because no pertinent prior art is cited and a greater amount of 
+filler can be fed to the mill. TOR-EP is likely to be granted because a 71(3) communication was sent. 
+TOR-EP is (presently) an Art. 54(3) document for OPT EP-2 and OPT-PCT applications that have a claim to at 
+least one feeding duct, if OPT-PCT enters the EP phase. Such a claim is not novel over TOR-EP. 
+Filing of TOR-EP is a violation of the secrecy agreement and thus the publication of TOR-EP is an evident 
+abuse. The date of filing of TOR-EP is no earlier than six months preceding filing of OPT-EP1, therefore TOR-
+EP is a non prejudicial disclosure for OPT-EP1. 
+OPT are the rightful owners of the invention disclosed and claimed in TOR-EP. 
+OPT-PCT does not enjoy priority from OPT-EP2 for the subject matter of FEED-1, because OPT-EP2 is not the 
+first application from the same applicant for those features. OPT-EP1 and OPT-EP2 would both be Art. 54(3) 
+prior art for OPT-PCT should the latter enter EP phase. OPT-PCT would not be novel in Europe. 
+The video is a prior art under Art. 54(2) for all of OPT-EP1, OPT EP-2 and OPT-PCT; in OPT applications the 
+claims directed to a Feed machine comprising one duct are not novel. 
+ 
+(b) the FEED machine with two feeding ducts at the bottom of the mill. 
+OPT-EP1 is first filing for a FEED machine comprising two ducts for feeding filler at the bottom of the mill 
+(FEED-2). The video and TOR-EP disclose one single duct, therefore claim 2 in OPT-EP1 is novel. Claim 2 is 
+inventive because of the surprising effect in greater uniformity of the recycled plastic. 
+OPT-EP1 is prior art under Art 54(3) and novelty destroying for the same subject matter in OPT-EP2. 
+OPT-PCT does not enjoy priority from OPT-EP2 for subject matter of FEED-2 because EP2 is not the first 
+application from same applicant for those features. OPT-EP1 and OPT-EP2 would be Art. 54(3) prior art for 
+OPT-PCT, if the latter enters EP phase; OPT-PCT would not be novel in Europe. OPT-PCT can lead to 
+protection in non-European countries once OPT-PCT enters a national phase. 
+ 
+(c) the CLEAN feeding process. 
+There is no prior art and there is a technical effect: clean process is novel and inventive. There is presently 
+no patent application claiming CLEAN process. 
+ 
+(d) the SPRAY water spray device. 
+TOR-EP-old is first filing for SPRAY. The disclosure at the fair in Barcelona is 54(2) prior art. The claim to a 
+water spray device in TOR-EP-old is not novel. The opposition by Avidus was based on insufficient 
+disclosure only. Novelty attack based on prior use in Barcelona would be a fresh ground of opposition. 
+Avidus cannot introduce a fresh ground in Appeal proceedings without the consent of the Patentee. The 
+appeal is still pending, if the patent is maintained, OPT will be restricted from making or using SPRAY. 
+The claim in OPT-PCT to SPRAY is not novel over any of TOR-EP-old and the Barcelona fair. 
+OPT-EP2 discloses but does not claim SPRAY. 
+ 
+(e) the FEED machine with the SPRAY water spray device. 
+OPT-EP2 is first filing for FEED + SPRAY. 
+OPT-PCT validly claims priority of OPT-EP2 for FEED + SPRAY. Only OPT-PCT claims the combination of 
+FEED+SPRAY. 
+Currently, there is no patent protection available. 
+There is no prior art for the combination, FEED + SPRAY is novel and also inventive because the dust is 
+reduced without affecting the properties of the recycled plastic. 
+ 
+ 
+9 
+ 
+Question 2 
+ 
+Any person, including a German lawyer having no interest in the case, can file an opposition. 
+The four-months period for responding expires on 13 April 2022. 
+Claim 1 of OPT-EP1, directed to FEED-1, is not novel in view of the publicly available video of OPT. A claim 
+directed to FEED-2 is novel. In the response argue that FEED-2 is inventive using the surprising effect on 
+uniformity of recycled plastic and file a request with main claim limited to a mill with two feeding ducts. If 
+you discuss your new invention CLEAN in your response, the reply letter would be available to the public 
+through file inspection. Any later filed application for CLEAN would therefore not be novel over the 
+disclosure in the reply letter. Also, the cleaning of the blades is a new technical effect not disclosed in or 
+derivable from the opposed patent, as such it cannot be used to support inventive step in the opposed 
+patent. 
+ 
+ 
+Question 3 
+ 
+(a) FEED-1 
+The rights to TOR-EP are of OPT in view of the 2018 agreement with TOR. Institute entitlement proceedings 
+in Italy to have TOR-EP assigned to OPT. Then notify the EPO of the pending entitlement proceedings and 
+provide evidence of the same before patent is granted. The EPO will stay the proceedings of the 
+application. Make sure that renewal fees are paid during stay of proceedings. Once TOR-EP is assigned to 
+OPT, prosecute the application. 
+ 
+(b) FEED-2 
+Delete claims to two ducts in OPT-PCT, not novel over OPT-EP1. When entering EP phase maintain claims to 
+two ducts in OPT-PCT outside EP. 
+ 
+(c) CLEAN 
+File the CLEAN application before discussing it with Avidus. 
+ 
+(d) SPRAY 
+Intervention is necessary for introducing the fresh ground of lack of novelty into appeal proceedings For 
+intervention national proceedings are required: institute national proceedings before a Court in Italy for a 
+ruling of non infringement. Within three months from start of proceedings, pay opposition fee, file notice 
+of intervention based on lack of novelty over disclosure at Barcelona Fair. TOR-EP-old will be revoked. 
+Make sure Avidus does not withdraw its appeal otherwise the appeal proceedings are terminated. 
+Delete claims to SPRAY in OPT-PCT when entering national phases. 
+ 
+(e) FEED + SPRAY 
+Claims directed to a combination of machine and water spray device in OPT-EP2 are unsearched subject 
+matter, not unitary with the original claims. Prosecution of the combination of Feed machine and spray 
+device based on OPT-EP2 would only be possible if a divisional is filed. 
+The combination is already covered by OPT-PCT; therefore abandon OPT-EP2 and enter EP phase of OPT-
+PCT by 04.05.22, with amended claims directed to combination of spray device and Feed machine. 
+OPT-PCT outside Europe should have claims to FEED-2 and to the combination of Feed machine and spray 
+device. Enter timely OPT-PCT in USA, China and India. The 30-months time limit expires on 04.04.22. 
+ 
+ 
+Question 4 
+ 
+After TOR-EP is assigned to OPT and granted, OPT could stop Torre in EPO Countries from making or using a 
+Feed machine with at least one feeding duct, thus also a Feed machine with two feeding ducts. 
+10 
+ 
+After maintaining OPT-EP1 in amended form, OPT could stop Torre in EPO countries with OPT-EP1, from 
+making or using FEED-2. 
+OPT could stop Torre in view of OPT-PCT in non-EPO countries where OPT-PCT enters the national phase 
+from making or using FEED-2. 
+With OPT-EP1 or OPT-PCT OPT could stop Torre from carrying out the CLEAN process because to carry out 
+CLEAN a Feed mill with two ducts is required. 
+After filing the application for CLEAN process OPT could stop Torre from using the process in the Countries 
+covered by the CLEAN application. 
+OPT can stop Torre from making and using a Feed machine with Spray device in those countries where OPT-
+PCT enters the national phase. 
+ 
+1
+D1-1 
+Max 
+Awarded (Marker 1) 
+Awarded (Marker 2) 
+Question 1 
+8 
+ 
+ 
+Question 2 
+10 
+ 
+ 
+Question 3 
+8 
+ 
+ 
+Total 
+26 
+ 
+ 
+ 
+D1-2 
+Max 
+Awarded (Marker 1) 
+Awarded (Marker 2) 
+Question 4 
+6 
+ 
+ 
+Question 5 
+5 
+ 
+ 
+Question 6 
+8 
+ 
+ 
+Total 
+19 
+ 
+ 
+ 
+ 
+D2 
+Max 
+Awarded (Marker 1) 
+Awarded (Marker 2) 
+Question 1 
+22 
+ 
+ 
+Question 2 
+9 
+ 
+ 
+Question 3 
+19 
+ 
+ 
+Question 4 
+5 
+ 
+ 
+Total 
+55 
+ 
+ 
+ 

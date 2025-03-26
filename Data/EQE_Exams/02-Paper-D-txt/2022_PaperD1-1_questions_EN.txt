@@ -1,0 +1,60 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2022
+Paper D1-1
+This Paper comprises:
+Question 1:
+    8  marks
+Question 2: 
+  10  marks
+Question 3:
+    8  marks
+2022/D/EN
+0-2
+Part I: Legal Questions
+QUESTION 1
+(8 MARKS)
+European patent application EP-F was filed in January 2017 by applicant F. The EPO 
+issued a communication under Article 94(3) EPC dated 1 September 2020 and which 
+sets a time limit of four months. Thereafter no acts, including the payment of fees, were 
+performed with respect to EP-F. Since applicant F did not reply to the communication, 
+the EPO issued a communication dated 4 March 2021 notifying a loss of rights under 
+Rule 112(1) EPC.
+Despite exercising all due care required by the circumstances, applicant F only became 
+aware of the notification of loss of rights on 3 February 2022.
+Which steps need to be performed to ensure that the prosecution of EP-F continues?
+By when do these steps have to be performed?
+2022/D/EN/1
+QUESTION 2
+(10 MARKS)
+On 22 February 2019 applicant B filed a European patent application EP-B in English 
+with 15 claims. The European Patent Bulletin mentioned the publication of the European 
+search report in August 2020. In the examination phase, applicant B filed an amended 
+set of 16 claims. 
+On 12 November 2021 the Examining Division issued a communication informing 
+applicant B that it intended to grant a patent based on EP-B with these 16 claims. Since 
+this communication, no acts have been performed by or on behalf of applicant B. 
+Today you receive a phone call from applicant B asking you to correct before the EPO a 
+spelling mistake in one of these 16 claims, the correction of which is obvious. 
+Furthermore, applicant B wants the European patent based on EP-B to be granted as 
+soon as possible and to take effect in the Netherlands.
+What steps have to be taken and by when?
+2022/D/EN/2
+QUESTION 3
+(8 MARKS)
+Chinese company C filed an international application PCT-C on 26 May 2020 with the 
+Chinese Patent Office (CNIPA) as receiving Office. PCT-C was filed in English without 
+claiming priority. The only claim of PCT-C pertains to subject-matter C1, and its 
+description discloses subject-matter C1 and subject-matter C2. Subject-matter C1 and 
+subject-matter C2 are not linked by a single general inventive concept.
+The international search report (ISR) was established by CNIPA on subject-matter C1.
+1.
+Company C would like to have a supplementary international search report (SISR) 
+established by the EPO.
+(a) What should be done to request the SISR for subject-matter C1? 
+(b) Can the SISR cover subject-matter C2?
+2.
+After the SISR is established by the EPO on subject-matter C1, PCT-C enters the 
+European phase as Euro-PCT-C. Company C would like to obtain protection in 
+Europe for subject-matter C2 instead. Can Euro-PCT-C be examined for subject-
+matter C2? 
+2022/D/EN/3

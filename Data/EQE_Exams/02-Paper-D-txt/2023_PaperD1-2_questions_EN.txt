@@ -1,0 +1,54 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2023
+Paper D1-2
+This Paper comprises: 
+Part I: Legal Questions
+Question 4:
+  7 marks
+Question 5:
+  11 marks
+Question 6:
+10 marks
+2023/D/EN
+0-1
+2023/D/EN/1
+QUESTION 4
+(7 MARKS)
+European patent EP-E was assigned from company E to company F. The transfer of 
+ownership was recorded in the European Patent Register in November 2022. EP-E 
+was revoked by a written decision of the opposition division issued on 
+19 December 2022.
+In February 2023 you received an email from company F instructing you to file an 
+appeal on its behalf. On 28 February 2023 you filed notice of appeal and paid the 
+appeal fee.
+Today, you realise that the notice of appeal was erroneously filed in the name of 
+company E, rather than in the name of company F.
+(a) What is the current status regarding the admissibility of the appeal?
+(b) How can you improve the situation?
+2023/D/EN/2
+QUESTION 5
+(11 MARKS)
+On 2 December 2022 Portuguese applicant G filed international patent application 
+PCT-G in English with the Portuguese Patent Office (INPI).
+By invitation dated 9 December 2022, INPI invited G to file an abstract. Despite taking all
+due care, G filed the missing abstract with INPI only on 3 March 2023.
+Yesterday, G received a notification from INPI declaring PCT-G withdrawn.
+(a) Why was PCT-G declared withdrawn? What will be the legal consequence of this 
+withdrawal in the designated states of PCT-G if nothing is done?
+(b) Applicant G wants to revive PCT-G before the EPO. What procedural steps must 
+applicant G carry out?
+2023/D/EN/3
+QUESTION 6
+(10 MARKS)
+European patent application EP-H describes a product P, a method only resulting in 
+product P and a particular use of product P as a fertiliser to enhance plant growth.
+EP-H was granted with a single claim to product P.
+Opposition was validly filed against EP-H based on the ground of lack of novelty. The 
+opponent cited EP-J, a document under Article 54(3) EPC that discloses the same 
+product P, wherein P is obtained by a different method, and the use of product P as a 
+detergent.
+(a) How should EP-H be amended to provide the maximum scope of protection? Give
+reasons why EP-H as amended meets the requirements of Articles 123 and 
+54 EPC.
+(b) How would your answer to (a) change if EP-H described product P for use as a 
+medicament rather than describing the use of product P as a fertiliser?

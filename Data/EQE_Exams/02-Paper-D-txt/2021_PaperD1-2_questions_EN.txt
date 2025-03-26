@@ -1,0 +1,54 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2021
+Paper D1-2
+This paper comprises:
+• Question 3:     7    marks
+• Question 4:     8    marks
+• Question 5:   10    marks
+2021/D1-2/EN
+0-1
+Part I: Legal Questions
+QUESTION 3 
+     (7 MARKS)
+Your client C has two pending European patent applications: EP-C1 and EP-C2. The 
+search and examination fees for both applications were paid on filing. 
+As regards EP-C1, you received last week an invitation pursuant to Rule 58 EPC to file 
+one or more claims. 
+EP-C2 was filed using EPO Form 1001, with the applicant waiving his right under 
+Rule 70(2) EPC. The European search report was transmitted last month. It cited a 
+novelty-destroying document. 
+Following a strategic reorientation, your client C is no longer interested in the two 
+applications. 
+He asks you whether the search and/or examination fees can be refunded and at which 
+rate. What do you have to do to obtain the refunds?
+2021/D1-2/EN/1
+QUESTION 4 
+     (8 MARKS)
+On 8 June 2020 applicant D filed European patent application EP-D1 claiming priority 
+from US patent application US-D filed on 7 June 2019. EP-D1 describes and claims a 
+bolt made of metal. The contents of EP-D1 and US-D are identical. 
+The European search report for EP-D1 cites European patent application EP-D0 filed by
+applicant D in February 2019 and published in August 2020. EP-D0 relates to the same 
+technical field and discloses the same bolt but made of aluminium. EP-D0 does not 
+mention any other metal than aluminium.
+(a) Is EP-D0 novelty destroying for the subject-matter of the claim of EP-D1?
+(b) If yes, can the claim of EP-D1 be amended to make its subject-matter novel?
+(c) What would be the answer to (a) and (b) if EP-D0 had been early published in 
+April 2020?
+2021/D1-2/EN/2
+QUESTION 5 
+   (10 MARKS)
+Applicant E, resident and national of Portugal, filed an international application PCT-E 
+on 3 January 2021 at the EPO. The EPO was chosen as the International Searching 
+Authority (ISA) in the request.
+Last month, applicant E received a notification from the receiving Office dated 
+29 January 2021, inviting him to furnish a translation. 
+Consider the following situations:
+Situation A:  PCT-E was filed in Portuguese.
+(1)  What is the receiving Office?
+(2)  What translation must be filed and by when?
+Situation B: PCT-E was filed in English, with the exception of the drawings, which 
+contained text in Portuguese.
+(3)  What is the receiving Office?
+(4)  What translation must be filed and by when?
+2021/D1-2/EN/3

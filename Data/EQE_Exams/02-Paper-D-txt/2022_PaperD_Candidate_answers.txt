@@ -1,0 +1,534 @@
+Q1
+8 marks
+European patent application EP-F was filed in January 2017 by applicant F.
+The EPO issued a communication under Article 94(3) EPC dated 1 September 2020 and which sets a time limit of four months.
+Thereafter no acts, including the payment of fees, were performed with respect to EP-F.
+Since applicant F did not reply to the communication, the EPO issued a communication dated 4 March 2021 notifying a loss of rights under Rule 112(1) EPC.
+Despite exercising all due care required by the circumstances, applicant F only became aware of the notification of loss of rights on 3 February 2022.
+Which steps need to be performed to ensure that the prosecution of EP-F continues? 
+By when do these steps have to be performed?
+Answer
+The last day to respond to the communication under Art 94(3) EPC was:
+1 September 2020 + 10 days (R 126(2) EPC) = 11 September 2020 + 4 months (R 131(4) EPC) = 11 January 2021 (Monday). 
+No response was filed in time, therefore EP-F was deemed withdrawn, Art 94(4) EPC.
+Therefore, the EPO issued a communication about the loss of rights under R 112(1) EPC.
+Further processing was available under Art 121 and R 135 EPC to remedy this. The last day to perform the steps for further processing, by filing a reply
+to the communication under Art 94(3) EPC (i.e., completing the omitted act, R 135(1) EPC) and paying a flat further processing fee (R 135(1) EPC,
+RFees.2(1), Item 12) was:
+4 March 2021 + 10 days (R 126(2) EPC) = 14 March 2021 + 2 months (R 135(1), R 131(4) EPC) = 14 May 2021 (Friday) which was missed.
+The applicant missed the time limit for further processing vis a vis the EPO despite exercising all due care required by the circumstances so that re-
+establishment of rights is available in respect of the further processing (Art 122(1) EPC).
+Re-establishment of rights (Art 122, R 136 EPC) must therefore be used in respect of the further processing.
+According to R 136(1) EPC, the last day to perform the steps for re-establishment is the earlier of:
+3 Feb 2022 (when the applicant became aware of the notification of loss of rights, thereby removing the cause for non-compliance, R 136(1) EPC) + 2
+months (R 131(4) EPC) = 3 April 2022 (Sunday, R 134(1) EPC) => 4 April 2022 (Monday); and
+14 May 2021 + 1 year (R 131(3) EPC) = 14 May 2022 (Saturday, R 134(1) EPC) => 16 May 2022 (Monday);
+therefore, by 4 April 2022. 
+The steps that must be performed, at the latest on 4 April 2022, are:
+File the written request for re-establishment at the EPO (R 136(1) EPC) stating the relevant grounds and facts (R 136(2) EPC);
+Complete the omitted act, therefore file the reply to the communication under Art 94(3) EPC and pay the further processing fee (R 136(2) EPC);
+Pay the re-establishment fee (RFees.2(1), Item 13) otherwise the request for re-establishment is not deemed filed (R 136(1) EPC).
+If the request for re-establishment is granted, the legal consequences (deemed withdrawal) are deemed not to have ensured, Art 122(3) EPC, so that the
+prosecution of EP-F will continue. 
+Also, the renewal fee for the 5th year (Art 86(1), R 51(1) EPC) fell due on 31 Jan 2021, but was not paid. It could have been paid, with 50% surcharge, in a
+six-month grace period:
+31 Jan 2021 + 6 months (R 52(2), J 4/91) = 31 July 2021 (Saturday, R 134(1) EPC) => 2 August 2021 (Monday). 
+Therefore, the last day to request further processing (14 May 2021) fell in the grace period.
+Therefore, the renewal fee for the 5th year must be paid with surcharge (RFees.2(1), Item 5) in a six-month period from the date of notification of the
+decision to re-establish the rights, R 51(4)(b) EPC.
+The due date for the renewal fee for the 6th year was 31 Jan 2022. Therefore, the date of notification of the decision to re-establish the rights, becomes
+the due date for the renewal fee for the 6th year, and it can, and must, still be paid, without surcharge, in a four month period from that date, R 51(4)(a)
+EPC.
+Q2
+10 marks
+On 22 February 2019 applicant B filed a European patent application EP-B in English with 15 claims.
+The European Patent Bulletin mentioned the publication of the European search report in August 2020.
+In the examination phase, applicant B filed an amended set of 16 claims.
+On 12 November 2021 the Examining Division issued a communication informing applicant B that it intended to grant a patent based on EP-B with these 16
+claims.
+Since this communication, no acts have been performed by or on behalf of applicant B.
+Today you receive a phone call from applicant B asking you to correct before the EPO a spelling mistake in one of these 16 claims, the correction of which is
+Candidate's answer - Paper D - EQE 2022
+obvious.
+Furthermore, applicant B wants the European patent based on EP-B to be granted as soon as possible and to take effect in the Netherlands.
+What steps have to be taken and by when?
+Answer
+The renewal fee for the third year fell due (Art 86(1), R 51(1) EPC) on 28 Feb 2022.
+It has not been paid because since the communication, no acts have been performed by or on behalf of B.
+It should therefore be paid, with surcharge (RFees.2(1), Item 5) in the 6-month period of grace (R 51(2) EPC):
+28 Feb 2022 + 6 months (R 51(2), J 4/91) = 31 August 2022 (Wednesday). 
+Otherwise, the application will be deemed withdrawn (R 51(2) EPC).
+Moreover, if a renewal fee becomes due after the communication under R 71(3), and before the next possible date for publication of the mention of the
+grant of the European patent, the mention shall not be published until the renewal fee has been paid, R 71a(4) EPC. Therefore, pay the fee with
+surcharge as soon as possible.
+Solely the correction of an obvious error is not possible in limitation proceedings after grant under Art 105a EPC because this would not be a true
+limitation, R 95(2) EPC. Therefore, the correction before the EPO has to be carried out before grant (thus somewhat delaying grant).
+The communication under R 71(3) EPC informing B of the intention to grant a patent, would have drawn attention to the requirement to pay the fee for
+grant and publishing (RFees.2(1), Item 7) and to file translations of the claims into the two EPO official languages other than the language of the
+proceedings, which is English because EP-B was filed in English (Art 14(1), Art 14(3) EPC) therefore into French and German (Art 14(1) EPC). It would also
+have drawn attention to the requirement to pay one excess claim fee for the 16th claim, which had not yet been paid under R 45(2) EPC (R71(4) EPC).
+The last day to respond to the communication under R 71(3) EPC informing B of the intention to grant a patent is:
+12 November 2021 + 10 days (R 126(2) EPC) = 22 November 2021 + 4 months (R 71(3) EPC; non-extendable; R 131(4) EPC) = 22 March 2022 (Tuesday).
+A response should therefore be filed to the communication at the latest on 22 March 2022 (since B wishes EP-B to be granted as soon as possible, the
+response should actually be filed as soon as possible).
+The response should be filed under R 71(6) EPC, requesting a reasoned correction to the communicated text, namely correction of the spelling error in
+one of the claims. Relying on R 139 EPC, it must be explained why it is immediately evident an error has occurred, and also what the correction should
+be, G 3/89, G 11/91.
+Since the response merely corrects a spelling error, the EPO is unlikely to resume examination (R 71(6) EPC) but instead will issue a new communication
+under R 71(3) EPC (R 71(6) EPC). This second communication under R 71(3) EPC cannot be waived any more, OJ EPO 2020, A73.
+In response to the second communication under R71(3), the applicant must pay the fee for grant and publishing (RFees.2(1), Item 7) and file the claims
+translations into French and German (which should be prepared ahead of time, in order to save time and be in a position to file them as soon as
+possible). The excess claim fee for the 16th claim must also be paid. This is deemed to be approval of the text (R 71(5) EPC).
+The EPO will issue the decision to grant a patent (Art 97(1), R 71a(1) EPC). The decision to grant a European patent shall take effect on the date on which
+the mention of the grant is published in the European Patent Bulletin (Art 97(3) EPC).
+The Netherlands is a contracting state to the London Agreement (National Law relating to the EPC, Tab. IV, NL). Since EP-B will be granted in English, only
+a translation of the claims into Dutch must be filed at the national office, under Art 65(1) EPC, Art 1(2) and (3) of the London Agreement, by 3 months
+from the date of publication of the mention of the grant in the EP Bulletin (again, the NL translation should be prepared in advance, so it can be filed as
+quickly as possible). The national fee for publication must be paid in the same period.
+Q3
+8 marks
+Chinese company C filed an international application PCT-C on 26 May 2020 with the Chinese Patent Office (CNIPA) as receiving Office.
+PCT-C was filed in English without claiming priority.
+The only claim of PCT-C pertains to subject-matter C1, and its description discloses subject-matter C1 and subject-matter C2.
+Subject-matter C1 and subject-matter C2 are not linked by a single general inventive concept.
+The international search report (ISR) was established by CNIPA on subject-matter C1.
+1. Company C would like to have a supplementary international search report (SISR) established by the EPO.
+(a) What should be done to request the SISR for subject-matter C1?
+(b) Can the SISR cover subject-matter C2?
+2. After the SISR is established by the EPO on subject-matter C1, PCT-C enters the European phase as Euro-PCT-C. Company C would like to obtain protection
+in Europe for subject-matter C2 instead. Can Euro-PCT-C be examined for subject-matter C2?
+Answer
+1. (a)   As the CNIPA acted as ISA, it is possible to request supplementary international search (SIS) by the EPO (R 45bis.9(b) PCT; PCT AG-IP Annex SIS -
+EP).
+The request for SIS must be filed at the International Bureau (IB) within 22 months of the priority date (here, = filing date, since no priority is claimed -
+Art 2(xi)(c) PCT):
+26 May 2020 + 22 months (R 80.2 PCT) = 26 March 2022 (Saturday, R 80.5 PCT) => 28 March 2022.
+Hence, we have a few weeks to file the SIS request.
+For a valid SIS request, fees need to be paid to the IB (R 45bis.3(b) PCT):
+1) Supplementary search handling fee for the benefit of the IB (R 45bis.2(a) PCT; Schedule of Fees, Item 2).
+2) Supplementary search fee for the benefit of the EPO acting as SISA (R 45bis.3(a) PCT; EPO RFees.2(1), Item 2; PCT-EPO Guidelines B-XII).
+For the EPO to act as SISA, no translation of the application is required, because the application was filed in English (R45bis.1(c) PCT; Agreement
+between the IB and the EPO, OJ EPO 2017, A115  - Art 3(4) and Annex B(1)).
+1.(b)   No, the SISR cannot cover subject-matter C2. The SIS will be carried out on the claims of the application as originally filed. Neither amendments
+filed under Art 19 and/or Art 34 PCT, nor informal comments will be taken into account, R 45bis.5(b) PCT. It is thus not possible to submit amended
+claims for SIS.
+2.   Yes, Euro-PCT-C can be examined for subject-matter C2.
+The EPO acted as SISA, so the EPO will not draw up a supplementary European search report (Art 153(7) EPC).
+Upon EP entry, the applicant must specify the application documents on which the European grant procedure is to be based (R 159(1)(b) EPC). However,
+there is still ample time to file amended claims for the European procedure in the six-month period under R 161(1) EPC.
+Shortly after EP entry, the EPO will issue a communication under R 161(1) EPC, giving the applicant the opportunity to comment on the explanations
+given by the EPO as SISA in the International phase under R 45bis.7(e) PCT, and where appropriate to correct any deficiencies; and to amend the
+description, claims and drawings within a period of six months from notification of the communication.
+In response to that communication and within the six-month period, the applicant should amend the claims to claim C2 instead of C1. If there are more
+than 15 claims, the corresponding excess claims fees should be paid in the same period, R 162(2) EPC.
+C2 is disclosed in the description, so that no matter is added compared to the original disclosure, Art 123(2) EPC.
+After this, the EPO will issue a communication under R 164(2) EPC, because the Euro-PCT application claims an invention that was not searched (at all) in
+the International phase.
+In the period of 2 months from notification of that communication (R 164(2)(a) EPC) the applicant must pay the additional search fee (RFees.2(1), Item 2)
+to have invention C2 searched by the EPO. 
+If the search fee is paid in time, the result of the search is communicated to the applicant as an annex to a communication under Art 94(3) and R 71(1)
+and (2) EPC, entitled "Search result according to R 164(2) EPC" (see EPO GL, C-III, 2.3).
+Q4
+6 marks
+Applicant D filed European patent application EP-D1 in January 2019.
+EP-D1 discloses a new raw material D1 and a method for obtaining it.
+EP-D1 was withdrawn in April 2019.
+In March 2019, applicant D filed European patent application EP-D2 disclosing a method for producing a new product D2 starting from the raw material D1.
+EP-D2 does not teach how to obtain the raw material D1. Instead, the description of EP-D2 merely refers to the
+relevant part of EP-D1.
+In February 2020, applicant D filed European patent application EP-D3 claiming priority from EP-D2.
+EP-D3 claims the same product D2 as disclosed in EP-D2.
+EP-D3 discloses the same method for producing D2, but from raw material D3.
+Raw material D3 has been available to the public since 2019.
+Applicant D becomes aware of European patent application EP-D4, which was filed in January 2020 by a different applicant and published in July 2021.
+EP-D4 discloses product D2 and a method for producing D2 from raw material D3, the method being identical to the one disclosed in EP-D3.
+(a) Does EP-D2 sufficiently disclose product D2?
+(b) Is the subject-matter of the claim to product D2 in EP-D3 novel?
+Answer
+a) 
+EP-D1 was withdrawn in April 2019, without ever having been published (which would have occurred 18 months from its filing date in Jan 2019, thus in
+July 2020, under Art 93(1)(a) EPC).
+The reference document EP-D1 was not available to the public on the date of filing of EP-D2 in March 2019.
+Therefore, EP-D1 could only be considered for the sufficiency of disclosure of EP-D2 under Art 83 EPC if, per T 737/90:
+(i) a copy of EP-D1 was available to the EPO on or before the filing date of EP-D2, which it was because EP-D1 was filed at the EPO; and
+(ii) EP-D1 was made available to the public no later than on the date of publication of EP-D2 under Art 93 EPC, thus in September 2020, which it was not.
+Therefore, EP-D1 cannot be taken into account for establishing sufficiency of disclosure of EP-D2.
+The description of EP-D2 merely refers to the relevant part of EP-D1. EP-D2 does not otherwise teach how to obtain the raw material D1. The skilled
+person moreover cannot obtain the starting materials or reagents required to make D2, on the basis of common general knowledge, because D1 itself
+is new. Therefore, the enablement requirement is not met (see EPO GL G-IV, 2).
+Therefore, EP-D2 does not sufficiently disclose the new product D2.
+This contravention of Art 83 EPC cannot be remedied, because EP-D1 cannot be taken into account, and EP-D2 does not otherwise teach how to obtain
+D1.
+b) EP-D3 was filed in Feb 2020, within the priority period (March 2019 + 12 months = March 2020, Art 87(1) EPC) by the same applicant, and EP-D2 was
+the first application filed by the applicant containing the subject matter, product D2 (notably, EP-D1 did not contain that subject matter; EP-D2 truly was
+the first application the applicant filed containing D2). Therefore, the requirements of Art 87(1) EPC are met.
+However, the insufficient disclosure of D2 in EP-D2 means that the priority claim to EP-D2 by EP-D3 is invalid, which is not explicitly mentioned in the
+EPC, but is established in the case law, see Case Law of the Boards of Appeal, II.D.3.1.6.
+Therefore, the effective date of the product D2 as claimed in EP-D3, is its filing date in February 2020.
+EP-D4 is an EP application that was filed in January 2020, before the filing date of EP-D3; and was published after that date, in July 2021.
+Therefore, EP-D4 is part of the state of the art under Art 54(3) for EP-D3. EP-D4 discloses the identical product D2. EP-D4 is an enabling disclosure of D2,
+because raw material D3 has been available to the public since 2019 (thus, before the filing date of EP-D4), and EP-D4 discloses a method for producing
+D2 from D3, see EPO GL G-IV, 2.
+Therefore, EP-D4 deprives the claim to product D2 in EP-D3 of novelty (Arts 52(1) and 54(1) EPC). 
+Therefore, the subject-matter of the claim to product D2 in EP-D3 is not novel.
+Q5
+5 marks
+On 2 June 2020 company E filed European patent application EP-E claiming a composition comprising 5-40% of compound E1.
+EP-E claims the priority of a previous patent application JP-E filed with the Japan Patent Office by company E on 30 May 2019.
+JP-E discloses a composition comprising 10-20% of the compound E1.
+The examiner cited an article disclosing a composition comprising 40% of the compound E1 and published in December 2017.
+When analysing the technical teaching of the article, the skilled person would immediately recognise that the disclosure is erroneous and that the only
+possible correction would be a composition comprising 15% of the compound E1.
+Is the article novelty-destroying for the subject-matter claimed in EP-E?
+Answer
+EP-E was filed by the same applicant as JP-E; Japan is a Paris Convention country; and was duly filed within the priority period (Art 87(1) EPC):
+30 May 2019 + 12 months (Art 87(1), R 131(4) EPC) = 30 May 2020 (Saturday, R 134(1) EPC; 1 June 2020 was a closed day of the EPO, OJ 2019, A97) => 2
+June 2020 (Tuesday).
+The priority claim is partially valid (G 1/15). It is valid only for the subject matter that was also first disclosed in JP-E, namely a composition comprising
+10-20% of the compound E1.
+Therefore, the effective date of a composition comprising 10-20% of the compound E1, in EP-E, is the priority date, Art 89 EPC, of 30 May 2019.
+The effective date of the remaining subject matter in the claim (a composition comprising 5 up to 10, and above 20 to 40 %, of the compound E1) is the
+filing date, of 2 June 2020.
+For both conceptual "parts" of the claim (G 1/15) the article published before the effective dates, in December 2017, is part of the state of the art under
+Art 54(2) EPC. 
+According to EPO GL G-IV, 9, since the skilled person would immediately recognise that the disclosure is erroneous and that the only possible correction
+would be a composition comprising 15% of the compound E1, the article is considered to contain the correction. 
+Therefore, the article is considered to disclose a composition comprising 15% of the compound E1.
+15% falls within the claimed range of 5-40%. The disclosure of this point in the range, deprives the range of novelty. 
+Therefore, the article is novelty-destroying for the subject-matter claimed in EP-E. The claimed subject matter is not novel within the meaning of Arts
+52(1) and 54(1) EPC.
+Q6
+8 marks
+European patent EP-A was granted with independent claim 1 directed to apparatus A1 and independent claim 2 directed to apparatus A2.
+Consider the following situations independently:
+Situation 1: An admissible opposition was filed based on document D1.
+D1 is prior art according to Article 54(3) EPC and discloses apparatus A1 only. The sole opponent withdrew the opposition the day after the opposition
+period expired.
+(a) How will the opposition proceedings continue?
+(b) What can the patent proprietor do to address the lack of novelty?
+Situation 2: An admissible opposition was rejected.
+The sole opponent filed an appeal together with a document D1. D1 is prior art according to Article 54(3) EPC and
+discloses apparatus A1 only. The opposition was subsequently withdrawn.
+(c) How will the appeal proceedings continue?
+(d) What steps can be taken before the EPO to address the lack of novelty?
+Answer
+Situation 1:
+(a)   An admissible opposition was filed, so that the oppposition division can continue the opposition proceedings of its own motion, i.e. continue the
+examination under Art 101 EPC, according to R 84(2) EPC (see EPO GL D-VII, 5.2).
+The opposition division will continue the proceedings if it considers that the stage reached in the opposition proceedings is such that they are likely to
+result in a limitation or revocation of the European patent without further assistance from the opponent, and without the opposition division itself
+having to undertake extensive investigations (T 197/88). Since the opposition was withdrawn at such an early stage, on the day after the opposition
+period expired, it is possible the opposition division will close the proceedings if the opposition division considers it would have to undertake extensive
+investigations (the decision to close the proceedings would be communicated to the parties, see EPO GL D-VII, 5.2).
+However, D1 does disclose A1, which deprives independent claim 1 of novelty (Arts 52(1), 54(1) and 100(a) EPC), and it is inferred that the opposition
+division would not have to undertake extensive investigations about this.
+Therefore, it is most likely that the oppposition division will continue the opposition proceedings of its own motion. The patent proprietor will be
+informed that the proceedings will be continued (see EPO GL D-VII, 5.2).
+(b)   The patent proprietor should amend the claims by deleting independent claim 1. This amendment would be made to overcome a ground for
+opposition (novelty, Arts 52(1), 54(1) and 100(a) EPC) so that the requirements of R 80 EPC are met. The amendment would not add matter (Art 123(2)
+EPC) or broaden the scope of protection (Art 123(3) EPC).
+D1 is part of the state of the art under Art 54(3) EPC, so that it cannot be cited for inventive step (Art 56 EPC, final sentence). D1 does not disclose A2, so
+does not deprive claim 2 of novelty, and cannot be considered for inventive step. Therefore, claim 2 remains novel, inventive, and valid.
+Situation 2:
+(c)   The opposition was rejected, therefore the patentee was not adversely affected by the decision, therefore could not have appealed, therefore was a
+party as of right (Art 107 EPC). Therefore, the opponent was the sole appellant.
+When the sole appellant withdrew, the appeal proceedings closed. The proprietor has no independent right to continue the proceedings, G 2/91.
+(d)  The proprietor should file a request for limitation under Art 105a EPC.
+There is no time limit, but it is important to do this as soon as possible because claim 1 as it stands is not novel over D1, therefore not valid. Therefore:
+File the request for limitation (Art 105a(1) EPC).
+Pay the fee for limitation, without which the request is not deemed filed, Art 105a(1) EPC and RFees.2(1), Item 10a.
+The request must be filed in writing in an EPO official language, R 92(1) EPC and must state the proprietor's name and address (R 92(2)(a) EPC) the
+number of the patent (R 92(2)(b) EPC) and list the states where it has taken effect (R 92(2)(b) EPC).
+File the limited claims, wherein claim 1 is deleted while claim 2 is the same, R 92(2)(d) EPC.
+If a representative has been appointed, their name and address must be suppied, R 92(2)(e) EPC.
+The deletion of claim 1 constitutes a true limitation of scope compared to the claims as granted (= as maintained) and no lack of clarity is introduced (Art
+84 EPC) and Arts 123(2)-(3) are met. Therefore, the request for limitation is allowable, R 95(2) EPC.
+The EPO will invite the proprietor to pay the fee for re-publishing (RFees.2(1), Item 8) and to file translations of the claims into the two EPO official
+languages other than the language of the proceedings, R 95(3) EPC, in a period of 3 months from the invitation. The amended specification will be
+published under Art 105c and R 96 EPC.
+1. Outline the patent situation as it currently stands for:
+(a) the FEED machine with a feeding duct at the bottom of the mill - "FEED"
+  TOR-EP
+The first application containing FEED is the European patent application TOR-EP filed by TOR on 3 June 2019 without claiming priority. It appears the
+rightful owner is actually OPT, see further discussion below under (3.).
+The priority period for TOR-EP expired on 3 June 2019 + 12 months = 3 June 2020 (Wednesday) which has passed, so no further applications can now be
+filed claiming priority from TOR-EP.
+TOR-EP describes and claims FEED. The figures in TOR-EP are identical to the drawings OPT provided to TOR, and the paragraphs of the description are
+identical to the paragraphs of the fully enabling report OPT provided to TOR about FEED.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of FEED.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of
+FEED.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art, and anyway occurred on the
+filing date, so again, it is not prior art.)
+Therefore, the claim to FEED in TOR-EP is novel.
+It is also inventive, because FEED provides a great improvement over the prior techniques: it is possible to feed up to 50% of filler to the plastic in the
+mill and during the process less dust is generated, so that workers are safer than before.
+Therefore as it stands, after grant of TOR-EP, protection for FEED looks achievable by TOR in EPC states where TOR-EP is validated or
+maintained.
+TOR-EP is pending, and the communication under R 71(3) EPC was issued 5 days ago, i.e. on 3 March 2022. It would have set a 4-month period to
+respond: 3 March 2022 + 10 days = 13 March 2022 + 4 months = 13 July 2022 (Wednesday) and TOR might respond at any time.
+  OPT-EP1
+OPT-EP1 describes and claims FEED and was filed by OPT on 22 July 2019 without claiming priority.
+The priority period for OPT-EP1 expired on 22 July 2019 + 12 months = 22 July 2020 (Wednesday), so OPT-PCT filed on 30 September 2020 was filed after
+expiry of the priority period, and no further applications can now be filed claiming priority from TOR-EP.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of FEED.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of
+FEED.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+As it stands, TOR-EP is part of the state of the art under Art 54(3) EPC and discloses FEED, which deprives the claim to FEED in OPT-EP1 of novelty.
+The video of FEED made public on 10 July 2019 is part of the state of the art under Art 54(2) and also discloses FEED. The disclosure is enabling, because
+the video explains how FEED works. This deprives the claim to FEED in OPT-EP1 of novelty.
+Therefore, the claim to FEED in OPT-EP1 is not valid.
+OPT-EP1 was granted as a European patent on 27 Jan 2021 and has been opposed by a German lawyer.
+Per G 3/97, the identity of the opponent is irrelevant (as long as there is no circumvention of the law, self-opposition, which is not the case here). It does
+not matter that the lawyer has no interest in the case. This is immaterial for admissibility of the opposition.
+Therefore, the opposition is admissible. The invalid claim to FEED in OPT-EP1 will be  revoked in the opposition. Patent protection cannot be obtained by
+OPT for FEED via OPT-EP1.
+  OPT-EP2
+OPT-EP2 describes and claims FEED and was filed by OPT on 4 Oct 2019 without claiming priority.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of FEED.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of
+FEED.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+As it stands, TOR-EP is part of the state of the art under Art 54(3) EPC and discloses FEED, which deprives the claim to FEED in OPT-EP2 of novelty.
+The video of FEED made public on 10 July 2019 is part of the state of the art under Art 54(2) and also discloses FEED. The disclosure is enabling, because
+the video explains how FEED works. This deprives the claim to FEED in OPT-EP2 of novelty.
+OPT-EP1 is part of the state of the art under Art 54(3) EPC and discloses FEED, which deprives the claim to FEED in OPT-EP2 of novelty.
+Therefore, the claim to FEED in OPT-EP2 is not valid. Patent protection cannot be obtained by OPT for FEED via OPT-EP2.
+  OPT-PCT
+OPT-PCT describes and claims FEED and was filed by OPT on 30 Sept 2020 claiming priority from OPT-EP2. Since OPT-EP2 was not the first application
+filed by OPT containing FEED (this was OPT-EP1) the priority claim is not valid in respect of FEED. The effective date of the claim to FEED in OPT-PCT is
+the filing date, 30 Sept 2020.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of FEED.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED so it is not prejudicial to novelty of
+FEED.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+In the EP phase, TOR-EP is part of the state of the art under Art 54(3) EPC and discloses FEED. As it stands, this would deprive the claim to FEED in Euro-
+OPT-PCT of novelty.
+The video of FEED made public on 10 July 2019 is part of the state of the art (within the meaning of Art 54(2), but everywhere, not just in Europe) and
+discloses FEED. The disclosure is enabling, because the video explains how FEED works. This deprives the claim to FEED in OPT-PCT of novelty.
+In the  EP phase, OPT-EP1 is part of the state of the art under Art 54(3) EPC and discloses FEED. This would also deprive the claim to FEED in Euro-OPT-
+PCT of novelty.
+In the EP phase, OPT-EP2 is also part of the state of the art under Art 54(3) EPC and discloses FEED. This would also deprive the claim to FEED in Euro-
+OPT-PCT of novelty.
+Therefore, the claim to FEED in OPT-PCT is not valid. Protection cannot be obtained by OPT for FEED via OPT-PCT anywhere in the world.
+To summarise: as it stands, after grant of TOR-EP, protection for FEED looks achievable by TOR in EPC states where TOR-EP is validated or
+maintained.
+Protection for FEED does not look to be achievable anywhere else in the world, by anyone.
+(b) the FEED machine with two feeding ducts at the bottom of the mill - "FEED + 2D"
+  OPT-EP1
+OPT-EP1 is the first application containing FEED + 2D. OPT-EP1 describes and claims FEED + 2D and was filed by OPT on 22 July 2019 without claiming
+priority.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to novelty of
+FEED + 2D.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to
+novelty of FEED + 2D.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+TOR-EP is part of the state of the art under Art 54(3) EPC but does not disclose FEED + 2D so it is not prejudicial to novelty of FEED + 2D.
+The video of FEED made public on 10 July 2019 is part of the state of the art under Art 54(2) and discloses FEED. The disclosure is enabling, because the
+video explains how FEED works. However, there is no disclosure of FEED + 2D, so this is not prejudicial to novelty of FEED + 2D.
+Therefore, the claim to FEED + 2D in OPT-EP1 is valid.
+It is also inventive, because by using two feeding ducts for the filler, a surprisingly greater uniformity of the recycled plastic can be obtained.
+Therefore, the claim is valid. 
+OPT-EP1 was granted as a European patent on 27 Jan 2021, and has been opposed by a German lawyer.
+While the invalid claim to FEED in OPT-EP1 will be  revoked in the opposition for lack of novelty, the valid claim to FEED + 2D should be maintained in the
+opposition because it is valid.
+Therefore, protection looks achievable by OPT via OPT-EP1 for FEED + 2D in EPC states where OPT-EP1 is (re)validated and (re)maintained
+following the opposition.
+ 
+  OPT-EP2
+OPT-EP2 describes and claims FEED and was filed by OPT on 4 Oct 2019 without claiming priority.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to novelty of
+FEED + 2D.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to
+novelty of FEED + 2D.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+TOR-EP is part of the state of the art under Art 54(3) EPC but does not disclose FEED + 2D so it is not prejudicial to novelty of FEED + 2D.
+The video of FEED made public on 10 July 2019 is part of the state of the art under Art 54(2) and discloses FEED. The disclosure is enabling, because the
+video explains how FEED works. However, there is no disclosure of FEED + 2D, so this is not prejudicial to novelty of FEED + 2D.
+OPT-EP1 is part of the state of the art under Art 54(3) EPC and discloses FEED + 2D. This deprives the claim to FEED + 2D in OPT-EP2 of novelty.
+Therefore, the claim to FEED + 2D in OPT-EP2 is not valid. Protection cannot be obtained by OPT for FEED + 2D via OPT-EP2.
+ 
+  OPT-PCT
+OPT-PCT describes and claims FEED + 2D and was filed by OPT on 30 Sept 2020 claiming priority from OPT-EP2. Since OPT-EP2 was not the first
+application filed by OPT containing FEED + 2D (this was OPT-EP1) the priority claim is not valid in respect of FEED + 2D. The effective date of the claim to
+FEED + 2D in OPT-PCT is the filing date, 30 Sept 2020.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to novelty of
+FEED + 2D.
+TOR-EP-old was granted in 2017 and is part of the state of the art under Art 54(2) EPC, but it does not disclose FEED + 2D so it is not prejudicial to
+novelty of FEED + 2D.
+(The disclosure of FEED by OPT to TOR on 3 June 2019 was secret due to the 2018 agreement, therefore is not prior art.)
+In the EP phase, TOR-EP is part of the state of the art under Art 54(3) EPC but does not disclose FEED + 2D so it is not prejudicial to novelty of FEED + 2D.
+The video of FEED made public on 10 July 2019 is part of the state of the art under Art 54(2) and discloses FEED. The disclosure is enabling, because the
+video explains how FEED works. However, there is no disclosure of FEED + 2D, so this is not prejudicial to novelty of FEED + 2D.
+In the  EP phase, OPT-EP1 is part of the state of the art under Art 54(3) EPC and discloses FEED + 2D. This would deprive the claim to FEED in Euro-OPT-
+PCT of novelty.
+In the EP phase, OPT-EP2 is also part of the state of the art under Art 54(3) EPC and discloses FEED + 2D. This would deprive the claim to FEED in Euro-
+OPT-PCT of novelty.
+Therefore, the claim to FEED in OPT-PCT is only novel, outside Europe.
+Therefore, the claim to FEED in OPT-PCT is only valid, outside Europe.
+Therefore, protection looks achievable by OPT via OPT-PCT for FEED + 2D anywhere apart from EPC states, where OPT-PCT enters the national
+phase, and where patents originating from OPT-PCT are subsequently granted; for example, the US, India and China.
+The deadline to enter the national/regional phase in countries with a 30-month deadline (including the US and China) is 4 Oct 2019 + 30 months = 4
+April 2022 (Monday); in countries with a 31-month deadline (including EP as a regional phase entry, and India) it is 4 May 2022 (Weds).
+(c) the CLEAN feeding process - "CLEAN"
+So far, there has been no disclosure of CLEAN, therefore it is novel.
+It is also inventive, because it saves up to 30% of the costs of the recycling process by avoiding the machine having to be stopped in order to clean the
+blades.
+However, no patent application has yet been filed anywhere, for this subject matter.
+Therefore as it stands, there is no valid patent protection for CLEAN.
+(d) the SPRAY water spray device (as such) - "SPRAY"
+  TOR-EP-old
+The first application containing SPRAY is TOR-EP-old filed by TOR in 2015 without a claim to priority and granted in 2017. TOR-EP-old describes and
+claims SPRAY. The 9-month opposition period of Art 99(1) EPC has therefore expired (in 2017 or 2018) so it is too late for OPT to file an opposition
+against TOR-EP-old in the "normal" way.
+The fair in Barcelona in 2014 is part of the state of the art under Art 54(2) EPC. The fair was public and SPRAY was on display at the fair, which is an
+enabling disclosure of all visible external features, see EPO GL G-IV, 7.2.1. Additionally, SPRAY was disclosed in a brochure with the date on it, which was
+handed out at the fair, which is an enabling disclosure of all technical features of SPRAY because SPRAY was fully disclosed in the brochure. The
+brochure, at least, is prior art under Art 54(2) EPC which deprives the claim to SPRAY in TOR-EP-old of novelty and thus of validity.
+However, the ground of lack of novelty (Art 100(a) + Arts 52(1) and 54(1) EPC) has not been raised in the opposition which is now at the appeal stage.
+Avidus could only raise it with the consent of TOR, G 10/91.
+TOR-EP-old was opposed by Avidus, but only on the ground of lack of sufficiency. The opposition was rejected and Avidus appealed the decision of
+the Opposition Division. The appeal is pending.
+Avidus is considering withdrawing their appeal. If they do so, the proceedings cannot be independently continued by TOR (the other party; G 2/91) and
+OPT is not even a party to the proceedings so has no say in them.
+Therefore, as the situation currently stands, protection looks achievable by TOR via TOR-EP-old for SPRAY in EPC states.
+  OPT-EP2
+OPT-EP2, filed by OPT on 4 October 2019, describes but does not claim SPRAY. No priority is claimed.
+  OPT-PCT
+OPT-PCT, filed by OPT on 4 October 2019, describes and claims SPRAY. OPT-PCT claims priority from OPT-EP2; the priority claim is valid because OPT-
+PCT was filed by the same applicant within the priority year (4 Oct 2019 + 12 months = 4 Oct 2020, Sunday => 5 Oct 2020, Monday) and OPT-EP2 was the
+first application filed by OPT containing SPRAY.
+Therefore, the effective date of the claim to SPRAY in OPT-PCT is the priority date, 4 Oct 2019.
+The fair in Barcelona in 2014 is part of the state of the art (within the meaning of Art 54(2) EPC, but everywhere in the world). The fair was public and
+SPRAY was on display at the fair, which is an enabling disclosure of all visible external features, see EPO GL G-IV, 7.2.1. Additionally, SPRAY was disclosed
+in a brochure with the date on it, which was handed out at the fair, which is an enabling disclosure of all technical features of SPRAY because SPRAY was
+fully disclosed in the brochure. The brochure, at least, is prior art (within the meaning of Art 54(2) EPC, but everywhere in the world) which deprives the
+claim to SPRAY in OPT-PCT of novelty and thus of validity.
+TOR-EP-old was granted in 2017 and is part of the state of the art (within the meaning of Art 54(2) EPC, but everywhere in the world). It discloses SPRAY,
+therefore also deprives the claim to SPRAY in OPT-PCT of novelty.
+Therefore, the claim to SPRAY in OPT-PCT is not valid.
+Therefore, protection for SPRAY is not achievable via OPT-PCT by OPT, anywhere in the world.
+(e) the FEED machine with the SPRAY water spray device - "FEED + SPRAY"
+  OPT-EP2
+OPT-EP2, filed by OPT on 4 October 2019, describes but does not claim FEED + SPRAY. No priority is claimed.
+ 
+  OPT-PCT
+OPT-PCT, filed by OPT on 4 October 2019, describes and claims FEED + SPRAY. OPT-PCT claims priority from OPT-EP2; the priority claim is valid because
+OPT-PCT was filed by the same applicant within the priority year (4 Oct 2019 + 12 months = 4 Oct 2020, Sunday => 5 Oct 2020, Monday) and OPT-EP2
+was the first application filed by OPT containing FEED + SPRAY.
+Therefore, the effective date of the claim to FEED + SPRAY in OPT-PCT is the priority date, 4 Oct 2019.
+The fair in Barcelona in 2014 is part of the state of the art (within the meaning of Art 54(2) EPC, but everywhere in the world). The fair was public and
+SPRAY was on display at the fair, which is an enabling disclosure of all visible external features, see EPO GL G-IV, 7.2.1. Additionally, SPRAY was disclosed
+in a brochure with the date on it, which was handed out at the fair, which is an enabling disclosure of all technical features of SPRAY because SPRAY was
+fully disclosed in the brochure. However, SPRAY was disclosed at the fair for a different use; it was not disclosed in combination with FEED, so this is not
+prejudicial to the novelty of FEED + SPRAY.
+TOR-EP-old was granted in 2017 and is part of the state of the art (within the meaning of Art 54(2) EPC, but everywhere in the world). It discloses SPRAY,
+but not in combination with FEED, so this is not prejudicial to the novelty of FEED + SPRAY.
+Therefore, the claim to FEED + SPRAY in OPT-PCT is novel.
+It is also inventive, because by mounting SPRAY on the FEED machine it is possible to reduce the dust generated by the machine, surprisingly without
+affecting the properties of the recycled plastic.
+Therefore, protection for FEED + SPRAY looks achievable by OPT via OPT-PCT for FEED + SPRAY anywhere  where OPT-PCT enters the
+national/regional phase, and where patents originating from OPT-PCT are subsequently granted.
+2. How would you advise us to respond to the opposition against OPT-EP1?
+OPT-EP1 was granted as a European patent on 27 Jan 2021 and has been opposed by a German lawyer.
+The last day to file a response to the communication in the opposition issued on 3 Dec 2021, accompanied by amendments, is:
+3 Dec 2021 + 10 days = 13 Dec 2021 + 4 months = 13 April 2022 (Wednesday) so we still have just over a month left to respond.
+Per G 3/97, the identity of the opponent is irrelevant (as long as there is no circumvention of the law to achieve self-opposition, which is not the case
+here). It does not matter that the lawyer has no interest in the case. This is immaterial for admissibility of the opposition. Therefore, I do not advise
+attempting to argue along these lines.
+I do NOT advise explaining the newly discovered advantage of having two ducts when arguing inventive step in the opposition. In the assessment of
+inventive step under the problem-solution approach, basing arguments on this newly discovered advantage would require a reformulation of the
+technical problem based on an effect which is not derivable from the application as filed (see T 386/89) and the skilled person would not recognise this
+effect as implied by or related to the technical problem initially suggested, of how greater uniformity of the recycled plastic can be obtained (see
+T 184/82) - see EPO GL G-VII, 5.2.
+Moreover, this effect should CERTAINLY not be disclosed to the opposition division before OPT files a new application containing CLEAN. Any such
+disclosure, which will become part of the public file of OPT-EP1, could prejudice the novelty/inventive step of claim(s) to CLEAN in the later-filed
+application.
+We could file evidence, in the form of the 2018 agreement, that TOR-EP should be discounted as a non-prejudicial disclosure under Art 55(1)(a) EPC,
+because its publication in December 2020 occurred after OPT-EP1 was filed (so meeting the 6 months' requirement of Art 55(1), G 3/98, G 2/99) and was
+due to an evident abuse in relation to OPT as the 2018 agreement was breached; a copy of the agreement will prove this satisfactorily (the standard is
+the balance of probabilities), see T 585/92, T 436/92.
+Even so, the video made public on 10 July 2019 remains part of the state of the art under Art 54(2) EPC (it was a voluntary disclosure by OPT, it cannot be
+discounted using Art 55 EPC) which is an enabling disclosure of FEED, so that the claim to FEED in OPT-EP1 is still not novel, therefore still not valid.
+Therefore, overall, I advise responding to the opposition by filing an amended set of claims, wherein the claim to FEED is deleted, while the claim to
+FEED + 2D is maintained without amendment.
+The amendments meet R 80 EPC, because they are occasioned by the ground of lack of novelty; no subject matter is added (Art 123(2) EPC) and the
+scope of protection is not extended (Art 123(3) EPC). 
+Together with the amendments, file comments on the novelty and inventive step of FEED + 2D in view of the video - see answer to (1.) above. In
+particular, rebut the opponent's argument that a claim directed to FEED + 2D is obvious in view of FEED (+ 1D) - this is not the case, because by using
+two feeding ducts for the filler, a surprisingly greater uniformity of the recycled plastic can be obtained.
+The opposition division will maintain OPT-EP1 in amended form with its claim to FEED + 2D.
+3. What could we do to improve our situation?
+TOR-EP-old
+So far, TOR has only sent a cease and desist letter in relation to TOR-EP-old. TOR has not begun proceedings against OPT for infringement of TOR-EP-
+old, so that OPT cannot yet intervene under Art 105 EPC, in the opposition appeal currently pending against TOR-EP-old.
+OPT should therefore begin proceedings as soon as possible for a finding of non-infringement of TOR-EP-old (presumably, in an Italian court) then (as
+soon as possible, but at the latest by 3 months from the beginning of said proceedings) file a notice of intervention and pay the opposition fee; this
+must be done while the appeal is still pending, see G 4/91, so OPT should ask Avidus NOT to withdraw their appeal.
+Upon intervening, OPT should raise the new ground of lack of novelty (Art 100(a) + Arts 52(1) and 54(1) EPC) since new grounds can be raised by an
+intervener without the consent of the proprietor TOR (the case will be remitted to the opposition division - G 4/91) citing the Barcelona fair and the
+brochure, producing the brochure, which is suitably dated, as evidence.
+TOR-EP-old will be revoked after the remittal to the opposition division, so that TOR can no longer use TOR-EP-old to stop OPT from
+making/selling/using SPRAY in Europe. Any party will be free to use SPRAY without FEED, anywhere in the world.
+By the way, TOR-EP-old was filed before the 2018 agreement between OPT and TOR, so the agreement does not apply to TOR-EP-old.
+TOR-EP
+As soon as possible, OPT should begin proceedings in an Italian court (because TOR is Italian, Article 2 of the Protocol on Recognition) for a finding that
+OPT is rightfully entitled to EP-TOR, on the basis that FEED was actually invented by (presumably, employees of) OPT in Jan 2019, and then TOR was
+given the technical drawings and fully enabling report of FEED by OPT on 3 June 2019; moreover, the 2018 agreement stated that all IP generated since
+then would belong to OPT not TOR (this agreement should be produced as evidence).
+As soon as these national proceedings have begun, request a stay of the grant proceedings of TOR-EP at the EPO under R14(1) EPC, providing the EPO
+with suitable evidence. 
+This should all be done very quickly, due to the fact that TOR-EP is approaching grant, because the communication under R 71(3) EPC has just been
+issued, and the latest stay can possibly be requested is the day before the date of publication of the mention of grant, J 9/12.
+As soon as the Italian court has issued a decision in OPT's favour (and at the latest by 3 months from then) file a request at the EPO with suitable
+evidence of the decision to replace TOR as the applicant of EP-TOR (Art 61(1)(a) EPC) or, if preferred, to file a new application under Art 61(1)(b) EPC
+benefitting from the filing date of EP-TOR. 
+Note, if the Art 61(1)(a) option is taken, it is important for OPT to ensure renewal fees are paid, if needed, during the stay, if TOR does not do so. 
+As a consequence, OPT will be able to use TOR-EP to stop TOR making/selling/using FEED in EPC states where TOR-EP is validated or
+maintained after grant.
+OPT-EP1
+See (2.) above.
+OPT-EP2
+Allow OPT-EP2 to lapse (in favour of OPT-EP1 and TOR-PCT).
+OPT-PCT:
+  EP
+Enter the EP phase by the 31-month deadline (see above). Amend the claims upon EP entry to claim only SPRAY + FEED. 
+Waive the R 161/162 EPC communication. Request accelerated examination under PACE.
+File a translation of the claims into Italian at the national office in Italy (National Law relating to the EPC, Table 111.A) to commence provisional
+protection in Italy where TOR is based. 
+In response to the communication under R71(3) EPC, pay the fee for grant and publishing and file claims translations into the two EPC official languages
+other than the language of proceedings.
+Validate or maintain Euro-OPT-PCT in all EPC states of interest, including Italy, after grant.
+  India
+Enter the IN phase by the 31-month deadline (see above). Seek protection for SPRAY + FEED, and for FEED + 2D, via IN-OPT-PCT. This may require filing a
+divisional application for one of these - consult a local attorney.
+  China, US
+Enter the CN and US national phases by the 30-month deadline (see above). Seek protection for SPRAY + FEED, and for FEED + 2D, via CN/US-OPT-PCT.
+Again, this may require filing a divisional application - consult local attorneys.
+  Anywhere else
+Enter the national phase with OPT-PCT anywhere else of interest, by the relevant (30 or 31 month) deadline.
+CLEAN - file a new application
+As soon as possible (to minimise the risk of intervening disclosures) file a new application (e.g. an EP application) describing and claiming CLEAN.
+Towards the end of the priority period, file a PCT application claiming priority from it, thereby accessing protection anywhere the national/regional
+phase is entered, including India, China and the US as well as EP (and ensuring maximum term of protection, which runs from the filing date not the
+priority date).
+Protection for CLEAN will be achievable by OPT via the new PCT application anywhere where it enters the national/regional phase, including
+India, China and the US as well as EP, and where patents originating from it are subsequently granted.
+4. After the improvements, what products and methods could we stop TOR from making or using, and in which countries?
+FEED
+Using TOR-EP, OPT can stop TOR from making (or using) FEED in all EPC states where TOR-EP is validated or maintained after grant.
+Elsewhere in the world, TOR is free to make (or use) FEED.
+FEED + 2D
+Using the broad protection of TOR-EP, OPT can stop TOR from making (or using) FEED + 2D, which it encompasses, in all EPC states where TOR-EP is
+validated or maintained after grant.
+Also using OPT-EP1, OPT can stop TOR from making (or using) FEED + 2D in all EPC states where OPT-EP1 is (re)validated or (re)maintained.
+Elsewhere in the world, TOR is free to make (or use) FEED + 2D.
+CLEAN
+OPT can stop TOR from using the process CLEAN in any country where patents originating from the new PCT application will be in force; I advise
+ensuring this includes at least EP, China, India and the US in view of the agreement with Avidus.
+SPRAY (as such/without FEED)
+After TOR-EP-old is revoked, all parties are free to make (or use) SPRAY without FEED anywhere in the world.
+FEED + SPRAY
+OPT can stop TOR from making (or using) FEED + SPRAY in any country where patents originating from OPT-PCT will be in force; I advise ensuring this
+includes at least EP, China, India and the US in view of the agreement with Avidus.

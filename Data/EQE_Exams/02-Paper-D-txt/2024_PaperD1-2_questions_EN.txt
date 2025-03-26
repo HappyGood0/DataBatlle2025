@@ -1,0 +1,53 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2024
+Paper D1-2
+This Paper comprises:
+Part I: Legal Questions
+Question 3:
+9
+marks
+Question 4:
+11
+marks
+Question 5:
+9
+marks
+QUESTION 3
+(9 MARKS)
+The opposition period for European patent EP-1 expired yesterday
+On 16 January 2024, A and B, two nationals of Spain, A residing in Mexico and B residing 
+in Spain, jointly filed a notice of opposition against EP-1. The opposition fee was paid on 
+that date. The notice was filed in Spanish by A and B, named in that order, and signed by 
+both of them. It includes the opponents' particulars, correctly identifies the opposed patent 
+EP-1 and contains a statement of the extent to which EP-1 is opposed and properly 
+substantiated grounds for this.
+On 29 January 2024, the opposition division issued an invitation to remedy deficiencies, 
+setting a time limit of two months.
+Yesterday B filed a translation of the notice of opposition in English.
+What procedural steps need to be taken to remedy the deficiencies and for substantive 
+examination of the joint opposition to start?
+QUESTION 4
+   (11 MARKS)
+Your client company E is the proprietor of granted patent EP-4. EP-4 has been granted 
+with an independent claim 1 directed to subject-matter A, a dependent claim 2 directed to 
+subject-matter A+B, a dependent claim 3 directed to subject-matter A+C and an 
+independent claim 4 directed to subject-matter D.
+Company F has filed an admissible opposition against only claim 1 of EP-4, based on the 
+ground that the subject-matter of granted claim 1 is not new in view of prior-art document 
+EP-D1. EP-D1 does not disclose or suggest any of the subject-matter claimed in EP-4.
+In response to summons to attend oral proceedings sent by the opposition division, 
+company F filed documents EP-D2 and EP-D3, both constituting prior art under 
+Article 54(3) EPC. It is immediately clear that, as argued by company F, EP-D2 discloses 
+subject-matter A and EP-D3 discloses subject-matter D.
+Advise company E on how to obtain a valid patent conferring the maximum possible scope
+of protection.
+QUESTION 5
+ (9 MARKS)
+Your client, applicant H, a national and resident of Morocco, filed European patent 
+application EP-7 in French in March 2020. The mention of the grant was published on 
+21 February 2024.
+What steps have to be taken and by when to:
+(a)
+obtain patent protection in the United Kingdom and Poland; and
+(b)
+obtain unitary patent protection?

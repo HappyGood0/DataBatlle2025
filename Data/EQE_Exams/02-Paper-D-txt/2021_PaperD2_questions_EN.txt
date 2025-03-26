@@ -1,0 +1,117 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2021
+Paper D2
+This paper comprises:
+• Questions 1-4    50 points
+2021/D2/EN
+0-1
+Part II: Legal Opinion
+[001] Today is 2 March 2021.
+[002] I am the owner of PUGZ, a British manufacturer of pet products. We manufacture 
+a popular dog leash known as SPRINGY (S). A dog leash is a rope or chain that can be 
+attached to a dog collar to prevent the dog running off. Our SPRINGY leash has an 
+elastic spring section to reduce the effect of strain on a dog’s neck when the leash is 
+pulled tightly. We sell SPRINGY leashes in our key markets of the UK, France and Italy. 
+Nonetheless, our customers tell us they are still concerned about the effect of strain on 
+their dogs when the spring section of a SPRINGY leash is fully extended.
+[003] To address this problem, we sent our top researchers to the Chinese HOUND 
+Institute in Beijing, where they worked under a collaboration agreement with HOUND 
+researchers. After some weeks working together they developed a surprisingly clever 
+fastener for attaching the SPRINGY leash to a dog collar. The fastener is called 
+OH-NO (O) and is designed to detach the leash from the collar if the strain exceeds a 
+particular limit.
+[004] We realised that customers may be unhappy to have their dogs detached from a 
+leash. Therefore, we asked our researchers to continue working with HOUND in China 
+to improve their solution. From our research we found that retaining a connection 
+between the collar and the leash even after the OH-NO fastener detaches has a 
+surprisingly positive effect on the behaviour of the dog. We then invented an especially 
+useful secondary connection between the leash and the collar in case the two are 
+separated. We call this secondary connection COMEBACK (C).
+2021/D2/EN/1
+[005] On 18 June 2018 we and HOUND jointly filed an international application (HP-
+PCT) in English at the Chinese patent office (CNIPA) as receiving office without a claim 
+to priority. HP-PCT discloses and claims a SPRINGY leash comprising both an OH-NO 
+fastener and a COMEBACK cable. The international search report cited a single article 
+from the Chinese journal PUPPY-PRESS as “technological background”. The article, 
+published on 4 January 2017, discloses only a SPRINGY leash.
+[006] In early 2018 our market research on OH-NO and COMEBACK suggested 
+leashes with these features would not be commercially successful in Europe. On this 
+basis, we agreed with HOUND that we would enter the national phase of HP-PCT in 
+China only. HP-PCT entered the Chinese national phase in December 2020. 
+[007] Following the filing of HP-PCT our researchers returned to the UK to work on 
+alternative improvements to SPRINGY, and in June 2018 we solely developed a 
+modification to SPRINGY that we named YELP (Y). YELP is a high-pitch sound emitter 
+that emits a high-pitched sound when the spring section of a SPRINGY leash reaches 
+full extension. This sound is surprisingly effective at causing a dog to stop pulling on the 
+leash to reduce the effect of strain on the dog.
+[008] In conjunction with YELP we also developed a further modification to SPRINGY 
+that we named AHHH (A). AHHH is a calming sound emitter that emits a calming sound 
+when a dog has stopped pulling on the leash following a high-pitched sound emitted by 
+YELP. The calming sound emitted by AHHH is surprisingly effective at pacifying dogs.
+2021/D2/EN/2
+[009] We filed a European patent application (P-EP) on 2 July 2018. P-EP discloses a 
+SPRINGY leash with the YELP modification. P-EP also discloses a SPRINGY leash 
+having both the YELP modification and the AHHH modification. In the description 
+of P-EP we mention an inflatable sound barrier (B) on a dog leash for protecting a 
+dogwalker’s ears from high-pitched sound. However, we did not include a description of 
+any suitable sound barrier and, indeed, we have not yet been able to obtain such a 
+sound barrier that works. P-EP was granted on 12 November 2020 with a single claim 
+directed to a SPRINGY leash with the YELP modification and an inflatable sound 
+barrier. P-EP is validated in Italy and we intend to maintain it in France and the UK.
+[010] Much to our annoyance, we have discovered that since October 2018, our Italian 
+competitor, WUFF, has made a commercial success of SPRINGY leashes having 
+OH-NO fasteners and COMEBACK cables. WUFF developed their technology entirely 
+independently and they sell their leashes in Italy, the UK, France and Germany.
+[011] We found that WUFF has a granted European patent, W-EP, currently in force in 
+the UK, France, Italy and Germany. W-EP was filed by WUFF on 29 June 2018 and 
+discloses four separate embodiments: a SPRINGY leash; a SPRINGY leash having 
+an OH-NO fastener; a SPRINGY leash having both an OH-NO fastener and a 
+COMEBACK cable; and a SPRINGY leash having the YELP modification. W-EP 
+discloses surprising effects of OH-NO, COMEBACK and YELP consistent with the 
+effects that we have found. W-EP was granted on 5 August 2019 with three claims. 
+Claim 1 is directed to a SPRINGY leash. Claim 2, dependent on claim 1, comprises an 
+OH-NO fastener and a COMEBACK cable. Claim 3, also dependent on claim 1, 
+comprises the YELP modification.
+2021/D2/EN/3
+[012] A file inspection of W-EP shows that it claims priority from an application for an 
+Italian utility model, W-IT, filed by WUFF on 10 July 2017 and disclosing two separate 
+embodiments: a SPRINGY leash; and a SPRINGY leash having an OH-NO fastener. 
+W-IT was not published and has been withdrawn.
+[013] In April 2020 we filed an opposition against all claims of W-EP on the grounds of 
+lack of novelty and inventive step substantiated with reference to the PUPPY-PRESS 
+article. In October 2020 the EPO sent us a copy of WUFF’s written response to our 
+opposition in which WUFF submitted a single request amending claim 1 of W-EP to 
+further incorporate the OH-NO feature. Claim 2, dependent on claim 1, comprises 
+COMEBACK. Claim 3 was made an independent claim directed to a SPRINGY leash 
+having the YELP modification. Last week the EPO issued a summons to oral 
+proceedings scheduled for October 2021. Along with the summons the EPO indicated 
+that the amended claims of W-EP appear to be novel and inventive over the PUPPY-
+PRESS article.
+[014] Following our opposition, WUFF filed their own opposition on 28 January 2021 
+against our patent P-EP. WUFF raises a first ground of opposition that the sound barrier
+feature is insufficiently disclosed. WUFF also raises a second ground of opposition that 
+the claim of P-EP is not novel over W-EP. We reviewed the notice of opposition and we 
+believe we can easily overcome the opposition by merely amending the claim of P-EP to
+replace the sound barrier feature with the AHHH modification.
+[015] We have continued to search for prior art to improve our chances against W-EP. 
+We located a Japanese patent application W-JP filed by WUFF on 2 January 2017 and 
+published in July 2018. W-JP discloses and claims two embodiments: a SPRINGY leash
+and a SPRINGY leash with an OH-NO fastener. The W-JP application was explicitly 
+withdrawn soon after publication.
+2021/D2/EN/4
+[016] We are looking for your advice.
+(1) What is the current patent situation in respect of: 
+• SPRINGY leashes in general (S)?
+• A SPRINGY leash with an OH-NO fastener (S+O)?
+• A SPRINGY leash with an OH-NO fastener and a COMEBACK cable 
+(S+O+C)?
+• A SPRINGY leash with the YELP modification (S+Y)?
+• A SPRINGY leash with the YELP modification and the AHHH modification 
+(S+Y+A)?
+• A SPRINGY leash with the YELP modification and a sound barrier (S+Y+B)?
+(2) Can we save our patent P-EP and why? Give a reasoned analysis.
+(3) What improvements can we make to the current patent situation?
+(4) After our improvements: 
+• Which products will we be able to stop WUFF from making and selling?
+• Which products will WUFF be able to stop us from making and selling?
+2021/D2/EN/5

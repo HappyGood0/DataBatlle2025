@@ -1,0 +1,498 @@
+Examiners’ Report – Paper D 2023 
+ 
+ 
+Purpose and extent of the examiner’s report  
+The purpose of the present examiner’s report is to enable candidates to prepare for future 
+examinations (cf. Art 6(6) of the Regulations on the European qualifying examination for 
+professional representatives).  
+ 
+General comments  
+Candidates are reminded that they should pay attention to the way questions are asked and 
+should not simply repeat information from the paper in the answer. Repeating information per 
+se is not awarded any marks. Alternative answers, one being correct and one being wrong, 
+for the markers to choose from do not attract any marks.  
+ 
+In part I, full marks are only awarded when the full legal basis is cited to support the analysis. 
+Candidates lost many marks due to missing or incomplete legal basis. The examiners note 
+that this issue has become more acute in recent years, with the 2023 answers showing an 
+all-time low in the citation of legal basis from e.g. the guidelines and case law. It is noted that 
+“answering legal question” as is the purpose of Part I, requires not only understanding the 
+legal provisions, but also being able to cite the correct legal basis for the answers. 
+Citing only the legal basis or repeating the text therefrom without any further explanation, 
+reasoning or providing advice generally does not attract any marks. However, alternative 
+relevant legal basis not mentioned in the possible solution also attracted marks. It is noted in 
+this respect that the online examination with direct access to part of the syllabus in electronic 
+form, appears to be seen as an invitation to copy articles, rules and paragraphs from the 
+guidelines, for which full marks are only awarded if, apart from the copied text, the explanation 
+is also provided in view of the situation in the question.  
+Marks were also often missed due to mistakes in calculations of time limits. 
+Candidates are reminded that the PCT questions make up a substantial part of paper D.  
+ 
+ 
+Examiners’ Report – Paper D 2023, Part I  
+ 
+Question 1 (10 marks) 
+This question was generally well answered. Most candidates realised that DIV1 cannot lead 
+to a valid patent, because the omission of feature B violates Art. 76(1) EPC and B cannot be 
+reintroduced in DIV1 because of Art. 123(2) EPC. However, the majority of candidates did 
+not cite the legal basis in Guidelines H-V, 3.1 that the omission of a feature that is 
+indispensable for the function of the invention in the light of the technical problem violates Art. 
+123(2) EPC and that the same criterion is applied for the assessment of Art. 76(1) EPC. 
+The majority of candidates realised that optional feature F needs to be removed from DIV2. 
+However, many candidates did not realise that the fact that EP-A was pending when divisional 
+DIV2 was filed constitutes a condition for obtaining a valid patent for DIV2. Moreover, a 
+number of candidates failed to argue that there is no relevant prior art for B+D and that B+D 
+is thus new and inventive. 
+Most candidates correctly noted that a divisional application based on EP-A needs to be filed 
+to prosecute invention E+F. Most candidates also realised that EP-A is still pending until the 
+expiry of the period for filing a notice of appeal. However, the correct legal basis G 1/09 was 
+not always cited. 
+ 
+Question 2 (10 marks) 
+Parts (a) and (b) of this question were reasonably well answered. Most candidates realised 
+that the time limit to correct the priority claim under Rule 26bis PCT has already expired. Most 
+candidates also realised that the priority claim is considered to have been made and correctly 
+calculated the time limit to file a demand. 
+Part (c) was less well answered. Some candidates suggested to rectify the priority claim 
+under Rule 91.1 PCT, but not all of them indicated the necessary steps that applicant B needs 
+to carry out for requesting the rectification. Few candidates indicated the reasons why the 
+conditions for rectifying the priority claim were met if the steps were carried out. Some 
+candidates wrongly suggested to proceed according to Rule 26bis.2(e) PCT, which does not 
+lead to a rectification of the priority claim, but to a publication of “information concerning the 
+matter”. 
+Question 3 (7 marks) 
+Fewer than half of the candidates noticed that a debit order cannot be filed by fax and 
+revocation proceedings are thus not pending. 
+Most candidates realised that there is still time to file an opposition. Regarding the calculation 
+of the opposition period, full marks were also awarded to candidates not having noted the 
+closure of the Berlin office on 08.03.2023 (only published in OJ 2022, A107 in November 
+2022) and thus concluded that the opposition period ends on 08.03.23. 
+Some candidates noticed that the renewal fee to pay to the German Patent and Trademark 
+Office could still be paid with surcharge and that EP-C was currently in force in Germany.  
+Few candidates noted that a revocation or limitation of the patent in opposition proceedings 
+has an ex tunc effect, whereas company D could still be sued for infringement if the patent 
+merely lapses.  
+Many candidates did not realise that the purpose and effect of actively filing an opposition 
+are different than passively awaiting lapse of the patent or the outcome of possible revocation 
+proceedings. 
+ 
+Question 4 (7 marks) 
+This question was generally well answered. Most candidates realised that the appeal was 
+currently likely to be rejected as inadmissible. Most candidates also suggested to correct the 
+appellant’s identity under Rule 139 EPC. However, few candidates indicated that the request 
+for correction of the appellant’s name should be filed as soon as possible and that evidence 
+of the original intention should be provided. 
+Few candidates mentioned that after correction of the appellant’s name, the appeal is 
+admissible because company F is adversely affected by the decision.  
+Marks were also awarded to candidates suggesting to request the correction under Rule 
+101(2) EPC. 
+ 
+ 
+ 
+Question 5 (11 marks) 
+Most candidates gave the correct reason why PCT-G was declared withdrawn and correctly 
+stated the legal consequence that PCT-G will cease to have the effect of a regular national 
+application in each designated state. 
+Although some candidates referred to the excuse procedure, few candidates indicated the 
+steps that must be carried out to revive PCT-G before the EPO. In particular, few candidates 
+noted that G must request the International Bureau to send copies of documents forming 
+PCT-G to the EPO and pay the filing fee under Rule 159(1)(c) EPC.  
+Many candidates did not realise that the removal of the cause of non-compliance is the date 
+of actual receipt of the communication noting a loss of rights (Guidelines E-VIII, 3.1.3) and 
+thus did not correctly calculate the time limit for requesting excuse (re-establishment). 
+ 
+Question 6 (10 marks) 
+This question was generally well answered.  
+Regarding part (a), most candidates suggested to replace the granted claim by a use claim 
+and by a method claim. However, few candidates noted that the granted claim lacks novelty 
+and that this is a ground for opposition under Art. 100(a) EPC. Some candidates wrongly 
+suggested to file a purpose-related product claim, e.g. a product claim disclaiming the use as 
+a detergent, or a product-by-process claim.  
+Most candidates realised that in situation (b) the use claim is excluded from patentability and 
+needs to be reformulated as a purpose-related product claim, i.e. “product P for use as a 
+medicament”. However, few candidates gave reasons why such a claim does not extend the 
+conferred protection.  
+ 
+ 
+ 
+Possible Solution – Paper D 2023, Part I  
+References to the legal basis refer to the situation on 31 October 2022  
+ 
+Answer to Question 1 (10 marks):  
+(a)  
+No valid patent can be obtained for DIV1.  
+A claim without B extends beyond the content of the parent application, Guidelines H-V, 3.1, 
+because the same principles as for assessing added subject-matter under Art. 123(2) EPC 
+are to be applied in the assessment of Art. 76(1) EPC, G 1/05. On the other hand, B cannot 
+be reinstated in DIV1, because it is not originally disclosed in DIV1, Art. 123(2) EPC. 
+For DIV2, a valid patent can be obtained. Parent application EP-A was pending when DIV2 
+was filed, R. 36(1) EPC. As it stands, the claim of DIV2 with feature F extends beyond the 
+content of the parent application, Art. 76(1) EPC, because EP-A does not disclose F in 
+combination with B+D. Hence, feature F needs to be removed from DIV2 to satisfy Art. 76(1) 
+EPC. According to G 1/05, DIV2 can be amended even if EP-A was no longer pending. 
+Feature F is optional. Therefore, removing feature F does not violate Art. 123(2) EPC. Since 
+there is no relevant prior art for B+D, B+D is new and inventive, Art. 52(1), 54 and 56 EPC.  
+ 
+(b) 
+An application which has been refused by the first instance is still pending until the expiry of 
+the period for filing an appeal, G 1/09. 
+Hence, EP-A is pending until 03.01.2023 + 10 days (Rule 126(2) EPC) + 2 months (Art. 108 
+EPC) = 13.03.2023 (Mon). 
+To prosecute invention E+F, applicant A should thus file a divisional application claiming and 
+describing E+F based on EP-A until 13.03.23, Rule 36(1) EPC. 
+ 
+ 
+ 
+Answer to Question 2 (10 marks): 
+(a) 
+The priority claim and the number in the priority document are inconsistent. Although the 
+applicant failed to reply to the invitation, the priority claim is considered to have been made 
+under the PCT, because the exceptions under Rule 26bis.2 PCT apply: 
+• The deficiency relates to an inconsistency between an indication in the priority claim 
+and the corresponding indication appearing in the priority document, Rule 26bis.2 (c)(ii) 
+PCT, and  
+• PCT-B was filed within the priority period of US-B, Rule 26bis.2(c)(iii) PCT, i.e. before 
+09.07.2021 + 12 months =  09.07.2022 (Sat), Art. 8 PCT and Art. 4C(1) PC, extended 
+to 11.07.2022, Rule 80.5 PCT. 
+ 
+(b) 
+The demand may be made at any time before the expiration of the later of the following 
+periods, Rule 54bis.1(a)(i) and (ii) PCT: 
+• A first period which is three months from the date of transmittal of the international 
+search report to the applicant, i.e. 12.07.2022 + 3 months = 12.10.2022 (Wed) 
+• A second period which is 22 months from the priority date, i.e. 09.07.2021 + 22 months 
+= 09.05.2023 (Tue) 
+Hence, the demand may be made until 09.05.2023. 
+ 
+(c) 
+Yes, the mistake in the priority claim can be rectified under Rule 91.1 PCT, because it would 
+not cause a change in the priority date, Rule 91.1(g)(iv) PCT. 
+The mistake was made in the request. Therefore B should submit a request for rectification 
+to the EPO acting as receiving Office, Rule 91.1(b)(i) PCT and Rule 91.2 PCT. 
+The request should be submitted at the latest on 09.07.2021 + 26 months = 09.09.2023 (Sat), 
+extended to 11.09.2023, Rule 80.5 PCT. 
+It shall specify the mistake to be rectified, i.e. the erroneous application number, and the 
+proposed rectification, i.e. claiming priority from US-B with the correct application number. 
+The PCT request is part of the international application as filed, Art. 3(2) PCT. Hence the 
+“applicable date” for the purposes of R. 91.1(c) PCT is the international filing date, Rule 
+91.1(f)(i) PCT. 
+It is obvious that at the filing date, something else was intended than the erroneous priority 
+application number and that nothing else could have been intended by applicant A than the 
+correct application number of US-B, i.e. the proposed rectification, because: 
+• the description of PCT-B comprises the correct priority claim, 
+• the description, claims and drawings of PCT-B are otherwise identical to those of US-
+B, and  
+• the certified copy of US-B was filed on the filing date. 
+The criteria for correction applied by the EPO acting as receiving Office specified in Rule 
+91.1(c) PCT are therefore met and the priority claim will be corrected. 
+ 
+Answer to Question 3 (7 marks): 
+(a) 
+The request for revocation was validly filed by fax. However, the debiting order is not valid 
+because it was filed by fax, ADA2022 7.1.3. 
+Therefore, revocation proceedings are not pending at present, Art. 105a(1) EPC. 
+ 
+(b) 
+The period for filing an opposition expires on 08.06.22 + 9 months (Art. 99(1) EPC) = 08.03.23 
+(Wed) extended to 09.03.23 (Rule 134(1) EPC) since the EPO in Berlin is closed on that day.  
+A first reason for filing an opposition against EP-C is that there is no certainty that EP-C will 
+be revoked, because revocation proceedings are not pending. 
+A second reason is that the renewal fee to pay to the German Patent and Trademark Office 
+fell due on 30.09.22, but may still be paid with surcharge until 31.03.23, National Law Table 
+VI. Since Germany is a party to the London agreement, EP-C is currently in force in Germany. 
+The renewal fee with surcharge may be paid after the end of the opposition period. Hence, 
+at the end of the opposition period, there will be no guarantee that EP-C will lapse in Germany. 
+A third reason is that, irrespective of whether or not company C lets EP-C lapse by not paying 
+the renewal fees, it is still advisable to file an opposition because a revocation or a limitation 
+in opposition has an ex tunc effect, Art. 68 EPC. If the patent merely lapses, company D may 
+still be sued for having infringed the patent with their products sold between July 2022 and 
+lapse of the patent. 
+ 
+Answer to Question 4 (7 marks): 
+(a) 
+The time limit for filing the notice of appeal ended on 19.12.2022 +10 days (Rule 126(2) EPC) 
++ 2 months (Art. 108 EPC) = 28.02.2023 (Tue), so the notice of appeal was filed in time. 
+The transfer of the patent was registered by the EPO before the decision was issued. Hence, 
+company E was not a party to the proceedings. Therefore, company E was not entitled to file 
+the appeal, Art. 107 EPC. 
+Currently, the appeal is thus likely to be rejected as inadmissible, Rule 101(1) EPC. 
+ 
+(b) 
+The error in the appellant's identity can be corrected under Rule 139 EPC, provided that the 
+correction does not reflect a later change of mind as to whom the appellant should be, but on 
+the contrary only expresses what was intended when filing the appeal (G 1/12). 
+Therefore, you can improve the situation by requesting correction of the appellant's name 
+under Rule 139 EPC as soon as possible, such that company F becomes the appellant. For 
+that you have to provide evidence of the original intention, e.g. a copy of the email of company 
+F instructing you to file an appeal. 
+The EPO will then correct the appellant's identity to be company F. 
+Since company F is an adversely affected party to the proceedings, the appeal will be 
+admissible, Art. 107 EPC. 
+ 
+Answer to Question 5 (11 marks): 
+(a) 
+A PCT application shall contain an abstract, Art. 3(2) PCT. A missing abstract is a defect under 
+Art. 14(1)(a)(iv) PCT. The invitation from the INPI is an invitation under Art. 14(1)(b) and Rule 
+26.1 PCT. 
+A time limit of two months was set under Rule 26.2 PCT, which expired on 9 February 2023 
+(Thu). 
+PCT-G was thus declared withdrawn by the INPI, because G filed the abstract too late, Art. 
+14(1)(b) PCT. 
+If nothing is done, according to Art. 24(1)(ii) PCT, PCT-G will cease to have the effect of a 
+regular national application in each designated state, pursuant to Art. 11(3) PCT. 
+ 
+(b) 
+The EPO acting as designated Office shall excuse the missing of the time limit for reasons 
+admitted under the EPC, Art. 48(2)(a) PCT, namely further processing or re-establishment, 
+Rule 82bis.2 PCT, Art. 121 and Art. 122 EPC. 
+Under the EPC, regarding the time limit of two months provided for in Rule 58 EPC in case 
+of a missing abstract, further processing is ruled out (Rule 135(2) EPC), but re-establishment 
+of rights is possible (Art. 122 EPC and Rule 136(3) EPC). 
+According to Guidelines E-IX, 2.9.1 and 2.9.2, G must:  
+- 
+request the International Bureau to send copies of documents forming PCT-G to the 
+EPO acting as designated Office; 
+- 
+pay the filing fee under Rule 159(1)(c) EPC; 
+- 
+request the EPO acting as designated Office to excuse the missing of the time limit, 
+pay the fee for re-establishment (Rule 136(1) EPC) and prove all due care (Rule 136(2) 
+EPC). 
+These steps have to be carried out before 06.03.2023 + 2 months (Rule 136(1) EPC) = 
+06.05.2023 (Sat), extended under Rule 134(1) EPC to 08.05.2023 (Mon), because removal 
+of the cause of non-compliance is the date of actual receipt of the communication noting a 
+loss of rights, Guidelines E-VIII, 3.1.3. 
+Answer to Question 6 (10 marks): 
+(a) 
+The granted claim lacks novelty, Art. 100(a), 52(1) and 54(3) EPC. There is no basis for an 
+amended product claim that would satisfy the requirement of novelty. 
+EP-H should thus be amended as follows: 
+The granted claim should be replaced by a claim directed to the “use of product P as a 
+fertilizer”. This claim satisfies the requirements of Art. 123(3) EPC, because it defines the use 
+of product P for a particular purpose to achieve an effect, G2/88. Moreover, the use claim 
+satisfies the requirements of Art. 123(2) EPC because this use is originally disclosed in EP-
+H. This claim is also new, Art. 54 EPC, because EP-J does not show the particular use of P 
+as a fertilizer. 
+In addition, a claim directed to the method of producing P as disclosed in EP-H should be 
+added. Since this method only results in product P and a product claim confers protection to 
+all processes for making that product, this claim does not extend the protection conferred 
+thereby, Art. 123(3) EPC and Guidelines H-V, 7.2. Moreover, as this method claim is originally 
+disclosed in EP-H, it fulfils the requirement of Art. 123(2) EPC. Since EP-J discloses a 
+different method, the method claim is new (Art. 54 EPC). 
+ 
+(b) 
+The amended claim to the use of product P will have to be re-formulated to a purpose-related 
+product claim, i.e. “product P for use as a medicament.” The reason is that a claim relating to 
+“the use of product P as a medicament” is excluded from patentability as it relates to a method 
+for treatment of the human or animal body by therapy, Art. 53(c) EPC. Such a claim does not 
+extend the conferred protection (Art 123(3) EPC), because the scope of protection of 
+purpose-related product claims is limited to the substance or composition in the context of its 
+medical use, Guidelines G-VI, 7.1. Since the medical use of product P is not known from the 
+prior art, such a claim satisfies the requirement of novelty under Art. 54(4) EPC. 
+ 
+ 
+Examiners’ Report – Paper D 2023, Part II 
+ 
+Almost all candidates did follow in their response the scheme for the questions and discussed 
+the patent situation by subject matter, as was asked. This way of structuring the answer was 
+intended to help the candidate not to lose marks because of an incomplete analysis. The 
+analysis of the claim of EP-Z was expected as part of the answer for question 1 (as provided 
+below), but it was also presented by some candidates together with the advice to oppose the 
+patent in the answer to question 3. Here, the swapping of the corresponding parts of the 
+answer was not detrimental to completeness and to the awarding of marks. On the other 
+hand, the candidates who proposed the possible solution for the invalid filing of the divisional 
+application while analysing the current situation did not always score full marks for this aspect. 
+ 
+The candidates are expected to analyse the available prior art given in the paper, to discuss 
+the effective date of claimed subject-matter, and to conclude on patentability and/or validity 
+of the claim(s), even if it is stated in the exam paper that a search report only contains 
+documents of category A, or that a communication for the intention to grant has been issued. 
+Some candidates did not provide a complete analysis as outlined above and were not 
+awarded full marks. 
+ 
+Candidates are reminded that no marks are awarded for speculation beyond the facts given 
+in the examination paper. 
+ 
+Question 1. 
+Question 1 was in general well answered and, in particular, the majority of candidates 
+recognised the invalid priority claim in EP-Z. However, the consequences of the invalid priority 
+were not always analysed in complete and/or correct manner. For example, fewer candidates 
+explained that the invalid priority claim caused the status of the disclaimer to change from an 
+allowable undisclosed disclaimer, fulfilling the criteria of G1/03, to added matter under Art. 
+123(2) EPC. Many candidates correctly answered that EP-Y became full prior art, but quite a 
+few lost sight of the remaining prior art. Only the good candidates provided an answer 
+containing both the complete reasonings for added matter and lack of inventive step with 
+respect to the claim of EP-Z. A surprisingly high number of candidates argued, incorrectly, 
+lack of novelty on the basis of EP-Y. 
+The peculiarity of two different first filings for nappies with metal electrodes, i.e. a filing (EP-
+Y) for the specific silver electrodes and another filing (EP-Z) for the generic metal electrodes, 
+was treated correctly by very few candidates. However, the majority of candidates did score 
+marks by writing in the answer about one of the two filings and by concluding on the invalidity 
+of the priority claim. 
+Not many candidates picked up on the fact that renewal fees were due for EP-WA. 
+ 
+Question 2. 
+The right to carry out the invention or the freedom to operate was very often analysed in a 
+superficial manner, because the candidates made no distinction between the countries, which 
+were mentioned in the exam paper, and did not consider the patent rights of the parties in 
+each country of interest. 
+Surprisingly, a few candidates considered a patent to be a licence to operate, rather than a 
+right to stop others from operating. 
+ 
+Question 3. 
+Many candidates proposed to remedy the mistake in filing EP-WDIV by means of a new 
+divisional application. Answers with a proposal to remedy by requesting a correction under 
+Rule 139 EPC were also awarded some marks. 
+Almost all the candidates proposed to oppose EP-Z. Many candidates suggested filing the 
+opposition on the ground of added subject-matter. Fewer proposed the ground of inventive 
+step. The ground of lack of novelty attracted no mark. Many candidates recognised that the 
+disclaimer cannot simply be deleted, but fewer explained why the conclusion of the opposition 
+proceedings would not be of concern for Whiter. 
+It was generally well answered that a PCT application had to be filed for the nappies 
+comprising substance X, because the International application can provide protection in US 
+and China. Not many candidates recognised the relevance of Zuma’s announcement if an 
+earlier effective date was not secured by claiming priority from EP-WC. Candidates proposing 
+to file a divisional from EP-WC were not awarded full marks. 
+Not many candidates scored points in relation to the need to file at least one more application 
+claiming CU-Em-transmit to secure the non-EPC markets for the new product of Whiter. 
+Possible Solution – Paper D 2023, Part II 
+ 
+ 
+Question 1 – Current situation 
+a) CU-Em 
+EP-Y is the first filing for nappies comprising a control unit and electrodes, which are however 
+made of a specific metal, i.e. silver, to detect the presence of urine. EP-Y is withdrawn and 
+cannot be revived. 
+EP-Z is the first filing for nappies comprising a control unit and electrodes made of metal in 
+general to detect the presence of urine. 
+Irrespective of the disclaimer, the claimed subject-matter of EP-Z does not validly claim the 
+priority date from US-Z, because the two applications do not relate to the same invention, as 
+the electrode material is more generic in US-Z than in EP-Z. 
+The effective date is therefore the filing date of EP-Z. 
+EP-Y was filed before and published in the priority period of EP-Z, and it is full prior art. 
+The subject-matter of the amended claim is novel because none of the prior art documents 
+discloses electrodes, which are made of metal other than silver. However, it does not involve 
+an inventive step over the handbook, because the distinguishing feature is a well-known 
+alternative for nappy electrodes to detect the presence of urine. 
+By claiming electrodes not made of silver, there is an undisclosed disclaimer in the granted 
+claim of EP-Z, because silver was not mentioned in EP-Z. 
+An undisclosed disclaimer can be allowed to restore novelty over an accidental disclosure 
+and/or a prior right. EP-Y is neither a mere prior right, nor an accidental disclosure, as it 
+relates to nappies for the detection of urine, like EP-Z. Hence, the undisclosed disclaimer is 
+not allowable, as it represents added matter. 
+Altogether, the claim of EP-Z is invalid. 
+ 
+ 
+ 
+b) CU-Em-sound 
+EP-WA is the first and only application for nappies comprising acoustic warning means, a 
+control unit and electrodes made of metal to detect the presence of urine. 
+EP-WA does not claim priority, and the effective date is the filing date. 
+The claimed subject-matter is novel, because there is no disclosure of nappies comprising 
+acoustic warning means in the prior art. It also involves an inventive step, because it is not 
+suggested and it remedies the drawback of the visual indicator. 
+Renewal fees fell due on 30.09.2022. It shall be checked if they have been paid. Anyway, 
+they are still payable with surcharge until 31.03.2023. 
+EP-WA could proceed to grant. 
+ 
+c) CU-EG 
+EP-WB is the first and only application for nappies comprising a control unit and special 
+electrodes G made of conductive plastic to determine glucose in the urine. 
+EP-WB does not claim priority, and the effective date is the filing date. 
+The claimed subject-matter is novel, because there is no disclosure of nappies with the 
+special electrodes G configured to measure glucose in the prior art. It also involves an 
+inventive step, because it was not obvious to adopt known electrodes used in a remote field. 
+EP-WB was limited to claim this subject-matter, and Whiter already approved the documents 
+for grant, so that the decision to grant can be expected. 
+ 
+d) CU-EP 
+EP-WB is the first application for nappies comprising a control unit and special electrodes P 
+made of conductive plastic to measure the pH of urine. 
+This subject-matter is now only claimed in EP-WDIV in an invalid manner, because EP-WA 
+is the parent application due to the mistake in Form 1001. 
+EP-WA does not disclose CU-EP and therefore this subject-matter in EP-WDIV goes beyond 
+the content of the parent application as filed. 
+There is no claim directed to CU-EP, which could lead to patent protection. 
+e) CU-Em-transmit 
+EP-WC is the first and only application for nappies comprising a transmitter for a baby phone, 
+a control unit and electrodes made of metal to detect the presence of urine. 
+EP-WC does not claim priority, and the effective date is the filing date. 
+The claimed subject-matter is novel, because there is no disclosure of nappies comprising 
+transmitters in the prior art. It also involves an inventive step, because it is not suggested and 
+it provides an improvement for the quality of the sleep of the new-borns. 
+EP-WC could proceed to grant with the claim covering CU-Em-transmit. 
+ 
+f) nappies X 
+EP-WC is the first and only application for nappies that comprise substance X for capturing 
+urine odours. 
+This subject-matter is however not claimed in any application. 
+ 
+Question 2 – Freedom 
+a) Zuma is free to produce and sell nappies that neutralise urine odours and in which the 
+absorbent comprises substance X, because there is no patent protection anywhere, including 
+the US, where they intend to be active. 
+ 
+b) Irrespective of the invalidity of the claim, the scope of the granted claim in EP-Z covers the 
+nappies comprising a control unit and gold electrodes to detect the presence of urine, which 
+Whiter produces, and will be producing, because gold is a metal not excluded by the 
+disclaimer. 
+In Europe, where EP-Z is in force, Whiter is neither free to produce and sell the nappies 
+comprising acoustic warning means, a control unit and electrodes made of gold, nor the 
+nappies comprising a transmitter, a control unit and electrodes made of gold for detecting the 
+presence of urine. 
+In Europe, Whiter is free to produce and sell both the nappies CU-EG and CU-EP, because 
+the electrodes are made of conductive plastic and EP-Z claim is limited to metal electrodes. 
+In both US and China, Whiter is free to produce and sell, because there is no patent protection 
+covering any of the nappies above, as US-Z was abandoned and no other patent was filed. 
+ 
+ 
+Question 3 – Improvements 
+ 
+Re-file a divisional application for CU-EP 
+As EP-WDIV will be refused; do not pay fees for it. 
+File new divisional application EP-WDIV2 correctly based on EP-WB. 
+You have already approved the text for the grant of EP-WB, and therefore the EPO will soon 
+proceed with the decision to grant. The new divisional shall be filed as soon as possible, while 
+EP-WB is still pending. 
+EP-WDIV2 shall have claims directed CU-EP. 
+EP-WB does not claim priority, and the effective date is the date of filing. 
+The claimed subject-matter is novel, because there is no relevant prior art to nappies with 
+special electrodes for measuring pH. It also involves an inventive step, because it was not 
+obvious to adopt known electrodes used in a remote field. 
+EP-WDIV2 could be granted, providing Whiter with patent protection for the nappies CU-EP 
+in Europe. 
+ 
+Oppose EP-Z 
+Whiter shall file an opposition against the grant of EP-Z. 
+The time-limit for the notice is 17.08.22+9M=17.05.2023(Wed). 
+Based on the analysis made in the answer of Q1, file a notice of opposition on the grounds 
+of inventive step and added matter. 
+The disclaimer can only be replaced by another limiting feature disclosed in EP-Z as originally 
+filed. Otherwise the protection EP-Z confers will be extended. 
+The only suitable features in EP-Z would be copper and platinum, and therefore there is no 
+basis in EP-Z as originally filed to limit it to gold or any metal subgroup comprising gold. 
+EP-Z will be revoked or at most maintained in an amended form, which does not cover the 
+embodiment having electrodes made of gold. 
+Whiter will then be free to produce and sell, also in Europe, the nappies with gold electrodes. 
+ 
+File a PCT application for X 
+Whiter shall file a PCT application with a claim directed to a nappy which comprises 
+substance X as absorbent. Priority should be claimed from EP-WC, otherwise Zuma’s 
+announcement will be novelty-destroying prior art. 
+The claimed subject-matter will be novel, because there is no other relevant prior art to 
+nappies with substance X. 
+It will also involve an inventive step, because of the surprising neutralization of odour. 
+Filing should be done as soon as possible, and not later than 06.05.23 (Sat), extended to 
+08.05.23 (Mon), for respecting the 12-month period. 
+Early publication of the PCT application shall be requested. 
+Prosecute in the national/regional phase in US, EP, China. 
+Once patents are granted, Whiter will be able to stop Zuma from producing and/or selling the 
+nappies, which comprise X, particularly in the US, where they have planned to start the 
+business. 
+ 
+File a PCT application from EP-WC 
+Whiter shall file a PCT application with a claim directed to CU-Em-transmit, claiming priority 
+from EP-WC. Hence, not later than 06.05.2023 (Sat), extended to 08.05.2023 (Mon). 
+Prosecute in the national/regional phase in US, EP and China. 
+Once patents are granted, Whiter will be able to stop Zuma from producing and/or selling 
+CU-Em-transmit. 

@@ -1,0 +1,451 @@
+Question 1
+a) 
+Both DIV1 and DIV2 are first generation divisionals from EP-A
+Divisional applications can be filed as long as the parent is pending. Art. 76(1), R.36(1) EPC.
+EP-A  was refused on 03.01.2023 . This decision is deemed notified on 13.01.2023 (R.126(2) EPC)  
+The divisionals were filed before this decision was received, thus EP-A was pending at the time the divisionals DIV1 and DIV2 were filed. 
+DIV1:
+DIV1 only claims and desribes feature D, without feature B. 
+feature B is indispensable for the function of hte first invention. 
+In the parent EP-A only the first invention is described and not D alone. 
+D alone would result for the first invention in a non-enabled claim, which is not allowed because the first invention isnot sufficiently disclosed. An objection to
+this claim is expected. Art. 83 EPC. The requirements of Art. 83 and of Rule 42(1)(c) and Rule 42(1)(e) to be fully satisfied, it is necessary that the invention is
+described not only in terms of its structure but also in terms of its function
+EP-A describes D only in combination with B for hte first invention. DIV1 describing only feature D extends beyond the content of the earlier application EP-A
+and a valid patent cannot be obtained. Art. 76(1), Art. 123(2) EPC. 
+It is also not possible to put B in again. Art. 123(2) EPC. 
+no valid patent can be obtained from DIV1
+DIV2:
+DIV2 claims and describes features  B+D+F, with independent claim B+D and F as optional feature. Indepdnent claim B+D and dependent claim B+D+F
+probably as F is optional feature)
+B+D+F was not disclosed in EP-A and thus extends beyond the content of the earlier application. Art. 76(1), ARt. 123(2) EPC. This is not allowed. 
+Feature F should be removed to be inline with EP-A. 
+Only relevant prior art was found against B+C, so against B+D no relevant prior art is found. B+D is thus novel and provided that B+D is also inventive over
+B+C this could be patentable. Art. 54, Art. 56 EPC
+B+D was searched and amending to B+D should thus be allowable. R.137(5) EPC.
+it is allowed to delete the subject matter that extends subject matter with respect to the parent. 
+After amending to B+D, valid patent protection can be obtained provided that B+D is inventive over B+C.  art. 56 EPC
+b) For the second invention E+F: 
+- E+F is non-unitary with the first invention. Only the first invention was searched. R>64(1) EPC
+- No divisional was filed for E+F. 
+- E+F is not present in DIV1 or DIV2, so no second generation divisional can be filed from DIV1 or DIV 2 Art. 76(1), A. 123(2) EPC.  G1/05, G1/06
+- EP-A is refused, A. 94(3), R.71(2) EPC. 
+- time limit to file an appeal gainst the refusal is 2 months from the decision. 03.01.2023+10d (R.126(2) EPC) +2m (R>131(4) EPC) = 13.03.2023 (Mon). 
+- without filing an appeal, EP-A is pending until the end of the two-month period for loding an appeal G1/09. 
+- No appeal is filed, but the period for filing an appeal is only on Monday, so today, 07.03.2023, a divisional can be filed from EP-A
+- A divisional is needed, because E+F was not searched due to the non-unity - R.64 EPC -  is not allowed to switch to unsearche subject matter. R.137(5)
+G2/92. 
+- so a new divsiional DIV3 must be filed for E+F
+- file DIV3 with description from EP-A for the part describing E+F and claim E+F
+- pay filing fee for a 1st generation divisional, one month after filing. R.36(3) EPC, RFees art. 2(1).1b
+- Pay the search fee for searching E+F R.36(3) EPC within one month after filing. 
+- after 6m of publication of the search report for new application pay examiantion fee A.94(1), R.70(1) EPC
+Question 2
+a)  
+- EPO is a competent rO for applicant B, because he is a resident of France - AG-IP Annex C. 
+Priority can be claimed within 12m Art. 8(1)(b) PCT, Art. 4C(1) PC
+So last day to claim priority from US-B was 09.07.2021 +12m (R.80.2PCT) = 09.07.2022 (Sat) --> 11.07.2022 (R.80.5 PCT)
+So, the filing in May 2022 as within the 12m priority interval. 
+It was also for the same subject matter, because description and claims are identical and by the same applicant. and US is a PCT state, so claiming
+priority from US application is possible. Art.8(1)PCT. 
+- typographical error in one digit of application number of US-B was made in the priority claim. So R.4.10(a)(ii) PCT is not met. 
+Candidate's answer - Paper D - EQE 2023
+- an invitation under R.26bis.2(ii) PCT is sent to the applicant B. 
+- A certified copy of US-B was addd to the request. SO it was clear that priority from US-B was intended. 
+- no reply was made, so the prioirty claim shall be considered not to ahve been made. R.26bis.2(b) PCT 
+- But the priority claim shall not be considered void for a missing indication of hte number of hte earlier application, asis the case here. R.26bis.2(c)(i).
+- hte applicant B can correct the priority claim under R>26bis.1, but no reply was sent so this was not met. R.26bis.2(e) PCT
+- the applicant can prior to the expiration of 30 months from the priority date and by payment ofa special fee, request the IB to publish information
+about the priority claim. R.26bis.2(e) PCT , Section 113(c) of the Administrative Instructions
+b)
+Filing date of US-B is the priority date (see (a)), thus 09.07.2021. 
+A demand can be filed until 22 months from priority date (R.54bis.1(a)(ii) PCT) or 3 months from the dateo f transmittale to the applicant of the ISR
+(R.54bis.1(a)(i)PCT), whichever expires later R.54bis.1(a) PCT
+3 months from transmittal ISR: 12.07.2022 +3m (R.80.2PCT) = 12.10.2022
+22 months from the priority date: 09.07.2021+22m (R.80.2 PCT) = 09.05.2023 (Tue) 
+22 months time limit expires later, thus demand can be filed until 09.05.2023
+ 
+c) The priority claim could have been corected within atime limit of 16 months from the prio date, 09.07.2021 +16m (R.80.2 PCT) = 09.11.2022 (Wed),
+under R.26bis.1(a), this could include the indication of the correct number that is needed for R.4.10(a)(ii) PCT. This was not done. 
+Only possibility that is possible at this stage is a rectification of an obvious mistake under R.91 PCT.
+Obvious mistakes may be rectified R>91.1(a) PCT. This is free of charge.
+This hsould be done at the rO as competent authority, R>91.1(iv)
+mistake will be rectified if it is obvious at the filing date, that something else was intended. R.91.1(c) PCT
+The mistake was made in the request part of the IA when claiming priority.
+For the purpose of checking if it was obvious, thhe priority document that was available to the rO will be taken into account R.91.1(e)PCT. 
+The description contained the correct priority claim reference indicating that priority should be claimed from US-B with the correct application number. 
+So, from the description it is obvious that something else was intended. 
+also the correct priority document was added to the request. So from the request it was obvious from which application priority claim was intended. R.91.1(e)
+This was obvious at the date of filing, because the request contained the certified copy. R.91.1(f)(ii) PCT
+R.91.1(g) PCT excludes mistakes that would cause a change in priority date. That is not the case for this mistake. 
+So, yes, it is still possible under R.91 PCT to rectify the priority claim in the international phase. 
+Question 3
+a) 
+Request for revocation was filed Art.105a EPC. It is only deemed filed when the fee is paid Art.105a(1) EPC. 
+A debit order was used and the decisive payment date is the date of receival of the debit order. Art.10.1 ADA OJ 2022, SP3.11
+but, the order was filed by fax and it is not allowed to file a debit order by fax. Debit orders submitted by fax will not be carried out. Art.7.1.3 ADA ADA
+OJ 2022, SP3.11
+Since the debit order will notbe carried out, no fee is paid today and request for revocation is not validly filed today. art. 105a(1) EPC. 
+So the revocation request is deemed not filed today. 
+b)  There is no certainty that company C will pay the revocation fee later and that EP-C will be revoked.  Especially since company D is concerned about
+infringing, it might come to the attention of C, causing C to change its mind on revocation. And C can still pay the renewal fee to the German Patent and
+Trade Mark Office (will be explained in more detail later in the answer). 
+Since comapny D is confident that the patent will be revoked in opposition, it is the safer option to file an opposition than instead to wait for an action
+from company C. 
+Opposition is possible until 9 months after publication of mention of the grant. A.99(1) EPC. SO, 08.06.2022 +9m (R.131(4) EPC) = 08.03.2023 (Wed)
+When opposition is filed, no request for revocation may be filed. Art. 105a(2) EPC. 
+As long as opposition proceedings are pending, a request for revocation filed is deemed not filed. R.93(1) EPC. 
+Germany signed the London Agreement and has German in common with offical EPO languages, so no translations are needed to validate in Germany
+Art. 65 EPC, Art. 1(1) London Agreement. 
+Renewal fees are due to the EPO before grant and to the national offices after grant. Art.86(2) EPC. 
+Renewal fee of the 3rd year was due on 30 September 2020, 4th year was due on 30 September 2021,Art. 86(1), R.51(1) EPC. 
+5th year was due on 30 September 2022, which is after the metnion of the grant on 08 June 2022.  and thus payable to the German office. Art.86(2) EPC. 
+in Germany also due at a) Last day of the month containing the anniversary of the date of filing - National Law Tables VIA.2.a Germany 
+So the renewal fee was already due, but in Germany a grace period applies of 6months.National Law tables VI.A.3a Germany 
+A surcharge of €50,- is needed. - National Law tables VI.A.3b Germany 
+Renewal fee may be paid in Germany up to end of 6th month from due date, so 30.09.2022+6m = 31.03.2023.
+So, there is still a risk that company C will not revoke and pay the renewal fee with a surcharge in Germany keeping the patent alive in Germany.  This
+can be done until áfter the time limit of the opposition period is over.
+So, to avoid that company C keeps its patent alive in Germany company D should file an admissible notice of opposition before 08.03.2023, complying
+with the requirements from R.76(2), A99(1) EPC. 
+Question 4
+a)
+Appeal period is 2 months after the decision. So, 19.12.2022 +10d(R.126(2) EPC) = 29.12.2022+2m (A.108, R.131(4) EPC) = 28.02.2023 (Tue)
+Notice of appeal and appeal fee were thus in time, because 28.02.2023 was the last day to file an appeal. For an admissible appeal, a statement setting
+out the grounds must be filed in time. A.108, R.101(1) EPC
+The grounds for appeal should be filed within 4 months, A.108, so before 19.12.2022 +10d(R.126(2) EPC) 29.12.2022 +4m (A.108,R.131(4)EPC) =
+29.04.2023 (Sat) -->1st May closing day OJ 2022,A107 (R.134(1) EPC)  --> 02.05.2021(Tue) 
+EP-E was transferred during hte oppositonn proceedings from E to F. This is allowed R.85, R.22(1) EPC. It was also recorded in the register R.22(1) EPC in
+November 202 and thus as of November 202 the transfer had effect R.22(3) EPC. 
+The decision to revoke was issued after the transfer, namely 19.12.2022 (so after November). 
+ 
+Parties adversely affected are entitled to appeal. A.107 EPC. Since the transfer of ownership of EP-E was transfered from company E to company F
+before the decision, company F is now the party adversly affected. 
+A notice of appeal must indicate the name of the apellant R.99(1)(a)EPC, R.41(2)(c) EPC.
+The name that was the applicant under R.41(2)(c) EPC, was company E, but after the transfer F was the proprietor. 
+ 
+If the name in the notice of appeal is not corrected, the appeal is inadmissible R.101(2) , R.99(1)(a) EPC. 
+ 
+b) 
+The true intention was to file on behalf of the true apellant, the party adversely affected, namely company F. The identification of the apellant is wrong.
+This can be corrected under Rule 101 (2) EPC, G/12 1: 
+The notice of appeal contains the name of the applicant under R41(2)(c) EPC, in compliance with R.99(1)(a) EPC, but it is due to the transfer obvious tha t
+the identification is wrong due to an error and the true intention having been to file on behalf of the legal person (Company F) shich should have filed
+the appeal. This error can be corrected under R.101(2) EPC by a request for substitution by the name of the true apellant (Company F). G1/12. 
+Since E was not adversely affected, but F was, the true intention is obvious and a request for substitution must be filed by the name of F. 
+Question 5
+a) An abstract is not needed for a filing date. Art. 11 PCT. 
+After filingof PCT-G, the receiving office (INPI) will check whether the IA contains any defects. Art. 14(1)(a) PCT. 
+In this case, no abstract was filed. Art.14(1)(a)(iv) PCT. 
+An invitation was sent under Art. 14(1)(b) PCT. 
+The time limit to respond to this invitation is 2 months R.26.2 PCT, Art. 14(1)(b) PCT. 
+09.12.2022 +2m (R.80.2 PCT) = 09.02.2023 (Thu). So, 3rd March is too late. 
+Failing to meet htis time limit results in that the IA, in this case PCT-G, is considered withdrawn and the INPI as rO shall so declare. ARt. 14(1)(b) PCT,
+R.26.5 PCT
+So, PCT-G was declared withdrawn because the time limit set in the invitation to file an abstract was missed. 
+As a consequence, the rO shall transmit the record copy of PCT-G to the IB after the declaration of withdrawal. R.29.1(i) PCT, ARt. 14(1)(b) PCT
+INPI as rO notifies the applicant G and the IB of the declaration that PCT G is withddrawn, and the IB shall notify each designated Office which has
+already been notified of its designation. R.29.1(ii) PCT
+If nothing is done, PCT-G will not be published, Art. 21(5), R.29.1(v) PCT. 
+Publication would have taken place 18 months after 02.12.2022 +18m (R.80.2) = 02.06.2024 So, the withdrawal is way before the 15th day prior to
+publication when the technical preparations for internatoinal publication would have been completed. AG-IP9.014
+b)
+There is no remedy in the international phase. 
+Applicant G can request the IB to send copies of the IA and the abstract to the EPO as designated Office. Art. 25(1)(a), R. 51.2 PCT
+Said request must be presented within the time limit of 2 months after the declaration of withdrawl. ARt. 25(1)(c), R.51.1 PCT.  
+The declaration was sent yesterday, 06.03.2023, so the time limit for the request is 06.03.2023 +2m (R.80.2 PCT) = 06.05.2023 (Sat) --> R.80.5 PCT -->
+08.05.2023 (Mon)
+Applicant G will be given the opportunity to correct the application PCT G before the EPO as dO. Art. 26. 
+A filing date was accorded, so PCT G shall have the effect of a EP application. Art. 11(3) PCT. 
+PCT-G should request early entry for the regional phase EP at the EPO. 
+Filing the abstract late, can be justified under the EPc, by Re-establishment, Art. 122 EPC, since all due care can be proven. 
+Normally, EP entry would be possible no earlier than after 31 months, Art. 22(1) PCT, Art. 23(1) PCT, R.159(1) EPC. 
+So, until 02.12.2022 +31m (R.159(1) EPC, Art.80.2PCT)= 02.07.2025
+So, request for early entry is needed to revive PCT-G before the EPO, G must expressly request early entry. Art. 23(2) EP.
+Request for early entry can be done by ticking the box for early entry at the EP entry form OJ 2017, A74. 
+For the request to be effective, applicants must comply with the requirements stipulated in Rule 159(1) as if the 31-month time limit expired on the date
+they request early processing.
+So, pay the filing fee R.159(1)(c) EPC , RFees Art. 2(1) 1a. 
+Pay the search fee R.159(1)(e) EPC, Art. 153(7) EPC, RFees Art. 2(1) 2.  Invention was not searched, so a search by the EPO is needed. 
+PCT-G is filed in English, so no translation is needed. R.159(1)(a) EPC, English is an official EPO language Art. 14(1) EPC. 
+Specification of the application documents must be filed on which the European grant procedure is to be based , this is the  including the abstract 
+R.159(1)(b) EPC.  (filing abstract is part of re-establishment, see below)
+No renewal fees are yet due. 
+period for requesting examination has not expired yet, so that is not needed. 
+For a filing date under EPC, an abstract is not needed. R.40(1), A.80 EPC.
+An abstrct is required  as part of the EP application under ARt. 78(1)(e) EPC.  Missing abstract will lead to a R.58 invitation to correct within 2months of
+that invitation. FP is not available for missing abstract, ruled out under R.135(2). But Re-establishmetn is available Art. 122 EPC. 
+File upon entry also request for Re-establishment for late filing of the abstract. Art. 122 EPC,R.136(1) EPC. 
+together with payment of the re-establishmetn fee RFees.2(1) .13
+and filing of the abstract (can be done with specification of hte application documents). 
+And provide evidence of all due care taken to file the abstract in time. 
+Time limit for RE is 2 months from removal of cause of non-compliance. The applicant became aware of the withdrawn status yesterday, 06.03.2023. So,
+time limit is 06.03.2023 + 2m (Art. 122 EPC) = 06.05.2023 (Sat) --> R.134(1) EPC --> 08.05.2023. 
+So request early EP-entry and re-establishment at the latest on 08.05.2023
+Question 6
+a) 
+Opposition was filed on the ground of lack of novelty Art. 100(a) EPC, because EP-J is a 54(3) document disclosing P. 
+EP-J is only to be used for the assessment of novelty, because iti s a 54(3) document. ex art. 54(3) EPC. 
+The proprietor gets the opportunity to file observations and file amendments. R.79(1), A. 101(1) EPC. 
+EP-J is relevant for novelty of EP-H because EP-J was filed before the effective date of EP-H and published thereafter and is therefore prior art under Art.
+54(3) EPC.
+The claim directed to P is not novel over 54(3), because EP-J discloses the same product P. Art. 54(1) EPC.  
+So it is needed to amend the claims, otherwise the patent EP-H will be revoked in opposition for lack of novelty. Art. 100(a) EPC, 
+The claims can be amended during opposition, it is allowed to amend the claims during opposition proceedings art. 123(1) EPC. Below two independent
+claims are presented as amendments. 
+The use of product P as a fertiliser is not known from EP-J. EP-J discloses the use of product P as a detergent. A detergent and a fertiliser are not related
+and thus is the use of product P as a fertiliser novel over the use of product P as a detergent. 
+Amended independent claim can be: 
+Use of product P as a fertiliser to enhance plant growth
+A claim to the use of the known compound P for the second -non medical use of a fertiliser to enhance plant growht is interpreted as including that
+technical effect as a functional technical feature. Accordingly, said claim is not open to objection under Art. 54(1), because the technical feature of
+enhancing plant growth has not previously been made available to the public in EP-J. G 2/88, G 6/88
+The claim meets the requirements of art. 123 EPC, becuase the use of P as a fertiliser to enhance plant growth was directly and unambiguously
+contained in the description of EP-H, thus meeting requiremetns of art. 123(2) EPC. 
+It also meets requiremetns of art. 123(3) EPC, because the claim is more limited in scope than the original product claim. Infringing this claim would also
+have infringed the original claim. 
+Another amendment can be to the method resulting in P. 
+Amended independent claim can be: 
+Method *include method steps* only resulting in product P.
+The method steps should be directly and unambiguously be derived from the description.  This method is fully contained in the description and thus
+directly and unambiguously derivable from EP-H.  GL H-IV 2.1. 
+The method also protects the directly obtained product P. A. 64(2) EPC.
+The product protected by this claim is only product P that is made by this specific method. Other products P obtained by different methods are outside
+of the scope of protection of this amended claim. 
+The method claim thus meets the requiremetn of art. 123(3) EPC because the scope of protection does not extend the protection the protection
+conferred by EP-H as granted. Infringing this claim would also have infringed the original claim. 
+b) The use of a medicament would be the first medical use of P. 
+Where  product P is already known from EP-J it is still be patentable under Art. 54(4) if the known substance or composition was not previously disclosed
+for use in a method referred to in Art. 53(c).
+Even though, P as a product is known in the 54(3) prior art, a specific further medical use of known substance P is not excluded Art. 54(4) EPC. 
+Then a claim could be granted in the form of: 
+Product X for use as a medicament. 
+Even if P is known as a product, but not itse use in medicine, then the first use of P as a medicament is novel and this is patentable. Art. 54(4) EPC. 
+This product claim provides for a broader scope of protection than the use claim under a) for the second non-medical use of P as a fertiliser to enhance
+plant growth. 
+In the situation given under b) this claim also meets the requiremetns of art. 123, becuase the product was unambiguously and directly described as a
+medicament, meeting art. 123(2) EPC and the protection of product X for use as a medicament does not extend the protection conferred by the original
+claim meeting requirements or art. 123(3) EPC. 
+Infringing this claim would also have infringed the original claim. 
+ 
+Question 1
+1) Analyse the patent situation for the following subject-matter:
+Prior art relevant for all applications is described here and later referred to as Journal and Handbook:
+- Journal was publicly available in March 2016 is 54(2) prior art, in the journal nappy with an indicator that changes colour is disclosed (hereafter:
+Journal). Drawback is that a look at the nappy is necessary, thus removing the newborn's clothes to see if urine is present.  
+For all applications except EP-Y the Handbook is 54(2) prior art: 
+- Handbook of Urine Detection (hereafter: Handbook) is evidence of common general knowledge at the time, May 2017. The handbook is 54(2) prior art
+for all applications filed after May 2017. The handbook discloses an electronic visual indicator in a nappy, detection of urine is achieved with electrodes
+of any conductive material. CU+E, the electrodes can be made of any conductive material, for example plastic. Drawback is same as Journal, baby's
+clothes need to be removed. 
+(a) nappies comprising a control unit and electrodes made of metal for detecting the
+presence of urine (CU-Em),
+EP-Z
+First application of Zuma for disclosing and claiming CU-Em
+Filing date is 14.01.2018
+priority is claimed from US-Z
+  priority was claimed within the 12m interval: 15.01.2018+12m = 15.01.2019 (Tue)
+US -Z is from the same applicant 
+National US application can be used for claiming priority for EP application
+US-Z is abandoned after filing, but it is not relevant for the priority claim what happened with US-Z after a filing date was determined for
+US-Z
+US-Z only disclosed a nappy comprising a CU and electrodes from any conductive material, it disclosed conductive plastic but not
+conductive metal. 
+So, the priority is not valid for the claim related to electrodes made of metal, because priority is not claimed for the same subject matter. 
+G2/98
+The priority isnot valid, because it is not the same invention G2/98. The prior art does not disclose unambiguously that the electrodes for
+detecting urine can be made of metal. The Handbook only suggests plastic.
+EP-Z claims CU-Em
+if priority would have been valid, effective date of the claim is the date of filing of the priority document. 
+Since priority is invalid, the effective date is the filing date of EP-Z, 14.01.2019.
+EP-Z discloses copper and platinum as examples of metals for metal electrodes  
+Considering the (invalid) priority date as effective date: EP-Y would have been 54(3) prior art. The status at the time of publication is relevant for
+54(3) prior art. So the fact that EP-Y is withdrawn, does not affect the 54(3) status that was considered during the proceedings leading to grant of
+EP-Z. 
+EP-Y discloses a nappy with a control unit and an electrode made of silver,w hich is a species of metal for detecting the presence of urine. 
+A species is noveltydestroying for the genus. EP-Y is noveltydestroying for a claim directed to CU-em with any metal. that explains why the
+disclaimer for silver is now in the claim, because it is allowed to introduce an undisclosed disclaimer to restore novelty over a 54(3) prior art
+document. 
+But, priority is invalid, so EP-Y is actually 54(2) prior art and also relevant for inventive step. 
+Even though the priority is not valid, this was not taken into account and EP-Z was granted on 17.08.2022. 
+EP-Z was granted with a claim to CU-EM wherein silver was excluded, so, as it stands a nappy comprising a contorl unit and electrodes made of
+metal, not silver, for detecting the presence of urine (CU-EM not silver) infringes EP-Z. 
+EP-Y
+- EP-Y is the first application for a nappy comprising a control unit and an electrode made of silver (species of a metal) for detecting the presence of
+urine. 
+- EP-Y is filed in November 2016, and published in May 2018. 
+- EP-Y is withdrawn after publication, so can still serve as 54(3) prior art. 
+- The withdrawal cannot be remedied anymore, so EP-Y is irretrievably dead. 
+- EP-Y can no longer serve as a priority document, 12 month period lapsed. 
+- So as it stands, no patent protection from EP-Y
+US-Z
+US-Z is the first application for a nappy with a control unit and electrodes for detecting the presence of urine
+US-Z is abandoned and irretrievaly dead
+No patent protection can be obtained from US-Z, since it is dead and priority period lapsed. 
+(b) nappies comprising acoustic warning means, a control unit and electrodes made of
+metal for detecting the presence of urine (CU-Em-sound),
+EP-WA
+EP-WA was filed on 08.09.2020
+No priority was claimed, so effective date of the claims of EP-WA is the filing date 08.09.2020
+EP-WA discloses and claims CU-EM-sound
+EP-WA is the first application of WIter for CU-Em-sound
+search report only cites documents in category A, thus EP-WA is expected to proceed to grant with a claim CU-EM-sound. 
+Examination and designation fees are paid for EP-WA.
+Relevant prior art: 
+  Handbook, Journal 54(2) prior art
+  EP-Z and EP-Y are 54(2) prior art because it was published before filing date of EP-WA. 
+EP-Z and EP-Y disclose electrodes for detecting presence of urine, but do not disclose acousting warning means so the drawback of removing
+clothes remains. 
+None of the prior art documents disclose acoustic warning means, so EP-WA is novel over the prior art. 
+The acoustic signal generated when urine is present in the nappy presents a solution over the drawback of hte prior art to remove the newborn's
+clothes. 
+So, EP-WA is also inventive over the prior art. 
+Since March 2022 (about a year [012]) Witer produces and sells nappies comprising CU-EM-sound for detecting presence of urine. The metal used
+is gold. 
+(c) nappies comprising a control unit and the electrodes G for measuring glucose in the
+urine (CU-EG),
+EP-WB
+EP-WB was filed on 08.09.2020
+EP-WB discloses and claims in claim 1 CU-EG, configured for measuring glucose in the urine.
+EP-WB is the firs application of Witer for CU-EG
+no priority was claimed, so effective date of claim 1 is the filing date, 08.09.2020
+prior art 54(2): common use of electrodes used in the food industry and not in nappies.
+Prior art is 54(2): Handbook, Journal, EP-Z and EP-Y.
+None of hte prior art documents disclose electrodes in nappies configured for measuring the glucose. 
+Claim 1 is thus novel. 
+THe use of electrodes in food is a far related field.  A combination of any nappy prior art with electrodes for thefood industry would not be made
+by the Skilled Person. Skilled Person would not even consult food industry documents in search for how to detect glucose in urine. 
+Therefore, the claim directed to CU-EG is also inventive. 
+This inventionw as searched, renewal fee paid in August 2022, R.71(3) communication issued and response filed on 28.02.2023
+no publication of hte mention of the grant yet, so EP-Wb is still pending. 
+Claim 1 of EP-WB is expected to proceed to grant with claim 1. 
+As it stands, patent protection is to be expected for CU-EG via EP-WB. EP-WB can be validated in the EPC states in Europe.
+(d) nappies comprising a control unit and the electrodes P for measuring the pH of the
+urine (CU-EP),
+EP-WB
+EP-WB was filed on 08.09.2020
+EP-WB discloses and claims in claim 2 CU-EP, configured for pH of urine measuring. 
+EP-WB is the first application of Witer for CU-EP
+No priority was claimed, so effective date of claim 2 is date of filing 08.09.2020. 
+Claim 2 is not searched. 
+prior art against EP-WB : common use of electrodes used in the food industry and not in nappies.
+Prior art is 54(2): Handbook, Journal, EP-Z and EP-Y.
+None of hte prior art documents disclose electrodes in nappies configured for measuring the PH. 
+Claim 2 is thus novel. 
+THe use of electrodes in food is a far related field.  A combination of electrodes for thefood industry would not be consulted by the Skilled
+Person. Skilled Person would not even consult food industry documents in search for how to detect pH of urine. 
+Therefore, the claim directed to CU-EP is also inventive. 
+EP-WB does not cover claim 2 anymore. So, no patent protection for CU-EP from EP-WB as it stands. 
+EPWDIV
+Divisional from EP-WB, EPWDIV was filed for CU-EP, this is possible because CU-EP is still pending up to the day before the publication of the
+mention of the grant. 
+filed on 06.03.2023
+Effective date of the claims is the filing date of the parent, 08.09.2020
+No fees are paid, but will be paid tomorrow, 08.03.2023, which is in time. 
+EPWDIV claims nappy comprising CU+EP for measuring pH of urine. 
+EPWDIV is erroneously filed from parent EPWA. EPWA does not disclose a nappy CU_EP for measuring PH of Urina nad EPWDIv is thus invalid
+Art.76(1) EPC. 
+As it stands, o valid patent protection can be obtained via EPWDIV. 
+(e) nappies comprising a transmitter for sending a signal to a baby phone, a control unit
+and electrodes made of metal for detecting the presence of urine (CU-Em-transmit),
+EPWC
+EPWC is filed on 06.05.2022. 
+no priority is claimed, thus effective date of the claims is 06.05.2022
+the description of EPWC discloses a nappy which sends a signal toa babyphone when urine is present. To warn someone taking care of the baby. 
+EPWC claims CU-Em-transmit
+EPWA and EPWB are 54(2) prior art against the claims of EPWC, becuase EPWA and EPWB are filed before the filing date of EP-WC and published
+before filing of EPWC (08.09.2020+18m = 08.03.2022). 
+The production and selling of nappies with acoustic warning means, a control unit and gold electrodes for detecting presence of urine are also
+54(2) prior art. 
+The Journal, the Handbook and EP-Z and EP-Y is also 54(2) prior art. 
+None of the 54(2) prior art documetns and the sold nappies discloses transmitters for sending a signal to a baby phone. So, EPWC is novel over
+the prior art. 
+The effect of hte transmitters is that it will have an improved effect on the baby's sleep.  The acoustic warning means nappies are the closest
+prior art. The difference is that the transmitters improve the sleep of the baby becuase no acoustic sound is made for warning the baby's carer. 
+This effect is not obtained with a sound as disclosed in EP-WA, the sound will wake the baby. 
+Solutions where it is needed to take off the baby's clothes do not solve the problem. Taking off the clothes to check whether urine is detected is
+not beneficial for the baby's sleep. 
+None of the prior art documents disclose the effect of improving the baby's sleep achieved by the transmitters, so the claim is also inventive. 
+The search report only cites documents in category A, so no novelty or inventive step objections are raised. 
+It is thus expected that the claim directed to CU-Em-transmit can proceed to grant. 
+As it stands, patent protection is to be expected for CU-EM-transmit via EPWC.  This can be validated in the EPC states in Europe. 
+Provisional protection can be obtained after publication, but that is only after 18 months so 06.05.2022 +18m = 06.11.2023. 
+So as it stands there is no patent protection for now, but to be expected in Europe. 
+nappies with CU-Em-transmit will improve the quality of the newborn's sleep. 
+ 
+(f) nappies in which the absorbent comprises substance X.
+EPWC
+EPWC is filed on 06.05.2022. 
+no priority is claimed, thus effective date of the claims is 06.05.2022
+The description of EPWC discloses a nappy in which the absorbent comprises substance X. 
+Substance X has been known for longer, but it is not used in a nappy. So a nappy comprising substance X as adsorbent is novel. 
+Substance X as adsorbent is surprisingly efficient as odour neutralizer. The use of substance X as a odour neutralizer is thus inventive. 
+EPWC does not claim a nappy in which the absorbent comprises substance X. 
+The protection conferred is determined by the claims. 
+As it stands, no patent protection for Nappy - X via EPWC. 
+2) As the situation currently stands
+(a) is Zuma free to produce and sell nappies that neutralise urine odours and in which the
+absorbent comprises substance X, and
+As it stands, there is no patent protecting a nappy with an adsorbent comprising substance X. So, White cannot stop Zuma from producing and selling
+nappies that neutralise urine odours in which the adsorbent comprises substance X. 
+(b) are we free to produce and sell:
+━ nappies comprising acoustic warning means, a control unit and electrodes made of
+gold for detecting the presence of urine (CU-E(Au)-sound),
+CU-E(Au)-sound nappies fall under the scope of protection a claim of a valid patent claiming CU-Em-sound
+Cu-E(Au)-sound nappies infringes a claim directed to Cu-Em, because it comprises a control unit and a metal (gold) electrode. 
+EP-Z was granted with a claim to CU-EM wherein silver was excluded, so, as it stands a nappy comprising a contorl unit and electrodes made of metal,
+not silver, for detecting the presence of urine (CU-EM not silver) infringes EP-Z in the countries where EP-Z is validated. 
+There is no patent protection in China or USA, so in China and USA there is no patent that can be held against you to stop you from making or selling
+CU-E(Au)-sound. 
+━ nappies comprising a transmitter for sending a signal to a baby phone, a control unit
+and electrodes made of gold for detecting the presence of urine (CU-E(Au)-transmit),
+Nappies comprising CU-E(Au)-transmit infringes a claim directed to nappy with Cu-Em, because it comprises a control unit and a metal (gold) electrode. 
+As it stands Ep-Z is granted with claim directed to a nappy comprising Cu-Em, not silver. All features are present. So Zuma can stop you in the countries
+where EP-Z is validated. 
+There is no patent protection in China or USA, so in China and USA there is no patent that can be held against you to stop you from making or selling
+CU-E(Au)-transmit. So you are free to do so in China and USA. 
+ 
+━ nappies comprising a control unit and the electrodes G for measuring glucose in the
+urine (CU-EG), and
+As it stands, there is no valid patent right that stops you from making or selling nappies comprising a control unit and electrodes P configured for
+measuring the glucose in the urine. 
+━ nappies comprising a control unit and the electrodes P for measuring the pH of the
+urine (CU-EP)?
+ As it stands, there is no valid patent right that stops you from making or selling nappies comprising a control unit and electrodes P configured for
+measuring the pH of the urine. 
+3) What can we do to improve our rights and position?
+File an opposition against EP-Z. 
+-file an admissible notice of opposition within the 9m time limit:  opposition can be filed until 17.08.2022 +9m = 17.05.2023(Wed). 
+- on the grounds of lack of inventive step Art. 100(a) EPC, because EP-Z is not inventive over EP-Y and the Handbook. 
+- provide arguments that the priority claim is invalid and that thus EP-Y is also to be used for inventive step. 
+- only difference is the use of metal and any metal can be used as a conductive electrode, as is known from the Handbook that any conductive material
+can be used. 
+- on the grounds of extensoin of subject matter Art. 100(c) EPC, because the undisclosed disclaimer not silver, is only allowable over 54(3) documents. 
+-since priority is invalid, the undisclosed disclaimer  to restore novelty over EP-Y is not allowed and should thus be removed.
+- Removing would extend the protection and is also not allowed under art. 123(3).
+- EP-Z discloses Copper or Platinum as examples of hte electrodes.
+- EP-Z can be amended to Copper or Platinum as metal for the electrodes, provided that is inventive over the prior art. 
+- Since White uses Gold, the Gold electrodes will not infringe an amended and limited claim towards Copper or platinum electrodes after a succesfull
+opposition. 
+File divisional from EPWC. 
+- file a divisional while EPWC is still pending for the subject matter of a nappy in which the absorbent comprises substance X. 
+- this is part of the description, but was not claimed, and thus disclosed in EPWC and a divisional directed to this subject matter is possible. 
+File two PCT applications claiming priority from EP-WC
+priority can be claimed until 06.05.2022 +12m = 06.05.2023 (Sat) --> 08.05.2023 (Mon)
+To obtain patent protection for CU-Em-transmit and nappy in which the absorbent comprises substance X, file a new PCT application claiming priority
+from EPWC.  Both inventions are commercially interesting and thus worth prosecuting. 
+File a first PCT application claiming CU-Em-transmit, before 08.05.2023 (Mon)
+From the PCT application patent protection can be obtained in Europe, US and China, the markets where White is commercially active in selling. 
+Then you can stop Zuma from making and selling nappies with CU-Em-transmit in Europe, Us and China to protect your selling markets.  
+File a second PCT application claiming a nappy in which the absorbent comprises substance X, before 08.05.2023. Because of the non-unitary subject
+matter in EP-WC, also file a second PCT- application claiming priority from EP-WC with a claim directed to a nappy comprising an absorbent in which the
+absorbent comprises substance X.   Via PCT enter at least the US national phase to stop Zuma from entering the US market with nappies. ALso enter EP
+and China to stop competitors from entering your selling markets. 
+A national US application is also possible, claiming priority from EP-WC.  PCT will hold your options open, defer costs and in case Zuma decides to enter
+other markets besides the USA as well. 
+File a new divisional EPW-DIV-NEW from EP-WB similar to EP-WDIV
+EP-WDIV was erroneously filed from EP-WA and thus invalid, becuase EP-WA does not include the subject matter claimed in EP-WDIV. 
+EP-WB is still pending until the day before the decision of the grant, so it is still possible today to file EPWDIV again from the correct parent. 
+It is thus not necessary to pay the fees for EP-WDIV, instead pay the necessary fees for EP-WDIV-NEW
+EPWDIV-NEW can proceed to grant with a claim directed to the subject matter of claim 2 of EP-WB, for a nappy comprising Cu-EP with electrodes
+configured for measuring PH in urine. 

@@ -2,8 +2,8 @@ import fitz
 import os
 
 
-pdf_dir = r"C:\Users\justi\Desktop\databattle\DataBatlle2025\Data\EPAC_Exams"
-output_dir = r"C:\Users\justi\Desktop\databattle\DataBatlle2025\Data\EPAC_Exams txt"
+pdf_dir = r"/home/cytech/Documents/DataBatlle2025/Data/EQE_Exams/02-Paper-D"
+output_dir = r"/home/cytech/Documents/DataBatlle2025/Data/EQE_Exams/02-Paper-D-txt"
 
 # create the directoy if it does not exist
 os.makedirs(output_dir, exist_ok=True)

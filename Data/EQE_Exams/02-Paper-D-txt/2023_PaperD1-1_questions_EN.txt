@@ -1,0 +1,70 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2023
+Paper D1-1
+This Paper comprises: 
+Part I: Legal Questions
+Question 1:
+10 marks
+Question 2:
+  10 marks
+Question 3:
+  7 marks
+2023/D/EN
+0-1
+2023/D/EN/1
+QUESTION 1
+(10 MARKS)
+Applicant A filed a European patent application EP-A, which describes and claims
+
+a first invention comprising two alternative solutions to a technical problem 
+consisting of features B+C and B+D respectively, and
+
+a second invention consisting of features E+F.
+The first and second inventions are not linked by a single general inventive concept. 
+Only the first invention was searched, and relevant prior art was found only for B+C. In 
+the light of the technical problem, it is directly and unambiguously apparent that 
+feature B is indispensable for the function of the first invention.
+Applicant A filed divisional applications DIV1 and DIV2, both based directly on EP-A. 
+DIV1 as filed claims and describes only feature D. DIV2 as filed claims and describes 
+only the combination B+D+F, wherein F is presented as an optional feature.
+Subsequently, the examining division issued a written decision dated 3 January 2023, 
+refusing EP-A on the ground that a claim directed to B+C lacked novelty. 
+Today, DIV1 and DIV2 are pending.
+(a) Can valid patents be obtained for DIV1 and DIV2 and what should be done?
+(b) Can applicant A still prosecute invention E+F and what should be done?
+2023/D/EN/2
+QUESTION 2
+(10 MARKS)
+On 5 May 2022, applicant B resident in France filed an international patent application 
+PCT-B with the EPO as receiving Office. Applicant B intended to claim priority from the 
+US application US-B filed by applicant B on 9 July 2021. While the priority claim in the 
+request of PCT-B stated the correct filing date of US-B, it included a typographical error 
+in one digit of the application number of US-B. The request contained a certified copy of 
+US-B. 
+The description of PCT-B includes a statement that priority is claimed from US-B 
+indicating the correct application number of US-B. Otherwise the description, the claims 
+and the drawings are identical to those of US-B.
+In May 2022, applicant B received an invitation issued by the EPO as receiving Office to 
+correct the priority claimed in the request of PCT-B. Unfortunately, applicant B 
+overlooked this invitation and did not reply to it.
+The EPO acting as International Searching Authority transmitted the international search
+report to applicant B on 12 July 2022.
+(a) Is the priority claim considered to have been made for the purposes of the procedure
+under the PCT?
+(b) What is the last day to file a demand for international preliminary examination?
+(c) Is it still possible to rectify the priority claim in the international phase?
+2023/D/EN/3
+QUESTION 3
+(7 MARKS)
+Company C filed European patent application EP-C on 14 September 2018. The 
+mention of the grant of EP-C was published on 8 June 2022.
+Company D is concerned about infringing EP-C with its products sold in Germany 
+since July 2022. Company D is preparing notice of opposition against EP-C and is 
+confident that it will get the patent revoked.
+Today, company D consults the European Patent Register and notices that the 
+representative of company C sent a fax to the EPO containing both a request that 
+EP-C be revoked and an order to debit the revocation fee from its deposit account.
+Company D also noticed that company C has not yet paid any renewal fees to the 
+German Patent and Trade Mark Office.
+(a) What is the current status of the revocation proceedings for EP-C?
+(b) Why should company D file opposition against EP-C?
