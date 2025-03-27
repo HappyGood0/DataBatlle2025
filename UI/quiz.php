@@ -1,5 +1,5 @@
 <?php
-$n = 5;
+$n = 10;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -24,46 +24,51 @@ $n = 5;
       </div>
 
       <?php
-      $n = 10;
-      $all_json = file_get_contents('../Data/many_to_one.json'); 
+      $all_json = file_get_contents('many_to_one.json'); 
       $all_json = json_decode($all_json, true);
       $number = range(0, count($all_json));
       shuffle($number);
-      for($i = 0; $i < $n; $i++){ ?>
-        <div id="<?php echo $i; ?>" class="question-box hide" <?php if($all_json[$number[$i]]["type"] == "qcm"){ echo 'data-responce="'.strtolower($all_json[$number[$i]]["answer"]).'"';} ?>>
-          <h3>Question <?php echo $i."/".$n; ?></h3>
-          <p class="question"><?php echo $all_json[$number[$i]]["question_text"];?></p>
-          <?php 
-          if($all_json[$number[$i]]["type"] == "qcm"){ ?>
-            <ul id="<?php echo $i; ?>options" class="options" data-nbPoint="1">
+      for($i = 0; $i < $n; $i++){ 
+        if(!empty($all_json[$number[$i]]["answer_explanation"]) || !empty($all_json[$number[$i]]["explanation"]) || 
+          (isset($all_json[$number[$i]]["legal_basis"]) && count($all_json[$number[$i]]["legal_basis"]))) { ?>
+          <div id="<?php echo $i; ?>" class="question-box hide" <?php if($all_json[$number[$i]]["type"] == "qcm"){ echo 'data-responce="'.strtolower($all_json[$number[$i]]["answer"]).'"';} ?>>
+            <h3>Question <?php echo $i."/".$n; ?></h3>
+            <p class="question"><?php echo $all_json[$number[$i]]["question_text"];?></p>
             <?php 
-            $keys = array_keys($all_json[$number[$i]]["answer_choices"]);
-            for($j = 0; $j < count($keys); $j++){ ?>
-              <li><button id="<?php echo $i."_".$keys[$j]; ?>" data-buttonid="<?php echo $keys[$j]; ?>"><?php echo $all_json[$number[$i]]["answer_choices"][$keys[$j]]; ?></button></li>
+            if($all_json[$number[$i]]["type"] == "qcm"){ ?>
+              <ul id="<?php echo $i; ?>options" class="options" data-nbPoint="1">
+              <?php 
+              $keys = array_keys($all_json[$number[$i]]["answer_choices"]);
+              for($j = 0; $j < count($keys); $j++){ ?>
+                <li><button id="<?php echo $i."_".$keys[$j]; ?>" data-buttonid="<?php echo $keys[$j]; ?>"><?php echo $all_json[$number[$i]]["answer_choices"][$keys[$j]]; ?></button></li>
+              <?php } ?>
+              </ul>
+              <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["explanation"]; ?></p>
+              <?php
+              for($j = 0; $j < count($all_json[$number[$i]]["legal_basis"]); $j++){ ?>
+                <p id="<?php echo $i; ?>solution" class="hide"><?php echo $all_json[$number[$i]]["legal_basis"][$j]["type"]." : ".$all_json[$number[$i]]["legal_basis"][$j]["text"]; ?></p>
+              <?php }
+            }
+            elseif($all_json[$number[$i]]["type"] == "true or false"){
+              $keys = array_keys($all_json[$number[$i]]["answer_choices"]);?>
+              <ul id="<?php echo $i; ?>options" class="options" data-nbPoint="<?php echo count($keys); ?>">
+              <?php 
+              for($j = 0; $j < count($keys); $j++){ ?>
+                <p><?php echo $all_json[$number[$i]]["answer_choices"][$keys[$j]]; ?></p>
+                <li>
+                  <button id="<?php echo $i."_".$keys[$j]."_True";  ?>" data-responce="<?php echo $all_json[$number[$i]]["answers"][$keys[$j]]; ?>">True</button>
+                  <button id="<?php echo $i."_".$keys[$j]."_False"; ?>" data-responce="<?php echo $all_json[$number[$i]]["answers"][$keys[$j]]; ?>">False</button>
+                </li>
+              <?php }?>
+              </ul>
+              <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["answer_explanation"]; ?></p>
             <?php } ?>
-            </ul>
-            <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["explanation"]; ?></p>
-            <?php
-            for($j = 0; $j < count($all_json[$number[$i]]["legal_basis"]); $j++){ ?>
-              <p id="<?php echo $i; ?>solution" class="hide"><?php echo $all_json[$number[$i]]["legal_basis"][$j]["type"]." : ".$all_json[$number[$i]]["legal_basis"][$j]["text"]; ?></p>
-            <?php }
+          </div>
+        <?php }
+          else{
+            $n++;
           }
-          elseif($all_json[$number[$i]]["type"] == "true or false"){
-            $keys = array_keys($all_json[$number[$i]]["answer_choices"]);?>
-            <ul id="<?php echo $i; ?>options" class="options" data-nbPoint="<?php echo count($keys); ?>">
-            <?php 
-            for($j = 0; $j < count($keys); $j++){ ?>
-              <p><?php echo $all_json[$number[$i]]["answer_choices"][$keys[$j]]; ?></p>
-              <li>
-                <button id="<?php echo $i."_".$keys[$j]."_True";  ?>" data-responce="<?php echo $all_json[$number[$i]]["answers"][$keys[$j]]; ?>">True</button>
-                <button id="<?php echo $i."_".$keys[$j]."_False"; ?>" data-responce="<?php echo $all_json[$number[$i]]["answers"][$keys[$j]]; ?>">False</button>
-              </li>
-            <?php }?>
-            </ul>
-            <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["answer_explanation"]; ?></p>
-          <?php } ?>
-        </div>
-      <?php } ?>
+        } ?>
 
       <button id="next-btn" class="button">Next Question</button>
     </section>

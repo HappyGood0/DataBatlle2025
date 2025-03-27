@@ -36,7 +36,7 @@ for i in reversed(to_delete):
     liste.pop(i)
 
 # Enregistrement du JSON fusionné
-output_path = '../Data/many_to_one.json'
+output_path = '../UI/many_to_one.json'
 with open(output_path, 'w', encoding='utf-8') as json_file:
     json.dump(liste, json_file, indent=4, ensure_ascii=False)
 
