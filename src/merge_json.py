@@ -5,7 +5,7 @@ files = []
 
 json_dirs = [
     "../Data/EPAC_EXAMS FINAL DATASET/MCQ",
-    "../Data/EPAC_EXAMS FINAL DATASET/OPEN",
+#    "../Data/EPAC_EXAMS FINAL DATASET/OPEN",
     "../Data/EQE_Exams/01-Pre-Examen-json",
     "../Data/generated_json_questions"
 ]
@@ -25,7 +25,7 @@ for file in files:
 to_delete = []
 
 for i, data in enumerate(liste):
-    data.pop("question_number", None)  # ✅ pas d'erreur si la clé n'existe pas
+    data.pop("question_number", None)
 
     # Supprimer les objets qui ne sont pas de type QCM
     if "questions" in data or ("type" in data and data["type"] == "open"):
@@ -40,4 +40,4 @@ output_path = '../Data/many_to_one.json'
 with open(output_path, 'w', encoding='utf-8') as json_file:
     json.dump(liste, json_file, indent=4, ensure_ascii=False)
 
-print("✅ JSON merge successful! ✅")
+print("JSON merge successful!")

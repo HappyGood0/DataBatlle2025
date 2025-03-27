@@ -24,7 +24,7 @@ $n = 5;
       </div>
 
       <?php
-      $n = 5;
+      $n = 10;
       $all_json = file_get_contents('../Data/many_to_one.json'); 
       $all_json = json_decode($all_json, true);
       $number = range(0, count($all_json));
@@ -42,7 +42,12 @@ $n = 5;
               <li><button id="<?php echo $i."_".$keys[$j]; ?>" data-buttonid="<?php echo $keys[$j]; ?>"><?php echo $all_json[$number[$i]]["answer_choices"][$keys[$j]]; ?></button></li>
             <?php } ?>
             </ul>
-          <?php }
+            <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["explanation"]; ?></p>
+            <?php
+            for($j = 0; $j < count($all_json[$number[$i]]["legal_basis"]); $j++){ ?>
+              <p id="<?php echo $i; ?>solution" class="hide"><?php echo $all_json[$number[$i]]["legal_basis"][$j]["type"]." : ".$all_json[$number[$i]]["legal_basis"][$j]["text"]; ?></p>
+            <?php }
+          }
           elseif($all_json[$number[$i]]["type"] == "true or false"){
             $keys = array_keys($all_json[$number[$i]]["answer_choices"]);?>
             <ul id="<?php echo $i; ?>options" class="options" data-nbPoint="<?php echo count($keys); ?>">
@@ -55,6 +60,7 @@ $n = 5;
               </li>
             <?php }?>
             </ul>
+            <p id="<?php echo $i; ?>solution" class="hide">Explanation : <?php echo $all_json[$number[$i]]["answer_explanation"]; ?></p>
           <?php } ?>
         </div>
       <?php } ?>
@@ -65,7 +71,6 @@ $n = 5;
     <footer>
       <p>&copy; 2025 Patent AI Project</p>
     </footer>
-
-    <script src="script2.js"></script>
+    <script type="text/javascript" src="script2.js"></script>
   </body>
 </html>

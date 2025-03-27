@@ -8,7 +8,8 @@ toggleButton.addEventListener('click', () => {
 let currentQuestion = 0;
 let score = 0;
 let nbQuestion;
-let nbPoint = 0;
+let nbTotalPoint = 0;
+let currentNbAnswered = 0;
 
 const optionsEl = document.querySelector('.options');
 const nextBtn = document.getElementById('next-btn');
@@ -49,6 +50,7 @@ function checkAnswer(e) {
       this.style.background = "#dc3545";
       document.getElementById(currentQuestion+"_"+correct).style.background = "#28a745";
     }
+    document.getElementById(currentQuestion+"solution").classList.remove('hide');
   }
   else{
     const correct = this.dataset.responce;
@@ -64,12 +66,17 @@ function checkAnswer(e) {
       this.style.background = "#dc3545";
       document.getElementById(ids+"_"+correct).style.background = "#28a745";
     }
+    currentNbAnswered++;
+    if(currentNbAnswered == parseInt(document.getElementById(currentQuestion+"options").dataset.nbpoint)){
+      document.getElementById(currentQuestion+"solution").classList.remove('hide');
+    }
   }
   scoreDisplay.textContent = `Score: ${score}`;
 }
 
 nextBtn.addEventListener('click', () => {
-  nbPoint+=parseInt(document.getElementById(currentQuestion+"options").dataset.nbpoint);
+  currentNbAnswered = 0;
+  nbTotalPoint+=parseInt(document.getElementById(currentQuestion+"options").dataset.nbpoint);
   if(currentQuestion < nbQuestion - 1){
     document.getElementById(currentQuestion).classList.add("hide");
     currentQuestion++;
@@ -77,7 +84,7 @@ nextBtn.addEventListener('click', () => {
   }
   else{
     progressBar.style.width = `100%`;
-    document.querySelector('.quiz-container').innerHTML = `<h2>🎉 Quiz Completed!</h2><p>Your score: ${score}/${nbPoint}</p><a href="quiz.php" class="button">Start Quiz</a>`;
+    document.querySelector('.quiz-container').innerHTML = `<h2>🎉 Quiz Completed!</h2><p>Your score: ${score}/${nbTotalPoint}</p><a href="quiz.php" class="button">Start Quiz</a>`;
   }
 });
 
