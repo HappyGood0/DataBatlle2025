@@ -1,0 +1,1157 @@
+ 
+ 
+EN 
+EUROPEAN QUALIFYING EXAMINATION 2021 
+ 
+Pre-examination 
+ 
+This paper comprises: 
+ 
+ 
+* 
+Legal questions 
+2021/P/EN/1-16 
+(Questions 1-10) 
+* 
+Claims analysis 
+2021/P/EN/17-49 
+(Questions 11-20) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2021/P/EN 
+0-1 
+2021/P/EN/1 
+ 
+Part 1 of Pre-examination 2021 
+ 
+ 
+Question 1 
+ 
+The European patent application EP-A was filed on 07 September 2017. 
+The mention of grant of the patent was published in the European Patent 
+Bulletin on 10 February 2021. The applicant validly filed a divisional 
+application from EP-A (EP-A-DIV) on 05 February 2021. 
+ 
+ 
+For each of the statements 1.1 – 1.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+1.1 
+The renewal fee for EP-A in respect of the third year could have 
+been validly paid on 03 May 2019. 
+ 
+ 
+1.2 
+The renewal fee for EP-A in respect of the fourth year was due on 
+07 September 2020. 
+ 
+ 
+1.3 
+The renewal fee for EP-A in respect of the fifth year shall be paid to 
+the EPO. 
+ 
+ 
+1.4 
+All renewal fees due in respect of EP-A-DIV can be validly paid 
+without an additional fee on 07 June 2021. 
+2021/P/EN/2 
+ 
+Question 2 
+ 
+Anna, a French citizen, validly filed a French patent application FR-1 on 
+06 February 2020. On 08 February 2021 she filed an international 
+application PCT-1 in respect of the same subject-matter as FR-1 at the 
+EPO. Anna intends for PCT-1 to claim priority from FR-1. 
+ 
+ 
+For each of the statements 2.1 – 2.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+2.1 
+PCT-1 can validly claim priority from FR-1. 
+ 
+ 
+2.2 
+Anna can validly file the priority declaration in May 2021. 
+ 
+ 
+2.3 
+PCT-1 cannot validly claim priority from FR-1, if FR-1 has been 
+abandoned before the filing of PCT-1. 
+ 
+ 
+2.4 
+The filing fee for PCT-1 shall be paid directly to the International 
+Bureau. 
+2021/P/EN/3 
+ 
+Question 3 
+ 
+European patent application EP-P was filed as a first filing on 16 
+December 2018. EP-P was published on 17 June 2020. Application EP- 
+P-DIV1 was filed with the EPO on 06 December 2019 as a divisional 
+application from EP-P. A second divisional application from EP-P (EP-P- 
+DIV2) was filed with the EPO on 06 November 2020. Today, EP-P is still 
+pending. Some of the claims of EP-P-DIV2 contain subject-matter that 
+was not originally disclosed in EP-P. 
+ 
+ 
+For each of the statements 3.1 – 3.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+3.1 
+EP-P-DIV1 was not validly filed as a divisional application of EP-P, 
+because EP-P-DIV1 was filed before the publication of EP-P. 
+ 
+ 
+3.2 
+If EP-P was filed in Portuguese and translated into English, EP-P- 
+DIV1 must be filed in English. 
+ 
+ 
+3.3 
+For EP-P-DIV2 an additional fee as part of the filing fee for a 
+divisional application of a second generation had to be paid. 
+ 
+ 
+3.4 
+EP-P will be regarded as prior art under Art. 54(2) EPC against EP- 
+P-DIV2. 
+2021/P/EN/4 
+ 
+Question 4 
+ 
+Applicant A files today, 01 March 2021, an international application, PCT- 
+A, with the EPO. PCT-A claims priority from the applicant’s European 
+patent application, EP-A, filed on 27 February 2020. 
+For each of the statements 4.1 – 4.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+4.1 
+If PCT-A contains 20 claims, claims fees shall be paid for five 
+claims within one month of the date of filing. 
+ 
+ 
+4.2 
+The period for entering the European phase will expire on 02 
+October 2023. 
+ 
+ 
+4.3 
+The publication date of PCT-A can be postponed, if the claim to 
+priority is validly withdrawn before completion of the technical 
+preparations for international publication. 
+ 
+ 
+4.4 
+For PCT-A to be considered as comprised in the state of the art 
+under Article 54(3) EPC, it is sufficient that PCT-A is published in 
+English. 
+2021/P/EN/5 
+ 
+Question 5 
+ 
+The mention of the grant of the European patent EP-G was published in 
+the European Patent Bulletin. Competitor B filed a notice of opposition 
+against EP-G on the last day of the opposition period. 
+One month after expiry of the opposition period and following a request 
+from the proprietor of EP-G to competitor Z to cease alleged 
+infringement, competitor Z instituted proceedings for a ruling that 
+competitor Z is not infringing patent EP-G. 
+ 
+ 
+For each of the statements 5.1 – 5.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+5.1 
+If the notice of opposition has not been signed by the opponent or 
+by his representative before expiry of the opposition period, the 
+opposition division shall reject the opposition as inadmissible. 
+ 
+ 
+5.2 
+Competitor B shall file a statement setting out for the first time the 
+grounds of opposition within two months from the date of filing the 
+notice of opposition. 
+ 
+ 
+5.3 
+Provided that the opposition proceedings are still pending, 
+competitor Z can file an admissible notice of intervention within 
+three months of the date on which the proceedings for a ruling that 
+competitor Z is not infringing patent EP-G are instituted. 
+2021/P/EN/6 
+ 
+5.4 
+If W files third party observations before expiry of the nine-month 
+opposition period, W will be summoned to any oral proceedings 
+taking place before the opposition division. 
+2021/P/EN/7 
+ 
+Part 2 of Pre-examination 2021 
+ 
+ 
+Question 6 
+ 
+A European patent application, EP-X, relating to invention X was filed in 
+January 2020. EP-X includes two alternative embodiments: X1 and X2. 
+Embodiment X1 is not sufficiently disclosed as essential technical 
+information is missing. Embodiment X2 is sufficiently disclosed. 
+ 
+ 
+For each of the statements 6.1 – 6.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+6.1 
+An objection from the examining division under Article 83 EPC 
+regarding embodiment X1 can be overcome by filing additional 
+technical information. 
+ 
+ 
+6.2 
+If the examining division does not raise any objection under Article 
+83 EPC, lack of sufficiency of disclosure will not be a valid ground 
+for opposition against the patent granted on the basis of EP-X. 
+ 
+ 
+6.3 
+If the missing essential technical information regarding 
+embodiment X1 is present in the abstract, the essential technical 
+information can be incorporated into EP-X as missing parts within 
+one month from the date of filing. 
+2021/P/EN/8 
+ 
+6.4 
+An objection from the examining division under Article 83 EPC can 
+be overcome by restricting EP-X to embodiment X2. 
+2021/P/EN/9 
+ 
+Question 7: 
+ 
+The applicant Mr Y filed a European patent application EP-Y. In the 
+summons to oral proceedings, the examining division objected to claim 1 
+of EP-Y as not having an inventive step in view of document D1 in 
+combination with the skilled person´s common general knowledge. 
+At the oral proceedings before the examining division, the professional 
+representative of Mr Y is accompanied by Professor N. The professional 
+representative requests that Professor N is allowed to make oral 
+submissions during the oral proceedings. Professor N is a well-known 
+expert in the technical field of the patent application and has recently 
+been awarded a Nobel prize for her work in that technical field. 
+Moreover, Professor N is accompanied by five of her students who also 
+wish to attend the oral proceedings. Neither the presence of Professor N 
+nor that of her students had been announced prior to the oral 
+proceedings. 
+ 
+ 
+For each of the statements 7.1 – 7.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+7.1 
+The examining division may admit auxiliary requests filed and 
+signed by Professor N during the oral proceedings. 
+ 
+ 
+7.2 
+The EPC does not provide for the hearing of witnesses during 
+examination proceedings. 
+2021/P/EN/10 
+ 
+7.3 
+The students of Professor N may attend the oral proceedings 
+as members of the public. 
+ 
+ 
+7.4 
+Professor N has the right to make oral submissions during the 
+oral proceedings, since she must be considered by the 
+examining division to represent the “person skilled in the art”. 
+2021/P/EN/11 
+ 
+Question 8 
+ 
+European patent EP-C was opposed on the grounds of lack of novelty 
+and lack of an inventive step. The opposition division rejected the 
+opposition. The opponent filed an admissible appeal against the decision 
+of the opposition division. Appeal proceedings concerning European 
+patent EP-C are currently pending. 
+ 
+ 
+For each of the statements 8.1 – 8.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+A fresh ground of opposition under Article 100(b) EPC can now be 
+introduced into the appeal procedure… 
+ 
+ 
+8.1 
+… since the patent proprietor is party to the appeal proceedings 
+as of right. 
+ 
+ 
+8.2 
+… provided that the board of appeal considers the ground of 
+opposition as prima facie relevant, even if the patent proprietor 
+does not agree to its introduction. 
+ 
+ 
+8.3 
+… provided that the fresh ground is raised by third party 
+observations under Article 115 EPC, even if the patent proprietor 
+does not agree to its introduction. 
+2021/P/EN/12 
+ 
+8.4 
+… provided that the fresh ground is raised in an admissible 
+notice of intervention filed during the pending appeal 
+proceedings, even if the patent proprietor does not agree to its 
+introduction. 
+2021/P/EN/13 
+ 
+Question 9: 
+ 
+European patent application EP-F has been filed in French and oral 
+proceedings have been scheduled before the examining division. At the 
+beginning of the oral proceedings, the professional representative 
+requests to speak in English without providing for interpretation into 
+French. He also requests that the minutes be written in English and 
+declares that he is aware that, if both his requests are permitted, no 
+interpretation and translation into French will be provided, neither for the 
+oral proceedings nor for the minutes. 
+ 
+ 
+For each of the statements 9.1 –9.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+9.1 
+The examining division may reject the request to speak English in 
+the oral proceedings, even though English is an official language of 
+the EPO. 
+ 
+ 
+9.2 
+The examining division may agree to the request that the minutes 
+be written in English, except for amendments to EP-F, which will be 
+entered in the minutes in French. 
+ 
+ 
+9.3 
+During the oral proceedings, the representative can validly file a 
+new amended set of claims in English. 
+2021/P/EN/14 
+ 
+9.4 
+If the examining division agrees, the representative may make a 
+part of his oral statements during the oral proceedings in 
+Swedish. 
+2021/P/EN/15 
+ 
+Question 10: 
+ 
+Applicant B validly files an international application, PCT-B, in 2019 
+without claiming priority and elects the European Patent Office as 
+competent International Searching Authority (ISA). The European Patent 
+Office is of the opinion that PCT-B does not comply with the 
+requirements of unity of invention and relates to four inventions: B1, B2, 
+B3 and B4. In response to the invitation from the EPO as ISA to pay 
+additional search fees for B2, B3 and B4, applicant A pays additional 
+search fees for B2 and B3 under protest and the protest fee is duly paid. 
+Four months later, applicant A receives the International Search Report. 
+ 
+ 
+For each of the statements 10.1 –10.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+10.1 If the review body of the ISA finds that the protest was entirely 
+justified, the additional search fees will be refunded but not the 
+protest fee. 
+ 
+ 
+10.2 If PCT-B has validly entered the European phase without any 
+amendments to the claims, the EPO will invite the applicant to pay 
+a search fee for invention B4 within a period of two months. 
+ 
+ 
+10.3 In order to receive a refund of an additional search fee paid in the 
+European phase, the applicant must pay the additional search fee 
+under protest. 
+2021/P/EN/16 
+ 
+ 
+ 
+10.4 If applicant A files a divisional application, EP-B-DIV, for invention 
+B2 at the EPO, after PCT-B validly entered the European phase, 
+the search fee paid for EP-B-DIV shall be refunded at 100%. 
+2021/P/EN/17 
+ 
+Part 3 of Pre-examination 2021 
+ 
+ 
+Description of a European patent application (date of filing: 31 
+March 2019) 
+ 
+ 
+Title: Glass compositions for use as a photochromic lens 
+ 
+ 
+[01] The present invention relates to a glass composition for use as a 
+photochromic lens. 
+[02] Photochromic lenses are used in eye-glasses. Photochromic 
+lenses change colour depending on the amount of light present. In 
+low-light conditions, such as inside, a photochromic lens will be 
+substantially colourless. In conditions with increased light levels, 
+such as outside, the photochromic lens darkens. The change in 
+colour is a result of components in the photochromic lens which 
+react with ultraviolet (UV) light. 
+[03] Photochromic lenses currently in use also change colour 
+depending on the temperature of the surroundings. For example, in 
+the cold, the colour change is enhanced and the photochromic 
+lenses become much darker in colour. In warmer temperatures the 
+colour change is less apparent, thus providing sub-optimal eye 
+protection from harmful UV light. 
+[04] The present invention relates to an improved glass composition for 
+use as a photochromic lens. 
+[05] The glass composition of the invention comprises silicon dioxide, 
+component A, component M and component X. 
+2021/P/EN/18 
+ 
+[06] Component A is used to lower the melting temperature of the glass 
+composition. Preferably, component A is present in the composition 
+in a content of about 10% to about 30% by weight, for example 
+10% to 20% by weight. Most preferably, component A is present in 
+the composition in a content of 16% by weight. 
+[07] Preferably, component A is selected from the group consisting of 
+sodium oxide, sodium carbonate and boron trioxide. Most 
+preferably, component A is sodium oxide. 
+[08] Component A reduces the melting temperature of silicon dioxide 
+and reduces costs, but the resulting glass composition, which 
+contains silicon dioxide and component A, is water-soluble and 
+unstable which makes it unsuitable for use as a lens. 
+[09] Component M reduces the water-solubility and improves the 
+stability of the glass composition, but only if it is present in certain 
+amounts, otherwise component M has detrimental effects. The 
+content of component M must be about 5% to about 10% by weight 
+of the glass composition. If the content of component M is less 
+than 5% by weight of the glass composition, the glass composition 
+is not stable enough for use. If the content is greater than 10% by 
+weight of the glass composition, the glass composition solidifies at 
+high temperatures which makes it unusable. 
+[10] Preferably, component M is selected from the group consisting of 
+lime, zinc oxide and alumina. 
+[11] Component X provides the photochromic characteristics of the 
+glass composition. Component X is a molecule which upon 
+exposure to light, reacts reversibly with itself and absorbs UV light. 
+Component X provides improved resistance to colour change as a 
+2021/P/EN/19 
+ 
+result of a change in temperature. Preferably, component X is 
+selected from compound alpha, compound beta and compound 
+gamma, which are all similarly effective at absorbing UV light. 
+[12] Compound alpha, surprisingly, provides a photochromic lens that is 
+the most resistant to colour changes as a result of a change in 
+temperature. 
+[13] Therefore, most preferably, component X is compound alpha. 
+ 
+[14] Component X may be present in a content of 10% by weight of the 
+composition. 
+[15] The invention also provides a process for manufacturing a 
+photochromic lens from the glass composition of the invention, 
+which comprises the following steps: 
+(i) mixing components A and M together in a first vessel to obtain a 
+first mixture; 
+(ii) heating silicon dioxide in a second vessel to a high temperature; 
+ 
+(iii) adding the first mixture from step (i) to the second vessel from 
+step (ii) to form a second mixture; 
+(iv) adding component X to the second mixture; 
+ 
+(v) forming a photochromic lens; and afterwards 
+ 
+(vi) allowing the photochromic lens to cool to a low temperature. 
+ 
+[16] Preferably, the silicon dioxide is heated to about 1500 °C, about 
+1600 °C, about 1700 °C or about 1800 °C. Most preferably, the 
+silicon dioxide is heated to 1675 °C. 
+2021/P/EN/20 
+ 
+[17] The combination of steps in the above-mentioned process results 
+in a photochromic lens which changes colour from colourless to 
+red upon exposure to UV light. 
+[18] The invention also provides a photochromic lens obtainable by the 
+above-mentioned process. 
+2021/P/EN/21 
+ 
+The following claim set was filed with the application. 
+ 
+CLAIM SET I 
+ 
+I-1. A glass composition for use as a photochromic lens comprising: 
+silicon dioxide; 
+component A; 
+component M; and 
+component X. 
+I-2. 
+The composition according to claim I-1 wherein component A is 
+present in the composition in a content of about 10% to about 30% 
+by weight. 
+I-3. 
+The composition according to claim I-1 or claim I-2 wherein 
+component A is selected from the group consisting of sodium 
+oxide, sodium carbonate and boron trioxide. 
+I-4. 
+The composition according to claim I-1 wherein component M is 
+present in the composition in a content of 5% to 10% by weight. 
+I-5. 
+The composition according to claim I-4 wherein component M is 
+present in the composition in a content of 15% by weight. 
+I-6. 
+The composition according to any one of claims I-1 to I-5, wherein 
+component X is selected from the group consisting of compound 
+alpha, compound beta and compound gamma. 
+I-7. 
+ The process according to any one of claims I-1 to I-6, wherein 
+component M is selected from the group consisting of: lime, zinc 
+oxide and alumina. 
+2021/P/EN/22 
+ 
+I-8. 
+A process for manufacturing a photochromic lens from the glass 
+composition according to any one of claims I-1 to I-7, which 
+comprises the following steps: 
+(i) mixing components A and M together in a first vessel to obtain a 
+first mixture; 
+(ii) heating silicon dioxide in a second vessel to an high 
+temperature; 
+(iii) adding the first mixture from step (i) to the second vessel from 
+step (ii) to form a second mixture; 
+(iv) adding component X to the second mixture; 
+ 
+(v) forming a photochromic lens; and afterwards 
+ 
+(vi) allowing the photochromic lens to cool to a low temperature. 
+ 
+I-9. A photochromic lens obtainable by the process of claim I-8. 
+2021/P/EN/23 
+ 
+D1 – International application PCT-1 
+ 
+filed on 23 November 2016; published on 24 May 2018 
+ 
+[01] The present invention relates to a glass composition which is 
+suitable for use as a glass bottle. 
+[02] Glass bottles are used to store different types of liquids, for 
+example corrosive liquids and liquids which are sensitive to light. 
+The type of liquids, which are to be stored in the bottle affects the 
+materials to be used to make the glass. 
+[03] The main component in glass is sand, which consists primarily of 
+silicon dioxide. Sand can be mixed with a number of other 
+ingredients which affect the properties of glass as outlined in the 
+table below: 
+ 
+Stabilisers 
+Additives 
+UV light absorbers 
+Component M 
+Component B 
+Component T 
+Component N 
+Component A 
+Component U 
+Component P 
+Component C 
+Component X 
+ 
+ 
+[04] The stability of glass is improved by using stabilisers selected from 
+the list of stabilisers in the table above. 
+[05] Additives such as those listed in the table above may be used to 
+provide or enhance certain properties. 
+[06] In certain circumstances, it may be beneficial to include a UV light 
+absorber. UV-light absorbers may be selected from those listed in 
+the table above. 
+[07] A preferred embodiment of the invention is a glass composition for 
+use in a glass bottle comprising: 
+2021/P/EN/24 
+ 
+silicon dioxide; 
+component P; 
+component B; and 
+component T. 
+2021/P/EN/25 
+ 
+D2 – International application PCT-2 
+ 
+filed on 23 January 2016; published on 26 July 2017 
+ 
+[01] The present invention relates to a glass composition for use as a 
+photochromic lens in eye-glasses. 
+[02] The glass composition of the present invention comprises: 
+silicon dioxide; 
+component A; 
+component M; and 
+component X; 
+wherein component X is selected from the group consisting of 
+compound beta and compound gamma. 
+[03] The invention is further defined by the following examples. The 
+percent values in the table below indicate the weight content of 
+each component present in the composition: 
+ 
+Example 
+Silicon 
+Dioxide 
+Component A Component M Component X 
+1 
+69 
+16 
+5 
+10 
+2 
+44 
+30 
+6 
+20 
+3 
+38 
+25 
+7 
+30 
+2021/P/EN/26 
+ 
+D3 – European patent application EP-1 
+ 
+filed on 12 April 2018; published on 17 October 2019 
+ 
+[01] The present invention relates to the use of zinc oxide for blocking 
+UV light. It has been found that zinc oxide is particularly effective at 
+blocking UV light. It is present in a number of sunscreens. Zinc 
+oxide may be used in glass compositions which are used in UV- 
+blocking sunglasses for use where there is a high amount of UV 
+light present. 
+[02] The present invention provides a glass composition comprising 
+silicon dioxide, component A, zinc oxide as component M and 
+component X. Preferably, component X is compound alpha. 
+[03] By using compound alpha, the colour change of the glass 
+composition is more resistant to temperature changes compared to 
+other glass compositions on the market currently used in 
+sunglasses. 
+2021/P/EN/27 
+ 
+Question 11 
+ 
+For each of the statements 11.1 - 11.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+11.1 Claim I-1 is limited to a glass composition which is only for use as 
+a photochromic lens. 
+ 
+ 
+11.2 Claim I-4 covers a glass composition for use as a photochromic 
+lens, comprising silicon dioxide, sodium oxide in a content of 10% 
+to 30% by weight of the composition, component M in a content of 
+5% to 10% by weight of the composition, and component X. 
+ 
+ 
+11.3 The protection of claim I-8 extends to the photochromic lens 
+directly obtained by the process. 
+ 
+ 
+11.4 A photochromic lens which is identical to the photochromic lens of 
+claim I-9, but which is not obtained by a process of claim I-8, falls 
+under the scope of claim I-9. 
+2021/P/EN/28 
+ 
+Question 12 
+ 
+For each of the statements 12.1 - 12.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+12.1 Claim I-1 contains all essential features of the glass composition of 
+the invention. 
+ 
+ 
+12.2 Claim I-5 is clear. 
+ 
+ 
+12.3 Claim I-7 is unclear due to its dependency on claims I-1 to I-6. 
+ 
+ 
+12.4 Claim I-8 is unclear due to the use of the term low. 
+2021/P/EN/29 
+ 
+Question 13 
+ 
+For each of the statements 13.1 - 13.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+13.1 The subject-matter of claim I-1 lacks novelty over D1. 
+ 
+ 
+13.2 The subject-matter of claim I-2 lacks novelty over Example 2 of D2. 
+ 
+ 
+13.3 The subject-matter of claim I-4 is novel over Example 3 of D2. 
+ 
+ 
+13.4 D1 discloses a component X being selected from the group 
+consisting of compound alpha, compound beta and compound 
+gamma. 
+2021/P/EN/30 
+ 
+During examination the applicant files a new set of claims (claim set II) to 
+replace the originally filed claim set I. 
+ 
+ 
+CLAIM SET II 
+ 
+II-1. A glass composition for use as a photochromic lens comprising: 
+silicon dioxide; 
+component A; and 
+component M. 
+II-2. The composition according to claim II-1 further comprising 
+component X. 
+II-3. The composition according to claim II-2 wherein component M is 
+not zinc oxide. 
+II-4. The composition according to claim II-2 wherein component A is 
+present in the composition in a content of 10% to 30% by weight. 
+II-5. The composition according to claim II-2 wherein component X is 
+selected from the group consisting of compound alpha and 
+compound beta. 
+2021/P/EN/31 
+ 
+Question 14 
+ 
+For each of the statements 14.1 to 14.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+14.1 Claim II-1 is allowable under Article 123(2) EPC. 
+ 
+ 
+14.2 Claim II-3 is allowable under Article 123(2) EPC. 
+ 
+ 
+14.3 Claim II-4 is allowable under Article 123(2) EPC. 
+ 
+ 
+14.4 Claim II-5 is allowable under Article 123(2) EPC. 
+2021/P/EN/32 
+ 
+A further amended set of claims is filed during examination (claim set III): 
+ 
+ 
+CLAIM SET III 
+ 
+III-1. A glass composition for use as a photochromic lens comprising: 
+silicon dioxide; 
+component A which is present in a content of 16% by weight; 
+ 
+component M which is present in a content of 5% to 10% by 
+weight; and 
+compound alpha which is present in a content of 10% by weight. 
+ 
+III-2. The composition according to claim III-1 wherein component A is 
+selected from the group consisting of sodium oxide, sodium 
+carbonate and boron trioxide. 
+III-3. The composition according to claim III-1 or claim III-2 wherein 
+component M is selected from the group consisting of lime and 
+alumina. 
+2021/P/EN/33 
+ 
+Question 15 
+ 
+For each of the statements 15.1 to 15.4, indicate on the answer sheet 
+whether the statement is true or false. 
+ 
+ 
+15.1 D2 can be considered to be the closest prior art for claim III-3 
+because it relates to the same technical field, i.e. the field of 
+photochromic lenses. 
+ 
+ 
+15.2 The objective technical problem to be solved by the subject-matter 
+of claim III-1 with respect to D2 is the provision of a photochromic 
+lens, the colour change of which is resistant to temperature 
+changes. 
+ 
+ 
+15.3 A valid argument for why the subject-matter of claim III-1 has an 
+inventive step over D2 is because using compound alpha as 
+component X results in a photochromic lens, the colour of which is 
+surprisingly more resistant to temperature changes than when 
+compound beta or compound gamma is used. 
+ 
+ 
+15.4 A combination of D2 and D3 could be used to validly attack claim 
+III-1 for lack of inventive step. 
+2021/P/EN/34 
+ 
+Part 4 of Pre-examination 2021 
+ 
+ 
+Description of a second European patent application 
+ 
+Client application (with originally filed claims) 
+ 
+ 
+[01] The present invention relates to a protection device for a tablet 
+computer. 
+ 
+[02] Tablet computers are well known. A tablet computer is a mobile 
+device with a touch sensitive screen. The computer elements are 
+integrated into the back of the screen. The size of the screen is 
+usually from 7 inches to 19 inches so that the device can be easily 
+handled. 
+ 
+[03] The present invention provides a protection device comprising a 
+receiving part for receiving the tablet computer and a cover part for 
+protecting the screen of the tablet computer. The receiving part is 
+made of a structure comprising a flat base and four elastically 
+deformable corners extending from the peripheral edge of the 
+base. The elastically deformable corners secure the tablet 
+computer within the receiving part. Preferably, the corners are 
+made of silicone having a greater thickness than the base, while 
+the base is made of a rigid plastic. Silicone is expensive and 
+having silicone only in the corners is not only cost effective but also 
+environmentally friendly due to the reduction of material used, 
+whilst only slightly decreasing the protection of the tablet computer 
+if it is dropped. 
+2021/P/EN/35 
+ 
+[04] In a first embodiment, the cover part is flat and rigid and made of 
+an inexpensive plastic. It has been shown that when the cover part 
+is flat and at the same time rigid, the screen of the tablet is better 
+protected. The cover part is joined to a side of the receiving part by 
+a hinge which is attached to both the base of the receiving part and 
+to the cover part. The hinge, the cover part and the base of the 
+receiving part may be made from the same material such that the 
+hinge is formed by a fold. The cover part is large enough to cover 
+the screen after insertion of the tablet computer into the receiving 
+part. 
+ 
+[05] In an alternative second embodiment shown in Fig. 1 and Fig. 2, 
+the cover part (10) is divided into three sections (11a, 11b, 11c) 
+which are joined to each other by hinges (12a, 12b) parallel to the 
+hinge (13) joining the cover part (10) and the receiving part (14). 
+The receiving part (14) comprises a flat base (not shown) and four 
+elastically deformable corners (16). Each section (11a, 11b, 11c) is 
+flat and rigid. The hinges (12a, 12b) and the sections (11a, 11b, 
+11c) may be made from the same material such that the hinges 
+(12a, 12b) are formed by folds of the cover part (10) as shown in 
+Fig.1. When the hinges (12a, 12b) and the sections (11a, 11b, 11c) 
+are made from the same material, the material at the hinges (12a, 
+12b) may preferably be thinner than the material at the sections 
+(11a, 11b, 11c), allowing the material to fold more easily. 
+Alternatively, the hinges (12a, 12b) can be separate parts made of 
+a different material from the sections. Regardless of the material 
+used, in this embodiment, the cover part (10) may be folded into a 
+triangular prism shape (15) serving as an inclined support for the 
+receiving part holding the tablet computer, as shown in Fig. 2. 
+2021/P/EN/36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2021/P/EN/37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2021/P/EN/38 
+ 
+For questions 16 to 19, consider that the following claims were filed 
+together with the above second European patent application: 
+ 
+ 
+IV.1 
+Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part. 
+ 
+ 
+IV.2 
+Protection device according to claim IV.1, wherein the protection 
+device comprises a hinge between the receiving part and the cover 
+part. 
+ 
+ 
+IV.3 
+Protection device according to claim IV.1 or IV.2, wherein the 
+receiving part comprises a flat base, preferably as shown in Fig.1. 
+ 
+ 
+IV.4 
+Protection device according to any preceding claim, wherein the 
+receiving part comprises an elastically deformable means for 
+securing the tablet computer within the receiving part. 
+ 
+ 
+IV.5 
+Protection device according to claim IV.4, wherein the elastically 
+deformable means comprises four elastically deformable corners. 
+ 
+ 
+IV.6 
+Protection device according to any preceding claim, wherein the 
+cover part comprises a flat and rigid section. 
+ 
+ 
+IV.7 
+Protection device according to any preceding claim, wherein the 
+cover part is divided into three parallel sections that are 
+2021/P/EN/39 
+ 
+respectively joined by parallel hinges, and which are foldable into a 
+triangular prism shape. 
+2021/P/EN/40 
+ 
+Document D1 (state of the art according Article 54(2) EPC) 
+ 
+[01] D1 discloses a shipping box for packaging and protecting a tablet 
+computer. The shipping box comprises a flat base and four walls 
+for receiving the tablet computer. The shipping box comprises four 
+flaps extending respectively from each of the four walls. The flaps 
+can be folded over and secured to each other to close the shipping 
+box and fully cover the tablet, i.e. the shipping box forms a closed 
+box. The shipping box can be made of rigid material such as 
+cardboard or polymer reinforced cardboard. 
+ 
+ 
+[02] A frame is included inside the shipping box for holding the tablet 
+computer in place in the shipping box. The frame is made of an 
+elastically deformable material so that the tablet computer can be 
+held tightly therein. 
+2021/P/EN/41 
+ 
+Document D2 (state of the art according Article 54(2) EPC) 
+ 
+[01] D2 discloses a protection device for a tablet computer. The 
+protection device comprises a receiving part and a cover part. The 
+cover part is joined to the receiving part by a hinge so that the 
+cover part protects the screen of the tablet computer. 
+[02] The receiving part has a flat base and a peripheral wall. The 
+peripheral wall extends along the entire periphery of the base. The 
+receiving part is made from a single piece of silicone having a 
+uniform thickness. Both the flat base and the peripheral wall 
+deform elastically for receiving and securing the tablet computer in 
+the receiving part. After insertion, the tablet computer is held tightly 
+by the peripheral wall (110 of Fig. 3). 
+[03] For better protection of the screen of the tablet computer, it is 
+possible to increase the thickness of the silicone material of the 
+whole receiving part uniformly. 
+[04] As shown in Fig. 3, the cover part (100) is divided into three flat 
+and rigid parallel sections which are joined to each other by hinges. 
+These sections can be folded into a triangular prism shape serving 
+as an inclined support for the receiving part holding the tablet 
+computer (20). 
+2021/P/EN/42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2021/P/EN/43 
+ 
+Question 16 
+ 
+For each of the statements 16.1 – 16.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+16.1 Claim IV.4 lacks clarity because of an incorrect dependency. 
+ 
+ 
+16.2 Claim IV.3 meets the requirements of Art. 84 EPC. 
+ 
+ 
+16.3 Claim IV.7 defines that the cover part is divided along its longer 
+dimension into three parallel sections that are respectively joined 
+by parallel hinges, and which are foldable into a triangular prism 
+shape. 
+ 
+ 
+16.4 A protection device comprising a receiving part for receiving a 
+tablet computer and a cover part having two hinges between the 
+cover part and receiving part falls within the scope of claim IV.2. 
+2021/P/EN/44 
+ 
+Question 17 
+ 
+For each of the statements 17.1 – 17.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+17.1 D1 destroys the novelty of the subject-matter of claim IV.2. 
+ 
+ 
+17.2 D1 destroys the novelty of the subject-matter of claim IV.4. 
+ 
+ 
+17.3 D1 destroys the novelty of the subject-matter of claim IV.6. 
+ 
+ 
+17.4 D1 destroys the novelty of the subject-matter of claim IV.7. 
+2021/P/EN/45 
+ 
+Question 18 
+ 
+For each of the statements 18.1 – 18.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+18.1 The subject-matter of claim IV.7 is novel over D2. 
+ 
+ 
+18.2 The subject-matter of claim IV.6 is novel over D2. 
+ 
+ 
+18.3 The subject-matter of claim IV.4 is novel over D2. 
+ 
+ 
+18.4 The subject-matter of claim IV.5 is novel over D2. 
+2021/P/EN/46 
+ 
+Question 19 
+ 
+For each of the statements 19.1 – 19.4, indicate on the answer sheet 
+whether the statement is true or false: Under Article 123(2) EPC, there is 
+basis for amending claim IV.1 of the originally filed application as follows: 
+ 
+ 
+19.1 Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part, and further comprising a hinge 
+between the receiving part and the cover part, the receiving part 
+comprising a base, the base being flat. 
+ 
+ 
+19.2 Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part, wherein the receiving part comprises a 
+flat base and four elastically deformable corners for securing the 
+tablet computer within the receiving part, and wherein the cover 
+part comprises a flat and rigid section. 
+ 
+ 
+19.3 Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part, wherein the receiving part comprises a 
+flat base and four elastically deformable corners for securing the 
+tablet computer within the receiving part, and wherein the cover 
+part is flat. 
+ 
+ 
+19.4 Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part, wherein the cover part is divided into 
+three parallel sections that are respectively joined by parallel 
+hinges, and is foldable into a triangular prism shape, each section 
+2021/P/EN/47 
+ 
+being flat and rigid, and wherein the hinges and the sections are 
+made from the same material such that the hinges are formed by 
+folds of the cover part. 
+2021/P/EN/48 
+ 
+Question 20 
+ 
+For this question, assume that the following Claim V.1 was the original 
+claim filed in the client patent application. 
+V.1 Protection device comprising a receiving part for receiving a tablet 
+computer and a cover part, wherein the receiving part comprises a 
+flat and rigid plastic base and four corners for securing the tablet 
+computer within the receiving part, characterised in that the four 
+corners are elastically deformable and the four corners extend 
+from the peripheral edge of the base and the four corners are 
+made of silicone having a greater thickness than the base. 
+ 
+ 
+For each of the statements 20.1 – 20.4, indicate on the answer sheet 
+whether the statement is true or false: 
+ 
+ 
+20.1 Claim V.1 is in the correct two-part form with respect to the 
+disclosure of D2. 
+ 
+ 
+20.2 A valid argument as to why D2 may be considered the closest prior 
+art is that it discloses a base made from the same material as the 
+corners. 
+ 
+ 
+20.3 A possible technical effect of the invention defined in claim V.1 with 
+respect to D2 is that it allows better protection of the screen of the 
+tablet computer. 
+2021/P/EN/49 
+ 
+20.4 For the purpose of assessing inventive step of claim V.1, a valid 
+argument is that D1 does not relate to the technical field of 
+protection devices . 

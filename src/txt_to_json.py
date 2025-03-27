@@ -2,89 +2,90 @@ import glob
 import re
 import json
 
-def parse_question_block(block):
-    """
-    Extrait les différentes parties d'une question depuis un bloc de texte.
-    Le bloc est censé contenir :
-      - La ligne "Question X:" suivie du texte de la question
-      - Les propositions de réponses débutant par "A)", "B)", "C)", "D)"
-      - Une ligne "Correct answer:" indiquant la bonne option
-      - Une section "Explanation:" pour la justification
-      - Une éventuelle ligne "Source:" pour la référence
-    """
-    # Initialisation du dictionnaire avec les clés attendues
+def parse_question_block(block, q_number):
     qdict = {
-        "question_number": None,
-        "question_text": "",
+        "question_text": f"{q_number}. ",
         "answer_choices": {},
+        "type": "qcm",
         "answer": "",
-        "answer justification": "",
-        "source": "",
-        "type": "qcm"
+        "explanation": None,
+        "legal_basis": []
     }
 
-    # Extraction du texte de la question (entre "Question X:" et la première réponse commençant par une lettre)
-    qtext_match = re.search(r'Question\s+\d+\s*:\s*(.*?)(?=\n\s*[A-D]\))', block, re.DOTALL | re.IGNORECASE)
+    # Texte de la question
+    qtext_match = re.search(r'Question\s+\d+\s*:\s*(.*?)(?=\n\s*[A-D]\))', block, re.DOTALL)
     if qtext_match:
-        qdict["question_text"] = qtext_match.group(1).strip()
+        qdict["question_text"] += qtext_match.group(1).strip()
+    else:
+        print(f"❌ Question text not found in block {q_number}")
+        return None
 
-    # Extraction des propositions de réponse (A) à D))
-    # On capture la lettre et le texte correspondant sur une même ligne
+    # Choix de réponses
     choices = re.findall(r'([A-D])\)\s*(.*)', block)
+    if not choices:
+        print(f"❌ No choices found in block {q_number}")
+        return None
+
     for letter, text in choices:
         qdict["answer_choices"][letter.lower()] = text.strip()
 
-    # Extraction de la bonne réponse (on attend "Correct answer:" suivi d'une lettre)
+    # Bonne réponse
     answer_match = re.search(r'Correct answer\s*:\s*([A-D])', block, re.IGNORECASE)
     if answer_match:
         qdict["answer"] = answer_match.group(1).upper()
+    else:
+        print(f"❌ Correct answer not found in block {q_number}")
+        return None
 
-    # Extraction de la justification de la réponse (après "Explanation:")
-    expl_match = re.search(r'Explanation\s*:\s*(.*?)(?=\n(?:Source\s*:|$))', block, re.DOTALL | re.IGNORECASE)
+    # Explication
+    expl_match = re.search(r'Explanation\s*:\s*(.*?)(?=\nSource\s*:|\n*$)', block, re.DOTALL | re.IGNORECASE)
     if expl_match:
-        qdict["answer justification"] = expl_match.group(1).strip()
+        explanation = expl_match.group(1).strip()
+        if explanation.lower() not in ["none", ""]:
+            qdict["explanation"] = explanation
 
-    # Extraction de la source si présente (ligne commençant par "Source:")
+    # Base légale
     source_match = re.search(r'Source\s*:\s*(.*)', block, re.IGNORECASE)
     if source_match:
-        qdict["source"] = source_match.group(1).strip()
+        source_text = source_match.group(1).strip()
+        if source_text:
+            qdict["legal_basis"].append({
+                "type": "other",
+                "text": source_text
+            })
 
     return qdict
 
 def main():
-    # Récupère tous les fichiers dont le nom commence par "quiz_output" et se termine par ".txt"
-    files = glob.glob("../Data/generated _txt_questions/quiz_output*.txt")
+    files = glob.glob("../Data/generated _txt_questions/quiz_output_*.txt")
     all_questions = []
     question_number = 1
 
     for filename in sorted(files):
+        print(f"📄 Lecture du fichier : {filename}")
         with open(filename, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # On découpe le contenu en blocs correspondant à chaque question.
-        # Ici, on suppose que chaque question est précédée d'une ligne délimitée comme :
-        # --- Question X (Chunk ...) ---
-        blocks = re.split(r'\n-{3,}\s*Question\s+\d+.*?-{3,}\n', content)
-        # Le premier bloc peut être l'en-tête, on le saute s'il ne contient pas de "Question"
+        # Séparation robuste des blocs
+        blocks = re.split(r'-{3,}\s*Question\s+\d+\s*\(Chunk\s+\d+\)\s*-{3,}', content)
+        print(f"📦 {len(blocks)} blocs trouvés")
+
         for block in blocks:
             block = block.strip()
-            if not block:
+            if not block or "Question" not in block:
                 continue
-            # On vérifie qu'il y a bien une partie "Question" dans le bloc
-            if "Question" not in block:
-                continue
-            # Analyse du bloc pour en extraire les données
-            qdata = parse_question_block(block)
-            qdata["question_number"] = question_number
-            all_questions.append(qdata)
-            question_number += 1
 
-    # Optionnel : vérifier que l'on a bien 330 questions
-    print(f"Nombre total de questions extraites : {len(all_questions)}")
+            qdata = parse_question_block(block, question_number)
+            if qdata:
+                all_questions.append(qdata)
+                question_number += 1
 
-    # Enregistrement dans un fichier JSON
+    print(f"\n✅ Total questions parsed: {len(all_questions)}")
+
+    # Sauvegarde
     with open("../Data/generated_json_questions/questions_output.json", "w", encoding="utf-8") as out_file:
-        json.dump(all_questions, out_file, ensure_ascii=False, indent=4)
+        json.dump(all_questions, out_file, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     main()
+

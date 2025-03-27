@@ -1,0 +1,767 @@
+EN 
+EUROPEAN QUALIFYING EXAMINATION 2022
+Pre-examination 
+Part 1 
+Question 1 
+Francesca has filed a European patent application EP-F before the EPO. Francesca did 
+not develop the invention which is the subject of EP-F. In drafting EP-F Francesca used 
+information in Andrew’s laboratory notebook, without Andrew’s consent. EP-F was 
+published in December 2017 and is still pending. 
+For each of the statements 1.1–1.4, indicate on the answer sheet whether the statement is 
+true or false: 
+1.1 
+Andrew can seek a stay of proceedings if he provides evidence that he has 
+instituted proceedings against Francesca seeking a decision that Andrew is entitled 
+to the grant of the European patent based on EP-F. 
+1.2 
+Francesca can withdraw EP-F at any time from the date on which Andrew provides 
+evidence to the EPO that he has instituted proceedings against Francesca seeking 
+a decision that Andrew is entitled to the grant of the European patent based on  
+EP-F. 
+1.3 
+No renewal fee has to be paid during a stay of proceedings. 
+1.4 
+Andrew can validly request that EP-F be refused no later than three months after 
+the decision recognising his entitlement to EP-F has become final. 
+2022/P/EN
+Page 1 of 27
+ 
+ 
+Question 2 
+ 
+Hans filed an admissible notice of opposition against European patent EP-1, which was 
+granted with two independent claims, namely claim 1 and claim 2 relating respectively to 
+two different parts of the patent. The only ground for opposition that he raised was lack 
+of inventive step in respect of claim 1. The opposition is not filed against the patent as a 
+whole, but only against claim 1. In particular, he argued in the notice of opposition that 
+the subject-matter of claim 1 lacked inventive step over the combination of D1 and D2, 
+both published before the effective date of EP-1. Theresa filed third-party observations 
+during the pending opposition proceedings, arguing that claim 2 lacked novelty over D3, 
+a Japanese patent application published before the effective date of EP-1. 
+ 
+For the following statements, assume that the right to be heard of all parties involved 
+has been respected and no amendments have been filed during the opposition 
+proceedings. 
+ 
+For each of the statements 2.1–2.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+2.1 
+If the opposition division considers that the subject-matter of claim 1 lacks novelty 
+over D1, the opposition division may revoke EP-1 for lack of novelty of the 
+subject-matter of claim 1. 
+ 
+2.2 
+If the opposition division considers that the subject-matter of claim 2 lacks 
+inventive step over D2 in combination with D3, the opposition division may revoke 
+EP-1 for lack of inventive step of the subject-matter of claim 2 over D2 in 
+combination with D3. 
+ 
+2.3 
+If the opposition division considers that the subject-matter of claim 1 is not 
+sufficiently disclosed, the opposition division may revoke EP-1 because the 
+subject-matter of claim 1 is not disclosed in a manner sufficiently clear and 
+complete for it to be carried out by a person skilled in the art. 
+ 
+2022/P/EN
+Page 2 of 27
+ 
+ 
+2.4 
+After the opposition division has considered Theresa’s third-party observations, 
+the opposition division may revoke EP-1 based on lack of novelty of the subject-
+matter of claim 2.
+2022/P/EN
+Page 3 of 27
+ 
+ 
+Question 3 
+ 
+For each of the statements 3.1–3.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+A board of appeal … 
+ 
+3.1 
+… may decide in a three-member composition without a legally qualified member. 
+ 
+3.2 
+… may exercise any power within the competence of the department which was 
+responsible for the decision appealed. 
+ 
+3.3 
+… may remit a case to the department which was responsible for the decision 
+appealed for further prosecution. 
+ 
+3.4 
+... may base its decision on a fresh ground for opposition only submitted during 
+the appeal proceedings without the consent of the patentee. 
+2022/P/EN
+Page 4 of 27
+ 
+ 
+Question 4 
+  
+Company A has filed a European patent application EP-A with the EPO. Company B has 
+negotiated with Company A the transfer of European patent application EP-A to 
+Company B. 
+ 
+For each of the statements 4.1–4.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+4.1 
+It is possible to validly transfer EP-A from Company A to Company B only for the 
+designated contracting states FR and DE. 
+ 
+4.2 
+The transfer of EP-A may be recorded in the European Patent Register at the 
+request of Company B, upon production of documents providing evidence of such 
+transfer and payment of an administration fee. 
+ 
+4.3 
+The transfer of a European patent application becomes effective vis-à-vis the 
+EPO only when it is published in the European Patent Register. 
+ 
+4.4 
+The transfer of a European patent may be recorded in the European Patent 
+Register during the opposition period. 
+2022/P/EN
+Page 5 of 27
+ 
+ 
+Question 5 
+ 
+Roberto and Mario are Brazilian citizens living in São Paolo, Brazil. They are the 
+applicants for European patent application EP1, which has been filed today in 
+Portuguese together with a French translation. EP1 claims the priority of a previous 
+Brazilian application P1. 
+ 
+For each of the statements 5.1–5.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+5.1 
+Roberto and Mario are entitled to a reduction of the filing fee. 
+ 
+5.2 
+EP1 will be accorded by the EPOa filing date, only if the content of EP1 does not 
+extend beyond the content of P1 as originally filed. 
+ 
+5.3 
+If the French translation had not been filed in due time, EP1 would be deemed not 
+to have been filed. 
+ 
+5.4 
+If EP1 is assigned to a British company, the language of the proceedings may be 
+changed to English after registration of the transfer. 
+2022/P/EN
+Page 6 of 27
+ 
+ 
+Part 2 
+ 
+Question 6 
+ 
+Roberto and Mario are Brazilian citizens living in São Paolo, Brazil. They are the 
+applicants for European patent application EP1, which has been filed today in 
+Portuguese together with a French translation. EP1 claims the priority of a previous 
+Brazilian application P1. Starting from the same conditions as outlined above in 
+Question 5 and assuming now Assuming now that Roberto and Mario intend to file a 
+divisional application EP1-DIV relating to the pending patent application EP1, indicate 
+whether the following statements are true or false. 
+ 
+6.1  
+EP1-DIV may be validly filed with the EPO at the filing offices in Munich, The 
+Hague and Vienna. 
+ 
+6.2 
+EP1-DIV may be validly filed in Portuguese. 
+ 
+6.3 
+EP1-DIV may be validly filed in English. 
+ 
+6.4 
+EP1-DIV must be filed within 12 months from the filing date of EP1. 
+2022/P/EN
+Page 7 of 27
+ 
+ 
+Question 7 
+ 
+The dimethyl fumarate molecule (DMF) is known from the prior art in the following 
+respects: 
+Document D1 discloses DMF as a biocide for the treatment of clothing, shoes and 
+furniture against mould growth. 
+Document D2 concerns a patent which discloses DMF for the treatment of the skin 
+disease psoriasis and of multiple sclerosis. 
+The prior art does not disclose any further disease that can be treated with DMF. 
+ 
+For each of the statements 7.1–7.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+7.1  
+The subject-matter of the claim “DMF for use as a medicament” in a European 
+patent application filed today is novel over the above-mentioned prior art. 
+ 
+7.2  
+The subject-matter of the claim “DMF for use in the treatment of cancer” in a 
+European patent application filed today is novel over the above-mentioned prior 
+art. 
+ 
+7.3  
+The following claim wording is allowable in a European patent application filed 
+today: “Use of DMF for the manufacture of a medicament for the treatment of 
+cancer”. 
+ 
+7.4  
+The subject-matter of the claim “DMF for use in the treatment of skin diseases” in 
+a European patent application filed today is novel over the above-mentioned prior 
+art. 
+2022/P/EN
+Page 8 of 27
+ 
+ 
+Question 8 
+ 
+Jan, a US national and resident of living in the USA, filed an international application 
+PCT-J with the USPTO on 10 January 2022. On filing, Jan indicated the EPO as one of 
+the designated Offices. The EPO was immediately informed of its designation. 
+The USPTO charges the late payment fee for a delayed payment of the international 
+filing fee as allowed under the PCT. 
+ 
+For each of the statements 8.1–8.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+8.1 
+Jan must pay the international filing fee to the International Bureau. 
+ 
+8.2 
+If the international filing fee is not paid in due time, Jan can validly pay the 
+international filing fee together with the late payment fee within a time limit of one 
+month from the date of the invitation sent by the receiving Office. 
+ 
+8.3 
+A consequence of not paying the international filing fee with the late payment fee 
+within the prescribed time limit is that the USPTO will declare that PCT-J is 
+considered to be withdrawn. 
+ 
+8.4 
+A consequence of not paying the international filing fee with the late payment fee 
+within the prescribed time limit is that the USPTO will notify the EPO as the 
+designated Office that PCT-J is considered to be withdrawn. 
+2022/P/EN
+Page 9 of 27
+ 
+ 
+Question 9 
+ 
+For each of the statements 9.1–9.4, indicate on the answer sheet whether the statement 
+is true or false: 
+ 
+9.1 
+The EPO will accord a date of filing to a European patent application filed by an 
+identifiable applicant using EPO Form 1001, even if the description is filed in 
+Chinese. 
+ 
+9.2 
+If a request for grant is not filed on a form drawn up by the EPO, an application 
+filed together with that request will not be dealt with as a European patent 
+application. 
+ 
+9.3 
+If an international application contains no part which on the face of it appears to 
+be a claim or claims, a date of filing will not be accorded to that international 
+application. 
+ 
+9.4 
+A Japanese citizen resident in Japan may validly file a European patent 
+application without being represented by a professional representative. 
+2022/P/EN
+Page 10 of 27
+ 
+ 
+Question 10 
+ 
+A communication pursuant to Rule 71(3) EPC has been issued for a European patent 
+application. The applicant has fulfilled all the necessary requirements. The related 
+decision to grant a European patent has been despatched on the basis of the 
+documents (Druckexemplar) transmitted to the applicant with the communication under 
+Rule 71(3) EPC. The mention of the grant of the European patent has been published in 
+the European Patent Bulletin. 
+ 
+However, in the course of the preparation of the publication of the specification of this 
+European patent an error arose, whereby page 2 of the description is missing in the 
+published specification of this European patent. As a result of this error, the published 
+specification of this European patent as a whole does not disclose the claimed invention 
+in a manner sufficiently clear and complete for it to be carried out by a person skilled in 
+the art. 
+ 
+For each of the statements 10.1–10.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+10.1 This error in the published specification of this European patent may be corrected 
+at any time. 
+ 
+10.2 The European patent could be revoked on the basis of an opposition based on 
+the ground of Art. 100(b) EPC because in the published specification of this 
+European patent the invention without page 2 of the description is not disclosed in 
+a manner sufficiently clear and complete for it to be carried out by a person skilled 
+in the art. 
+ 
+10.3 If the language of the grant proceedings for this European patent was English, a 
+notice of opposition may be validly filed in German. 
+ 
+10.4 In order to request a transfer of the status of opponent to a different person during 
+opposition proceedings, it is sufficient to file a declaration including the names, 
+addresses and signatures of both the original opponent and the person wishing to 
+take over the status of opponent.
+2022/P/EN
+Page 11 of 27
+ 
+ 
+Part 3 
+ 
+Description of a European patent application 
+ 
+[001] It is generally known that yoga mats are used by athletes to perform yoga exer-
+cises. Yoga mats are thin, soft mats which are easily rolled and transported to allow the 
+athlete to use them in various locations. Once rolled out on the floor, a yoga mat has a 
+length of 1.5 to 2.2 metres and a width of 0.6 to 1.0 metres. Described herein is an im-
+proved yoga mat. 
+ 
+[002] In an embodiment, we provide a yoga mat with a first colour on a first face and a 
+different second colour on the second face. When the yoga mat is rolled out and in use, 
+the first face is in contact with the floor and the second face is in contact with the athlete. 
+This allows the athlete to always use the yoga mat such that the same face of the yoga 
+mat is in contact with the floor. 
+ 
+[003] In an embodiment, the first face of the yoga mat has a coating of material which 
+provides secure but reversible adhesion of the yoga mat onto the floor. Preferably, the 
+material is poly-X. The material covers 10 to 100% of the first face. 
+ 
+[004] In an embodiment, the yoga mat contains antibacterial material, such as e.g. silver 
+ions on the second face, so as to reduce the growth of bacteria. 
+ 
+[005] In an embodiment, the second face contains a material which reduces the genera-
+tion of sweat on the athlete’s body. We have found that poly-Y is a highly suitable mate-
+rial, since it provides improved reduction of sweat generation on the body of the athlete 
+while the athlete is in contact with the mat. Using our new special secret test protocol we 
+established a sweat reduction value (SRV) of 100 for yoga mats made of poly-Y. Higher 
+SRVs correspond to a higher level of sweat reduction. For yoga mats made of poly-X the 
+SRV is 84, and for yoga mats made of poly-Z the SRV is 93. In an embodiment of the in-
+vention the yoga mat has an SRV of 90 or more. 
+ 
+[006] In an embodiment, we provide the yoga mat with a very fashionable, fully organic 
+textile container made from slow-growing cotton.
+2022/P/EN
+Page 12 of 27
+ 
+ 
+Claims filed together with the above European patent application: 
+ 
+1. 
+Yoga mat having a first face and a second face. 
+2. 
+Yoga mat according to claim 1, wherein the first face and the second face are dis-
+tinguishable. 
+3. 
+Yoga mat according to claim 2, wherein the first face has a first colour and the 
+second face has a second colour different from the first colour. 
+4. 
+Yoga mat according to any of claims 1 to 3, wherein, in use, the first face is in 
+contact with the floor and the second face is in contact with the athlete. 
+5. 
+Yoga mat according to any of claims 1 to 4, wherein the first face has a coating of 
+material, said material providing secure but reversible adhesion of the mat onto 
+the floor. 
+6. 
+Yoga mat according to claim 5, wherein the material is poly-X. 
+7. 
+Yoga mat according to any of claims 1 to 6, wherein the second face contains an 
+antibacterial material. 
+8. 
+Yoga mat according to any of claims 1 to 6, wherein the second face of the yoga 
+mat contains silver ions. 
+9. 
+Yoga mat according to claim 6, wherein the material covers 10 to 100% of the first 
+face. 
+10. 
+Yoga mat according to any of claims 1 to 9, wherein the second face contains a 
+material, preferably poly-Y, wherein the material is such that upon contact with 
+the athlete’s body it reduces the generation of sweat on the athlete’s body. 
+11. 
+Textile bag for completely covering and for transporting yoga mats. 
+12. 
+The textile bag of claim 11, containing the yoga mat according to any of claims 1 
+to 10. 
+13. 
+The textile bag of claim 12, wherein the bag is made from fully organic material 
+which grows relatively slowly. 
+14. 
+Use of poly-Y in the production of yoga mats. 
+ 
+2022/P/EN
+Page 13 of 27
+ 
+ 
+Assume in the following that documents D1, D2, D3, and D4 are prior art in accordance 
+with Art. 54(1) and (2) EPC: 
+ 
+D1: 
+This document discloses a yoga mat. Before use, the athlete rolls out the yoga 
+mat onto the floor. Then, the athlete steps on it to perform exercises. After use, 
+the athlete rolls up the yoga mat and places it in a bag made from plastic or cot-
+ton, in order to transport it from one location to another. The yoga mat is very 
+easy to transport, because it is made entirely of poly-Y, a very light, synthetic ma-
+terial. 
+ 
+D2: 
+This document discloses a yoga mat containing the material poly-Z on at least 
+one face of the mat. Poly-Z has the following advantage: upon contact with the 
+athlete’s body it reduces the generation of sweat on the athlete’s body. Advanta-
+geously, in a preferred embodiment, one face of the yoga mat is partially coated 
+with a layer of poly-X. This material provides a strong adhesion of the yoga mat 
+onto the floor while the athlete performs exercises. After use, the mat can be eas-
+ily removed from the floor. 
+ 
+D3: 
+Many athletes mark their yoga mats (e.g. by writing their names on one of the 
+faces) to clearly distinguish the first face of the mat, which is in contact with the 
+athlete, and the second face, which remains in contact with the floor. 
+ 
+D4: 
+Silver ions are used as antibacterial materials in many textiles (such as clothes, 
+carpets) and on polymer material used for covering the floor of gymnastic halls. 
+Antibacterial materials have the effect that they prevent or at least reduce the 
+growth of bacteria. Such an effect is only to be found in very special metal materi-
+als such as silver ions or copper ions. 
+2022/P/EN
+Page 14 of 27
+ 
+ 
+Question 11 
+ 
+For each of statements 11.1–11.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+11.1 A yoga mat consisting of poly-X is covered by the scope of claim 7. 
+ 
+11.2 The material of claim 5 is defined by means of a functional feature. 
+ 
+11.3 The features of claim 11 imply a limitation of the dimensions of the textile bag. 
+ 
+11.4 The subject-matter of claim 13 lacks clarity. 
+ 
+ 
+ 
+ 
+Question 12 
+ 
+For each of statements 12.1–12.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+12.1 The subject-matter of claim 2 is novel over D3. 
+ 
+12.2 A valid argument that the subject-matter of claim 4 is novel over D3 is that in D3 
+the first face is the face that is in contact with the athlete. 
+ 
+12.3  A valid argument that the subject-matter of claim 6 is novel over D2 is that in D2 
+the yoga mat is only partially coated with a layer of poly-X. 
+ 
+12.4 The subject-matter of claim 8 is novel over each of D1, D2, D3 and D4. 
+2022/P/EN
+Page 15 of 27
+ 
+ 
+Question 13 
+ 
+For each of statements 13.1–13.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+13.1 The subject-matter of claim 10 is novel over D1. 
+ 
+13.2 The subject-matter of claim 10 is novel over D2. 
+ 
+13.3 The present application indicates that a yoga mat made of poly-Y is more effec-
+tive than a yoga mat made of poly-X or poly-Z in reducing sweat generation on 
+the body of the athlete while the athlete is in contact with the yoga mat. 
+ 
+13.4 The subject-matter of claim 13 is novel over D2. 
+2022/P/EN
+Page 16 of 27
+ 
+ 
+Question 14 
+ 
+For each of statements 14.1–14.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+14.1 A modified single claim 1 which reads “Yoga mat having a first face and a second 
+face, wherein the yoga mat has an SRV of 90 or more.” would be allowable under 
+Article 123(2) EPC. 
+ 
+14.2 A modified single claim 1 which reads “Yoga mat having a first face and a second 
+face, wherein the yoga mat has an SRV of 90 or more.” would be clear under Arti-
+cle 84 EPC. 
+ 
+14.3 A modified single claim 1 which reads “Yoga mat having a first face and a second 
+face, wherein the first face has a coating of poly-X, the poly-X covering 100% of 
+the first face.” would be allowable under Article 123(2) EPC. 
+ 
+14.4 A modified single claim 1 which reads “Yoga mat having a first face and a second 
+face, wherein the first face and the second face contain silver ions.” would be al-
+lowable under Article 123(2) EPC. 
+2022/P/EN
+Page 17 of 27
+ 
+ 
+Question 15 
+ 
+For each of statements 15.1–15.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+15.1 In D2 and in the present application the material poly-X has essentially the same 
+purpose. 
+ 
+15.2 The additional features defined in claim 8, whereby the second face of the yoga 
+mat contains silver ions, has the technical effect of reducing bacteria growth. 
+ 
+15.3 The subject-matter of claim 13 solves the objective technical problem of providing 
+an organic, sustainable yoga mat with respect to D1 as closest prior art. 
+ 
+15.4 The subject-matter of claim 14 is novel over D1. 
+ 
+2022/P/EN
+Page 18 of 27
+ 
+ 
+Part 4 
+ 
+Description of a second European patent application 
+ 
+[001] The present invention aims at preserving wine (or other alcoholic beverages like 
+beer or other beverages having 10 vol.% alcohol or more) that remains in a bottle once 
+the bottle has been opened but not all the wine in the bottle has been consumed. Oxy-
+gen from the air that remains in the bottle, in the space between the wine level and the 
+opening of the bottle (the so-called “headspace”), causes oxidation of the wine. The oxi-
+dation of the wine renders the wine unpleasant in taste. 
+ 
+[002] A device for preserving wine is known from D11. This device consists of a hand-
+actuated vacuum pump that is used to remove air (and therefore also oxygen) from the 
+headspace of the opened bottle. A disadvantage of this device is that the volatile aroma 
+substances included in the wine are also removed by the pumping process. Another dis-
+advantage is that many hand actuations are necessary to remove sufficient air from the 
+headspace. 
+ 
+[003] The present invention provides a device that instead of creating a vacuum simply 
+replaces air (and therefore also oxygen) in the headspace with another gas comprising 
+less oxygen than air. A preferred other gas is an inert gas. This is achieved by injecting 
+the other gas (e.g. the inert gas) into the headspace. The injected gas pushes the air out 
+of the headspace. 
+ 
+[004] By inert gas we mean a gas that does not undergo any chemical reaction with the 
+volatile aroma substances included in the wine. Examples of inert gases are carbon di-
+oxide, nitrogen and argon. Argon is the most preferred inert gas, because it is heavier 
+than oxygen and heavier than air, so that a layer of argon creates a “gas cap” on top of 
+the wine level. Even a very small volume of argon is sufficient to create the gas cap and 
+prevent the oxidation processes. 
+ 
+ 
+2022/P/EN
+Page 19 of 27
+ 
+ 
+Claims filed together with the second European patent application: 
+ 
+II.1. 
+Method for preserving wine in a bottle, wherein the composition of a gas in the 
+headspace of the bottle is modified. 
+ 
+II.2. 
+Method for preserving an alcoholic beverage in a bottle, wherein the amount of 
+oxygen in the headspace of the bottle is reduced. 
+ 
+II.3. 
+Method for preserving an alcoholic beverage according to claim II.2, wherein an 
+inert gas is injected directly into the headspace of the bottle. 
+ 
+II.4. 
+Method for preserving an alcoholic beverage according to claim II.3, wherein the 
+inert gas is carbon dioxide. 
+ 
+II.5. 
+Method for preserving an alcoholic beverage according to claim II.3 or II.4, 
+wherein the inert gas is exclusively nitrogen. 
+ 
+II.6. 
+Method for preserving an alcoholic beverage according to claim II.3, wherein the 
+inert gas is a mixture of carbon dioxide with nitrogen or with argon. 
+ 
+II.7. 
+Method for preserving an alcoholic beverage according to claim II.3, wherein the 
+inert gas is argon. 
+ 
+II.8. 
+Method for preserving an alcoholic beverage according to claim II.5, wherein the 
+alcoholic beverage is wine and the wine is contained in an opened bottle. 
+ 
+II.9. 
+Method for preserving an alcoholic beverage according to claim II.7, wherein the 
+alcoholic beverage is wine and the wine is contained in an opened bottle.
+2022/P/EN
+Page 20 of 27
+ 
+ 
+Assume in the following that documents D11, D12, and D13 are prior art in accordance 
+with Art. 54(1) and (2) EPC: 
+ 
+Document D11 
+ 
+[001] This document discloses a vacuum pump that is used to extract air or oxygen from 
+an opened bottle in order to preserve the wine contained in the opened bottle. 
+ 
+[002] The principle is very simple. The opened bottle is closed with a water-tight and air-
+tight reusable stopper. The stopper is easily applied onto the neck of the bottle to her-
+metically seal the opening of the bottle. The stopper can be easily removed again from 
+the bottle by hand. The stopper has a one-way valve through which air and oxygen from 
+within the bottle can be extracted using a vacuum pump. In this way the quality of the 
+wine in the opened bottle can be preserved for many days.
+2022/P/EN
+Page 21 of 27
+ 
+ 
+Document D12 
+ 
+[001] Devices for household use are known for introducing carbon dioxide into water. 
+Carbon dioxide is a gas that is contained in a pressurized capsule within the device. 
+Once carbon dioxide is released into water, the gas and the water undergo a chemical 
+reaction to provide carbonic acid, which gives water pleasant taste and fizz. With the 
+help of such devices sparkling water can be prepared inexpensively from tap water. 
+ 
+[002] We have now found that the same devices can be used to inject the carbon diox-
+ide into wine. When carbon dioxide is injected into wine, a similar chemical reaction oc-
+curs as when carbon dioxide is added to water. Thereby a pleasant fizz is added to the 
+wine. We have additionally noted that a part of the injected carbon dioxide reaches the 
+headspace of the bottle and pushes the air (and therefore also oxygen) contained 
+therein out of the headspace of the bottle. Moreover, we found that wine can be better 
+preserved when carbon dioxide is injected therein.
+2022/P/EN
+Page 22 of 27
+ 
+ 
+Document D13 
+ 
+[001] This document discloses an industrial method for preserving liquids. It is known 
+that fish oil is easily spoiled by oxygen upon storage. The method consists of injecting 
+nitrogen into the headspace of a bottle filled with fish oil before closing the bottle and 
+transporting such bottles to the various points of sale. 
+ 
+[002] It is known by the skilled person that nitrogen is lighter than oxygen. Therefore, the 
+nitrogen must be injected just above the level of the fish oil within the bottle. Nitrogen 
+evacuates through the opening of the bottle, but some oxygen is removed as well. After 
+injecting a volume of nitrogen equal to 20 times of the volume of the headspace into the 
+headspace of the bottle, virtually no oxygen can be traced in the headspace of the bot-
+tle. 
+ 
+[003] Clearly, this method can be applied to many types of liquid, such as perfumes and 
+beer.
+2022/P/EN
+Page 23 of 27
+ 
+ 
+Question 16 
+ 
+For each of statements 16.1–16.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+16.1 D13 destroys the novelty of the subject-matter of claim II.1. 
+ 
+16.2 D12 destroys the novelty of the subject-matter of claim II.1. 
+ 
+16.3 D11 destroys the novelty of the subject-matter of claim II.2. 
+ 
+16.4 D12 destroys the novelty of the subject-matter of claim II.2. 
+ 
+ 
+ 
+ 
+Question 17 
+ 
+For each of statements 17.1–17.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+17.1 D11 destroys the novelty of the subject-matter of claim II.3. 
+ 
+17.2 D12 describes that wine can have a chemical reaction with a gas. 
+ 
+17.3 D12 destroys the novelty of the subject-matter of claim II.4. 
+ 
+17.4 D13 destroys the novelty of the subject-matter of claim II.5. 
+2022/P/EN
+Page 24 of 27
+ 
+ 
+Question 18 
+ 
+For each of statements 18.1–18.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+18.1 The EPO may issue a communication under Rule 62a EPC in the search phase 
+for the present set of claims. 
+ 
+18.2 The subject-matter of claim II.5 is clear. 
+ 
+18.3 The presence of an inert gas is described in the application documents as an es-
+sential feature. 
+ 
+18.4 The subject-matter of claim II.6 can be introduced into the description without 
+contravening Article 123(2) EPC. 
+2022/P/EN
+Page 25 of 27
+ 
+ 
+Question 19 
+ 
+For each of statements 19.1–19.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+19.1 Amending claim II.7 to recite “Method for preserving an alcoholic beverage ac-
+cording to claim II.3, wherein the inert gas is a noble gas” would not be allowable 
+under Article 123(2) EPC. 
+ 
+19.2 Although argon is described as the most preferred inert gas, deleting all refer-
+ences to argon from the claims would be allowable under Article 123(2) EPC. 
+ 
+19.3 Amending claim II.3 to recite “Method for preserving an alcoholic beverage ac-
+cording to claim II.2, wherein an inert gas is directly injected into the headspace of 
+the bottle to create a gas cap on top of the wine level” would be allowable under 
+Article 123(2) EPC. 
+ 
+19.4 Amending claim II.2 to recite “Method for preserving an alcoholic beverage having 
+10 vol.% alcohol or more, wherein the amount of oxygen in the headspace of the 
+bottle is reduced” would be allowable under Article 123 (2) EPC.
+2022/P/EN
+Page 26 of 27
+ 
+ 
+Question 20 
+ 
+Assume in the following that inventive step has to be assessed in respect of claim II.9. 
+ 
+For each of statements 20.1–20.4, indicate on the answer sheet whether it is true or 
+false: 
+ 
+20.1 One valid argument as to why D11 is not the closest prior art is that D11 does not 
+require the addition of gas. 
+ 
+20.2 If D12 is selected as the closest prior art, a possible objective technical problem 
+can be formulated as how to preserve an alcoholic beverage by injecting an inert 
+gas directly into the headspace of the bottle. 
+ 
+20.3 One valid argument as to why D13 is not the closest prior art is that D13 deals 
+only with the preservation of fish oil. 
+ 
+20.4 Assuming that D13 is considered to be the closest prior art, an objective technical 
+problem to be solved may be regarded as how to reduce the amount of gas re-
+quired to remove air from above the wine level. 
+2022/P/EN
+Page 27 of 27

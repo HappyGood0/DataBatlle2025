@@ -1,0 +1,133 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2023
+Paper D2
+This paper comprises:
+Part II: Legal Opinion 
+Questions 1-3 (45 points)
+2023/D/EN
+0-1
+[001] Today (7 March 2023) you received the following letter.
+[002] We, Whiter, are a manufacturer of nappies based in Sweden. We develop nappies for 
+newborns who have to be hospitalised. The health of such newborns has to be checked 
+frequently and one way to do so is by analysing their urine. We produce and sell our nappies 
+in Europe, China and the USA.
+[003] Nappies that indicate the presence of urine with a visual indicator on the  nappy have 
+been known for a long time. They are disclosed, for example, in a journal article published in 
+March 2016 describing a nappy with a strip of paper on the nappy’s outer part that changes 
+colour when the nappy gets wet. This type of indicator has a major drawback: it is necessary to
+look at the nappy and thus remove the newborn’s clothes to see if urine is present.
+[004] We have been doing some research and come up with the idea of using a control unit 
+(abbreviated “CU”) and electrodes (abbreviated “E”) to detect the presence of urine. When 
+urine is present, an acoustic signal is generated to warn someone taking care of the newborn 
+wearing the nappy. The acoustic signal remedies the above drawback.
+[005] When doing this research, a member of our team remembered the “Handbook of Urine 
+Detection”, which was published in May 2017 and discloses nappies comprising an electronic 
+visual indicator, a control unit and electrodes to detect the presence of urine. The handbook 
+teaches that the detection of the presence of urine can be achieved with electrodes made of 
+any conductive material. The examples in the handbook show electrodes made of conductive 
+plastic. Albeit electronic, this indicator is still visual, and therefore it is still necessary to remove
+the baby’s clothes to see if urine is present.
+2023/D/EN/7
+[006] Our research also revealed that a nappy with a control unit, besides merely detecting the
+presence of urine, can surprisingly also be used to directly analyse the urine on the nappy by 
+means of specific electrodes. In this way, the newborn’s health can be checked more 
+efficiently.
+[007] Based on our research, on 8 September 2020 we filed European application EP-WA, 
+which discloses and claims a nappy comprising acoustic warning means, a control unit and 
+electrodes made of metal for detecting the presence of urine (abbreviated “CU-Em-sound”).
+[008] On the same day we also filed European application EP-WB, which discloses and 
+claims:
+━
+in independent claim 1, a nappy comprising a control unit and specific electrodes G made 
+of conductive plastic (abbreviated “CU-EG”), wherein the control unit and the electrodes 
+are configured to measure glucose in the urine, and
+━
+in independent claim 2, a nappy comprising a control unit and specific electrodes P made 
+of conductive plastic (abbreviated “CU-EP”), wherein the control unit and the electrodes 
+are configured to measure the pH of the urine.
+Such specific electrodes belong to the state of the art, but have previously been used only in 
+the food industry.
+[009] Both applications were filed using EPO Form 1001 without claiming priority. They were 
+searched by the EPO.
+[010] For EP-WA the search report only cites documents in category A, including the above-
+mentioned handbook. The examination and designation fees for EP-WA were paid.
+2023/D/EN/8
+[011] The EPO found that EP-WB lacked unity. We did not pay any additional search fee and, 
+upon entering the examination phase, we restricted EP-WB to the first invention, i.e. CU-EG. 
+The renewal fee for EP-WB was paid in August 2022. The Rule 71(3) communication was 
+issued for EP-WB, and we replied to it on 28 February 2023 by paying the prescribed fees and
+by filing the translations of claim 1 as filed.
+[012] For about a year, we have been producing and selling nappies comprising acoustic 
+warning means, a control unit and electrodes made of gold (a known metal) for detecting the 
+presence of urine. 
+[013] We have also realised that the second aspect of EP-WB is worth pursuing. Therefore 
+yesterday we filed European divisional application EP-WDIV, directed to a nappy comprising a 
+control unit and the electrodes P made of conductive plastic for measuring the pH of the urine. 
+We have not paid any of the required fees for this divisional application yet, but we plan to pay 
+them tomorrow. When preparing this letter for you, we realised that we made a mistake by 
+indicating EP-WA as the parent application in the EPO Form 1001 for EP-WDIV.
+[014] As we progressed with our research, we filed European application EP-WC on 
+6 May 2022, without claiming priority. The description of EP-WC discloses, in a first aspect, a 
+nappy which transmits a signal to a baby phone when urine is present. In this way, someone 
+taking care of the baby is warned that the nappy is wet. In a second aspect, independent from 
+the first, the description of EP-WC discloses a nappy in which the absorbent comprises 
+substance X. Substance X has been known for decades as an absorbent, but it has never 
+been used in nappies, and it is surprisingly efficient at neutralising the odour of the urine. EP-
+WC contains only one claim, which is directed to a nappy comprising a transmitter for sending 
+a signal to a baby phone, a control unit and electrodes made of metal for detecting the 
+presence of urine (abbreviated “CU-Em-transmit”). Last month we received the search report 
+for EP-WC, which cites only documents in category A.
+2023/D/EN/9
+[015] We are soon going to change our production line by replacing the acoustic warning 
+means with transmitters. We are confident that nappies which transmit signals to baby phones 
+improve the quality of the newborns’ sleep and therefore will be much more appreciated by our
+customers than the ones emitting the acoustic signal.
+[016] Our competitor Zuma is planning to launch a new line of nappies in the US market next 
+month that neutralise urine odours and in which the absorbent comprises substance X. This 
+was announced on its website last week. 
+[017] Researching our competitor’s activities, we discovered European application EP-Z, which
+was filed by Zuma on 14 January 2019 claiming priority from its US application US-Z. The 
+latter was filed on 15 January 2018 and then abandoned. Application EP-Z discloses and 
+claims a nappy comprising a control unit and electrodes made of metal for detecting the 
+presence of urine (abbreviated “CU-Em”). The only metals mentioned in EP-Z are copper and 
+platinum.
+[018] The European search report for EP-Z was published in July 2019. It cites European 
+application EP-Y, which was filed in November 2016, published in May 2018 and withdrawn 
+after publication. EP-Y discloses and claims a nappy comprising an electronic visual indicator, 
+a control unit and electrodes made of silver (a known metal) for detecting the presence of 
+urine.
+[019] We inspected the file of EP-Z and noticed that a patent was granted with a single claim 
+directed to a nappy comprising a control unit and electrodes made of metal for detecting the 
+presence of urine, wherein the electrodes are not made of silver. The mention of the grant of 
+the patent was published on 17 August 2022. Furthermore, we have noticed that US-Z 
+discloses a nappy comprising a control unit and electrodes made of a conductive material for 
+detecting the presence of urine, and that the only exemplary embodiment in US-Z concerns 
+electrodes made of conductive plastic.
+2023/D/EN/10
+Questions:
+1) Analyse the patent situation for the following subject-matter:
+(a) nappies comprising a control unit and electrodes made of metal for detecting the 
+presence of urine (CU-Em),
+(b) nappies comprising acoustic warning means, a control unit and electrodes made of 
+metal for detecting the presence of urine (CU-Em-sound),
+(c) nappies comprising a control unit and the electrodes G for measuring glucose in the 
+urine (CU-EG),
+(d) nappies comprising a control unit and the electrodes P for measuring the pH of the 
+urine (CU-EP),
+(e) nappies comprising a transmitter for sending a signal to a baby phone, a control unit 
+and electrodes made of metal for detecting the presence of urine (CU-Em-transmit),
+(f) nappies in which the absorbent comprises substance X.
+2) As the situation currently stands
+(a) is Zuma free to produce and sell nappies that neutralise urine odours and in which the 
+absorbent comprises substance X, and
+(b) are we free to produce and sell:
+━nappies comprising acoustic warning means, a control unit and electrodes made of 
+gold for detecting the presence of urine (CU-E(Au)-sound),
+━nappies comprising a transmitter for sending a signal to a baby phone, a control unit 
+and electrodes made of gold for detecting the presence of urine (CU-E(Au)-transmit),
+━nappies comprising a control unit and the electrodes G for measuring glucose in the 
+urine (CU-EG), and
+━nappies comprising a control unit and the electrodes P for measuring the pH of the 
+urine (CU-EP)?
+3) What can we do to improve our rights and position?
+2023/D/EN/11

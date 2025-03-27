@@ -1,0 +1,162 @@
+EXAMINERS’ REPORT PRE-EXAMINATION 2018 
+ 
+ 
+Question 1 
+ 
+Under Article 123(2) EPC, it is not allowable to add matter to a European 
+patent present only in the priority document for that patent, Guidelines,  
+H-IV 2.2.5. [Note that there is an exception under Rule 56(3) EPC]. 
+Intermediate generalisations may be allowable under specific circumstances, 
+see Guidelines, H-V 3.2.1. The abstract may not be taken into account for any 
+purpose other than for technical information, Article 85 EPC. Subject-matter 
+present only in claims filed after the date of filing (as is the case for claims 
+filed in reply to a communication under Rule 58 in conjunction with Rule 57(c) 
+EPC) goes beyond the subject-matter of the application as filed (description 
+and drawings), see also Guidelines, H-IV 2.2.3. 
+ 
+1.1 – False 
+1.2 – False 
+1.3 – False 
+1.4 – False  
+ 
+ 
+Question 2 
+ 
+If Daniela ignores the invitation, then any reference to the drawings will be 
+deemed to be deleted, Rule 56(4)(a) EPC (the legal consequence is not that 
+the application is deemed to be withdrawn). If the missing drawings are filed 
+within two months of the notification of that communication [22 February + 10 
+days (4 March 2018) + 2 months], i.e. 4 May 2018 (Rule 56(1) EPC, 
+Rule 126(2) EPC, Rule 131(4) EPC) the application shall be re-dated to the 
+date on which the missing drawings were filed, Rule 56(2) EPC. According to 
+Rule 135(2) EPC, further processing is ruled out in respect of the period under 
+Rule 56(2) EPC. An applicant may file missing parts of the description or 
+Page 1 of 18
+missing drawings of his own motion within two months of the date of filing, 
+Rule 56(2) EPC and Guidelines, A-II 5.2.  
+ 
+2.1 – False 
+2.2 – True 
+2.3 – False 
+2.4 – True 
+ 
+ 
+Question 3 
+ 
+The validity of the priority right as such is not a ground for opposition, since it 
+is not mentioned in Article 100 EPC. If the priority of EP-A is not valid, then 
+the effective date of EP-A in accordance with Article 89 EPC is the filing date 
+of EP-A (29 February 2016). In such a case, FR-B is state of the art according 
+to Article 54(2) EPC, and it can be used to attack novelty (and inventive step) 
+of EP-A. The national application FR-B can only be prior art under 
+Article 54(2) EPC and not under Article 54(3) EPC. Lack of novelty and lack of 
+sufficiency of disclosure are separate grounds for opposition, Article 100 EPC. 
+Moreover, the objection of lack of sufficiency of disclosure was raised after the 
+expiration of the opposition period (see G10/91 and Guidelines, D-V, 2.2). 
+Thus, the objection of lack of sufficiency is considered to be a fresh ground for 
+opposition. 
+ 
+3.1 – True 
+3.2 – True 
+3.3 – False 
+3.4 – True 
+
+Question 6 
+ 
+Where no priority is claimed, the translation of an international application has 
+to be supplied within thirty-one months from the date of filing, i.e. sometime in 
+March 2018. If the translation is not filed in due time, the European patent 
+application is deemed to be withdrawn (Rule 160(1) and (2) EPC), and further 
+processing can be requested, Article 121(1) EPC and Rule 135(1) EPC. In 
+proceedings before the EPO, Juana must be represented by a professional 
+representative, Article 133(2) EPC. Juana is not entitled to a reduction of the 
+examination fee, since she is neither resident in nor a national of a contracting 
+state of the EPC, Rule 6(4) EPC and Article 14(4) EPC.  
+ 
+6.1 – False 
+6.2 – True 
+6.3 – True 
+6.4 – False  
+Page 4 of 18
+Question 7 
+ 
+Any infringement of a European patent is dealt with by national law, 
+Article 64(3) EPC. A patent gives the patent proprietor the right to exclude 
+third parties from using the protected invention: it does not automatically allow 
+the patent proprietor to produce and sell matter that is protected by the patent. 
+The obligation to pay renewal fees to the EPO terminates in 2017, with the 
+payment of the renewal fee due in respect of the year in which the mention of 
+the grant of the European patent is published in the European Patent Bulletin, 
+Article 86(2) EPC.  
+ 
+7.1 - False 
+7.2 - False 
+7.3 - False 
+7.4 - True 
+ 
+ 
+Question 8 
+ 
+The EPO has acted as the International Searching Authority. The EPO will, 
+among others, invite the applicant to amend the description and claims in 
+accordance with Rule 161(1) EPC soon after Euro-PCT-M enters the 
+European phase. Any amendment or comment can be filed within six months 
+of that communication. If in the application documents which are to serve as 
+the basis of the examination an invention is claimed that was not searched by 
+the EPO as the International Searching authority, the applicant will be invited 
+to pay further search fees in respect of any such invention, Rule 164(2)(a) 
+EPC. The present set of claims includes at present 35 claims, and therefore 
+claims fees are due in accordance with Rule 162(1) EPC: however, the legal 
+consequence of not paying claims fees for some claims is that these claims 
+shall be deemed to be abandoned, Rule 162 (4) EPC. The application is not  
+ 
+ 
+Page 5 of 18
+deemed to be withdrawn, if the applicant fails to comment today, since he may 
+do so within the period set in accordance with Rule 161(1) EPC.  
+ 
+8.1 - True 
+8.2 - True 
+8.3 - False 
+8.4 - False 
+ 
+ 
+Question 9  
+ 
+The statement setting out the grounds for the appeal must be filed at the latest 
+on 16 April 2018 [6 December 2017 + 10 days (Rule 126(2) EPC) + 4 months 
+(Article 108 EPC and Rule 131(4) EPC) = 16 April 2018]. An application is 
+pending if it was refused and if no appeal has yet been filed until the expiry of 
+the time limit for filing the notice of appeal [6 December 2017 + 10 days 
+(Rule 126(2) EPC) + 2 months (Article 108 EPC and Rule 131(4) EPC) = 
+16 February 2018], see also G1/09. An interlocutory revision is never possible 
+on the basis of an auxiliary request, even if it would overcome the grounds for 
+refusal, Guidelines, E-XI, 7.4.3. If interlocutory revision is to be granted, the 
+applicant must address convincingly all grounds for refusal, i.e. novelty over 
+D1 and inventive step over D2.  
+ 
+9.1 – False 
+9.2 – True 
+9.3 – False 
+9.4 – False 
+ 
+ 
+Question 10 
+ 
+A decision (such as a decision to refuse a patent application) may not be 
+based on facts and evidence (such as a new document) on which the 
+applicant did not have the opportunity to be heard, Article 113(1) EPC and 
+Page 6 of 18
+G4/92. The examining division can exercise the discretion not to admit 
+requests filed during prosecution of the application, such as after summons to 
+oral proceedings have been issued. However, the discretion is exercised 
+under Rule 137(3) EPC (see also Guidelines, H-II, 2.7.1), since the time frame 
+for filing amendments in respect of EP-S under Rule 116(1) and (2) EPC was 
+still open. The examining division may hold oral proceedings in the absence of 
+the party duly summoned, Rule 115(2) EPC. The examining division has three 
+technically qualified examiners, Article 18(2) EPC.  
+ 
+10.1 – False 
+10.2 – False 
+10.3 – True  
+10.4 – False  

@@ -1,0 +1,129 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2024
+Paper D2
+This paper comprises:
+Part II: Legal Opinion
+Questions 1-4 (45 marks)
+[001] Today is 5 March 2024. Our company Xeracno, based in Switzerland, is engaged in 
+the business of spider silk, a material used to manufacture high-tech textile fabrics. 
+Mr Wool is the director of the R&D department and in charge of IP matters there. Smart 
+SA is a patent law firm representing us before the EPO.
+[002] Harvesting spider silk on farms is beset with considerable difficulties in view of the 
+spiders' innate cannibalistic instinct: when raised under standard conditions, farmed 
+spiders kill and eat each other, and very little silk can be harvested. Disclosed more than 
+20 years ago, a first workaround for the problem of spider cannibalism was to raise spiders
+in a controlled atmosphere containing acetylene. However, acetylene is a highly 
+inflammable gas, and its use on spider farms is so dangerous that it has been forbidden.
+[003] An improved solution to the above-mentioned problem of cannibalism was more 
+recently provided by our competitor Prosilk. On 16 January 2019, Prosilk filed European 
+patent application EP-P1 without claiming any priority. In the description of EP-P1, it is 
+explained that the cannibalistic instinct of spiders of the species Aranea aurata (hereinafter
+AA) is inhibited by CO2 and that acetylene and CO2 are completely different gases, e.g. in 
+that CO2 is not inflammable and there are no safety restrictions on its use on spider farms. 
+However, a high concentration of CO2 also has a negative effect on the spiders' overall silk
+production in that the farm's harvest yield increases up to a maximum and then decreases 
+as a function of the concentration of CO2. This is exemplified in the description of EP-P1, 
+which discloses an example of the claimed method where the maximum harvest yield is 
+achieved at 6% CO2, and a comparative example, in which the concentration of CO2 is at 
+16%, where the resulting harvest yield is significantly lower than at any CO2 concentration 
+within the claimed range. EP-P1 claims a method for harvesting spider silk, said method 
+comprising raising spiders of the species AA in an atmosphere containing 3% to 9% CO2.
+[004] Prosilk conducted more research and found that the above-mentioned effects of CO2
+on spiders are not specific to AA, but are similar for all spider species. On 14 January 
+2020 Prosilk filed another European patent application, namely EP-P2, claiming priority 
+from EP-P1. The description of EP-P2 contains EP-P1 in its entirety and further teaches 
+that the method of EP-P1 can be used with any other spider species and over a broader 
+range of CO2 concentrations. The description of EP-P2 discloses a method for harvesting 
+spider silk, said method comprising raising spiders in an atmosphere containing from 3% 
+to 13% CO2. EP-P2 has a single claim directed to:
+
+a method for harvesting spider silk, said method comprising raising spiders in an 
+atmosphere containing from 3% to 13% CO2.
+[005] Prosilk's research later identified the species Aranea fortis (hereinafter AF), whose 
+harvest yield reaches a maximum at 19% CO2, thereby enabling methods with much 
+higher CO2 concentrations and therefore better repression of cannibalism. On 15 May 
+2020 Prosilk filed a further European patent application, namely EP-P3, claiming priority 
+from EP-P2. The description of EP-P3 contains EP-P2 in its entirety and additionally 
+discloses a method for harvesting spider silk comprising raising spiders in an atmosphere 
+containing from 3% to 26% CO2. It further includes an exemplary embodiment of the 
+species AF with its maximum harvest yield at 19% CO2. EP-P3 has a single claim directed 
+to:
+
+a method for harvesting spider silk, said method comprising raising spiders in an 
+atmosphere containing from 3% to 26% CO2.
+[006] EP-P1 was withdrawn after publication. EP-P2 was granted without any amendment 
+and the mention of the grant was published on 2 August 2023; since then renewal fees 
+have been paid in Germany and in Switzerland only. EP-P3 is pending.
+[007] After EP-P1 and EP-P2 were published, we conducted some additional research 
+with spiders. We found that spiders of the AA species surprisingly show a further improved
+silk production when raised in an atmosphere containing from 3% to 26% CO2 and from 
+1% to 2% of nitrogen protoxide (N2O). N2O is a gas with no safety restrictions. On 
+15 February 2021, Smart SA therefore filed a European patent application, namely EP-
+AA+, in the name of Xeracno, which discloses and claims:
+
+in claim 1, a method for harvesting spider silk, said method comprising raising 
+spiders AA in an atmosphere containing from 3% to 26% CO2, and from 1% to 2% N2O;
+
+in claim 2, dependent on claim 1, said method wherein the CO2 concentration is 
+16%.
+[008] In parallel, we identified another method for harvesting spiders’ silk that surprisingly 
+increases the spiders’ lifespan. This method comprises feeding spiders with tiger 
+mosquitos. On 14 April 2021, Smart SA filed a PCT patent application in English, namely 
+PCT-TM+, in the name of Xeracno at the EPO as receiving office. It discloses and claims:
+
+in claim 1, a method for harvesting spider silk, said method comprising feeding 
+spiders with tiger mosquitos;
+
+in independent claim 2, the spider silk obtained by the method of claim 1.
+[009] In accordance with our instructions of September 2023, Smart SA took the steps 
+required for a valid national phase entry in the United States of America only. A notification
+of loss of rights was sent to us on 14 December 2023 in relation to the missed deadline for
+entry into the Euro-PCT regional phase. On 4 March 2024, Mr Wool realised that his 
+internal instructions of 19 December 2023 to forward the notification of loss of rights to 
+Smart SA and to instruct them to additionally enter the Euro-PCT regional phase had not 
+been carried out, despite all due care having been taken.  
+[010] Also on 4 March 2024, i.e. yesterday, Mr Wool called Smart SA to enquire about the 
+situation. In addition, he wanted to know why this notification had been sent to Xeracno in 
+the first place since Smart SA had received all the communications during the international
+phase. He also asked Smart SA to get in touch with the EPO as soon as possible because
+Xeracno would definitely want to enter the European phase with PCT-TM+.
+[011] EP-AA+ is still pending. Since 2022, we have been harvesting spider silk by raising 
+AA spiders in an atmosphere containing CO2 at an optimum concentration of 16% and 1% 
+N2O on our main farm in Spiez, Switzerland.
+[012] Since September 2023, Prosilk has been harvesting spider silk on several farms in 
+Europe, including a main farm in Germany, by raising spiders of the species AF in an 
+atmosphere containing 19% CO2.
+[013] We are now harvesting spider silk on our new farm in Colorado (USA), where 
+AA spiders are raised in an atmosphere containing CO2 at a concentration of 8% and are 
+fed with tiger mosquitos. We are also planning to use the same harvesting method at a 
+farm in Turkey in the near future, in order to better serve eastern and southern European 
+countries.
+[014] Meanwhile, one of our employees has been approached by Prosilk to join them and 
+launch a new farm in Bosnia-Herzegovina, where spider silk will be harvested by raising 
+spiders of the species AF in an atmosphere containing 19% CO2, and feeding them with 
+tiger mosquitos. 
+1.
+Outline the patent situation as it currently stands for the claims of the following: 
+(a) EP-P2
+(b) EP-P3
+(c) EP-AA+
+(d) PCT-TM+
+2.
+What can Xeracno do to improve its patent portfolio in order to prevent Prosilk from 
+harvesting spider silk in Germany and Bosnia-Herzegovina and selling silk in 
+Europe?
+3.
+In view of patent EP-P2, can Prosilk prevent Xeracno from freely
+(a) harvesting spider silk in Spiez, Switzerland?
+(b) harvesting spider silk in Turkey?
+(c) harvesting spider silk in Colorado (USA)?
+(d) importing the spider silk harvested in Turkey or Colorado into Switzerland and 
+selling it there?
+4.
+In view of pending patent application EP-P3, can Xeracno expect Prosilk to prevent 
+them from freely
+(a) harvesting spider silk in Spiez, Switzerland?
+(b) harvesting spider silk in Turkey?
+(c) harvesting spider silk in Colorado (USA)?
+(d) importing the spider silk harvested in Turkey or Colorado into Switzerland and 
+selling it there?

@@ -1,0 +1,224 @@
+/* ROOT VARIABLES */
+:root {
+    --primary-color: #004080;
+    --secondary-color: #FFD700;
+    --background-color: #f9f9f9;
+    --light-color: #fff;
+    --dark-bg: #121212;
+    --dark-text: #ddd;
+    --correct: #28a745;
+    --wrong: #dc3545;
+  }
+  
+  /* BASE STYLE */
+  body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: var(--background-color);
+    color: #222;
+    overflow-x: hidden;
+  }
+
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 3rem;
+    background: var(--primary-color);
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .logo {
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  .toggle-mode {
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    background: rgba(255,255,255,0.1);
+    border-radius: 20px;
+    transition: background 0.3s ease;
+  }
+  
+  .toggle-mode:hover {
+    background: rgba(255,255,255,0.2);
+  }
+  
+  /* QUIZ CONTAINER */
+  .quiz-container {
+    max-width: 850px;
+    margin: 6rem auto 4rem;
+    padding: 3rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    text-align: center;
+    position: relative;
+  }
+  
+  .quiz-container h2 {
+    color: var(--primary-color);
+    margin-bottom: 2rem;
+    font-size: 2.4rem;
+    animation: fadeInDown 0.6s;
+  }
+  
+  /* PROGRESS BAR */
+  .progress {
+    height: 12px;
+    background: #ddd;
+    border-radius: 50px;
+    margin-bottom: 2rem;
+    overflow: hidden;
+  }
+  
+  #progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #FFD700, #FFA500);
+    width: 0%;
+    transition: width 0.8s ease;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.7);
+  }
+  
+  /* QUESTION */
+  .question-box h3 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+  }
+  
+  .question {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+
+  .hide{
+    display: none;
+  }
+  
+  /* OPTIONS */
+  .options {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .options li {
+    display: flex;
+    margin: 1rem 0;
+  }
+  
+  .options button {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .options button:hover {
+    background: #0066cc;
+    transform: scale(1.03);
+  }
+  
+  /* NEXT BUTTON */
+  .button {
+    padding: 0.9rem 2rem;
+    background: var(--secondary-color);
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 1rem;
+  }
+  
+  .button:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+  }
+  
+  /* FOOTER */
+  footer {
+    text-align: center;
+    padding: 1.5rem;
+    background: #eee;
+    margin-top: 4rem;
+  }
+  
+  /* DARK MODE */
+  .dark-mode {
+    background: var(--dark-bg);
+    color: var(--dark-text);
+  }
+  
+  .dark-mode .main-header {
+    background: #1e1e1e;
+  }
+  
+  .dark-mode .quiz-container {
+    background: #222;
+    color: var(--dark-text);
+  }
+  
+  .dark-mode .options button {
+    background: #333;
+  }
+  
+  .dark-mode .options button:hover {
+    background: #444;
+  }
+  
+  .dark-mode .next-btn {
+    background: var(--secondary-color);
+    color: #222;
+  }
+  
+  .dark-mode footer {
+    background: #1e1e1e;
+    color: var(--dark-text);
+  }
+  
+  /* ANIMATIONS */
+  @keyframes fadeInDown {
+    0% {opacity: 0; transform: translateY(-20px);}
+    100% {opacity: 1; transform: translateY(0);}
+  }
+  
+  /* RESPONSIVE */
+  @media(max-width: 768px){
+    .quiz-container {
+      padding: 2rem;
+      margin: 4rem 1rem;
+    }
+    .main-header {
+      flex-direction: column;
+      gap: 0.8rem;
+      text-align: center;
+    }
+    .logo {
+      font-size: 1.5rem;
+    }
+    .toggle-mode {
+      padding: 0.4rem 0.8rem;
+    }
+    .options button {
+      font-size: 0.95rem;
+    }
+  }
+  

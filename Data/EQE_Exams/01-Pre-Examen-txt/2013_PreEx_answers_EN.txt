@@ -1,0 +1,194 @@
+
+ 
+Preliminary remark: the references from the Guidelines are from the version of the 
+Guidelines which was to be used in the present examination. 
+ 
+ 
+Question 1 
+ 
+The first application disclosing subject-matter X is EP-1, filed on 12 January 2012. 
+The first application disclosing subject-matter Y is US-1 filed on 6 September 2012. 
+US-1 is not the first application within the meaning of Article 87(4) EPC for subject-
+matter X: consequently, it is not possible to validly claim priority from US-1 for 
+subject-matter X. EP-2 was filed within the priority period of twelve months from the 
+date of filing of both EP1 and US1, Article 87(1) EPC.  
+ 
+If in EP-2 priority is claimed only from EP-1, the effective date of claim 1 is 
+12 January 2012.  
+If in EP-2 priority is claimed only from EP-1, the effective date of claim 2 is the date 
+of filing of EP-2, 20 December 2012.  
+If in EP-2 priority is claimed only from US-1, the effective date of claim 1 is the date 
+of filing of EP-2, 20 December 2012: US-1 is not the first application.  
+If in EP-2 priority is claimed only from US-1, the effective date of claim 2 is 
+6 September 2012.   
+ 
+1.1 - True 
+1.2 - False 
+1.3 - False 
+1.4 - False 
+ 
+ 
+Question 2 
+ 
+The renewal fee for the coming year (the third year in the case of EP-Z) is due on 
+the last day of the month containing the anniversary of the date of filing, i.e. 
+30 April 2013, Article 86(1) EPC and Rule 51(1) EPC. The renewal fee with an 
+additional fee may still be paid within six months of the due date, Rule 51(2) EPC. 
+Further processing for paying a renewal fee is excluded by the provisions of 
+Article 121(4) EPC and Rule 135(2) EPC. Renewal fees may not be validly paid 
+more than three months before they fall due, Rule 51(1) EPC, second sentence. 
+ 
+2.1 - True  
+2.2 - True 
+2.3 - False 
+2.4 - False 
+ 
+ 
+ 
+ 
+- 2 -
+Question 3 
+ 
+Regarding EP-A, the period for paying the additional search fee is two months and 
+the fees must be paid at the latest by 22 April 2013 [11 February 2013 + 10 days 
+(=21 February 2013) + 2 months (=21 April 2013), extended to Monday 22 
+April 2013], Rule 64(1) EPC, Rule 126(2) EPC, Rule 131(4) EPC and Rule 
+134(1) EPC. 
+Regarding PCT-B, the period for paying the additional fee is one month and the 
+fees must be paid at the latest on 11 March 2013, Rule 40.1(ii) PCT and 
+Rule 80.2 PCT. The PCT provisions do not have the so-called "10-day-rule". 
+ 
+3.1 - True  
+3.2 - False  
+3.3 - False  
+3.4 - True  
+ 
+ 
+Question 4 
+ 
+The priority period expires on 28 February 2013 [29 February 2012 + 12 months 
+(=28 February 2013)], Article 87(1) EPC and Rule 131(4) EPC. The priority 
+declaration must be made at the latest by 1 July 2013 [29 February 2012 + 
+16 months (=29 June 2013), extended to Monday 1 July 2013], Rule 52(2) EPC, 
+Rule 131(4) EPC and Rule 134(1) EPC. In order to validly claim priority, EP-II must 
+be in respect of the same invention as EP-I, Article 87(1) EPC. According to the 
+same provision, not only the applicant of EP-I can validly claim priority from EP-I: 
+the successor in title as well as any person to whom the right to claim priority from 
+EP-I was validly transferred can validly claim priority from EP-I.     
+ 
+4.1 - False  
+4.2 - True  
+4.3 - True  
+4.4 - False  
+ 
+ 
+Question 5 
+ 
+The European divisional application EP-D must be filed with the European Patent 
+Office in Berlin, Munich or The Hague (Rule 36(2) EPC, third sentence, as entered 
+into force on 1 April 2010). Irrespective of whether EP-P was filed in an official 
+language of the EPO or in another language, the language of the proceedings of 
+EP-P and EP-D has to be the same (Rule 36(2) EPC, first and second sentence, 
+as entered into force on 1 April 2010). Renewal fees were already due for EP-P for 
+at least the third and fourth year: these renewal fees are also due for EP-D, 
+Rule 51(3) EPC. In view of decision G1/09, in the case where no appeal is filed, a 
+European patent application which has been refused by a decision of an Examining 
+division is still pending within the meaning of Rule 36(1) EPC during the period for 
+filing a notice of appeal. Thus, it is not necessary to file an appeal to render the 
+application pending so as to validly file a European divisional application. The 
+twenty-four months time limit –triggered by the first communication under 
+Article 94(3) EPC in respect of EP-P according to Rule 36(1)(a) EPC as entered 
+ 
+ 
+ 
+- 3 -
+into force on 26 October 2010– for filing a divisional application to EP-P is still 
+running. 
+ 
+5.1 - True  
+5.2 - True  
+5.3 - False  
+5.4 - True  
+ 
+ 
+Question 6 
+ 
+The provisions of Article 14(2) EPC, second sentence, apply also to Euro-PCT 
+applications in view of Article 153(2) EPC. The applicant of PCT-1 may bring the 
+English translation into conformity with the application documents of the 
+international application PCT-1 as originally filed.    
+In this context it is irrelevant whether the correction is immediately evident from the 
+English translation. Corrections cannot be derived from the priority document, 
+Guidelines, H-VI, 4.2.1. (The provisions of Rule 56(3) EPC do not apply here.) 
+ 
+6.1 - False  
+6.2 - True  
+6.3 - False  
+6.4 - False 
+ 
+ 
+Question 7 
+ 
+To file an admissible opposition, it is not required to file copies of D1 and D2 
+together with the notice of opposition, Rule 83 EPC (see also Guidelines D-IV 
+1.2.2.1 (v), last two paragraphs). An opposition against patent EP-X could have 
+been filed at the latest on 18 February 2012 [16 May 2012 + 9 months 
+(=16 February 2013), extended to Monday, 18 February 2013], Article 99(1) EPC, 
+Rule 131(4) EPC and Rule 134(1) EPC. The translation of the notice of opposition 
+shall be filed within one month of filing the notice of opposition: therefore it was 
+filed in time, Article 14(4) EPC and Rule 6(2) EPC. The Portuguese citizen resident 
+in Portugal need not be represented in opposition proceedings, Article 133(2) EPC. 
+ 
+7.1 - False  
+7.2 - True   
+7.3 - True  
+7.4 - False  
+ 
+ 
+ 
+ 
+- 4 -
+Question 8 
+ 
+Amendments to PCT-Q must be based on the application documents as originally 
+filed, Article 123(2) EPC: It is not allowable to add matter only present in the priority 
+document (Guidelines, H-IV, 2.3.5), in the abstract (Article 85 EPC) or in a set of 
+claim modified in the course of the proceedings.  
+ 
+8.1 - False 
+8.2 - False  
+8.3 - False  
+8.4 - True  
+ 
+ 
+Question 9 
+ 
+Lack of clarity is not a valid ground for opposition, Article 100 EPC. Everything 
+made available to the public, for instance by use or by selling, before the date of 
+filing of EP-G constitutes state of the art within the meaning of Article 54(2) EPC for 
+EP-G. It is irrelevant who put product Z on the market. A possible way to have 
+patent EP-G revoked is to oppose it for lack of novelty using product Z as prior art. 
+ 
+9.1 - True  
+9.2 - False  
+9.3 - True  
+9.4 - False  
+ 
+ 
+Question 10 
+ 
+The appealable decision is the written reasoned decision received on 
+25 February 2013, Rule 111(2) EPC: the period of two months for filing an appeal 
+is computed from the notification of the decision and not from the announcement of 
+the decision at oral proceedings. Following the provisions of Article 108 EPC, the 
+statement setting out the grounds of appeal or possibly amendments may be filed 
+after the notice of appeal but within four months of the notification of the decision. 
+The examining division shall rectify its decision if it finds the appeal to be 
+admissible and well-founded, Article 109(1) EPC. If the board of appeal sets aside 
+the decision of the examining division, reimbursement of appeal fees occurs only if 
+it is equitable in view of a substantial procedural violation, Rule 103(1)a) EPC. 
+ 
+10.1 - False  
+10.2 - False  
+10.3 - True  
+10.4 - False  

@@ -1,0 +1,387 @@
+EXAMINERS’ REPORT -  PRE-EXAMINATION 2019 
+QUESTION 1  
+Since you can comply today with the requirements of Rule 40(1)(a), (b) and (c) EPC [i.e. 
+providing an indication that a European patent is sought; providing your own or Pietro’s 
+contact details; and filing the description of IT-P or a reference to it], the date of filing will 
+be 25 February 2019 (Guidelines, A-II 4.1). 
+For validly claiming the priority, Gianna must have transferred the priority right to Pietro 
+(and Pietro must be the successor in title) before the filing date of EP-P, Article 87(1) EPC 
+and Guidelines, A-III, 6.1(ii). 
+A European patent application may be filed in any language, Article 14(2) EPC. 
+Being a national of the Contracting State Italy and being a natural person, Pietro is entitled 
+to a reduction of the filing fees, Rule 6(3) and (4)(b) EPC and Article 14(4) EPC.  
+1.1 – TRUE  
+1.2 – FALSE 
+1.3 – TRUE 
+1.4 – FALSE  
+ 
+QUESTION 2  
+The representative is allowed to make oral submissions, Article 133(2) EPC, see also 
+Guidelines, E-III, 8.5 and G4/95. 
+Submissions by a person who is not qualified under Article 133 and 134 EPC cannot be 
+made as of right: among others, the request should be filed sufficiently in advance of the 
+oral proceedings. Thus, as a general rule, neither Jane nor Pedro will be allowed to speak. 
+Sarah would be allowed to make submissions in Portuguese for instance, if the parties and 
+the European patent office agree to use this language (Rule 4(4) EPC), or if the patent 
+proprietor provides for interpretation into the language of proceedings (Rule 4(1) EPC).  
+2.1 – TRUE  
+2.2 – FALSE 
+2.3 – FALSE 
+2.4 – TRUE  
+1 of 14
+ 
+QUESTION 3  
+Since a favourable written opinion was established, a communication under Rule 71(3) 
+EPC can be expected as the first communication of the examining division. 
+The renewal fee for the third year is due on 31 January 2020 according to Rule 51(1) EPC. 
+If a renewal fee becomes due before the next possible date for publication of the mention 
+of the grant of the European patent, the decision to grant is not issued and the mention of 
+the grant is not published until the renewal fee has been paid, Rule 71a (4) EPC, 
+Guidelines, C-V, 2. Decision to grant and publication of the mention of the grant may take 
+several months after fulfillment of the requirements of R. 71(5) EPC. Thus, also the 
+renewal fees are due when you fulfil all the requirements of Rule 71(5) EPC on 31 January 
+2020. 
+The consent of the wrongly designated person (Alina) is required, Rule 21(1) EPC. 
+The PCT does not provide for an international application (PCT-Z) to be deemed to be 
+withdrawn, once a patent is granted on the basis of the priority application (EP-Z). 
+3.1 – TRUE 
+3.2 – FALSE 
+3.3 – FALSE 
+3.4 – FALSE 
+ 
+QUESTION 4  
+A translation of the description must be filed in one of the official languages within the 
+period of two months, Article 14(2) EPC, Rule 6(1) EPC and Guidelines, A-VII, 1.1. 
+If the search fee is not paid within one month of the filing of European patent application, 
+the application will be deemed to be withdrawn, Rule 38(1) EPC and Article 78(2) EPC. 
+The time limit under Rule 38(1) EPC is not ruled out for further processing (Article 121(1) 
+and (4) EPC and Rule 135(2) EPC). Consequently, Didier can validly pay the search fee 
+provided he requests further processing. 
+If Didier does not file claims in accordance with Rule 57(c) and Rule 58 EPC, then Didier 
+cannot validly request further processing, since it is ruled out under Rule 135(2) EPC, see 
+also Guidelines, A-III, 15. 
+ 
+ 
+2 of 14
+To validly file a European patent application, Didier can file a reference to a previously filed 
+application, wherein the reference contains (i) the filing date of the previous application, (ii) 
+the file number of the previous application, (iii) the office where the previous application 
+was filed and (iv) an indication that this reference replaces the description and any 
+drawings, Rule 40(1)(c) EPC and Guidelines, A-II, 4.1.3.1.  
+4.1 – TRUE 
+4.2 – TRUE 
+4.3 – FALSE 
+4.4 – TRUE  
+ 
+QUESTION 5  
+There are no nationality or residence restrictions for filing a European patent application 
+with the EPO, Article 58 EPC. 
+The EPO is the receiving Office competent for applicant Werner, who has his residence 
+within one of the Contracting States (Germany), Article 151 EPC, Rule 157(1) EPC and 
+Rule 19.1(a) PCT. If there are two (or more) applicants, the requirements of Rule 19.1 
+PCT regarding where to file are satisfied if the international application is filed with the 
+competent receiving office of at least one of the applicants, Rule 19.2(i) PCT. 
+A PCT application can be validly filed before the International Bureau (IB) whatever the 
+nationality or residence of the applicant, Rule 19.1(iii) and Rule 19.2 (ii) PCT. 
+Only the IB can record the residence change upon the applicant’s request, Rule 
+92bis.1.(a) (i)PCT.  
+5.1– TRUE 
+5.2 – TRUE 
+5.3 – TRUE 
+5.4 – FALSE  
+ 
+ 
+3 of 14
+QUESTION 6  
+According to Article 71 EPC, a European patent application can be transferred for one or 
+more designated Contracting States (two or more applicants may be designating different 
+Contracting States, see also Article 59 EPC). 
+For recording the assignment, Rule 143(1)(w) EPC, the EPO requires the submission of a 
+request (R. 22(1) EPC), the payment of an administrative fee (Rule 22(2) EPC) and also 
+documents providing evidence of the transfer (Rule 22(1) EPC), for example an 
+assignment made in writing and signed by Company A and Company B (Art. 72 EPC, 
+Guidelines E-XIV, 3). 
+The transfer is effective vis-à-vis the EPO as soon as the documents providing evidence of 
+the transfer have been produced, Rule 22(3) EPC. 
+A European patent can validly be transferred and the transfer can be recorded even during 
+opposition proceedings, Rule 85 EPC in conjunction with Rule 22 EPC.  
+6.1 – TRUE 
+6.2 – FALSE 
+6.3 – FALSE 
+6.4 – TRUE  
+ 
+QUESTION 7  
+The right to the European patent belongs to the applicant who has filed the European 
+patent application with the earliest effective date (i.e. 7.1 is True) provided that the 
+European patent application is published, Article 60(2) EPC (i.e. 7.2 is False). 
+During proceedings before the European Patent Office, the applicant is deemed to be 
+entitled to exercise the right to a European patent, Article 60(3) EPC. 
+In the case that EP-X was published after the filing date of EP-Y, EP-X could not be cited 
+as prior art in evaluating the inventive step of EP-Y, but only for assessing novelty under 
+Article 54(3) EPC.  
+7.1 – TRUE 
+7.2 – FALSE 
+7.3 – FALSE 
+7.4 – FALSE  
+4 of 14
+QUESTION 8  
+If a period of one month is set for replying to the notification relating to PCT-S, then the 
+time limit expires on 28 February [31 January 2019 + 1 month (=28 February 2019)], Rule 
+80.2 PCT. 
+If a period of two months is set for replying to the notification relating to PCT-S, then the 
+time limit expires on 1 April 2019 [31 January 2019 + 2 month (=31 March 2019), extended 
+to 1 April 2019], Rule 80.2 PCT and Rule 80.5 PCT. The PCT provisions do not have the 
+so-called “ten-day-rule”, see for instance Rule 80.6 PCT. 
+The notification relating to EP-S is deemed to be delivered on Sunday, 10 February 2019, 
+[31 January 2019 +10 days (=10 February 2019)], Rule 126(2) EPC. 
+If a period of four months is set for replying to the notification relating to EP-S, then the 
+time limit expires on 11 June 2019 , [31 January 2019 +10 days (=10 February 2019)] + 4 
+months (=10 June 2019), extended to 11 June 2019], Rule 126(2) EPC, Rule 131(4) EPC 
+and Rule 134(1) EPC.  
+8.1 – FALSE 
+8.2 – FALSE 
+8.3 – TRUE 
+8.4 – FALSE  
+ 
+QUESTION 9  
+The examination fee for a European patent application is refunded in full, if the European 
+patent application is withdrawn before the Examining Division has assumed responsibility, 
+Article 11(a) Rfees (i.e. 9.1 is True), and it is refunded in part, if the application is 
+withdrawn before expiry of the time limit for replying to the first invitation under Article 
+94(3) EPC, Article 11(b) Rfees (i.e. 9.3 is True). 
+Two weeks after the receipt of the invitation will be certainly within the period set in Rule 
+11(b) Rfees. 
+There is no provision for refunding (a part of) the opposition fee. 
+ 
+ 
+5 of 14
+The appeal fee is refunded in full if the appeal is withdrawn before the filing of the 
+statement of grounds of appeal and before the period for filing that statement has expired, 
+Rule 103(1)(b) EPC.  
+9.1 – TRUE 
+9.2 – FALSE 
+9.3 – TRUE  
+9.4 – TRUE  
+ 
+QUESTION 10  
+Third party observations can be filed at any stage of the proceedings before the EPO (after 
+publication of a European patent application), Article 115 EPC. Third party observations 
+can be filed also during opposition proceedings, Guidelines, D-X 4.5). 
+Theresa is not party to the proceedings, Article 115 EPC, second sentence: thus, she will 
+not be summoned to oral proceedings. 
+In the case of the national prior right D3, the European patent EP-H may contain claims for 
+Germany which are different from those for the other designated States, Rule 138 EPC. 
+If Hans does not file a copy of D1 with the notice of opposition, he will be invited by the 
+EPO to file this document in due time, Rule 83 EPC: if the document is not filed, the 
+opposition division may decide not to take into account any arguments based on that 
+document.  
+10.1 – TRUE 
+10.2 – FALSE 
+10.3 –TRUE 
+10.4 – FALSE 
+ 
+QUESTION 11  
+Claim I.5 relates back to claim I.2 only. The first layer and the second layer are clearly 
+defined.  
+Claim I.4 relates back to any one of claims I.1 to I.3: there is no clear definition on what the 
+first layer can be or contain when claim I.4 is dependent on claim I.1 and on claim I.2 
+6 of 14
+Claim I.8 contains no clear definition on what the first layer and second layer contains. 
+Claim I.9 is limited to consist of three layers, i.e. a tablet comprising four layers does not 
+fall under the scope of claim I.9. 
+11.1 – FALSE 
+11.2 – FALSE 
+11.3 – FALSE 
+11.4 – FALSE  
+ 
+QUESTION 12  
+The first embodiment of D1 does not disclose a first and a second layer. This embodiment 
+does not destroy the novelty of the subject-matter of claim I.2.  
+The second embodiment of D1 is a tablet which includes bleaches and detergents (see 
+first sentence of D1) and contains a first layer and a second layer (see last sentence). This 
+embodiment destroys the novelty of the subject-matter of claim I.2.  
+Claim I.3, when dependent on claim I.2 relates to a tablet comprising one or more 
+bleaches and one or more detergents, comprising a first layer and a second layer, wherein 
+the first layer comprises a detergent. The first embodiment of D1 does not disclose a 
+second layer. This embodiment does not destroy the novelty of the subject-matter of claim 
+I.3, when dependent on claim I.2.  
+D1, second embodiment, discloses only a first layer and a second layer but no third layer: 
+D1 does not destroy the novelty of the subject-matter of claim I.7 
+12.1 – FALSE  
+12.2 – TRUE  
+12.3 – FALSE 
+12.4 – FALSE 
+ 
+QUESTION 13  
+D2 discloses a tablet (first sentence) comprising detergent, builder and bleach, and a first, 
+a second and a third layer, wherein all layers comprise builder (third sentence). Therefore, 
+claim I.8 is not novel over D2. (Note: claim I.8 being dependent on claims I.6, I.2, and I.1 
+7 of 14
+does not define the ingredients of the various layers, apart from the so-called third layer, 
+which includes one or more builders).  
+D2 discloses a tablet (first sentence) comprising one or more bleaches (a bleach in D2, 
+third sentence) and one or more detergents (a detergent in D2, third sentence), wherein 
+the tablet contains two separate layers and a third layer (see third sentence). Therefore, 
+claim I.7 is not novel over D2.  
+D2 discloses a tablet comprising two or more layers, wherein the tablet comprises one or 
+more bleaches (a bleach in the first layer of the tablet of D2) and one or more detergents 
+(a detergent in the second layer of D2), wherein the first layer comprises one detergent 
+(the second layer of D2 is considered as the first layer according to claim I.3). Therefore, 
+claim I.3 is not novel over D2.  
+D2 discloses a tablet including two or more layers, wherein the tablet comprises one or 
+more bleaches (a bleach in the first layer of the tablet of D2) and one or more detergents 
+(a detergent in the second layer of D2), wherein the second layer comprises one bleach 
+(the first layer of D2 is considered as the second layer according to claim I.4). Therefore, 
+claim I.4 is not novel over D2.  
+13.1 –FALSE 
+13.2 – FALSE 
+13.3 – FALSE 
+13.4 – FALSE  
+ 
+QUESTION 14  
+Basis for the amendment in 14.1 is the description part b) i). 
+Basis for the amendment in 14.2 is the description on part b) ii).  
+Basis for the amendment in 14.3 is the description part d). The value 5% is explicitly 
+disclosed as an endpoint of the range.  
+ 
+ 
+8 of 14
+There is in the application as filed no direct and unambiguous disclosure to which layer the 
+colorant is added and no basis for deleting the builders.  
+14.1 – TRUE 
+14.2 – TRUE  
+14.3 – TRUE 
+14.4 – FALSE 
+ 
+QUESTION 15  
+The closest prior art is that which in one single reference discloses the combination of 
+features which constitutes the most promising starting point for a development leading to 
+the invention, Guidelines, G-VII, 5.1. It need not disclose exactly the same technical 
+problem addressed in the application (and not solved by the subject-matter of claim II.1). 
+D2 teaches the bleach in a first layer and the detergent in a second layer. 
+D2 neither deals with the stability of bleach (i.e. 15.3 is True), nor does it mention to 
+separate the layer containing the detergent from the layer containing the bleach by aid of a 
+third layer (i.e. 15.4 is True).  
+15.1 – FALSE  
+15.2 – FALSE  
+15.3 – TRUE 
+15.4 – TRUE  
+ 
+QUESTION 16  
+The norm XYZ mesh size is indicated for the support grid 3 which is an optional feature 
+(see paragraphs [004] and [006]), and therefore the mesh size is not described as being 
+essential in the description.  
+The problem is to strengthen holes and the solution is to employ reinforcing inserts for the 
+holes in the composite structure, consequently the presence of at least one hole is an 
+essential feature in the description (see paragraphs [002]-[003]).  
+Carbon fibre is a preferred material for the composite fibre. Therefore it is not described as 
+an essential feature in the description (see paragraph [005]).  
+9 of 14
+The problem is to strengthen holes, and the solution is to employ reinforcing inserts for the 
+holes in the composite structure (see paragraphs [002]-[003]). Consequently the presence 
+of at least one reinforcing insert is an essential feature in the description (see paragraph 
+[003]).  
+16.1 – FALSE 
+16.2 – TRUE 
+16.3 – FALSE 
+16.4 – TRUE  
+ 
+QUESTION 17:  
+Claim III.2 does not specify that holes pass through the reinforcing inserts. It is not clear 
+from claim III.2 that the reinforcing inserts strengthen the holes. The features as indicated 
+in claim III.2 are not enough for solving the technical problem.  
+Claim III.1 does not exclude the presence of a support grid (whatever material it is made 
+of) due to the presence of the term “comprising”. 
+The value of 50 plies of fibre-reinforced composite material lies in the range defined in 
+claim III.8.  
+There is no direct and unambiguous basis in the application as filed to amend claim III.8 
+for replacing the range by the specific value of 50 (Guidelines G-VI, 8 and H-V, 3.2).  
+17.1 – FALSE 
+17.2 – TRUE 
+17.3 – TRUE 
+17.4 – FALSE  
+ 
+QUESTION 18:  
+D12 discloses a composite structure ((20) in Figure 3, [002]) comprising a stack (23) of 
+plies of fibre-reinforced composite material, and one or more reinforcing inserts (21) and 
+one or more holes (22). Thus, the subject matter of claim III.2 is not novel over D12. 
+D11 discloses a composite structure ((10) in Figure 2, [002]) comprising a stack(13) of 
+plies of fibre-reinforced composite material , and a support grid (12) which has a norm XYZ 
+10 of 14
+mesh size between 0.5 and 1500 (D11 discloses the range 0.7-2000 and the end-point 
+value 0.7 destroys the novelty of the range claimed in III.5, see Guidelines, G-VI, 8 (ii) (b)). 
+Thus, the subject-matter of claim III.5 is not novel over D11. 
+D11 discloses a composite structure ((10) in Figure 2, [002]) comprising a stack (13) of 
+plies of fibre-reinforced composite material, and a support grid (12). However D11 does 
+not disclose the norm XYZ mesh size of the support grid (12) between 100 and 150. The 
+selected sub-range is narrow compared to the known range, and sufficiently far removed 
+from any specific values disclosed in the prior art, see Guidelines, G-VI, 8 (ii) (a) and (b). 
+Thus, the subject matter of claim III.6 is novel over D11. 
+D12 discloses a composite structure ((20) in Figure 3, [002]) comprising a stack (23) 
+having 10 to 100 plies of fibre-reinforced composite material (The range 5 – 90 is 
+disclosed in D12 and the end-point value 90 destroys the novelty of the range claimed in 
+III.8, see Guidelines, G-VI, 8 (ii) (b)). Thus, the subject matter of claim III.8 is not novel 
+over D12. 
+ 
+18.1 – FALSE 
+18.2 – FALSE 
+18.3 – TRUE 
+18.4 – FALSE  
+ 
+QUESTION 19:  
+Claim A.1 results from the combination of claims 1 to 4 as originally filed, and the feature 
+of paragraph [003] last sentence. Claim A.2 is based on the combination of claims 5 and 6 
+as originally filed. Therefore, the statements 19.1 and 19.2 are True. 
+However, there is a potential difference in scope between the wording in the description 
+(e.g. paragraph [003] last sentence) and the wording of claim A.1 (“pass through” vs. 
+“extending through”) in the English version. Also there may be valid counter-arguments in 
+view of an un-allowed intermediate generalization. For this reason it was exceptionally 
+decided to award marks for both answers, True and False, for the statements 19.1 and 
+19.2. 
+D12 discloses a composite structure ((20) in Figure 3, [002]) comprising:  
+- a stack (23) of plies of fibre-reinforced composite material,  
+11 of 14
+- one or more reinforcing inserts (21) and  
+- one or more holes (22) extending through the reinforcing inserts (see paragraph [002] 
+and Figure 3),but D12 does not disclose a support grid joined to the reinforcing inserts 
+being the characterizing portion of claim A.1.  
+D12 is directed to strengthen holes for receiving the fastening elements (last sentence of 
+paragraph [001] of D12). The purpose is the same as that of the invention (Guidelines G-
+VII, 5.1).  
+19.1 – TRUE or FALSE 
+19.2 – TRUE or FALSE 
+19.3 – TRUE 
+19.4 – TRUE 
+ 
+QUESTION 20:  
+D11 discloses in paragraph [002] a composite structure comprising a stack (10) of plies of 
+fibre-reinforced composite material and a support grid. It is mentioned that this composite 
+structure (10) is stronger than a structure without a support grid. Since the stack of plies is 
+stronger, the plies of fibre-reinforced composite material are strengthened using a support 
+grid. 
+D11 just discloses a support grid in a composite structure but no reinforcing inserts. D12 
+just discloses reinforcing inserts but no support grid. There is no hint in D11 or D12 that a 
+reinforcing insert and a support grid could be joined together.  
+Although the range as claimed in A.2 falls within the range of D11, D11 does not disclose 
+the norm XYZ mesh size of the support grid (12) between 100 and 150. The selected sub-
+range is narrow compared to the known range, and sufficiently far removed from any 
+specific values disclosed in the prior art. Further, the selected range is not an arbitrary 
+specimen of the prior art but a purposive selection (see application, paragraph [007], see 
+also Guidelines, G-VI, 8 (ii) (a), (b) and (c)). Hence, the range of claim A.2 is novel over 
+either D11 and D12. Further, it provides the surprising effect of improving the fastening 
+strength considerably (paragraph [007]) and contributes, together with the features of 
+claim A.1, to a combined effect of further improving the strengthening. Thus, the range of 
+claim A.2 contributes to an inventive step. This feature would contribute to patentability 
+over a combination of D11 and D12 and provides a valid argument for novelty and 
+inventive step. 
+ 
+ 
+12 of 14
+Due to the above arguments, the features of claims A.1 and A.2 taken together are not 
+only a juxtaposition of features but do have a combined technical effect 
+20.1 – FALSE 
+20.2 – TRUE 
+20.3 – FALSE 
+20.4 – FALSE  
+13 of 14
+14 of 14

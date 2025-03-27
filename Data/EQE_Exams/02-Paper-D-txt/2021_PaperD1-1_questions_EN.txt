@@ -1,0 +1,55 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2021
+Paper D1-1
+This paper comprises:
+• Question 1:     9    marks
+• Question 2:     8    marks
+• Question 6:     8    marks
+2021/D1-1/EN
+0-1
+Part I: Legal Questions
+QUESTION 1 
+  
+    (9 MARKS)
+European patent application EP-A1 was filed in 2018 by applicant A in English. It 
+describes two different inventions, X and Y, and claims invention X only. The European 
+search report was drawn up for invention X only. 
+A communication pursuant to Article 94(3) EPC setting out a time limit of four months 
+was issued by the EPO on 5 October 2020 and received by applicant A on 8 October 
+2020. No response has been filed.
+Applicant A is now interested in invention Y.
+In January 2021, he filed a European divisional application EP-A2 based on EP-A1, 
+claiming and describing invention Y. EP-A2 was filed in French.
+What should applicant A do to have invention Y searched by the EPO?
+2021/D1-1/EN/1
+QUESTION 2 
+ 
+     (8 MARKS)
+On 2 August 2018, applicant B filed US application US-B in English. Despite all due care
+being taken by applicant B, international application PCT-B claiming priority from US-B 
+was only filed on 9 August 2019. The USPTO, acting as receiving Office, granted the 
+applicant’s request for restoration of the right of priority based on the criterion that the 
+failure to file PCT-B within the priority period was unintentional. 
+Today, 2 March 2021, applicant B took all of the steps required under Rule 159 EPC to 
+enter PCT-B into the European phase before the EPO.
+Does applicant B need to take action before the EPO as designated Office to ensure 
+that the restoration of the right of priority is effective in the European phase? If so, what 
+steps are required and when do they need to be taken by?
+2021/D1-1/EN/2
+QUESTION 6 
+     (8 MARKS)
+European patent EP-F was granted with a single claim reading "A food composition 
+comprising 1 to 5% meat". The description of EP-F discloses a food composition 
+comprising 1 to 5% beef meat.
+The patent proprietor F has become aware of a German national patent 
+application DE-G having an earlier effective date and published after the effective date 
+of EP-F. DE-G discloses a food composition comprising 3% of meat, wherein the meat 
+is pork.
+The proprietor F would like to amend EP-F before the EPO in respect of Germany only 
+and proposes a claim for Germany reading "A food composition comprising 1 to 5% beef
+meat".
+The proprietor is looking for your advice.
+1. What procedural steps have to be taken before the EPO to request amendment of 
+the claim in respect of Germany?
+2. Will the EPO hold allowable a request with the claim proposed by the proprietor ?
+2021/D1-1/EN/3

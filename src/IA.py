@@ -85,12 +85,12 @@ async def generate_quiz_from_chunks():
             print(f"⛔ Chunk {i:03} est vide, ignoré.")
             continue
 
-        # Créer un document et index temporaire
+        # Création d'un document et index temporaire
         document = Document(text=chunk_text)
         index = VectorStoreIndex.from_documents([document])
         query_engine = index.as_query_engine()
 
-        # Générer la question
+        # Génération de la question
         prompt = base_prompt.format(chunk_text=chunk_text[:1500])  # Sécurité sur la longueur
         try:
             response = await query_engine.aquery(prompt)
@@ -101,10 +101,10 @@ async def generate_quiz_from_chunks():
             break
 
     # Écriture du résultat
-    with open("quiz_output.txt", "w", encoding="utf-8") as f:
+    with open("../Data/generated _txt_questions/quiz_output.txt", "w", encoding="utf-8") as f:
         f.write(full_quiz)
 
     print("\n🎉 Génération terminée : quiz_output.txt")
 
-# Lancer la génération
+# Lancement de la génération
 asyncio.run(generate_quiz_from_chunks())

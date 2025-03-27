@@ -1,0 +1,315 @@
+Page 1 of 36 
+1. 
+The pre-examination is in the form of a multiple choice paper. It comprises 20 
+questions in all, 10 questions relating to legal knowledge (questions 1-10) and 10 
+questions relating to the analysis of claims (questions 11-20). Questions must be 
+answered by filling in the circles on the answer sheet printed on the reverse side of your 
+personal cover sheet. The duration of this examination is four hours. 
+ 
+(a) 
+Each question X has 4 separate statements, namely X.1, X.2, X.3 and X.4. For 
+each statement X.1, X.2, X.3 and X.4 candidates must unambiguously indicate on the 
+answer sheet whether the statement is true or false. For each statement X.1, X.2, X.3 
+and X.4 only one answer can be given, either true or false. Each statement within a 
+question is to be considered independently of the other statements.  
+ 
+(b) 
+To indicate that a statement X.1, X.2, X.3 or X.4 is true, the corresponding circle 
+for true should be filled using a black medium soft HB pencil. To indicate that a 
+statement X.1, X.2, X.3 or X.4 is false, the corresponding circle for false should be filled 
+using a black medium soft HB pencil. 
+ 
+(c) 
+If, in reply to a statement X.1, X.2, X.3 or X.4, no indication is given as to whether 
+the statement is true or false, or if both true and false are indicated, then the answer to 
+this statement will be deemed not to be correct. Accordingly, if a candidate fills or partly 
+fills a circle they do not intend to submit as part of their answer, it is essential that any 
+mark in that circle is fully erased.  
+ 
+(d) 
+There is no possibility for submitting notes or remarks to the examiner. Any such 
+submission will be disregarded.  
+ 
+2. 
+Only one answer sheet per candidate will be available. 
+ 
+3. 
+Marking 
+ 
+(a) 
+Marks awarded per question 
+• If within one question X none or only one of the answers to the statements X.1, X.2, 
+X.3 and X.4 is correct, then 0 marks will be awarded for this question X. 
+• If within one question X two of the answers to the statements X.1, X.2, X.3 and X.4 
+are correct, then 1 mark will be awarded for this question X. 
+• If within one question X three of the answers to the statements X.1, X.2, X.3 and X.4 
+are correct, then 3 marks will be awarded for this question X. 
+• If within one question X all four of the answers to the statements X.1, X.2, X.3 and X.4 
+are correct, then 5 marks will be awarded for this question X. 
+ 
+(b) 
+ Total number of marks awarded  
+The total number of marks awarded for the pre-examination is the sum of the marks 
+achieved for each question, calculated as stated above.
+Legal questions 
+2012/PE/EN 
+ 
+Page 2 of 36 
+QUESTION 1 
+ 
+Bikeparts AS is a Danish company based in Copenhagen. Bikeparts AS validly filed a 
+Japanese patent application JP-X on 11 March 2011 at the Japanese Patent Office in 
+the Japanese language for invention X. Today, 5 March 2012, it is desired to file a 
+European patent application EP-X at the EPO claiming the priority of JP-X for 
+invention X.  
+ 
+For each of the statements 1.1 – 1.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+1.1 
+EP-X can be filed in Danish. 
+1.2 
+EP-X can be filed in Korean. 
+1.3 
+EP-X can be filed in Japanese. 
+1.4 
+If EP-X is not filed in one of the official languages of the EPO, then a translation 
+into an official language of the EPO must be filed within a time limit of one month.
+Legal questions 
+2012/PE/EN 
+ 
+Page 3 of 36 
+QUESTION 2 
+ 
+Mr X validly filed a German patent application on 6 April 2011. He intends to claim 
+priority of this first application in a later European patent application.  
+ 
+For each of the statements 2.1 – 2.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+2.1 
+Mr X can validly claim priority if he files the European patent application on 
+10 April 2012.  
+2.2 
+The priority declaration must be made at the latest on 10 August 2012.  
+2.3 
+If Mr X had filed a German utility model application instead of a German patent 
+application, it would have been possible to claim priority from the German utility 
+model application. 
+2.4 
+Mr X can claim priority from the German patent application even if the German 
+patent application is abandoned before filing of the European patent application.
+Legal questions 
+2012/PE/EN 
+ 
+Page 4 of 36 
+QUESTION 3  
+ 
+Today, 5 March 2012, applicant Z wishes to file a PCT application with the EPO without 
+claiming priority. Applicant Z has filed no other patent application for this invention.  
+ 
+For each of the statements 3.1 – 3.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+One of the elements that the EPO as receiving Office has to receive today in order to 
+accord today's date as the filing date for the PCT application is... 
+3.1 
+... the description. 
+3.2 
+... the abstract.  
+3.3 
+... one or more claims. 
+3.4 
+... the title of the invention. 
+Legal questions 
+2012/PE/EN 
+ 
+Page 5 of 36 
+QUESTION 4  
+ 
+A PCT application was filed with the EPO. As the International Searching Authority, the 
+EPO considered that the application was not unitary. The invention first mentioned in the 
+claims was searched and an invitation to pay two additional international search fees 
+was sent to the applicant last week. The third invention, which has not yet been 
+searched, is the only invention that the applicant would like to pursue in the European 
+phase before the EPO.  
+ 
+For each of the statements 4.1 – 4.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+4.1 
+In the international PCT phase, the applicant can file a protest with the EPO and 
+request that a full search is made. The protest is free of charge, but it has to be 
+supported by arguments.  
+4.2 
+The applicant can timely pay one additional fee for the third invention to be 
+searched in the international PCT phase. In the European phase, the applicant 
+can limit the application to the third invention.  
+4.3 
+The applicant can ignore the invitation. In the European phase, the applicant can 
+file a divisional application directed to the third invention.  
+4.4 
+The applicant can ignore the invitation. In the European phase, the applicant will 
+again receive an invitation to pay additional search fees.  
+Legal questions 
+2012/PE/EN 
+ 
+Page 6 of 36 
+QUESTION 5 
+ 
+On 1 February 2010 Document US1 was published. US1 discloses inventive feature A 
+but not feature B. On 1 June 2010 your client filed European patent application EP1 
+disclosing inventive feature B but not feature A. On 1 June 2011 your client filed 
+European patent application EP2 claiming priority from EP1. EP2 has the following 
+claims: Claim 1 is directed to feature B; claim 2 is directed to the combination of 
+features B and A. EP1 was published in December 2011. The combination of 
+features B and A would be obvious if the skilled person were aware of the disclosures of 
+EP1 and US1. 
+ 
+For each of the statements 5.1 – 5.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+5.1 
+The subject-matter of claim 2 of EP2 lacks inventive step.  
+5.2 
+If EP2 had not claimed priority from EP1, the patentability of claim 1 of EP2 would 
+not change.  
+5.3 
+A valid novelty objection can be made using EP1 against claim 1 of EP2.  
+5.4 
+The subject-matter of claim 2 of EP2 is novel. 
+Legal questions 
+2012/PE/EN 
+ 
+Page 7 of 36 
+QUESTION 6 
+ 
+A divisional application EP-D was filed on 10 February 2012 with the EPO. The parent 
+application EP-P was filed on 14 December 2010 and was still pending on 
+10 February 2012. The claims of EP-D contain subject-matter that was not originally 
+disclosed in the parent application.  
+ 
+For each of the statements 6.1 – 6.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+6.1 
+The subject-matter that is common to EP-D and EP-P is deemed to have the date 
+of filing of 14 December 2010 and the remaining subject-matter of EP-D is 
+deemed to have 10 February 2012 as its date of filing. 
+6.2 
+EP-D is deemed to have 10 February 2012 as its date of filing.  
+6.3 
+It is mandatory for EP-D to have the same set of claims as EP-P. 
+6.4 
+During examination the applicant can amend EP-D so that it does not extend 
+beyond the content of EP-P as originally filed, provided that the amended EP-D 
+does not extend beyond the content of EP-D as originally filed.
+Legal questions 
+2012/PE/EN 
+ 
+Page 8 of 36 
+QUESTION 7 
+ 
+A European patent application is filed today, 5 March 2012. It contains 1 abstract page, 
+28 description pages, 5 drawing pages and 4 claims pages. The application has 
+19 claims. Three of the 19 claims are independent claims. The applicant wishes to 
+proceed with all claims.  
+ 
+For each of the statements 7.1 – 7.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+7.1 
+Claims fees are due for 3 claims only.  
+7.2 
+If the application is filed online, no additional fee for pages has to be paid. 
+7.3 
+If the application is filed by post, the additional fee for 3 pages has to be paid. 
+7.4 
+If no claims fees are paid, the application will be deemed to be withdrawn. 
+Legal questions 
+2012/PE/EN 
+ 
+Page 9 of 36 
+QUESTION 8 
+ 
+The publication of the mention of the grant of a European patent was made on 
+22 June 2011. The European patent includes independent claim 1 directed to a product 
+and independent claim 2 directed to a process. The two claims are not linked by a single 
+general inventive concept.  
+Your client wants the opposition division to revoke the patent in its entirety but so far he 
+has found state of the art that anticipates the subject-matter of product claim 1 only.  
+ 
+For each of the statements 8.1 – 8.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+8.1 
+A notice of opposition must be filed at the latest by 22 March 2012. 
+8.2 
+If an opposition is filed against claim 1 only, the opposition can be extended by 
+the opponent to claim 2 after the expiry of the opposition period.  
+8.3 
+The statement setting out the grounds for opposition must be filed at the latest by 
+22 May 2012.  
+8.4 
+As claims 1 and 2 are not linked by a single general inventive concept, lack of 
+unity of the invention is a valid ground for opposition.  
+ 
+Legal questions 
+2012/PE/EN 
+ 
+Page 10 of 36 
+QUESTION 9 
+ 
+Your British client buys a French company with all its assets including an international 
+application PCT1 directed to a first invention and a French application FR2 directed to a 
+second invention. Both applications are in the French language. PCT1 was filed in 
+December 2009 and FR2 was filed in April 2011. Neither application claims an earlier 
+priority. Your client wants to pursue both inventions as European patent applications, by 
+entering the European phase with PCT1 and by filing a European application EP-FR 
+claiming the priority from FR2. However, he would prefer that the language of the 
+European proceedings of both applications be English. 
+ 
+For each of the statements 9.1 – 9.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+9.1 
+Upon entry of PCT1 into the European phase before the EPO, your client can file 
+a translation of PCT1 into English, and English will become the language of the 
+proceedings. 
+9.2 
+A European patent application validly claiming priority from FR2 can be filed in 
+English.  
+9.3 
+Today, on 5 March 2012, it is no longer possible to validly claim priority from FR2 
+for a European patent application.  
+9.4 
+The applicant can file EP-FR in French and then validly file a European divisional 
+application of EP-FR in English. 
+Legal questions 
+2012/PE/EN 
+ 
+Page 11 of 36 
+QUESTION 10 
+ 
+The applicant did not respond to a communication issued by the examining division 
+setting a two month time limit for bringing the description into conformity with the 
+amended claims. The EPO issued a notice of loss of rights by registered mail dated 
+23 November 2011. On Saturday 4 February 2012 the applicant discovered the notice of 
+loss of rights in an unrelated file. 
+ 
+For each of the statements 10.1 – 10.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+10.1 The time limit for requesting further processing expired on 3 February 2012.  
+10.2 The time limit for requesting re-establishment of rights expires on 6 April 2012. 
+10.3 For requesting further processing of a European patent application following 
+failure to observe a time limit, the applicant must have taken all due care required 
+by the circumstances to observe the time limit.  
+10.4 To save the application, it is sufficient to timely:  
+— file at the EPO a request for re-establishment of rights in respect of the time 
+limit for requesting further processing;  
+— pay the fees for re-establishment of rights and for further processing; and  
+— demonstrate that all due care required by the circumstances to observe the 
+time limit was taken. 
+Claim analysis 
+2012/PE/EN 

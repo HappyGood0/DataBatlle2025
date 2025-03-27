@@ -1,0 +1,420 @@
+Examiners’ Report – Paper D 2024
+Purpose and extent of the examiner’s report
+The purpose of the present examiner’s report is to enable candidates to prepare for future
+examinations (cf. Art. 6(6) of the Regulations on the European qualifying examination for
+professional representatives).
+General comments
+Candidates are reminded that they should pay attention to the way questions are asked and
+should not simply repeat information from the paper in the answer. Repeating information per
+se is not awarded any marks. Alternative answers, one being correct and one being wrong, for
+the markers to choose from do not attract any marks.
+In part I, full marks are only awarded when the full legal basis is cited to support the analysis.
+Some candidates lost marks due to missing or incomplete legal basis. Citing only the legal
+basis or repeating the text therefrom without any further explanation, reasoning or providing
+advice generally does not attract any marks. Alternative relevant legal basis not mentioned in
+the  possible  solution  also  attracted  marks.  It  is  noted  in  this  respect  that  the  online
+examination with direct access to part of the syllabus in electronic form, appears to be seen as
+an invitation to copy articles, rules and paragraphs from the guidelines, for which full marks
+are only awarded if, apart from the copied text, the explanation is also provided in view of the
+situation in the question. With respect to the abolished 10-day rule, most candidates followed
+the Decision of the Supervisory Board of 26 June 2023 and calculated the time limits
+according to the newest version of the rules. Nevertheless, candidates, who correctly applied
+the old version, were also awarded full marks this year.
+Examiners’ Report – Paper D 2024, Part I
+Question 1 (14 marks)
+This question was generally well answered. Most candidates stated that PCT-3 was likely filed
+in Spanish, as it is an accepted language by the SPTO. Fewer candidates however realized that
+PCT-3 must have been filed in Spanish, as it is the only language accepted by the SPTO and
+would otherwise have been transmitted to the IB.
+Quite a few candidates missed the fact that late filing of the translation is possible or did not
+calculate the corresponding time limits.
+Most candidates correctly answered when and where to file amended claims and the rectified
+description. Some candidates however wrongly concluded that the claim amendments must be
+filed in the language of translation. Many candidates missed the fact that the rectified
+description needs to be filed both in the language of the application and in the language of
+translation.
+Question 2 (12 marks)
+Most candidates realized that the examination fee has not been paid and a reply to the written
+opinion was not filed in time. Some candidates forgot that the designation fee also has to be
+paid.  Many  candidates  failed  to  recognize  that  the  application  is  deemed  withdrawn
+independently for each of the three omitted acts and did not cite all relevant legal bases. Most
+candidates correctly indicated that further processing was available, but the time limit for it
+has been missed, so that re-establishment into the period for further processing is the only
+option. Points were frequently missed due to wrongly calculated time limits. In particular,
+candidates often did not start the calculation of the 1-year time limit of Rule 136(1) EPC from
+the missed time limit for further processing. Moreover, the list of acts to be performed was
+often incomplete or insufficient legal basis was cited. Many candidates forgot to mention
+renewal fees or did not conclude that renewal fees for the third year will become due on the
+date of the notification of the decision re-establishing the rights.
+Question 3 (9 marks)
+Although relating to rather standard matter, this question was not well answered. Most
+candidates realized that A, not being a resident of a contracting state, needed to appoint a
+professional representative, and that the representative needed to sign the notice of opposition.
+Many candidates wrongly argued that the appointed representative will be deemed common
+representative only because A, who needs representation, is named first.
+Some candidates realized that the translation of the notice of opposition was timely filed
+before the expiration of the opposition period, albeit not being validly signed. However, many
+failed to recognize that, to retain its original date, the accompanying letter needs to be signed
+by the appointed representative.
+Question 4 (11 marks)
+For many candidates, this question appears to have been the most challenging in Part I. Most
+candidates realized that EP-D2 and EP-D3 were late filed and will be admitted into the
+proceedings  only if  they  are  prima  facie  prejudicial  to  the  maintenance  of the  patent.
+However, many candidates failed to recognize that EP-D3 is only relevant for claim 4, which
+is not covered by the extent of the opposition and will therefore not be admitted. Many
+candidates copied relevant provisions but failed to apply those to the situation at hand. Most
+candidates correctly suggested filing amended claims relating to subject-matters A+B and
+A+C.
+Many candidates did not realize that subject-matter D cannot remain in a valid patent. Of
+those, who did, the majority missed that, to obtain a valid patent, subject-matter D should be
+deleted in a limitation procedure after the opposition.
+Question 5 (9 marks)
+This question was generally well answered. Most candidates provided the correct steps and
+bases needed to validate EP-7 in Poland and the UK, as well as those needed to obtain Unitary
+Patent protection. Points were mostly lost with respect to when and where renewal fees need
+to be paid. For example, most candidates overlooked the special provisions for payment of the
+renewal fees in the UK. Considering that this was the first time a question was asked on
+Unitary Patent protection, most candidates were well prepared and cited the relevant legal
+basis.
+Examiners’ Report – Paper D 2024, Part II
+Question 1 (20 marks)
+Most candidates realized EP-P2 and EP-P3 were only entitled to partial priority, but a small
+minority correctly applied the case law of G1/15 in dividing the claimed subject matter. In the
+aftermath of decision G1/15, the Examination Committee has repeatedly tested partial priority
+in view of its importance in the practice before the EPO. To the regret of the Examination
+Committee, it appears that the majority of EQE candidates still cannot successfully apply the
+principles of G1/15.
+In  this  respect,  while  the  range  of  CO2  concentration  was  usually  addressed,  the
+generalization of spider species was often overlooked.
+Candidates often missed the invalid priority claim in EP-P3 to EP-P2 for the subject matter
+which was already disclosed in EP-P1.
+Even among the candidates who correctly divided the claimed subject matter, there were some
+who wrongly concluded that EP-P1 was novelty destroying for claim 1 of EP-P2.
+Few candidates realized that the comparative example, AA [16], was also novelty destroying
+for claim 1 of EP-P3.
+The part on EP-AA+ was usually well answered. However, a surprisingly high number of
+candidates wrongly considered that EP-P2 was a prior art document under Art. 54(3) EPC,
+despite there was no indication in the paper that EP-P2 was published after the filing date of
+EP-AA+.
+The part on PCT-TM+ also quite well answered. However, discussion on the validity of
+product-by-process claims was often omitted.
+Question 2 (12 marks)
+Overall, this question was not well answered by most candidates.
+Many candidates realized that there was a need to revive a Euro-PCT application after the
+missed regional phase entry for PCT-TM+. However, the applicable remedies that should be
+used to revive the application were not always properly identified and the corresponding
+deadlines  correctly  computed  (e.g.  the  starting  point  of  the  one-year  period  for
+re-establishment). In addition, many candidates wrongly concluded that the communication of
+loss of rights should have been notified to the representative.
+Among the candidates who discussed the opportunity to extend the geographical scope of
+protection of PCT-TM+ to Bosnia-Herzegovina, only a small minority recognized how this
+should be achieved.
+Question 3 (7 marks)
+a)
+Some candidates speculated about possible grounds to oppose EP-P2, presumably because the
+opposition period had not yet lapsed; however, there was no information in the paper that any
+ground could be successful.
+A disappointing number of candidates noted that validation in Switzerland was automatic. In
+contrast, a good number of the candidates realized that the CO2 concentration used in Spiez
+(16%) did not fall within the claimed range of EP-P2.
+b)
+Some candidates just considered that no rights were available in Turkey, and therefore, did not
+discuss the fact that the CO2 concentration used in Turkey (8%) falls within the claimed range
+of EP-P2.
+c)
+The majority of candidates correctly acknowledged that there were no patent rights available
+in the US.
+d)
+A fair  number  of  candidates  correctly  spotted  the  Art.  64(2)  issue  for  importing  in
+Switzerland.
+Question 4 (6 marks)
+a)
+The candidates who suggested to file third party observations against EP-P3, and the ones
+who suggested to file an opposition later were awarded the same number of marks.
+Very few candidates explained why it would not be possible for Prosilk to have protection
+covering the embodiment used by Xeracno, and concluded that they were free to operate.
+b) and c)
+The b) part of this question was poorly answered, whereas the c) part of the question was well
+answered.
+d)
+Very few candidates had the right answer because they simply replicated their answer to
+question 3 part d) without noticing that no patent right could be achieved on the 8% CO2
+concentration and that therefore protection of a product directly obtained by a process was no
+longer applicable.
+Possible Solution – Paper D 2024, Part I
+Reference to legal bases refer to the situation on 31 October 2023
+Answer to Question 1 (14 marks)
+(a)
+The SPTO accepts only Spanish as the language in which international applications may be
+filed, Rule 12.1(a) PCT and PCT Applicant’s Guide Annex C. PCT-3 was filed in Spanish,
+because otherwise the SPTO would have transmitted it to the IB, Rule 19.4(a)(ii) and Rule
+19.4(b) PCT.
+The EPO, acting as ISA, Article 152 EPC, accepts English, French or German, PCT-EPO
+Guidelines A-VII, 2.1. Therefore, Spanish is not accepted. The invitation issued by the SPTO
+is thus an invitation under Rule 12.3(c) PCT to furnish a translation into one of English,
+French or German for the international search. The time limit for the late filing of the
+translation is the later of: 
+- one month from the date of the invitation, i.e. 17 January 2024 + 1 month → 17 February
+2024 (Sat) → 19 February 2024 (Mon), Rule 80.5 PCT, and
+- two months from the date of receipt of the international application by the receiving Office,
+i.e. 05.03.2024 (Tue, today). Therefore, today, D needs to file the translation and pay the late
+furnishing fee, Rule 12.3(e) PCT.
+(b)
+According to Article 19(1) PCT, amended claims can only be filed after the receipt of the
+international search report and, according to Rule 46.1 PCT, within 2 months from the date of
+its transmittal or within 16 months from the priority date, whichever expires later. The
+amendments must be filed at the IB, Rule 46.2 PCT.
+Since the application is filed in Spanish, it will be published in Spanish, which is a language
+of publication, Rule 48.3(a) PCT. Hence, the amendments must be filed in Spanish, Rule 46.3
+PCT.
+An obvious mistake in the description can be corrected under Rule 91.1(b)(ii) PCT. Since the
+application is translated under Rule 12.3(a) PCT, the rectified description needs to be filed
+both in Spanish and in the language of translation, Rule 12.2(b)(i) PCT. This must be done at
+the EPO/ISA within 26 months from the priority date, Rule 91.2 PCT.
+Answer to Question 2 (12 marks)
+The examination fee and the designation fee had to be paid at the latest on 17 May 2023 + 6
+months → 17 November 2023 (Fri), Article 94(1), Rule 70(1), Article 79(2) and Rule 39(1)
+EPC. Since the search opinion was negative, a reply to the opinion also had to be filed by the
+same date, Rule 70a(1) EPC.
+The communication noting the loss of rights is a communication under Rule 112(1) EPC
+indicating  that  the  application  is  deemed  to  be  withdrawn  because  three  independent
+procedural acts were omitted:
+- payment of the examination fee, Article 94(1) and (2) EPC;
+- payment of the designation fee, Rule 39(2) EPC;
+- non-compliance with the invitation to comment on the objections raised and/or to correct
+any deficiencies noted in the search opinion, Rule 70a(3) EPC.
+Further processing, Article 121 and Rule 135(1) EPC, was available for each of the omitted
+acts until 12 December 2023 + 2 months → 12 February 2024 (Mon). Thus, today, it is too
+late.
+Removal of the cause of non-compliance is today, i.e. when company C became aware of the
+notification. Re-establishment into the period for further processing under Article 122(1) EPC
+is thus still possible until 05 March 2024 + 2 months → 05 May 2024 (Sun) → 06 May 2024
+(Mon), Rule 131(4) and Rule 134(1) EPC. This is within 1 year from the missed time limit for
+further processing, i.e. 12 February 2024 + 1 year → 12 February 2025, Rule 136(1) EPC.
+The three omitted procedural acts have different legal bases and are therefore independent
+from each other. Consequently, three requests for re-establishment must be filed and three fees
+for re-establishment must be paid, Guidelines E-VIII, 3.1.3.
+Company C must provide evidence that the failure to observe the time limit resulted from an
+isolated mistake within a normally satisfactory monitoring system, Guidelines E-VIII, 3.2,
+which shows that all due care was taken, Rule 136(2) EPC.
+Company C must further complete the omitted acts for re-establishment, i.e. request further
+processing, Article 121(1) EPC and Rule 135(1) EPC, by:
+- Paying the examination fee, and paying the fee for further processing, i.e. paying the
+examination fee with a 50% surcharge, Article 2(1) item 12 RFees;
+- Paying the designation fee, and paying the fee for further processing, i.e. paying the
+designation fee with a 50% surcharge, Article 2(1) item 12 RFees;
+- Filing a reply to the search opinion and paying the fee for further processing, Article 2(1)
+item 12 RFees. 
+The renewal fee for the third year was due on 30.11.2023, Rule 51(1) EPC. Hence, Rule 51(4)
+(a) EPC applies, i.e. the renewal fee falls due on the date of the notification of the decision re-
+establishing the rights and may still be paid within four months of that date without an
+additional fee.
+Answer to Question 3 (9 marks)
+The signature of A is invalid, because, in a joint opposition, each party or their duly
+authorized representative must sign the notice of opposition giving rise to their participation,
+Guidelines A-VIII, 1.4.
+Since A is not resident in a contracting state, A must appoint a professional representative for
+filing the opposition, Article 133(2) EPC. The invitation of the opposition division is an
+invitation under Rule 77(2) EPC to appoint a representative and to arrange for the signature or
+approval of the notice of opposition by the representative to be appointed, Guidelines D-IV,
+1.2.2.2 (iv). This must be done until 29 January 2024 + 2 months → 29 March 2024 (Good
+Friday), Rule 134(1) EPC → 02 April 2024 (Tue). The professional representative appointed
+by A shall be deemed to be the common representative upon appointment, Rule 151(1) EPC.
+Both A and B are persons according to Article 14(4) EPC, because both are nationals of Spain
+and additionally B is resident of Spain, which has Spanish as an official language. Hence, the
+joint opponents could file the notice of opposition in Spanish, but a translation in an official
+language of the EPO had to be filed. The translation could be filed until the expiration of the
+opposition period, i.e. until yesterday, Rule 6(2) EPC. The translation was therefore filed on
+time.
+However,  since  the  letter  accompanying  the  translation  was  not  filed  by  the  common
+representative, it will be considered not duly signed, Rule 50(3) EPC in combination with
+Rule 86 EPC. The common representative, once appointed by A, will have to sign a letter
+accompanying the translation on invitation of the EPO within a time limit to be specified.
+Once this is done, the translation will retain its original date, i.e. it will be considered to have
+been filed in due time.
+Answer to Question 4 (11 marks)
+EP-D2 and EP-D3 are late filed, Guidelines E-VI, 2.1, because they were filed after the expiry
+of the opposition period according to Article 99(1) EPC, Rule 76(2)(c) EPC. The EPO may
+disregard evidence, which has not been submitted by the parties in due time, Article 114(2)
+EPC.
+In the present case:
+-
+EP-D2 will be admitted into the proceedings, because it is prima facie relevant to the
+assessment of novelty, Article 114(1) EPC, Guidelines E-VI, 2.1;
+-
+EP-D3 will not be admitted into the proceedings, because it is not related to the extent
+of the opposition, G9/91.
+Claim 1 of EP-4 lacks novelty in view of EP-D2, Article 100(a) EPC in conjunction with
+Articles 52(1) and 54(3) EPC. Therefore, company E should as soon as possible file a new
+(main) request with claims directed to subject-matters 1: A+B, 2: A+C and 3: D.
+The  replacement  of  one  independent  claim  as  granted  by  two  independent  claims  is
+admissible as the replacement is occasioned by a ground for opposition, Guidelines H-II, 3.1.
+The thus amended claims are novel over EP-D2. The patent will therefore be maintained in
+amended form, Article 101(3)(a) EPC.
+The resulting patent will nevertheless not be valid. The claim directed to subject-matter D
+lacks novelty over EP-D3 but cannot be deleted in opposition proceedings, because it is not
+part of the extent of the opposition, G9/91.
+To obtain a valid patent, company E should file a request for limitation, Article 105a(1) EPC,
+after the opposition proceedings are terminated, Article 105a(2) EPC. To this end, company E
+should file a new set of claims, wherein the claim directed to D is deleted, and pay the
+limitation fee, Article 105a(1) EPC, Article 2(1) item 10a RFees.
+Answer to Question 5 (9 marks)
+(a)
+The renewal fee for the 5th year is due to the national offices, Article 86(2) EPC.
+For Poland the renewal fee is due on 21 February 2024 + 2 months → 21 April 2024 (Sun) →
+22 April 2024 (Mon), National Law Table VI and Article 141(2) EPC.
+The UK allows for payment up to the last day of the 3rd month after the publication of the
+mention of the grant 21 February 2024 + 3 months → 21 May 2024 → 31 May 2024 (Fri),
+National Law Table VI.
+For Poland, the patent specification needs to be translated into Polish, National Law Table IV
+and Article 65(1) EPC, within 3 months, 21 February 2024 + 3 months → 21 May 2024
+(Tue). The special fee needs to be paid within 3 months from invitation by the Polish Patent
+Office, National Law Table IV. A Polish national representative must be appointed, National
+Law Tables IV and VI.A.
+UK is a contracting state to the London Agreement. Therefore, no acts of validation are
+required.
+(b)
+A request should be filed in French, Rule 6(2) UPR (Rules relating to Unitary Patent
+Protection), with the EPO within 1 month, Rule 6(1) UPR, 21 February 2024 + 1 month → 21
+March 2024 (Thu). It should contain the particulars of the proprietor, the number of the
+European Patent, the particulars of a representative, as H is national and resident of Morocco,
+and a full translation of the specification into English.
+The renewal fee for the 5th year is due within 3 months of the date of notification of the
+communication of registration of the unitary effect, Rule 13(4) or Rule 13(5) UPR, depending
+on the date of notification of the Rule 7(1) UPR communication, and is to be paid to the EPO,
+Rule 13(1) UPR.
+Possible Solution – Paper D 2024, Part II
+Question 1
+
+EP-P2
+EP-P1 is the first application for raising spiders AA in an atmosphere containing from 3% to 
+9% CO2 (AA [3-9]).
+EP-P2 has the same applicant as EP-P1 and it has been filed within 12 months.
+Claim 1 of EP-P2 has 2 effective dates due to partial priority:
+-
+16 January 2019 for subject matter AA [3-9] benefiting from the priority of EP-P1, 
+and
+-
+14 January 2020 for remaining subject matter, i.e. for raising species other than AA 
+with [3-9] CO2 and for raising any species with a higher concentration than 9% CO2, 
+not benefiting from priority from EP-P1.
+EP-P1 is a Art. 54(3) document for the part for which priority is invalid, because it was filed 
+before and published after, but is not novelty destroying because it does not disclose it.
+Claim 1 is novel over the prior art which uses acetylene. CO2 is a different gas.
+Claim 1 is also inventive because raising spiders in the claimed range of CO2 concentration is 
+not suggested in the prior art, and it avoids cannibalism while solving the safety issues.
+As a result, claim 1 is patentable and has been correctly granted.
+
+EP-P3
+EP-P3 has the same applicant as in EP-P2 and it has been filed within 12 months.
+Claim 1 has 2 effective dates due to partial priority:
+-
+14 January 2020 for subject matter first disclosed in EP-P2, i.e. for raising species 
+other than AA with [3-9] CO2, and for raising any species with a higher concentration 
+than 9% CO2, for which the priority claim is valid.
+-
+15 May 2020 for subject matter AA [3-9] and the comparative example AA [16] which
+are first disclosed in EP-P1, and therefore the priority claim from EP-P2 is not valid.
+-
+15 May 2020 for remaining subject matter, i.e. for raising any species in the CO2 range
+above 13%, excluding AA [16], for which priority claim is also not valid as it was not 
+disclosed in EP-P2.
+EP-P1 is Art. 54(3) document because it was filed before the priority date of EP-P3 and 
+published after.
+EP-P2 is also Art. 54(3) document for the claimed subject matter not enjoying priority, 
+because it was filed before the filing date of EP-P3 and published after.
+Claim 1 of EP-P3 lacks novelty over any of EP-P1 and EP-P2, which disclose the 
+comparative example AA [16] and AA [3-9].
+As a result, EP-P3 as it currently stands should not proceed to grant.
+
+EP-AA+
+No priority is claimed and therefore the effective date for both claims is the filing date.
+EP-P1 & EP-P2 are comprised in the state of the art under Art. 54(2) EPC, whereas EP-P3 is 
+an Art. 54(3) document.
+Claim 1 is novel over the prior art due to the presence of N2O.
+Claim 1 is also inventive because raising spiders in the presence of N2O is not suggested in 
+the prior art, and the presence of N2O leads to an improved silk production.
+Claim 2 being dependent on claim 1 is novel and inventive for the same reasons.
+
+PCT-TM+
+No priority is claimed and therefore the effective date for both claims is the filing date.
+Claim 1 is novel because no prior art document discloses a spider diet involving tiger 
+mosquitos.
+Claim 1 is also inventive because the feeding of spiders with tiger mosquitos is not suggested 
+in the prior art, and such a diet surprisingly increases the spiders’ lifespan.
+As it currently stands, protection may therefore be expected in the US for claim 1.
+Claim 2 is a product-by-process claim. The result of the process is still the same spider silk as 
+the one produced according to the prior art.
+Therefore, claim 2 would not be novel if the regional Euro-PCT phase was entered according 
+to Xeracno’s wish.
+Question 2
+The time limit for entering the European phase for PCT-TM+ expired on 14 November 2023.
+The time limit for requesting further processing in response to the communication of loss of 
+rights has expired on 14 February 2024.
+It is possible to request re-establishment of rights in respect of the missed further processing 
+time limit. In the request, it should be explained why the time limit for requesting further 
+processing could not be observed despite all due care having been taken.
+The omitted acts to enter the European phase have to be completed along with the payment of 
+the further processing fees, as well as the corresponding re-establishment fees.
+This should be done within 2 months of the removal of the cause of non-compliance, i.e. 4 
+March 2024, and therefore no later than 6 May 2024. This is within one year from the 
+unobserved time limit for requesting further processing.
+Additionally, the renewal fee for the third year needs to be paid, and this can be done within 
+four months from the decision re-establishing the rights.
+As far as Bosnia-Herzegovina is concerned, the time limit of 34 months for entering the 
+national phase was missed. A possibility to get patent protection there is to request extension 
+of the Euro-PCT patent application when completing the omitted acts.
+The EPO did correctly send the notification of loss of rights to Xeracno instead of SMART 
+SA because the appointment of a representative during the international phase does not imply 
+that it applies also to the Euro-PCT phase.
+Once Xeracno obtains a European patent, and all the requirements for validation are met in 
+Bosnia-Herzegovina, they will be able to prevent Prosilk from harvesting spider silk with a 
+method comprising feeding of spiders with tiger mosquitos in that country.
+Claim 2 of PCT-TM+ cannot be granted by the EPO. However, in European countries, 
+Xeracno will be able to prevent Prosilk from selling silk directly obtained by a method falling 
+under the scope of claim 1, such as the one which is planned by Prosilk in Bosnia-
+Herzegovina.
+There is nothing that can be done though against the current production of Prosilk in Germany
+because the method of harvesting spider silk by raising AF spiders in a concentration of 19% 
+CO2 cannot be covered by any of Xeracno’s patent applications.
+Question 3
+a)
+Validation in Switzerland is not needed because the country has ratified the London 
+Agreement. So EP-P2 is effective there because the renewal fees were paid.
+Yet the 16% CO2 concentration used at the farm in Spiez does not fall within the range 
+covered by EP-P2 so that Xeracno is free to produce there.
+b)
+Raising AA-spiders under 8% CO2 concentration falls within the scope of protection of the 
+claim of EP-P2, irrespective of whether the spiders are fed with tiger mosquitos or not.
+There is no evidence that validation of EP-P2 in Turkey has been carried out. Additionally, the
+renewal fees, which were due in January 2024 have not been paid.
+Therefore, no patent protection is currently available there, and Xeracno is free to harvest 
+spider silk there.
+c)
+The patent protection of EP-P2 does not extend to the USA, so Xeracno cannot be prevented 
+from harvesting silk in Colorado in view of EP-P2.
+d)
+As far as importation to Switzerland is concerned, the silk harvested in Turkey or Colorado is 
+a product directly obtained by the method of EP-P2. Therefore, Xeracno can be prevented 
+from importing and selling this silk into Switzerland.
+Question 4
+At this stage of proceedings, it is advisable to file third party observations to draw the 
+attention of the EPO to the priority and novelty issues.
+a)
+EP-P3 cannot validly cover the harvesting method of spider silk at the farm of Spiez because 
+raising AA spiders at CO2 concentration of 16% belongs to the prior art. It can therefore be 
+expected that Prosilk cannot prevent Xeracno from harvesting spider silk in Spiez.
+b)
+EP-P3 cannot validly cover AA [3-9] because this belongs to the prior art. The harvesting 
+method of spider silk planned at the farm in Turkey involves raising AA spiders at CO2 
+concentration of 8%, which falls within the range of AA [3-9]. It can therefore be expected 
+that Prosilk cannot prevent Xeracno from harvesting spider silk in Turkey.
+c)
+The protection conferred by EP-P3 cannot be extended to the USA, so Xeracno cannot be 
+prevented from harvesting silk in Colorado in view of EP-P3.
+d)
+It is not possible to protect a harvesting method including an atmosphere containing 8% CO2 
+via EP-P3 for the same reasons as in 4)b).
+As a result, no patent protection can be achieved in Switzerland via EP-P3 for the product 
+directly obtained by the harvesting method used in Colorado or Turkey.
+Therefore, Prosilk cannot prevent Xeracno from importing and selling this silk in Switzerland.

@@ -1,0 +1,68 @@
+EN
+EUROPEAN QUALIFYING EXAMINATION 2022
+Paper D1-2
+This Paper comprises:
+Question 4:
+  6    marks
+Question 5:
+  5    marks
+Question 6:
+  8    marks
+2022/D/EN
+0-2
+Part I: Legal Questions
+QUESTION 4
+(6 MARKS)
+Applicant D filed European patent application EP-D1 in January 2019. EP-D1 discloses 
+a new raw material D1 and a method for obtaining it. EP-D1 was withdrawn in 
+April 2019.
+In March 2019, applicant D filed European patent application EP-D2 disclosing a method 
+for producing a new product D2 starting from the raw material D1. EP-D2 does not teach 
+how to obtain the raw material D1. Instead, the description of EP-D2 merely refers to the 
+relevant part of EP-D1.  
+In February 2020, applicant D filed European patent application EP-D3 claiming priority 
+from EP-D2. EP-D3 claims the same product D2 as disclosed in EP-D2. EP-D3 
+discloses the same method for producing D2, but from raw material D3. Raw 
+material D3 has been available to the public since 2019.
+Applicant D becomes aware of European patent application EP-D4, which was filed in 
+January 2020 by a different applicant and published in July 2021. EP-D4 discloses 
+product D2 and a method for producing D2 from raw material D3, the method being 
+identical to the one disclosed in EP-D3. 
+(a)
+Does EP-D2 sufficiently disclose product D2?
+(b)
+Is the subject-matter of the claim to product D2 in EP-D3 novel?  
+2022/D/EN/4
+QUESTION 5
+(5 MARKS)
+On 2 June 2020 company E filed European patent application EP-E claiming a 
+composition comprising 5-40% of compound E1. EP-E claims the priority of a previous 
+patent application JP-E filed with the Japan Patent Office by company E on 30 May 2019. 
+JP-E discloses a composition comprising 10-20% of the compound E1. 
+The examiner cited an article disclosing a composition comprising 40% of the 
+compound E1 and published in December 2017. When analysing the technical teaching of 
+the article, the skilled person would immediately recognise that the disclosure is erroneous 
+and that the only possible correction would be a composition comprising 15% of the 
+compound E1.
+Is the article novelty-destroying for the subject-matter claimed in EP-E?
+2022/D/EN/5
+QUESTION 6
+(8 MARKS)
+European patent EP-A was granted with independent claim 1 directed to apparatus A1 
+and independent claim 2 directed to apparatus A2. 
+Consider the following situations independently:
+Situation 1: An admissible opposition was filed based on document D1. D1 is prior art 
+according to Article 54(3) EPC and discloses apparatus A1 only. The sole opponent 
+withdrew the opposition the day after the opposition period expired.
+(a)
+How will the opposition proceedings continue?
+(b)
+What can the patent proprietor do to address the lack of novelty?
+Situation 2: An admissible opposition was rejected. The sole opponent filed an appeal 
+together with a document D1. D1 is prior art according to Article 54(3) EPC and 
+discloses apparatus A1 only. The opposition was subsequently withdrawn.
+(c)
+How will the appeal proceedings continue?
+(d)
+What steps can be taken before the EPO to address the lack of novelty?
+2022/D/EN/6

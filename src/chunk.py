@@ -2,9 +2,9 @@ import os
 from PyPDF2 import PdfReader, PdfWriter
 
 # === Paramètres ===
-pdf_path = "data/case_law_of_the_boards_of_appeal_2022_en.pdf"  # Ton fichier PDF
-output_dir = "chunks"  # Dossier de sortie
-num_chunks = 350       # Nombre de parties à créer
+pdf_path = "../Data/Official_Legal_Publications/case_law_of_the_boards_of_appeal_2022_en.pdf"
+output_dir = "../Data/chunks"
+num_chunks = 350       
 
 # === Préparation ===
 os.makedirs(output_dir, exist_ok=True)

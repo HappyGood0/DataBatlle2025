@@ -1,0 +1,249 @@
+Question 1 
+ 
+Giorgio validly filed an Italian patent application IT-G as a first filing. IT-G discloses a 
+frame made of metal, preferably aluminium, for device X. IT-G was filed in April 2016 
+and withdrawn in May 2016. In September 2016, a frame made of steel for device X was 
+made available to the public in a catalogue. Today, 6 March 2017, Giorgio files a 
+European patent application EP-G claiming priority from IT-G. Claim 1 of EP-G is 
+directed to a frame made of metal for device X. Claim 2 of EP-G is directed to a frame 
+made of steel for device X. Claim 3 of EP-G is directed to a frame made of aluminium for 
+device X. Claim 4 of EP-G is directed to a frame made of copper for device X.  
+ 
+For each of the statements 1.1 – 1.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+1.1 
+The catalogue is state of the art under Article 54(2) EPC for claim 1 of EP-G. 
+1.2 
+The catalogue is state of the art under Article 54(2) EPC for claim 2 of EP-G. 
+1.3 
+The catalogue is state of the art under Article 54(2) EPC for claim 3 of EP-G. 
+1.4 
+The catalogue is state of the art under Article 54(2) EPC for claim 4 of EP-G. 
+ 
+Legal questions 
+2017/P/EN/3 
+Question 2 
+ 
+Jill filed the international application PCT-J on 4 August 2014 without claiming a priority. 
+PCT-J was published with the international search report in February 2016. The 
+international searching authority was the Nordic Patent Institute. Today, 6 March 2017, 
+Jill decides to enter the European phase before the EPO.  
+ 
+For each of the statements 2.1 – 2.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+2.1 
+One requirement for validly entering the European phase with PCT-J is that a 
+renewal fee must be paid.  
+2.2 
+One requirement for validly entering the European phase with PCT-J is that the 
+designation fee must be paid. 
+2.3 
+For entry into the European phase with PCT-J today, at least one fee for further 
+processing must be paid.  
+2.4 
+For PCT-J the EPO shall carry out a supplementary European search. 
+ 
+Legal questions 
+2017/P/EN/4 
+Question 3 
+ 
+For each of the statements 3.1 – 3.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+The following European patent application is pending today, 6 March 2017: 
+ 
+3.1 
+A European patent application EP1, for which a reply to a communication under 
+Rule 71(3) EPC was to be filed at the latest on 2 March 2017, and for which the 
+applicant did not file a reply.  
+3.2 
+A European patent application EP2, for which the renewal fee due on 
+30 June 2016 has not yet been paid and for which the EPO sent a notice of loss 
+of rights dated 2 February 2017. 
+3.3 
+A European patent application EP3, which was refused by a written decision 
+dated 28 December 2016. 
+3.4 
+A European patent application EP4, for which the decision to grant the European 
+patent is dated 6 March 2017.  
+ 
+Legal questions 
+2017/P/EN/5 
+Question 4 
+ 
+Today, 6 March 2017, Adrienn filed with the EPO a European patent application EP-A. 
+Adrienn is resident in Hungary. The application documents of EP-A consist of a 
+description in Hungarian and of two drawings. 
+ 
+For each of the statements 4.1 – 4.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+4.1 
+Adrienn is entitled to a reduction of the filing fee.  
+4.2 
+According to the provisions of the EPC, Adrienn must file one or more claims 
+within two months of filing of EP-A.  
+4.3 
+According to the provisions of the EPC, Adrienn must file the translation of the 
+description within two months of filing of EP-A. 
+4.4 
+According to the provisions of the EPC, Adrienn must pay the filing fee within two 
+months of filing of EP-A. 
+ 
+Legal questions 
+2017/P/EN/6 
+Question 5 
+ 
+A notice of appeal was validly filed on 3 February 2017 against the decision to refuse the 
+European patent application EP-B. The decision is dated 5 December 2016. According 
+to the decision, claim 1 of the sole request is not novel over D1 and is not inventive over 
+D2 in combination with the common general knowledge of the skilled person. The 
+statement setting out the grounds of appeal has not yet been filed. 
+ 
+For each of the statements 5.1 – 5.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+5.1 
+The statement setting out the grounds for the appeal must be filed at the latest on 
+5 April 2017. 
+5.2 
+The appeal fee is reimbursed, if the applicant withdraws the appeal today, 
+6 March 2017.  
+5.3 
+According to the provisions of the EPC, if the appeal is not allowed within four 
+months of receipt of the statement of grounds, it shall be remitted to the Board of 
+Appeal. 
+5.4 
+The examining division will grant interlocutory revision, if the applicant can 
+convince the examining division that claim 1 of the sole request is novel over D1. 
+ 
+Legal questions 
+2017/P/EN/7 
+Question 6 
+ 
+The mention of the grant of European patent EP-V was published on 18 May 2016. A 
+notice of opposition against EP-V was filed on 20 February 2017 with the EPO. Today is 
+6 March 2017. 
+ 
+For each of the statements 6.1 – 6.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+6.1 
+The notice of opposition was filed within the opposition period.  
+6.2 
+If the opposition fee has not been paid so far, then the opposition will not be 
+deemed to have been filed.  
+6.3 
+If the opposition is not admissible because the facts and evidence filed in the 
+notice of opposition do not support the grounds for opposition, a valid option for 
+the opponent is to file additional, more relevant documents later in the 
+proceedings. 
+6.4 
+If the notice of opposition does not mention the name of the patent proprietor, the 
+opponent will have the opportunity to remedy this deficiency. 
+Legal questions 
+2017/P/EN/8 
+Question 7 
+ 
+A European patent EP-M was granted with only one claim. The claim reads:  
+ 
+“A steel composition M.” 
+ 
+An admissible opposition was filed against EP-M and the ground for opposition is lack of 
+novelty. The notice of opposition was communicated to the patent proprietor who in reply 
+filed an amended claim as the main request. The amended claim reads: 
+ 
+“A very thin layer of steel composition M.” 
+ 
+The amendment is based on the description of EP-M as originally filed. 
+ 
+For each of the statements 7.1 – 7.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+7.1 
+The amended claim is admissible under Rule 80 EPC only if the amended claim 
+is novel over the cited prior art. 
+7.2 
+The opponent cannot validly object to clarity of the amended claim, since lack of 
+clarity is not a ground for opposition.  
+7.3 
+The patent proprietor is entitled to file amendments in reply to the 
+communication informing him of the notice of opposition. 
+7.4 
+The current request of the patent proprietor is to reject the opposition.  
+ 
+Legal questions 
+2017/P/EN/9 
+Question 8 
+ 
+The examining division issued a communication under Article 94(3) EPC for European 
+patent application EP-R. The communication is dated 7 September 2016. The period set 
+in this communication is four months. On 31 December 2016, the representative for  
+EP-R fell in a state of legal incapacity and the EPO was informed of it on 
+10 January 2017. On 12 January 2017, the legal division of the EPO decided to interrupt 
+the proceedings regarding EP-R. Today, 6 March 2017, the EPO is informed of the 
+appointment of a new representative for EP-R. 
+ 
+For each of the statements 8.1 – 8.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+8.1 
+The communication is deemed to be delivered on 19 September 2016, since 
+17 September 2016 is on a Saturday.  
+8.2 
+The proceedings are interrupted with effect of 12 January 2017. 
+8.3 
+After resumption of the proceedings for EP-R, the communication dated 
+7 September 2016 will be considered null and void and will be notified anew to 
+the new representative. 
+8.4 
+For interruption of the proceedings, no administrative fee has to be paid. 
+Legal questions 
+2017/P/EN/10 
+Question 9 
+ 
+Today, 6 March 2017, an applicant wishes to file a new European patent application to 
+protect an invention relating to the treatment of disease X using a substance Z. A pre-
+published scientific article discloses the use of substance Z for treating the disease Y. 
+Disease Y and disease X are diseases of the human body. Disease Y is completely 
+unrelated to disease X.  
+ 
+For each of the statements 9.1 – 9.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+The following claim complies with the requirements of the EPC: 
+ 
+9.1 
+Use of substance Z for the manufacture of a medicament for treating disease X.  
+9.2 
+Substance Z for use in the treatment of disease X.  
+9.3 
+Method for treating disease X using substance Z.  
+9.4 
+Substance Z for use as a medicament.  
+Legal questions 
+2017/P/EN/11 
+Question 10 
+ 
+The international application PCT-A was validly filed on 4 January 2017 with the EPO. 
+PCT-A validly claims the priority from a Dutch patent application NL-A, filed on 
+31 January 2016. Today, 6 March 2017, the international search report for PCT-A was 
+transmitted to the applicant.  
+ 
+For each of the statements 10.1 – 10.4, indicate on the answer sheet whether the 
+statement is true or false: 
+ 
+10.1 An international preliminary examination of PCT-A before the EPO can be validly 
+requested on 30 November 2017. 
+10.2 A handling fee is due for requesting the international preliminary examination of 
+PCT-A before the EPO.  
+10.3 The applicant is entitled to communicate orally with the EPO as the International 
+Preliminary Examination Authority. 
+10.4 If amended claims for PCT-A are received by the International Bureau before the 
+technical preparations for international publication have been completed, then the 
+international publication of PCT-A will also contain the text of the amended 
+claims. 
+Claim analysis 
+2017/P/EN/12 

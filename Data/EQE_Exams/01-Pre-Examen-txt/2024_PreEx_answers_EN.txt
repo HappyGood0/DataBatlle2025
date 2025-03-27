@@ -1,0 +1,1128 @@
+1 
+Examiners’ Report Pre-examination 2024 
+ 
+PART 1 
+ 
+Question 1 
+ 
+Zlatko has filed a European patent application EP-Z in Croatian as a first filing with the 
+European Patent Office on 16 March 2023. EP-Z does not contain any claims. 
+ 
+1.1 
+The period for paying the filing fee for EP-Z ended on 17 April 2023. 
+TRUE – filing fee has to be paid within one month from filing (R. 38(1) EPC; 16 April 2023 
+is Sunday, hence R. 134(1) EPC extended to Monday 17 April 2023) 
+ 
+ 
+1.2 
+The period for filing an international patent application validly claiming priority from 
+EP-Z ends on 16 March 2024. 
+FALSE – 12 months, 16 March 2024, Saturday, extended to next working day,  
+18 March 2024 (R. 134(1) EPC; Art. 87(1) EPC) 
+ 
+1.3 
+The period for filing a translation of EP-Z into one of the official languages of the 
+EPO ended on 16 May 2023. 
+TRUE – translation shall be filed within two months from filing (Art. 14(2) and R. 6(1) EPC, 
+GL A-VII,1.1); if the translation is not filed in accordance with the period defined by Art. 
+14(2) and R. 6(1) EPC, there exists also a possibility to remedy a deficiency of filing the 
+translation within the period, R. 57(a) and 58 EPC, GL A-VII 1.4; this period to remedy the 
+deficiency is not the period for filing the translation; 
+ 
+1.4 
+The period for filing claims for EP-Z ended on 16 May 2023. 
+FALSE – claims are to be filed within two months from invitation (R. 58 and R. 57(c) EPC). 
+ 
+ 
+2 
+Question 2 
+ 
+Daniel Automotive SE filed a European patent application EP-D in June 2020. Claus is 
+designated as the sole inventor. Last week, Daniel Automotive SE received a 
+communication under Rule 71(3) EPC for EP-D. On 15 March 2024, an error is noted: the 
+inventors of EP-D are actually Claus and Sabrina. Daniel Automotive SE now consults you 
+for advice. 
+ 
+A valid element of your advice for correcting the error before the EPO is that ... 
+2.1  
+... the applicant need not provide evidence that an error was made. 
+TRUE – see R21(1) EPC, GL A-III, 5.5 no requirement to provide evidence in the EPC for 
+the information provided according to R19 and R21(1) EPC 
+ 
+ 
+ 
+2.2  
+… if the request is filed by Daniel Automotive SE, the consent of Claus is required 
+to rectify the designation of the inventor. 
+FALSE – see R21(1) EPC, GL A-III, 5.3 and 5.5: signature of applicant is sufficient for the 
+rectification of the designation of the inventor 
+ 
+2.3  
+... the designation of the inventor may be corrected after EP-D has been granted. 
+TRUE – GL A-III,5.5: rectification may also be requested after the proceedings before the 
+EPO are terminated. 
+ 
+2.4  
+... Sabrina may file an opposition based on the ground of not being mentioned as 
+inventor. 
+FALSE – Article 100 EPC does not provide such ground for filing an opposition. 
+ 
+ 
+3 
+Question 3 
+ 
+Anna-Frieda filed a German national patent application DE-AF in German on 23 May 2022 
+disclosing a first invention AF1 and a second invention AF2. On 24 April 2023, Anna-
+Frieda filed a first European patent application EP-AF1 covering the invention AF1 only 
+and claiming priority from DE-AF. On the same day, 24 April 2023, she also filed a second 
+European patent application EP-AF2 covering the invention AF2 only and without claiming 
+any priority. Afterwards, Anna-Frieda noticed that no drawings had been filed for EP-AF1 
+and that the wrong claims had been erroneously filed for EP-AF2. On 2 May 2023, Anna-
+Frieda filed the missing drawings for EP-AF1, together with a certified copy of DE-AF, a 
+letter correctly stating that the missing drawings are identical to those of DE-AF and a 
+request to maintain the filing date of 24 April 2023. On 2 May 2023, Anna-Frieda submitted 
+the correct claims for EP-AF2.  
+ 
+3.1 
+The filing date of EP-AF1 will be re-dated to 2 May 2023. 
+FALSE – Since the missing drawings are completely contained in the priority document, 
+DE-AF, and were filed within two months of the date of filing, the date of filing shall remain 
+the original date of filing (R. 56(2) and (3) EPC) 
+ 
+ 
+3.2 
+The filing date of EP-AF2 will be re-dated to 2 May 2023. 
+TRUE – Since the correct claims were filed within two months of the date of filing, the 
+application shall be re-dated to the date on which the correct application documents were 
+filed (R. 56a(3) EPC). EP-AF2 does not claim priority to DE-AF and therefore R. 56a(4) 
+EPC does not apply. 
+ 
+3.3 
+On 15 March 2024, Anna-Frieda can file a third EP patent application EP-AF3 
+validly claiming priority from EP-AF2 regarding the invention AF2. 
+FALSE – EP-AF2 not the first filing of AF2 (see DE-AF) so the priority is invalid, 
+Article 87(1) EPC 
+ 
+3.4 
+The period for making the declaration of priority from DE-AF for EP-AF2 ends on 
+26 August 2024. 
+FALSE – If a second application is filed without claiming priority but within 12 months from 
+the first application, a declaration of priority can be made within 16 months from the 
+earliest priority date claimed (R. 52(2) EPC). Consider: 23 May 2022 + 16 months -> 
+Saturday, 23 September 2023 (Rule 134(1) EPC)-> Monday 25 September 2023 
+4 
+Question 4 
+ 
+Manuela filed international application PCT-M in September 2021 without claiming priority. 
+PCT-M was searched by the EPO as International Searching Authority in February 2022. 
+The International Searching Authority raised non-unity objections with respect to the 
+subject-matter of the claims, considering claims 20 to 35 to relate to a separate invention 
+with respect to claims 1 to 19. Manuela did not pay any additional fees. The International 
+Searching Authority issued a partial search report covering claims 1 to 19. PCT-M entered 
+the European phase on 15 March 2024 and is referred to in the following as Euro-PCT-M. 
+No amendments have been filed. 
+ 
+4.1 
+Manuela will have an opportunity to amend the claims of Euro-PCT-M before 
+substantive examination of Euro-PCT-M begins. 
+TRUE – The EPO has acted as the International Searching Authority. The EPO will invite 
+the applicant to amend the description and claims in accordance with Rule 161(1) EPC 
+soon after Euro-PCT-M enters the European phase. Any amendment or comment can be 
+filed within six months of that communication. Substantive examination only starts after the 
+expiry of the Rule 161 period, or if the remainder of the Rule 161 period is waived. 
+ 
+4.2 
+If in the application documents which are to serve as the basis of the substantive 
+examination of Euro-PCT-M an invention is claimed that was not searched by the EPO as 
+the International Searching Authority, Manuela will be invited to pay a further search fee in 
+respect of this invention. 
+TRUE – The applicant will be invited to pay further search fees in respect of inventions that 
+were not searched by the EPO in the international phase (Rule 164(2)(a) EPC) 
+ 
+4.3 
+If Manuela does not pay claims fees by expiry of the period set by Rule  161 EPC, 
+Euro-PCT-M will be deemed to be withdrawn. 
+FALSE – The present set of claims includes at present 35 claims, and therefore claims 
+fees are due in accordance with Rule 162(1) EPC: however, the legal consequence of not 
+paying claims fees for some claims is that these claims shall be deemed to be abandoned 
+(Rule 162 (4) EPC) – and anyway, this is not the deadline for paying claims fees. 
+ 
+ 
+5 
+4.4 
+If Manuela does not comment by 15 March 2024 on the written opinion of the 
+International Searching Authority, Euro-PCT-M will be deemed to be withdrawn. 
+FALSE – The application is not deemed to be withdrawn, if the applicant fails to comment 
+by 15 March 2024, since the applicant may do so within the period set in accordance with 
+Rule 161(1) EPC. 
+ 
+ 
+Question 5 
+ 
+Your client Pencilz has noticed that its biggest competitor Rulerz has a granted patent EP-
+R which covers important subject-matter for Pencilz. The mention of the grant of EP-R was 
+published in the European Patent Bulletin on 4 August 2023. Pencilz asked you to file an 
+opposition against EP-R and the notice of opposition was filed on 15 February 2024. No 
+opposition fee was paid. EP-R was opposed on the following grounds: added 
+subject-matter and lack of novelty. You also noticed some clarity issues with the granted 
+claims of EP-R, which you also included in the statement of grounds filed with the notice of 
+opposition.  
+ 
+5.1 
+On 15 March 2024, the opposition fee may still be paid. 
+TRUE – the deadline for filing an opposition is 9 months of the publication of the mention 
+of the grant, i.e. 4 May 2024 (Article 99 EPC) which is a Saturday, extended to Monday, 6 
+May 2024.  The opposition fee can still be paid within the opposition term (R. 77(1) EPC)
+ 
+ 
+5.2 
+Lack of clarity is a ground for opposition. 
+FALSE – lack of clarity is not a ground for opposition (Article 100 EPC). 
+ 
+5.3 
+The Opposition Division may, of its own motion, examine EP-R for sufficiency of 
+disclosure. 
+TRUE – The Opposition Division may consider other grounds of opposition which have not 
+been invoked by the opponent of its own motion (R. 81(1) EPC). 
+ 
+5.4 
+A third-party that has filed observations with the EPO concerning the patentability 
+of EP-R is party to the opposition proceedings. 
+FALSE – explicit in Article 115 EPC, last sentence. 
+6 
+PART 2 
+ 
+Question 6 
+ 
+A European patent application is refused without holding oral proceedings for lack of 
+novelty in a decision dated 1 February 2024. A request for oral proceedings filed by the 
+applicant at an early stage in the examination procedure has been overlooked by the 
+Examining Division. The applicant files an appeal with arguments explaining why the 
+subject-matter claimed is novel over the prior art.  
+ 
+6.1 
+If the Examining Division considers the appeal to be admissible and well-founded, 
+it shall rectify its decision. 
+TRUE – explicit in Article 109(1) EPC. 
+ 
+6.2 
+The appeal fee is to be reimbursed in full because the applicant's request for oral 
+proceedings has been overlooked. 
+TRUE – Overlooking a request for oral proceedings (Article 116(1) EPC) is a substantial 
+procedural violation (Article 113(1) EPC, GL E-XII, 7.3). Therefore the appeal fee shall be 
+reimbursed in full (R. 103(1)(a) EPC). 
+ 
+6.3 
+If the notice of appeal does not contain the address of the appellant, and the 
+address of the appellant is not given by today, 15 March 2024, the appeal will be rejected 
+as inadmissible. 
+FALSE – The Board of Appeal will communicate the fact that the address is missing to the 
+appellant and shall invite him to remedy the deficiencies noted within a period to be 
+specified (R. 99(1)(a) EPC and R. 101(2) EPC). 
+ 
+6.4 
+The statement setting out the grounds of appeal has to be filed within two months 
+of filing the notice of appeal. 
+FALSE – the statement setting out the grounds of appeal shall be filed within four months 
+of notification of the decision (Article 108 EPC). 
+ 
+ 
+7 
+Question 7 
+ 
+On 1 June 2021, Matthieu filed a European patent application EP-M1 disclosing and 
+claiming a fork made of copper or zinc. No other materials are mentioned and the kind of 
+handle is not specified. On 1 June 2022, Matthieu filed a European patent application EP-
+M2 claiming priority from EP-M1 and disclosing and claiming a fork made of metal. The 
+description of EP-M2 mentions that the metal can be copper, zinc, iron or any alloy of 
+these metals. Claim 1 of EP-M2 claims a fork made of metal, claim 2 of EP-M2 claims a 
+fork made of metal with a hollow handle. EP-M1 was published on 1 December 2022 as 
+EP-M1-A1. A company brochure PA-1 published on 5 October 2021 discloses a fork made 
+of copper with a hollow handle.  
+ 
+7.1 
+PA-1 forms part of the state of the art against EP-M2 under Article 54(3) EPC. 
+FALSE – PA-1 is not prior art under Article 54(3) EPC because it is a not a European 
+patent application, see Article 54(3) EPC. 
+ 
+ 
+7.2 
+EP-M1-A1 forms part of the state of the art against the subject-matter of claim 1 of 
+EP-M2 under Article 54(3) EPC.  
+TRUE and FALSE are accepted as correct answers – G1/15 GL F-VI, 1.5; claim 1 is 
+only partially entitled to priority, i.e. for the part disclosed by EP-M1; for this disclosed part 
+EP-M1-A1 does not form part of the state of the art according to Article 54(3) EPC (Article 
+89 EPC); EP-M1-A1 is not prior art according to Article 54(3) EPC for the subject-matter of 
+claim 1 in its entirety; 
+ 
+7.3 
+PA-1 is novelty-destroying for the subject-matter of claim 1 of EP-M2 under 
+Article 54(2) EPC.  
+FALSE – G1/15, GL F-VI, 1.5 claim 1 enjoys partial priority in respect of copper and zinc, 
+PA-1 is not prior art since it was published after EP-M2 filing date. 
+ 
+7.4 
+PA-1 is novelty-destroying for the subject-matter of claim 2 of EP-M2 under 
+Article 54(2) EPC. 
+TRUE – claim 2 does not enjoy the priority of EP-M1, and PA-1 discloses a fork made of 
+copper with a hollow handle; copper is a metal. Therefore, PA-1 discloses the subject-
+matter of claim 2 of EP-M2. 
+8 
+Question 8 
+ 
+On 28 February 2024, Martha, a Polish national resident in Poland, filed with the EPO a 
+reasoned notice of opposition against European patent EP-E in Polish. The mention of the 
+grant of EP-E was published in the European Patent Bulletin on 16 June 2023. The 
+language of the proceedings in the case of EP-E is English. In the notice of opposition, 
+Martha requested oral proceedings. 
+ 
+8.1  
+Martha is not entitled to a reduction of the opposition fee. 
+TRUE – Under the EPC, opponents are not entitled to a reduction of the opposition fee, 
+see Rule 6(3) and (4) EPC. 
+ 
+ 
+8.2  
+Martha must file the translation of the notice of opposition at the latest on 18 
+March 2024. 
+FALSE – Natural persons having their residence within a Contracting State having a 
+language other than English, French or German as an official language (such as Martha), 
+may file documents which have to be filed within a time limit (in this case a notice of 
+opposition) in an official language of that State (in this case Polish) (Article 14(4) EPC). A 
+translation must be filed within one month of filing the notice of opposition, Rule 6(2) EPC, 
+that is on 28 March 2024 [28 February 2024 + 1 month (Rule 131(4) EPC)], or by the end 
+of the opposition period (16 March 2024 [16 June 2023 + 9 months = Saturday 16 March 
+2024 -> Monday 18 March 2024), whichever is later (R. 6(2) EPC) 
+ 
+8.3 
+If Martha requested in the notice of opposition to speak and listen in German 
+during oral proceedings, the EPO would provide for interpretation. 
+TRUE – Any party to oral proceedings before the EPO may use one of the other official 
+languages of the EPO, on condition that such party gives notice to the EPO at least one 
+month before the date laid down for such oral proceedings (Rule 4(1) EPC, first sentence). 
+The European Patent Office shall, if necessary, provide at its own expense interpretation 
+into the language of the proceedings, or, where appropriate, into its other official 
+languages, unless such interpretation is the responsibility of one of the parties (R. 4(5) 
+EPC). Alternatively, the party may make provision for interpreting into the language of the 
+proceedings, English (Rule 4(1) EPC, second-to-last sentence). 
+ 
+9 
+8.4  
+Martha will be allowed to speak Polish during oral proceedings if she provides for 
+interpretation into English. 
+TRUE – any party may use an official language of a Contracting State, if the party provides 
+for interpretation into the language of the proceedings (Rule 4(1) EPC, second-to-last 
+sentence). 
+ 
+ 
+ 
+ 
+ 
+Question 9 
+ 
+Sara, an Italian citizen living in Italy, filed an international application PCT-S1 in French 
+with the EPO on 20 September 2021 without claiming priority. PCT-S1 documents as filed 
+are: PCT request form designating all PCT contracting states, description, claims, 
+drawings and abstract. After filing, Sara noticed that her name was misspelt on the PCT 
+request form, but she could still be identified. 
+ 
+9.1  
+20 September 2021 is the international filing date of PCT-S1. 
+TRUE – Article 11(1)(iii)(c) and Rule 20(1)(b) PCT. 
+The receiving Office shall accord as the international filing date the date of receipt of the 
+international application, provided that that Office has found that, at the time of receipt, the 
+international application contains the name of the applicant indicated in a way which allows 
+the identity of the applicant to be established, even if the name is misspelled. 
+ 
+9.2  
+Without resorting to a legal remedy, the acts for entry into the EP regional phase 
+shall be performed at the latest on 20 March 2024. 
+FALSE – Art. 153, Rule 159 EPC: In respect of an international application for which the 
+EPO is a designated or elected Office, the applicant shall perform the acts for entry into 
+the European phase within thirty-one months from the date of filing of the application. 
+Filing date: 20/09/2021 + 31m [R. 159(1) EPC, Rule 131(4) EPC] => Saturday 20/04/2024 
+=> R. 134(1) EPC extended to Monday 22 April 2024 
+ 
+10 
+9.3 
+An extension of the time limit for performing the requirements for entry into the EP 
+regional phase can be validly requested on 20 February 2024. 
+FALSE – Rule 132(2) EPC refers to periods specified by the European Patent Office, 
+which may be extended upon request, if done so before the expiry of such periods. The 31 
+months period defined in Rule 159 is a fixed period specified by the EPC, which may not 
+be extended. 
+ 
+9.4 
+Further processing for performing the requirements for entry into the EP regional 
+phase can be validly requested on 19 June 2024. 
+TRUE – The Applicant may request further processing of the European patent application 
+(Art. 121(1) EPC) with reference to the EP regional phase entry. The further processing 
+shall be requested within 2 months from the notification of Communication of Loss of 
+Rights under R. 112 (1) EPC (Rule 135(1) EPC). Such Communication will be sent to the 
+Applicant after the expiration of the 31 months period of Rule 159 EPC, that is after 22 
+April 2024. Therefore, on 19 June 2024, the two months period for replying to the 
+Communication of course is still running, and it will be possible to validly requesting further 
+processing for performing the requirements for the entry into the EP regional phase (Art. 
+121(1), (2) EPC). 
+ 
+ 
+11 
+Question 10 
+ 
+Wolfgang intends to file the following patent applications: 
+ 
+(1) a European patent application EP-W; 
+ 
+(2) an international patent application PCT-WC. 
+PCT-WC will be jointly filed in the name of Wolfgang and Christina. 
+Christina lives in Berlin; Wolfgang lives in Uruguay and is of Uruguayan nationality. 
+Uruguay is not a PCT member state. 
+ 
+10.1  
+Wolfgang may validly file EP-W with the EPO. 
+TRUE – There are no nationality or residence restrictions for filing a European patent 
+application with the EPO, Article 58 EPC. 
+ 
+ 
+10.2 
+PCT-WC may be validly filed with the EPO as receiving Office. 
+TRUE – The EPO is the receiving Office competent for applicant Christina, who has her 
+residence within one of the Contracting States (Germany), Article 151 EPC, Rule 157(1) 
+EPC and Rule 19.1(a) PCT. If there are two (or more) applicants, the requirements of Rule 
+19.1 PCT regarding where to file are satisfied if the international application is filed with the 
+competent receiving office of at least one of the applicants, Rule 19.2(i) PCT. 
+ 
+10.3  
+PCT-WC can be validly filed with the International Bureau as receiving Office. 
+TRUE – A PCT application can be validly filed before the International Bureau (IB) 
+whatever the nationality or residence of the applicant, Rule 19.1(iii) and Rule 19.2 (ii) PCT. 
+ 
+10.4  If Wolfgang moves to Berlin two months after validly filing PCT-WC, the 
+International Bureau will, upon request, record the change of residence in relation to  
+PCT-WC. 
+TRUE – Only the IB can record the residence change upon the applicant’s request, Rule 
+92bis.1.(a) (i)PCT. 
+ 
+ 
+12 
+PART 3 
+ 
+Question 11  
+ 
+11.1 The electronic cigarette of the first embodiment of the application is covered by the 
+scope of claim I.1. 
+TRUE – see paragraph [006] disclosing an electronic cigarette (100) comprising a liquid 
+container (130, an atomiser (120) in connection with the liquid container (130), a short-
+range communication component (170) and a controller (140). Vapour production is 
+activated (push button in paragraph [006]). The scope of claim I.1 is formulated with an 
+“or” clause that broadens such scope to cover either of the alternatives. 
+ 
+11.2 The electronic cigarette of the second embodiment of the application is covered by 
+the scope of claim I.2. 
+FALSE – The second embodiment of the application covers only the use of fingerprints 
+(paragraph [008]), not the use of scheduling. 
+ 
+11.3 The electronic cigarette of the third embodiment of the application is covered by the 
+scope of claim I.1. 
+TRUE – Vapour production can be activated with a pushbutton or a pressure sensor in the 
+third embodiment (paragraph [009]) as a particular form of activation, covered by the 
+scope of claim I.1. 
+ 
+11.4 The electronic cigarette of the fourth embodiment of the application is covered by 
+the scope of claim I.2. 
+FALSE – The fourth embodiment is the combination of the second embodiment (no 
+scheduling, paragraph [008]) with the third one. The second embodiment of the application 
+covers only the use of fingerprints (paragraph [008]), not the use of scheduling. 
+ 
+ 
+ 
+13 
+Question 12 
+ 
+12.1 The electronic cigarette in D1 reads information that can prevent the unauthorised 
+use of disposable cartridges. 
+TRUE – Such information is read by the short-range communication component 12 in D1, 
+paragraph [004], which can prevent two cases of unauthorized use of disposable 
+cartridges, refilled cartridges or cartridges with non-authorized identifiers 
+ 
+12.2 The subject-matter of claim I.1 is novel with respect to D1. 
+FALSE – D1 discloses an electronic cigarette (“electronic cigarette”, paragraph [002]) 
+comprising a liquid container (“disposable cartridge 20”, paragraph [002]), an atomiser 
+(“controller 15 connected to … an atomiser”, paragraph [002]) in connection with the liquid 
+container , communication component (“communication component 12”, paragraph [002]), 
+and a controller (“controller 15”, paragraph [002]) for activating vapour production of the 
+electronic cigarette (“Upon authenticating the identifier 23, the controller 15 sends a signal 
+to the atomiser to enable vapour production”, paragraph [004]). 
+ 
+12.3 The subject-matter of claim I.2 is novel with respect to D1. 
+TRUE – D1 does not disclose scheduling. 
+ 
+12.4 D1 discloses an electronic cigarette that provides a liquid solution to avoid the 
+health risks caused by high nicotine concentrations. 
+TRUE – Paragraph [002] of D1 discloses an electronic cigarette provided with such 
+components of liquid solutions, directed to comply with health regulations in paragraph 
+[003].  
+ 
+ 
+14 
+Question 13 
+ 
+13.1 D2 discloses a mobile app to detect health risks caused by the mixture of 
+components for a liquid solution for electronic cigarettes. 
+FALSE – D2 does not refer to any health risk. 
+ 
+13.2 The range of nicotine values ranging from 0 mg/ml to 20 mg/ml disclosed in 
+paragraph [013] of the application is novel over D2. 
+FALSE – D2 discloses a range of 5-7 mg/ml between the end points (0-20 mg/ml in 
+paragraph [013] of the application), therefore this range is not novel (Guidelines G-VI, 8). 
+ 
+13.3 D2 discloses an electronic cigarette with a communication component configured to 
+read information from an RFID tag to validate a liquid container. 
+FALSE – D2 does not disclose reading information with a communication component from 
+an RFID tag, but from a printed label. 
+ 
+13.4  D2 discloses a liquid solution that comprises further chemical substances in 
+addition to flavouring. 
+TRUE – D2 discloses further chemical substances (“chemical substances like nicotine, 
+propylene glycol, vegetable glycerine and banana flavouring”) which are combined with 
+banana flavouring (paragraph [004]), in particular with a recipe with 5-7 mg/ml. 
+ 
+ 
+15 
+Question 14 
+ 
+14.1  Claim II.1 meets the requirements of Article 123(2) EPC. 
+TRUE – basis in paragraph [006] 
+  
+14.2  Claim II.2 meets the requirements of Article 123(2) EPC. 
+FALSE – The fingerprint sensor is an alternative to the push button (paragraph [008]). In 
+addition, claim II.2 lacks the features disclosed in combination with the fingerprint 
+sensor 210 in paragraph [008]. 
+ 
+14.3  Claim II.3 meets the requirements of Article 123(2) EPC. 
+FALSE – The application as filed does not directly and unambiguously disclose that the 
+short-range communication signal allows the activation of vapour production, for instance 
+without a controller. Paragraph [007] discloses that the controller allows or prevents the 
+activation of vapour production. 
+ 
+14.4  Claim II.4 meets the requirements of Article 123(2) EPC. 
+FALSE – Claim II.4. lacks the features disclosed in combination with the pressure sensor 
+and it is broader than the disclosure of paragraph [009]: that the pressure difference is 
+created by the user inhaling though the mouthpiece (110). 
+ 
+ 
+16 
+Question 15 
+ 
+15.1 The subject-matter of claim III.1 is novel over D1. 
+FALSE – D1 see paragraph [004], in which the controller prevents vapour production if the 
+identifier of the RFID tag is deemed invalid after reading. 
+ 
+15.2 The subject-matter of claim III.2 is novel over D1. 
+TRUE – no disclosure in the prior art about an electronic cigarette that delivers 
+therapeutical drugs as part of the smoking experience. 
+ 
+15.3 The subject-matter of claim III.2 is excluded from patentability. 
+FALSE – devices delivering therapy do not fall under the exception to patentability 
+pursuant to Article 53 (c) EPC concerning methods for therapy, that does not extend to 
+products. 
+ 
+15.4 The subject-matter of claim III.3 involves an inventive step in view of the disclosure of 
+D1 as the closest prior art and D2. 
+TRUE – D1 would be chosen as closest prior art, in view that it discloses all of the features 
+of the claim including electronic verification of the liquid container apart from detecting a 
+pressure difference when inhaling. The French version of claim III.3 using “courte durée” 
+instead of “courte portée” does not impact the answer. 
+The effect of this differentiating feature is to allow the activation of the vapour production of 
+the electronic cigarette in a convenient way to the user. 
+D1 does not disclose any detection of pressure differences to allow the activation the 
+vapour production. Therefore, D1 neither discloses nor hints towards the solution claimed. 
+D2 is not concerned with detecting pressure differences or allowing the activation of 
+vapour production with an electrical power supply. The person skilled in the art would not 
+use D2 to achieve the effect sought. Therefore, it also involves an inventive step over D1 
+even if combined with D2. 
+ 
+ 
+17 
+PART 4 
+Question 16 
+16.1  The usage of Product X as an antifungal is sufficiently disclosed by the application 
+as filed. 
+FALSE – there is no disclosure in the application of any effect of Product X as antifungal 
+(or antiparasitic). According to the description (paragraph [08]) the skilled person would 
+require a research program based on trial and error to achieve such effects, which is 
+indicative of lack of sufficient disclosure (GL F-III.3). 
+16.2  The subject-matter of claim I.1 is sufficiently disclosed by the application as filed.  
+FALSE – there is no disclosure in the application of any effect as antifungal or 
+antiparasitic. According to the description (paragraph [08]) the skilled person would require 
+a research program based on trial and error to achieve such effects, which is indicative of 
+lack of sufficient disclosure (GL F-III.3). The claim is not sufficiently disclosed over the 
+“whole area claimed”, GL F-III.1. 
+16.3  The usage of Product X as an antibiotic is sufficiently disclosed by the application 
+as filed.  
+TRUE – see table 1 and paragraph [01], [07] and [09] and [10], disclosing experimental 
+data supporting the antibiotic effect of the use of product X. 
+16.4  The EPO will issue a communication according to Rule 63 EPC because the claim 
+set comprises a plurality of independent claims of the same category. 
+FALSE – The EPO would issue a Rule 62a EPC communication in such case. 
+18 
+Question 17 
+ 
+17.1  Claim I.9 is excluded from patentability because it relates to a method which 
+encompasses at least one therapeutic step. 
+TRUE – Article 53(c) EPC and GL G-II, 4.2.1.2 
+ 
+17.2  Claim I.3 is limited to the treatment of rhinoviruses, influenza viruses and 
+coronaviruses by Product X. 
+FALSE – said claim is only limited to the treatment as an antiviral, the types of viruses are 
+only optional because the term “more particular” is used, GL F-IV, 4.9. 
+ 
+17.3  There is a basis in the application as filed, so that claim I.5 can be amended 
+compliant to Article 123(2) EPC in a way that the resulting subject-matter also covers 
+administering Product X for seven days. 
+TRUE – The description on paragraph [12] provides basis to amend the claim compliant to 
+Article 123(2) EPC to a range of at least 3 days. Such an amended claim covers also 
+applying Product X for 7 days. 
+ 
+ 17.4  The subject-matter of claim I.4 is unclear because the essential feature of 
+administration via nasal spray is missing.  
+FALSE –The effect of the invention is reached without a nasal spray, see table 1 and 
+paragraph [12], GL F-IV.4.5.2. The administration as a nasal spray improves the effect, 
+see table 1 and paragraph [13] of the application and is declared as being not essential. 
+ 
+ 
+19 
+Question 18 
+ 
+18.1  The subject-matter of claim I.1 is not novel over D1. 
+FALSE – None of the prior art documents discloses the usage of Product X as an antiviral, 
+an antibiotic, an antifungal or an antiparasitic, second medical use – Article 54(5) EPC, GL 
+G-VI.7.1). 
+ 
+18.2  The subject-matter of claim I.5 is not novel over D1. 
+TRUE – because claim I.5 does not refer to a second medical use, Article 54(5) EPC does 
+not apply. GL G-VI, 6.1.2. In addition, D1 explicitly discloses  endpoint of 50 mg/kg 
+bodyweight per day and endpoint of 6 months of overlapping ranges, GL G-VI, 8(iii). 
+ 
+18.3  The subject-matter of claim I.7 is not novel over D2. 
+TRUE and FALSE are accepted as correct answers – Category of claim I.7 might be 
+interpreted as being unclear because dependent claims I.7 does not repeat “product X for 
+use …”, see GL G-VI, 7.1.5. If claim I.7 is interpreted as being directed to the product per 
+se, the term “is administered as nasal spray” could be interpreted as not limiting the 
+product X which is disclosed by D2. If claim I.7 is interpreted as a second medical use 
+claim, the steps of administration as nasal spray would be limiting and, thus, novel over 
+D2. Since the answer depends on the above interpretation, points are awarded for both 
+answers. 
+ 
+18.4  The subject-matter of claim I.1 is not novel over D3. 
+TRUE – D3 discloses antibiotic treatment of product X referring to the Lyme disease, 
+which is a bacterial infection, as made explicit in D3.  
+ 
+ 
+20 
+Question 19 
+ 
+19.1  The subject-matter of claim I.1 involves an inventive step over D3 alone. 
+FALSE – D3 discloses that Product X has an antibiotic effect and, thus, the subject-matter 
+of claim I.1 is even not novel over D3. 
+ 
+19.2  For the following statement, assume that D1 is regarded as the closest prior art to 
+the subject-matter of claim I.3: A valid argument that the subject-matter of claim I.3 
+involves an inventive step over D1 is that there is no hint in any one of documents D1, D2 
+and D3 that Product X has an antiviral effect. 
+TRUE and FALSE are accepted as correct answers – Category of claim I.3 might be 
+interpreted as being unclear because dependent claims I.3 does not repeat “product X for 
+use …”, see GL G-VI, 7.1.5. If claim I.3, despite the reference to “the treatment” is 
+interpreted as being directed to the product per se, the term “wherein the treatment is 
+antiviral, more particularly a treatment against rhinovirus, influenza virus or coronavirus” 
+could be interpreted as not limiting the product X, the subject-matter of claim I.3 would not 
+be novel and, thus, not inventive over the prior art. If claim I.3 is interpreted as a second 
+medical use claim (because it refers to “the treatment”, the subject-matter would be novel 
+and inventive over the prior art because none of the documents D1, D2 or D3 discloses or 
+hints an antiviral effect. Since the answer depends on the above interpretation, points are 
+awarded for both answers. 
+ 
+19.3  The subject-matter of claim I.6 is novel over D1. 
+FALSE – because claims I.5 and I.6 do not refer to a second medical use, Article 54(5) 
+EPC does not apply, GL G-VI, 6.1.2. 
+ 
+However, TRUE and FALSE are accepted as correct answers. Category of claim I.6 
+might be interpreted as being unclear because dependent claim I.6 does not define 
+“product X for use …” see GL G-VI, 7.1.5. 
+ 
+21 
+19.4  The difference of the subject-matter of claim I.8 over D3 as closest prior art may be 
+regarded as not providing a technical effect. 
+TRUE and FALSE are accepted as correct answers – Category of claim I.8 might be 
+interpreted as being unclear because dependent claims I.8 does not repeat “product X for 
+use …”, see GL G-VI, 7.1.5. If it is interpreted as a product claim, there is no difference 
+providing a technical effect. If it is interpreted as a product claims with a medical use, the 
+technical effect would be a higher suppression factor, see table 1, paragraph [13]. 
+Question 20 
+20.1  The subject-matter of claim II.2 complies with the requirements of Article 123(2) 
+EPC. 
+FALSE – Only three specific examples of RNA viruses disclosed in the application 
+(paragraph [10]). Claim II.2 defines an unallowable intermediate generalization GL H-
+V.3.2.1; there is no disclosure of the general group of RNA viruses. 
+20.2  The subject-matter of claim II.5 complies with the requirements of Article 123(2) 
+EPC. 
+FALSE – The subrange of 5-30 mg/kg is not disclosed and not directly and unambiguously 
+derivable from the application as filed. 
+20.3  The subject-matter of claim II.10 complies with the requirements of Article 123(2) 
+EPC. 
+TRUE and FALSE are accepted as correct answers – For the English and French 
+versions, the answer is True. Paragraph [11] provides basis to directly and unambiguously 
+derive the subject-matter. For the German version, the answer depends on how the last 
+sentence of paragraph [11] is interpreted. 
+20.4  The effect provided by the distinguishing features of the subject-matter of claim II.10 
+with respect to D3 is a synergistic effect. 
+TRUE – see description [11] disclosing a synergistic effect (GL G-VII.7): “we observed a 
+suppression factor for streptococcal infection (bacterial infection) that was stronger than 
+the sum of the individual effects of Product X and compound Z”. 
+EN
+EUROPEAN QUALIFYING EXAMINATION 2024
+Pre-examination
+Documents for part 3
+*
+Description of the application
+2024/P3/EN/1-9
+*
+Documents D1 and D2  
+2024/P3/EN/10-12
+2024/P3/EN
+0-1
+Description of the application
+Electronic cigarette, filing date: 15 March 2024
+[001] The present invention relates to electronic cigarettes, in particular electronic 
+cigarettes that do not produce tar.
+[002] Traditional cigarettes consist primarily of tobacco leaves wrapped in cigarette paper. 
+The user lights the tip of the cigarette to burn the tobacco and inhales the smoke through 
+the unlit end. The combustion produces nicotine and other components, such as tar. 
+Tobacco tar comprises several thousands of ingredients, many of which are carcinogenic. 
+[003] An advantage over traditional cigarettes is that electronic cigarettes do not produce 
+tar. Electronic cigarettes provide nicotine to the user in an aerosol that simulates the 
+smoke of a conventional cigarette, together with other substances that provide flavour. 
+[004] It is an object of the invention to create an electronic cigarette that does not have the 
+health hazards of traditional cigarettes and is able to be personalised according to the 
+taste preferences and needs of the user. The object of the invention is achieved by the 
+subject-matter of the claims herein.
+[005] Brief description of the drawings:
+FIG. 1 schematically shows the cross-section of an electronic cigarette according to a first 
+embodiment of the invention.
+FIG. 2 schematically shows the cross-section of an electronic cigarette according to a 
+second embodiment of the invention.
+FIG. 3 schematically shows the cross-section of an electronic cigarette according to a third
+embodiment of the invention.
+FIG. 4 schematically shows the cross-section of an electronic cigarette according to a 
+fourth embodiment of the invention.
+FIG. 5 schematically shows the cross-section of an electronic cigarette according to a fifth 
+embodiment of the invention.
+2024/P3/EN/2
+[006] The electronic cigarette 100 according to the first embodiment of FIG. 1 comprises a 
+mouthpiece 110 through which the user draws vapour produced by an atomiser 120. The 
+atomiser 120 is connected to a liquid container 130. The controller 140 is connected to 
+each of the battery 150, atomiser 120, push-button 160 and communication 
+component 170. When the controller 140 receives a signal caused by the user pressing 
+the push-button 160, the controller 140 activates vapour production by supplying power 
+from the battery 150 to the atomiser 120, wherein the atomiser transforms, by heating, the 
+liquid held in the liquid container 130 into vapour to be inhaled by the user through the 
+mouthpiece 110.
+[007] The first embodiment may further comprise the following optional features: The 
+communication component 170 may facilitate short-range radio communication between 
+the electronic cigarette 100 and a software application 195 installed in a mobile 
+phone 190, separate from the electronic cigarette 100. The communication 
+component 170 may be a short-range communication component that in some 
+embodiments reads radio frequency identifier (RFID) tags. The user may configure a time 
+schedule for vapour production in the software application 195 including, for instance, 
+maximum operation times of the electronic cigarette 100, such as times of the day in which
+the controller 140 allows or prevents the activation of vapour production. In addition, the 
+controller 140 may establish compulsory pauses that deactivate or prevent activation of 
+vapour production of the electronic cigarette after a designated amount of time used. The 
+electronic cigarette 100 may receive a configuration file 180 with the time schedule via the 
+communication component 170 from the mobile phone 190 to be read and implemented by
+the controller 140 for vapour production, as shown in FIG. 1. When activation of vapour 
+production is prevented, as set in the time schedule, unauthorised use of the electronic 
+cigarette 100 is prevented. 
+2024/P3/EN/3
+[008] However, it would also be possible for a child to use the electronic cigarette 100 
+when the time schedule allows vapour production. To prevent this problem, a second 
+embodiment of the invention includes means for preventing unauthorised access as an 
+alternative to the first embodiment. The electronic cigarette 100 in FIG. 2 includes a 
+fingerprint sensor 210, which is connected to the controller 140. The fingerprint sensor 210
+identifies key markers of the user's fingerprint, which are transmitted to the software 
+application 195 in the mobile phone 190. The software application 195 configures access 
+rights to the electronic cigarette 100 via the communication component 170. The user 
+gives instructions to grant or deny access to the fingerprints read by the fingerprint 
+sensor 210. The software application 195 sends a configuration file 180 with fingerprint 
+details representing permissions designated to users to use the electronic cigarette 100. 
+After receiving the configuration file 180, the electronic cigarette 100 is ready to verify 
+fingerprints when a user touches the fingerprint sensor 210. As an alternative to the 
+push-button 160 described above, the controller 140 verifies the fingerprints read by the 
+fingerprint sensor 210 with the fingerprints stored in the configuration file 180. In this 
+embodiment, the configuration file 180 only includes information received from the mobile 
+phone 190 to verify one or more fingerprints to grant or deny user access and cannot 
+contain any scheduling information. After verification of the user fingerprints as described 
+above, the controller 140 of the electronic cigarette may activate or prevent activation of 
+vapour production.
+2024/P3/EN/4
+[009] In the third embodiment of the invention, a convenient way to activate vapour 
+production of the electronic cigarette 100 is by the user inhaling air through the 
+mouthpiece 110, represented in FIG 3. The push-button 160 in the first embodiment is 
+replaced with a pressure sensor 310. When the controller 140 receives a signal from the 
+pressure sensor 310 representing a pressure difference created by the user inhaling 
+through the mouthpiece 110, it supplies power from the battery 150 to the atomiser 120, 
+which transforms the liquid held in the liquid container 130 into vapour to be inhaled 
+through the mouthpiece 110 to produce vapour.
+[010]  The operation of the fingerprint sensor 210 can be combined with activation of 
+vapour production by inhalation in the fourth embodiment of the invention, represented in 
+FIG. 4, by combining the second and third embodiments. When inhaling through the 
+mouthpiece 110, a pressure difference is created in the region of the pressure sensor 310.
+Then the controller 140 additionally needs to verify a fingerprint in the fingerprint 
+sensor 210 before supplying power to the atomiser 120 from the battery 150 to create 
+vapour with the contents of the liquid container 130. 
+[011] The electronic cigarette 100 defined by the fifth embodiment provides nicotine 
+dosage functionality via the communication component 170 by using the mobile 
+phone 190. A software application 195 in the mobile phone 190 can control the dose of 
+nicotine that will be supplied by the electronic cigarette 100, as exemplified in FIG. 5. This 
+is particularly advantageous for adapting the vapour to the taste and needs of the user. 
+When a user buys liquid to be vaporised and inhaled with a given nicotine concentration, 
+for instance 20 mg/ml of nicotine, this information is introduced by the user in the software 
+application 195 of the mobile phone 190. 
+2024/P3/EN/5
+[012] In addition, an authentication process allows the user to validate that the liquid used 
+to produce vapour was produced by an official manufacturer. The communication 
+component 170 reads an identifier stored in a secured electronic identification tag 510 on 
+the liquid container 130. The secured electronic identification tag 510 may be an RFID tag.
+The electronic cigarette 100 transmits this identifier to the software application 195 of the 
+mobile phone 190 to validate the liquid container 130 as being produced by an official 
+manufacturer.
+[013] The user interface displayed in the software application 195 of the mobile phone 190 
+provides a slide bar or a similar graphic element allowing the user to select a specific 
+nicotine dose, ranging from 0 mg/ml to the maximum liquid concentration (for instance, the
+maximum liquid concentration is 20 mg/ml). This user selection of the nicotine dose is 
+transmitted via the communication component 170 to the electronic cigarette 100 in the 
+configuration file 180. The controller 140 can control the operation of the atomiser 120 so 
+that a given amount of liquid is vaporised to achieve the dose specified in the configuration
+file 180.
+[014] Further chemical substances in addition to flavouring may be added to the liquid.
+[015] The electronic cigarette 100 can also be used to deliver a therapeutic drug to a 
+patient with a medical condition. In particular, a pharmaceutically active substance capable
+of being delivered in an aqueous aerosol can be added to the liquid to be vaporised thus 
+providing treatment of certain diseases. Such substances include therapeutic compounds, 
+proteins, polysaccharides, lipids and nucleic acids. The therapeutic drug may be, for 
+example, an antibiotic, fungicide, cough suppressant, heparin or a growth hormone.
+2024/P3/EN/6
+Reference numbers:
+100: electronic cigarette
+110: mouthpiece
+120: atomiser
+130: liquid container
+140: controller
+150: battery
+160: push-button
+170: communication component
+180: configuration file
+190: mobile phone
+195: software application
+210: fingerprint sensor
+310: pressure sensor
+510: secured electronic identification tag
+2024/P3/EN/7
+Drawings of the application
+ 
+      
+      
+2024/P3/EN/8
+      
+      
+    FIG. 4
+2024/P3/EN/9
+      
+     
+2024/P3/EN/10
+Document D1, publication date 28 June 2023
+[001]There is a growing trend of counterfeit products on the electronic cigarette market, in 
+particular liquid solutions for electronic cigarettes that are personalised by users who are 
+unaware of the health risks posed by such liquid solutions. The use of counterfeit or 
+personalised liquid solutions not authorised by the manufacturer of the electronic cigarette 
+poses significant health and safety risks for consumers. It has been found that the use of 
+flavourings in liquid solutions increases dramatically the health risk to consumers. There is 
+also no expectation of any improvement or advantage when including flavourings to liquid 
+solutions for electronic cigarettes. It is an object of the present invention to validate the 
+authenticity of the liquid solution in an electronic cigarette and to restrict the use of liquid 
+solutions so that the solutions used conform with health regulations and industry 
+standards.
+[002]The electronic cigarette in the figure comprises a body 10 with a cavity in which a 
+disposable cartridge 20 with a liquid solution is inserted. The disposable cartridge 20 is 
+identified with an RFID tag 22 that stores an identifier 23 to be read by a short-range 
+communication component 12 in the electronic cigarette. A controller 15 is connected to 
+the communication component 12, to a battery and to an atomiser (both not depicted).
+[003]The nicotine content of the disposable cartridge is specified by the manufacturers in 
+compliance with health regulations, ranging from 5 mg/ml to a maximum of 35 mg/ml to 
+avoid health risks caused by high nicotine concentrations.
+2024/P3/EN/11
+[004] Upon insertion of the disposable cartridge 20 into the cavity of the body 10, the short-
+range communication component 12 in the body of the electronic cigarette reads the RFID 
+tag 22 and stores the identifier 23 in the memory of the controller 15 of the electronic 
+cigarette. The controller 15 validates the identifier 23 as a valid identifier, for instance, by 
+checking the identifier 23 against a list of valid identifiers stored in a read-only memory or 
+against a set of validation rules. Upon validating the identifier 23, the controller 15 sends a 
+signal to the atomiser to activate vapour production with the power supplied from the 
+battery. If the identifier 23 is deemed invalid, the controller prevents activation of vapour 
+production. Preferably, when the disposable cartridge 20 runs out of liquid, the identifier 23
+is marked as a non-valid identifier to prevent the use of unauthorised refills if the 
+disposable cartridge 20 is inserted again into the cavity of the body 10.
+[005] The electronic cigarette reports usage data as registered by the controller 15 to a 
+software application of a mobile phone. The software application obtains the usage data 
+and can generate reports showing usage patterns, such as times of the day in which the 
+electronic cigarette is used, or battery charge level.
+     
+2024/P3/EN/12
+Document D2, publication date 28 May 2022
+[001] D2 is a brochure describing a mixing system for liquid solutions for electronic 
+cigarettes (also known as e-liquids) that allows greater control and personalisation of the 
+smoking experience. 
+[002] The mixing system consists of a mobile phone application (mobile app) and a kit with
+gloves, graduated syringes, chemical substances, such as nicotine and flavouring for the 
+e-liquid, and a 100 ml beaker in which the e-liquid is prepared. 
+[003] The customer can use the mobile app to browse and select different flavourings and 
+other components for the e-liquid. The customised e-liquid comprising said components 
+and flavourings can then be purchased directly from the company behind the mobile app. 
+Customers can even store their customised mixes on the mobile app, post them on social 
+media and share the mixes with other mobile app users, who can rate and provide 
+feedback on them. To facilitate the identification of every preparation of e-liquid, the mobile
+app provides a label identifying the mix that can be printed and attached to the cartridge or
+to the electronic cigarette. The label can be scanned using the camera of a mobile phone, 
+which can identify the e-liquid and display information about it in the mobile app.
+[004] D2 discloses a mix for an e-liquid comprising chemical substances, such as nicotine, 
+propylene glycol, vegetable glycerine and banana flavouring. The nicotine content in the 
+recipe is 5-7 mg/ml, which has been found ideal for combining with banana flavouring.
+2024/P3/EN/13
+EN
+EUROPEAN QUALIFYING EXAMINATION 2024
+Pre-examination
+Documents for part 4
+*
+Description of the application
+2024/P4/EN/1-5
+*
+Documents D1, D2 and D3
+2024/P4/EN/6-8
+2024/P4/EN
+0-1
+Description of the application
+Title: Product X for use in treating infectious diseases
+[001] The present invention relates to the use of Product X in treating infectious diseases 
+that are caused by viruses, bacteria, fungi or parasites. The present invention relates also 
+to the treatment of receptor-Y-dependent diseases. 
+[002] Product X is a small molecule compound that has been extensively described in 
+research literature since the early 1990s. A well-known drug comprising Product X has 
+been provided in tablet form in prior art for treating certain cardiac diseases.
+[003] Antiparasitics are a class of medications which are used to treat parasitic diseases, 
+such as those caused by helminths, amoeba, ectoparasites and protozoa, among others.
+[004] Antifungals are a class of medications which are used to treat fungal diseases, e.g. 
+mycosis, ringworm, cryptococcal meningitis and others.
+[005] Antibiotics are a class of medications which are used to treat diseases caused by 
+bacteria, such as borreliosis, listeria or streptococcal infections.
+[006] Antivirals are a class of medications which are used to treat diseases caused by a 
+virus infection. Examples for these viruses are influenza viruses, Epstein-Barr viruses, 
+hepatitis viruses, coronaviruses, rhinoviruses and adenoviruses.
+2024/P4/EN/1
+[007] According to an embodiment of the present invention, Product X is provided for use 
+as an antiviral, an antibiotic, an antifungal or an antiparasitic. According to a preferred 
+embodiment of the present invention, Product X is provided for use as an antiviral against 
+rhinovirus, influenza virus or coronavirus. 
+[008] In the present invention, it was surprisingly found that Product X is effective in the 
+treatment of viral and bacterial diseases by suppressing the viral and bacterial growth. 
+Although it is not plausible at the moment, we also want to investigate whether an effect 
+can be reached for treatment of other kinds of infectious disease. We are about to start a 
+research programme wherein we will investigate whether there is an effect of Product X 
+when used as an antifungal or antiparasitic. Such programme will require immense 
+trial-and-error tests. 
+[009] Table 1 shows the results of a test that we have performed. Product X was given in 
+one of three different dosages in one of two forms, either in tablet form or as a nasal spray,
+to a number of human beings over a period of at least 10 days. The results show the 
+measured antibiotic and antiviral effects. The suppression factor is well-known and well-
+defined in the art for skilled persons in infectious diseases. The suppression factor is 
+categorised in no, low, medium, high and very high suppression of the viral load / bacterial 
+load. An antiviral or antibiotic effect is achieved when the suppression factor is low, 
+medium, high or very high.
+2024/P4/EN/2
+Table 1 - Suppression factor of viral load / bacterial load
+Dosage of
+Product X in
+mg/kg
+bodyweight
+per day
+Form
+Influenza
+virus (viral
+infection)
+Coronavirus
+(viral infection)
+Rhinovirus (viral
+infection)
+Streptococcus
+(bacterial
+infection)
+5 
+Tablet
+Low
+Low
+Low
+Low
+10 
+Tablet
+Medium
+Medium
+Medium
+Medium
+25 
+Tablet
+High
+High
+High
+Medium
+5 
+Spray
+Medium
+Medium
+Medium 
+Medium
+10 
+Spray
+High
+High
+High
+Medium
+25 
+Spray
+Very high
+Very high
+Very high
+High
+[010] Table 1 shows that Product X has an enhanced antiviral and antibiotic effect 
+(corresponding to an at least medium suppression factor) for dosages of 10 mg/kg 
+bodyweight per day when given in tablet form and, at even lower dosages of 5 mg/kg 
+bodyweight per day when given as nasal spray. The tests were performed for the 
+streptococcus and for three different kinds of RNA viruses: influenza virus, coronavirus 
+and rhinovirus. We have carried out further experiments (not shown) which demonstrate 
+that the antibiotic effect is reached for any kind of bacteria.
+[011] Table 1 also shows that Product X appears to have on average a weaker effect 
+against a bacterial infection than against a viral infection because the suppression factor is
+lower. However, when we combined Product X with the known antibiotic compound Z in 
+other tests (not shown), we observed a suppression factor for the streptococcal infection 
+(bacterial infection) that was stronger than the sum of the individual effects of Product X 
+and compound Z. In one embodiment, a composition comprising Product X and antibiotic 
+compound Z is provided.
+2024/P4/EN/3
+[012] It is expected that the adult human daily dosage should not exceed maximum 
+50 mg/kg bodyweight because a higher dosage provokes adverse effects, such as heart 
+rhythm disturbances, as is widely described in the literature. There seems to be a 
+saturation effect in that the suppression factor was not observed to further increase for 
+dosages above around 20 mg/kg bodyweight per day. A noteworthy suppression of 
+infection has been observed from 5 mg/kg bodyweight for at least three days onwards. 
+Thus, a further embodiment of the invention is Product X for use as an antiviral, an 
+antibiotic, an antifungal or an antiparasitic, wherein Product X is administered for at least 
+three days, preferably for at least 10 days, in a dosage of 5-50 mg/kg bodyweight, 
+preferably in a dosage of 10-50 mg/kg bodyweight.
+[013] Suitable administration routes for therapeutic treatment include intravenous, 
+intramuscular, nasal and oral administration. From the prior art and its known use as a 
+cardiac medicament we know that oral administration of Product X is generally well 
+tolerated and rarely produces minor side effects. Generally, oral administration in form of 
+tablets has the advantage that the dosage can be set very exactly; moreover, tablets have 
+a long shelf life of up to several years. However, we also developed an administration 
+route in form of a nasal spray, which is particularly suitable for children who do not like to 
+swallow tablets. Surprisingly, the suppression factor of the nasal spray was significantly 
+higher compared to the oral administration route in form of tablets when administering 
+equal doses, see table 1. Thus, a further embodiment of the invention is Product X 
+administered as nasal spray. In extremely severe infectious conditions, an intravenous 
+administration of Product X might be helpful in order to quickly suppress the viral and 
+bacterial load respectively and further improve the patient's condition.
+2024/P4/EN/4
+[014] According to the present invention, a further very interesting relationship has been 
+identified. According to the test results of table 2, it seems that the severity of the infection 
+in a patient is dependent on the activity level of receptor Y. Receptor Y is a specific 
+membrane-bound tyrosine kinase receptor (TKR) belonging to TKR subfamily 2. Product X
+seems to act as an inhibitor of receptor Y. Thus, the present invention is also related to a 
+Product X for use in a treatment by inhibiting receptor Y, see claim I.2. As receptor Y is yet
+largely unknown as a druggable target, we claim that Product X might be valuable even in 
+other diseases in which receptor Y plays a decisive role. Consequently, Product X can 
+also be used to treat other pathological conditions where it has the function of inhibiting 
+receptor Y. The activity level is categorised in no, low, medium, high and very high activity 
+of receptor Y.
+Table 2 (Covid infection) – Activity level (well-known parameter)
+Before
+infection
+Day 5 after
+infection without
+treatment
+Day 5 after infection
+(tablet treatment
+started on day 2 after
+infection)
+Laboratory mouse 
+without receptor Y
+No 
+Low
+Low
+Laboratory mouse 
+with level of receptor 
+Y above regular level
+No 
+Very high
+Very high
+Laboratory mouse 
+with regular level of 
+receptor Y
+No
+Medium
+Low
+[015] The examples are provided for the purpose of illustration only and the invention 
+should in no way be construed as being limited thereby.
+2024/P4/EN/5
+Assume that documents D1, D2 and D3 are prior art documents under 
+Article 54(2) EPC.
+Document D1
+[001] Product X is a well-known angiotensin II receptor blocker (ARB) that is used to treat 
+high blood pressure, hypertension, left ventricular hypertrophy and heart failure. 
+Angiotensin II is a hormone made by the human body and it tightens the muscles of blood 
+vessels. Angiotensin II also contributes to salt and water retention in human bodies. 
+Increased salt in the human body and tightened blood vessels may cause blood pressure 
+to rise. High blood pressure harms blood vessels and should be avoided.
+[002] Product X has the technical effect that when it is supplied to a human being it blocks 
+the angiotensin II receptor and, thus, decreases the risk of death from a cardiac event. 
+Side effects of Product X include: irregular heartbeat caused by high blood potassium 
+levels, respiratory symptoms, leg swelling, high potassium levels and, in rare cases, liver 
+failure. Particularly, as a result of the frequent adverse effects regarding heart rhythm 
+disturbances, dosages over 50 mg/kg bodyweight per day are not allowed. However, when
+dosed equal to or below 50 mg/kg bodyweight per day the treatment is allowed for up to 
+six months.D1 – Advertisement in The Local Sun, published on the 15 August 2019
+2024/P4/EN/6
+Document D2
+[001] Most tyrosine kinase receptors (TKRs) are single subunit receptors but some exist as
+multimeric complexes. The TKRs can be subdivided structurally into seven different 
+subfamilies, each of the subfamilies consisting of many specific receptors. TKR subfamily 
+2 comprises the largest subfamily of – so far known – 23 members with many different 
+specificities and a high structural variety. Many members of TKR subfamily 2 are not yet 
+completely understood in terms of their biological function. 
+[002] Product class Z comprises Products A, B, C, D, ..., X. The method of production of 
+Products A and B is fully described in our article published in 2021.
+[003] Receptor W, a member of TKR subfamily 2, seems to be an interesting novel drug 
+target in the field of infectious diseases. First binding test screens on receptor W show that
+Products A and B might have an inhibition effect of receptor W. As the binding mechanism 
+is still not clear, we will try to determine the crystal structure of the receptor W in order to 
+elucidate how Product A and Product B bind to receptor W.
+[004] Product X, which is a well-known angiotensin II receptor blocker (ARB) that is used 
+to treat high blood pressure, hypertension, left ventricular hypertrophy and heart failure, is 
+a member of product class Z.
+2024/P4/EN/7
+Document D3
+The first-line standard of care treatment for adults with Lyme disease, which is a bacterial 
+infection with Borrelia, is doxycycline. Other antibiotics that have activity against Borrelia 
+include amoxicillin and Ceftin. Recent studies show that a treatment with the known 
+cardiac medicament Product X in tablet form can also be helpful in reducing the Lyme 
+disease symptoms, e.g. the reddening around the bite of the tick, and quick suppression of
+bacterial load. Thus, Product X might be a secondary treatment route, particularly, if there 
+are multiple resistances against the first-line standard antibiotics, such as doxycycline.
+2024/P4/EN/8

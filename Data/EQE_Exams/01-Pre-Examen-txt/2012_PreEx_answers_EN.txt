@@ -1,0 +1,135 @@
+Antwortblatt / Answer sheet / Feuille de réponses
+- 1 -
+Examiner's report pre-examination 2012
+Question 1
+A European patent application may be filed in any language, such as in Danish, Korean or 
+Japanese, Article 14(2) EPC. If a European patent application is not filed in one of the 
+official languages, a translation must be filed within two months of filing the application, 
+Rule 6(1) EPC. 
+1.1 - True
+1.2 - True
+1.3 - True
+1.4 - False
+Question 2
+Mr X can validly claim priority from the German patent application if he files the European 
+patent application on 10 April 2012 [6 April 2011 + 12 months (=6 April 2012), extended 
+due to Easter holidays to 10 April 2012], Article 87(1) EPC, Rule 131(4) EPC and 
+Rule 134(1) EPC. The priority declaration must be made within sixteen months from the 
+priority date claimed, i.e. latest on 6 August 2012, Rule 131(4) EPC. Also a utility model 
+application gives rise to a right of priority, Article 87(1) EPC. The outcome of the priority 
+application (such as a subsequent withdrawal) is irrelevant, Article 87(3) EPC.
+2.1 - True
+2.2 - False
+2.3 - True
+2.4 - True
+Question 3
+An element that the receiving Office must be provided with for according an international 
+filing date to an international application is a description and one or more claims 
+(Article 11(iii)(d) and (e) PCT). The abstract and the title of the invention are not required 
+for obtaining an international filing date. 
+3.1 - True
+3.2 - False
+3.3 - True
+3.4 - False
+Question 4
+If an additional search fee is paid under protest, the EPO as the International Searching 
+Authority examines the protest in accordance with Rule 40.2(c) and (e) PCT provided that 
+the prescribed protest fee, Rule 158(3) EPC, is also paid. If the applicant chooses to pay 
+an additional fee for the third invention, the applicant can limit in the European phase the 
+- 2 -
+application to an invention that was covered by the international search report, i.e. the third 
+invention, Rule 164(2) EPC. After entry into the European phase the applicant can file a 
+divisional application directed to the third invention, G 2/92 and Article 76(1) EPC. A 
+supplementary European search report is not drawn up where the international search 
+report was drawn up by the EPO, Article 153(7) EPC and Decision of the Administrative 
+Council of 28.10.2009 (OJ EPO 2009, 594). The applicant will have no opportunity to pay 
+additional search fees in the European phase.
+4.1 - False
+4.2 - True
+4.3 - True
+4.4 - False
+Question 5
+Feature A is part of the state of the art under Article 54(2) EPC by publication of US1 on 1 
+February 2010. Feature B is part of the state of the art under Article 54(2) EPC by 
+publication of EP1 in December 2011. The subject-matter of claim 2 of EP2 is inventive as 
+it was not obvious to the skilled person until feature B became part of the prior art in 
+December 2011, Article 56 EPC, second sentence. If EP2 had not claimed priority from 
+EP1 the situation would have been as follows: the fiction under Article 89 EPC that 1 June 
+2010 counts as date of filing of EP2 for the purpose of Article 54, paragraphs 2 and 3, EPC 
+would not apply; EP1 would have been prior art under Article 54(3) EPC against EP2; and 
+the content of EP1 would have rendered claim 1 of EP2 not novel. However, as EP2 
+claims priority from EP1, the effective date for feature B is 1 June 2010, Article 89 EPC. 
+Thus no valid novelty objection against claim 1 of EP2 can be made using EP1. The 
+subject-matter of claim 2 is novel as it is not disclosed in the prior art: neither US1 nor EP1 
+disclose the combination of features B and A.
+5.1 - False
+5.2 - False
+5.3 - False
+5.4 - True
+Question 6
+If EP-D contains subject-matter extending over the earlier application it cannot be 
+converted into an independent application taking 10 February 2012 as its  date of filing for 
+all or part of its subject-matter. In such a case, EP-D can be amended to remove all 
+additional matter to comply with the requirements of Article 76(1) EPC. If the applicant is 
+unwilling to remedy the defect by removal of the additional subject-matter, the divisional 
+application is refused under Article 97(2) EPC due to non-compliance with Article 76(1)
+EPC. The claims of a divisional application need not be limited to subject-matter already 
+claimed in the earlier application. (Guidelines, C-VI, 9.1.4, G 1/05).
+6.1 - False
+6.2 - False
+6.3 - False
+6.4 - True
+- 3 -
+Question 7
+The European patent application contains (including the abstract page) 38 pages and 
+19 claims. Claims fees are due in respect of the sixteenth and each subsequent claim, i.e. 
+for 4 claims, Rule 45(1) EPC. Irrespective of how the application was filed, an additional 
+fee for three pages has to be paid, Rule 38(2) EPC and Article 2(1), No.1a Rfees, see also 
+Guidelines, A-III, 13.2. If a claims fee is not paid in due time, the claim concerned is 
+deemed to be abandoned, Rule 45(3) EPC.  
+7.1 - False
+7.2 - False
+7.3 - True
+7.4 - False
+Question 8
+A notice of opposition must be filed within nine months of the publication of the mention of 
+the grant, i.e. by 22 March 2012, Article 99(1) EPC and Rule 131(4) EPC. The notice of 
+opposition shall, in particular, contain: a statement of the extent  to which the European 
+patent is opposed; and a statement of the grounds of opposition together with supportive 
+facts and evidence, Rule 76(2)(c) EPC. After expiry of the opposition period, it is not 
+possible to extend the opposition to independent claims that had not been attacked in the 
+notice of opposition, G9/91, see also Guidelines, D-V, 2.1. Lack of unity is not a valid 
+ground for opposition, Article 100 EPC and G1/91.
+8.1 - True
+8.2 - False
+8.3 - False
+8.4 - False
+Question 9
+As PCT1 was filed in French it is not possible to change the language of proceedings to 
+English upon entry into the European phase, G4/08. On 5 March 2012 it was possible to 
+file a European application EP-FR validly claiming priority from FR2, as the period of 
+twelve months for claiming priority had not yet expired, Article 87(1) EPC. The language of 
+the priority document does not matter. If EP-FR is filed in French, its European divisional 
+application can only be filed in the language of the proceedings of the earlier application, 
+i.e. in French, Rule 36(2) EPC. 
+9.1 - False
+9.2 - True
+9.3 - False
+9.4 - False
+- 4 -
+Question 10
+The time limit for requesting further processing expired on 3 February 2012 
+[23 November 2011 + 10 days (= 3 December 2011) + 2 months (= 3 February 2012)], 
+Rule 112(2) EPC, Rule 126(2) EPC and Rule 131(4) EPC. In accordance with 
+Article 122 EPC and Rule 136(1) EPC, the request for re-establishment of rights has to be
+filed within two months of the removal of the cause for non-compliance with the period (i.e.
+the discovery of the notice of loss of rights), which is latest on 4 April 2012
+[4 February 2012 + 2 months (= 4 April 2012)], Rule 131(4) EPC. The criterion of all due 
+care is not required with regard to requests for further processing. This requirement only 
+applies to requests for re-establishment of rights. To save the application it is necessary to 
+comply with all requirements of Article 122 and Rule 136: Among others, the omitted act 
+has to be completed, in the present case filing of an adapted description, Rule 136(2) EPC.  
+10.1 - True
+10.2 - False
+10.3 - False
+10.4 - False
