@@ -27,7 +27,6 @@ $n = 10;
       $all_json = file_get_contents('many_to_one.json'); 
       $all_json = json_decode($all_json, true);
       $number = range(0, count($all_json));
-      @mt_srand(11);
       shuffle($number);
       $nb_skip = 0;
       for($i = 0; $i < $n; $i++){ 
