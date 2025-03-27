@@ -4,9 +4,6 @@ FROM php:apache
 # Définir le répertoire de travail dans le conteneur
 WORKDIR /var/www/html
 
-# Copier le fichier requirements.txt dans le répertoire de travail
-COPY requirements.txt .
-
 # Installer les dépendances Python
 #RUN pip install --no-cache-dir -r requirements.txt
 

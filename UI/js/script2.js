@@ -10,6 +10,7 @@ let score = 0;
 let nbQuestion;
 let nbTotalPoint = 0;
 let currentNbAnswered = 0;
+let skippedQuestion = 0;
 
 const optionsEl = document.querySelector('.options');
 const nextBtn = document.getElementById('next-btn');
@@ -23,15 +24,21 @@ scoreDisplay.textContent = `Score: ${score}`;
 document.querySelector('.quiz-container').prepend(scoreDisplay);
 
 function loadQuestion() {
-  document.getElementById(currentQuestion).classList.remove("hide");
+  elem = document.getElementById(currentQuestion);
+  while(elem == null){
+    currentQuestion++;
+    skippedQuestion++;
+    elem = document.getElementById(currentQuestion);
+  }
+  elem.classList.remove("hide");
 
-  document.getElementById(currentQuestion).querySelectorAll('button').forEach(b => {
+  elem.querySelectorAll('button').forEach(b => {
     b.addEventListener('click', checkAnswer);
   });
 
   // Animate progress bar
   setTimeout(() => {
-    progressBar.style.width = `${((currentQuestion) / nbQuestion) * 100}%`;
+    progressBar.style.width = `${((currentQuestion-skippedQuestion) / (nbQuestion-skippedQuestion)) * 100}%`;
   }, 100);
 }
 
@@ -50,7 +57,10 @@ function checkAnswer(e) {
       this.style.background = "#dc3545";
       document.getElementById(currentQuestion+"_"+correct).style.background = "#28a745";
     }
-    document.getElementById(currentQuestion+"solution").classList.remove('hide');
+    list_sol = document.getElementsByClassName(currentQuestion+"solution");
+    for(let i = 0; i < list_sol.length; i++){
+      list_sol[i].classList.remove('hide');
+    }
   }
   else{
     const correct = this.dataset.responce;

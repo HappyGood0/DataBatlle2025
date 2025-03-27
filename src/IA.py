@@ -101,7 +101,7 @@ async def generate_quiz_from_chunks():
             break
 
     # Écriture du résultat
-    with open("../Data/generated _txt_questions/quiz_output.txt", "w", encoding="utf-8") as f:
+    with open("../Data/generated_json_questions_txt_questions/quiz_output.txt", "w", encoding="utf-8") as f:
         f.write(full_quiz)
 
     print("\n🎉 Génération terminée : quiz_output.txt")
