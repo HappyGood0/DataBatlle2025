@@ -1,5 +1,5 @@
 Pour lancer le projet : 
 
-docker build -t databattle .
-docker run -p 8000:80 -it databattle
+docker build -t databattle . \n
+docker run -p 8000:80 -it databattle \n
 Sur un navigateur, charger la page localhost
